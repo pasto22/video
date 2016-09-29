@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item><title>[B][COLOR white] RTP 1[/B][/COLOR]</title>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 1[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1209.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)$$lsname=RTP 1 (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1209.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)$$lsname=RTP 1 (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1209.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)$$lsname=RTP 1 (F4M) source #3</link>
@@ -114,7 +114,7 @@
 <link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=ETV (by TeamBlue)$$lsname=ETV (F4M) source #3</link>
 <link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8$$lsname=ETV (HTTP)</link>
 
-
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdesporto.info/economicotv.php$$lsname=ETV (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/EEzmzqY.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EURONEWS[/B][/COLOR]</title>
@@ -1224,4 +1224,3 @@
 
 
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png</thumbnail></item>
-
