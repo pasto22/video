@@ -1,87 +1,403 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] CANALE 5 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/3034.ts;streamtype=TSDOWNLOADER&amp;name=CANALE 5 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_canale5.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] LA 5 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2673.ts;streamtype=TSDOWNLOADER&amp;name=LA 5 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_la_5.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] LA 7 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2589.ts;streamtype=TSDOWNLOADER&amp;name=LA 7 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ll/la_7_it.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI 1 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/326.ts;streamtype=TSDOWNLOADER&amp;name=RAI 1 (by TeamBlue)</link><thumbnail>http://i.imgur.com/hVDJfWs.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI 2 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/325.ts;streamtype=TSDOWNLOADER&amp;name=RAI 2 (by TeamBlue)</link><thumbnail>http://i.imgur.com/5XaTbVX.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI 3 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/324.ts;streamtype=TSDOWNLOADER&amp;name=RAI 3 (by TeamBlue)</link><thumbnail>http://i.imgur.com/7hwG3Dy.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI 4 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1383.ts;streamtype=TSDOWNLOADER&amp;name=RAI 4 (by TeamBlue)</link><thumbnail>http://i.imgur.com/GPmFBH0.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI 5 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1382.ts;streamtype=TSDOWNLOADER&amp;name=RAI 5 (by TeamBlue)</link><thumbnail>http://i.imgur.com/GPmFBH0.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RETE 4 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2671.ts;streamtype=TSDOWNLOADER&amp;name=RETE 4 (by TeamBlue)</link><thumbnail>http://i.imgur.com/zjcI6EQ.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RSI LA1 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1389.ts;streamtype=TSDOWNLOADER&amp;name=RSI LA1 (by TeamBlue)</link><thumbnail>http://i.imgur.com/4xM3oJ4.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RSI LA2 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1388.ts;streamtype=TSDOWNLOADER&amp;name=RSI LA2 (by TeamBlue)</link><thumbnail>http://i.imgur.com/HYRbu3N.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI NEWS 24 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2680.ts;streamtype=TSDOWNLOADER&amp;name=RAI NEWS 24 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/tvchannel/it/Rai-News-24.html</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY TG24 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2586.ts;streamtype=TSDOWNLOADER&amp;name=SKY TG24 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/tvchannel/it/Sky-TG24.html</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANALE 5[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/319.ts;streamtype=TSDOWNLOADER&amp;name=CANALE 5 (by TeamBlue)$$lsname=CANALE 5 (F4M) source #1</link>
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI PREMIUM [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2679.ts;streamtype=TSDOWNLOADER&amp;name=RAI PREMIUM (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png</thumbnail></item>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_canale5.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANALE 7[/B][/COLOR]</title>
 
 
 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/canal_7_ar.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] LA 5[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/306.ts;streamtype=TSDOWNLOADER&amp;name=LA 5 (by TeamBlue)$$lsname=LA 5 (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_la_5.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] LA 7[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/307.ts;streamtype=TSDOWNLOADER&amp;name=LA 7 (by TeamBlue)$$lsname=LA 7 (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/ll/la_7_it.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/177.ts;streamtype=TSDOWNLOADER&amp;name=RAI 1 (by TeamBlue)$$lsname=RAI 1 (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/hVDJfWs.png</thumbnail></item>
+
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/172.ts;streamtype=TSDOWNLOADER&amp;name=RAI 2 (by TeamBlue)$$lsname=RAI 2 (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/5XaTbVX.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/173.ts;streamtype=TSDOWNLOADER&amp;name=RAI 3 (by TeamBlue)$$lsname=RAI 3 (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/7hwG3Dy.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI 4[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1163.ts;streamtype=TSDOWNLOADER&amp;name=RAI 4 (by TeamBlue)$$lsname=RAI 4 (F4M) source #1</link>
+
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI 4[/B][/COLOR]</title>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI 5[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1289.ts;streamtype=TSDOWNLOADER&amp;name=RAI 5 (by TeamBlue)$$lsname=RAI 5 (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/GPmFBH0.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RETE 4[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/859.ts;streamtype=TSDOWNLOADER&amp;name=RETE 4 (by TeamBlue)$$lsname=RETE 4 (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/zjcI6EQ.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RSI LA1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1297.ts;streamtype=TSDOWNLOADER&amp;name=RSI LA1 (by TeamBlue)$$lsname=RSI LA1 (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/4xM3oJ4.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RSI LA2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/916.ts;streamtype=TSDOWNLOADER&amp;name=RSI LA2 (by TeamBlue)$$lsname=RSI LA2 (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/HYRbu3N.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] EURONEWS[/B][/COLOR]</title>
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] DISCOVERY WORLD [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1896.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY WORLD (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_world_us.png</thumbnail></item>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI NEWS 24[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1806.ts;streamtype=TSDOWNLOADER&amp;name=RAI NEWS 24 (by TeamBlue)$$lsname=RAI NEWS 24 (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/tvchannel/it/Rai-News-24.html</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SENATO TV[/B][/COLOR]</title>
 
 
 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/senato_della_repubblica_it.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] NAT GEO WILD [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1280.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_us.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] CIELO [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2672.ts;streamtype=TSDOWNLOADER&amp;name=CIELO (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/cc/cielo.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] FOX [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/327.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)</link><thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] FOX COMEDY [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1899.ts;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_comedy_it.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] FOX CRIME [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1279.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)</link><thumbnail>http://i.imgur.com/Q8uJUlH.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] PREMIUM ACTION [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1902.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM ACTION (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_action_hd.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] PREMIUM CINEMA [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/341.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_hd.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY TG24[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1164.ts;streamtype=TSDOWNLOADER&amp;name=SKY TG24 (by TeamBlue)$$lsname=SKY TG24 (F4M) source #1</link>
 
 
+<thumbnail>http://www.lyngsat-logo.com/tvchannel/it/Sky-TG24.html</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] PREMIUM CINEMA COMEDY [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/342.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA COMEDY (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_comedy.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] PREMIUM CINEMA EMOTION [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/347.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA EMOTION (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_emotion.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] PREMIUM CINEMA CRIME [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/343.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA CRIME (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_crime_hd.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] PREMIUM CINEMA ENERGY [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/348.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA ENERGY (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_energy.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] PREMIUM JOI [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1274.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM JOI (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/mm/mediaset_premium_joi.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] PREMIUM STORIES [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/337.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM STORIES (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/mm/mediaset_premium_stories.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] PREMIUM STUDIO UNIVERSAL [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/350.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM STUDIO UNIVERSAL (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/studio_universal_global.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI MOVIE [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2674.ts;streamtype=TSDOWNLOADER&amp;name=RAI MOVIE (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/tvchannel/it/Rai-Movie.html</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY ATLANTIC [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/333.ts;streamtype=TSDOWNLOADER&amp;name=SKY ATLANTIC (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_de_atlantic_hd.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY CINEMA 1 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1895.ts;streamtype=TSDOWNLOADER&amp;name=SKY CINEMA 1 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema1.png</thumbnail></item>
-
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY CINEMA COMEDY [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/331.ts;streamtype=TSDOWNLOADER&amp;name=SKY CINEMA COMEDY (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_comedy.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY CINEMA FAMILY [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/334.ts;streamtype=TSDOWNLOADER&amp;name=SKY CINEMA FAMILY (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_family.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY UNO [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2585.ts;streamtype=TSDOWNLOADER&amp;name=SKY UNO (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_uno_plus1.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] CARTONITO [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2583.ts;streamtype=TSDOWNLOADER&amp;name=CARTONITO (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoonito_us.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] CARTOON NETWORK [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/340.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)</link><thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] DISNEY CHANNEL [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/345.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)</link><thumbnail>http://i.imgur.com/g0UK661.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] DISNEY JUNIOR [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/346.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)</link><thumbnail>http://cp.dmbshare.net:8000/live/riccardo/riccardo/6057.ts</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ARTE[/B][/COLOR]</title>
 
 
 
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/arte_de.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI GULP [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2582.ts;streamtype=TSDOWNLOADER&amp;name=RAI GULP (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI YOYO [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2678.ts;streamtype=TSDOWNLOADER&amp;name=RAI YOYO (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FINE LIVING[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1258.ts;streamtype=TSDOWNLOADER&amp;name=FINE LIVING (by TeamBlue)$$lsname=FINE LIVING (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fine_living_network_emea.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI PREMIUM[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/905.ts;streamtype=TSDOWNLOADER&amp;name=RAI PREMIUM (by TeamBlue)$$lsname=RAI PREMIUM (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TRAVEL & LIVING[/B][/COLOR]</title>
 
 
 
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] FOX SPORTS [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1392.ts;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS (by TeamBlue)</link><thumbnail>http://i.imgur.com/SEZKowx.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] PREMIUM SPORT [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2393.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM SPORT (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/mm/mediaset_premium_sport.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] PREMIUM SPORT 2 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/2394.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM SPORT 2 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/mm/mediaset_premium_sport_2.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI SPORT 1 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1276.ts;streamtype=TSDOWNLOADER&amp;name=RAI SPORT 1 (by TeamBlue)</link><thumbnail>http://i.imgur.com/6ohVjfO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] RAI SPORT 2 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1275.ts;streamtype=TSDOWNLOADER&amp;name=RAI SPORT 2 (by TeamBlue)</link><thumbnail>http://i.imgur.com/GSmMg8K.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY SPORT 1 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/328.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORT 1 (by TeamBlue)</link><thumbnail>http://i.imgur.com/3mfIB6Q.jpg</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY SPORT 2 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/573.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORT 2 (by TeamBlue)</link><thumbnail>http://i.imgur.com/yfF9Rh7.jpg</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY SPORT 3 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/574.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORT 3 (by TeamBlue)</link><thumbnail>http://i.imgur.com/OUz9C7a.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY SPORT 24 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/349.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORT 24 (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_sport_24_hd.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY SPORT F1 [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/329.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORT F1 (by TeamBlue)</link><thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]•[/B][/COLOR]:[B][COLOR white] SKY SPORT MOTOGP [B][COLOR red](F4M)[/B][/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-supplier.com:8000/live/bouzaher/ryade/1281.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORT MOTOGP (by TeamBlue)</link><thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_it_sport_moto_gp_hd.png</thumbnail></item>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_travel_living_emea.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ANIMAL PLANET[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/876.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET (by TeamBlue)$$lsname=ANIMAL PLANET (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/animal_planet_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CACCIA & PESCA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/880.ts;streamtype=TSDOWNLOADER&amp;name=CACCIA & PESCA (by TeamBlue)$$lsname=CACCIA & PESCA (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/caccia_pesca.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY CHANNEL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/808.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL (by TeamBlue)$$lsname=DISCOVERY CHANNEL (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY SCIENCE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1207.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE (by TeamBlue)$$lsname=DISCOVERY SCIENCE (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_science_global.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY TRAVEL & LIVING[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/874.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY TRAVEL & LIVING (by TeamBlue)$$lsname=DISCOVERY TRAVEL & LIVING (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_travel_living_it.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY WORLD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1290.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY WORLD (by TeamBlue)$$lsname=DISCOVERY WORLD (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_world_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DMAX[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1206.ts;streamtype=TSDOWNLOADER&amp;name=DMAX (by TeamBlue)$$lsname=DMAX (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dmax_de.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] HISTORY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/878.ts;streamtype=TSDOWNLOADER&amp;name=HISTORY (by TeamBlue)$$lsname=HISTORY (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/oo/odisea_es.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NATIONAL GEOGRAPHIC CHANNEL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/809.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC CHANNEL (by TeamBlue)$$lsname=NATIONAL GEOGRAPHIC CHANNEL (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NAT GEO PEOPLE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/873.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO PEOPLE (by TeamBlue)$$lsname=NAT GEO PEOPLE (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_people_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NAT GEO WILD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/321.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)$$lsname=NAT GEO WILD (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CIELO[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/858.ts;streamtype=TSDOWNLOADER&amp;name=CIELO (by TeamBlue)$$lsname=CIELO (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cielo.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1322.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX COMEDY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/320.ts;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY (by TeamBlue)$$lsname=FOX COMEDY (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_comedy_it.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX CRIME[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/718.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)$$lsname=FOX CRIME (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/Q8uJUlH.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX LIFE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/811.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE (by TeamBlue)$$lsname=FOX LIFE (F4M) source #1</link>
+
+
+<thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM ACTION[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/287.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM ACTION (by TeamBlue)$$lsname=PREMIUM ACTION (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_action_hd.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM ACTION +24[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/288.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM ACTION +24 (by TeamBlue)$$lsname=PREMIUM ACTION +24 (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_action_plus24.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM CINEMA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/278.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA (by TeamBlue)$$lsname=PREMIUM CINEMA (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_hd.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM CINEMA 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/286.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA 2 (by TeamBlue)$$lsname=PREMIUM CINEMA 2 (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_2_hd.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM CINEMA 2 +24[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/680.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA 2 +24 (by TeamBlue)$$lsname=PREMIUM CINEMA 2 +24 (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mediaset_premium_cinema_2_plus24.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM CINEMA +24[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1324.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA +24 (by TeamBlue)$$lsname=PREMIUM CINEMA +24 (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mediaset_premium_cinema_plus24.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM CINEMA COMEDY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/277.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA COMEDY (by TeamBlue)$$lsname=PREMIUM CINEMA COMEDY (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_comedy.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM CINEMA EMOTION[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/280.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA EMOTION (by TeamBlue)$$lsname=PREMIUM CINEMA EMOTION (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_emotion.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM CINEMA CRIME[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/153.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA CRIME (by TeamBlue)$$lsname=PREMIUM CINEMA CRIME (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_crime_hd.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM CINEMA ENERGY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/149.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA ENERGY (by TeamBlue)$$lsname=PREMIUM CINEMA ENERGY (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_energy.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM CINEMA CRIME +24[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/679.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM CINEMA CRIME +24 (by TeamBlue)$$lsname=PREMIUM CINEMA CRIME +24 (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_crime_plus24.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM JOI[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/276.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM JOI (by TeamBlue)$$lsname=PREMIUM JOI (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mediaset_premium_joi.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM STORIES[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/788.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM STORIES (by TeamBlue)$$lsname=PREMIUM STORIES (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mediaset_premium_stories.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM STUDIO UNIVERSAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/303.ts;streamtype=TSDOWNLOADER&amp;name=PREMIUM STUDIO UNIVERSAL (by TeamBlue)$$lsname=PREMIUM STUDIO UNIVERSAL (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/studio_universal_global.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI MOVIE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/289.ts;streamtype=TSDOWNLOADER&amp;name=RAI MOVIE (by TeamBlue)$$lsname=RAI MOVIE (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/tvchannel/it/Rai-Movie.html</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY CINEMA 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/269.ts;streamtype=TSDOWNLOADER&amp;name=SKY CINEMA 1 (by TeamBlue)$$lsname=SKY CINEMA 1 (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema1.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY CINEMA 3D[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1202.ts;streamtype=TSDOWNLOADER&amp;name=SKY CINEMA 3D (by TeamBlue)$$lsname=SKY CINEMA 3D (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_de_3d.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY CINEMA +24[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/290.ts;streamtype=TSDOWNLOADER&amp;name=SKY CINEMA +24 (by TeamBlue)$$lsname=SKY CINEMA +24 (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_plus24.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY CINEMA COMEDY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/274.ts;streamtype=TSDOWNLOADER&amp;name=SKY CINEMA COMEDY (by TeamBlue)$$lsname=SKY CINEMA COMEDY (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_comedy.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY CINEMA FAMILY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/273.ts;streamtype=TSDOWNLOADER&amp;name=SKY CINEMA FAMILY (by TeamBlue)$$lsname=SKY CINEMA FAMILY (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_family.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY CINEMA FAMILY +1[/B][/COLOR]</title>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_family.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY UNO[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/304.ts;streamtype=TSDOWNLOADER&amp;name=SKY UNO (by TeamBlue)$$lsname=SKY UNO (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_it_uno_plus1.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BOING[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/864.ts;streamtype=TSDOWNLOADER&amp;name=BOING (by TeamBlue)$$lsname=BOING (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/boing_it.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CARTONITO[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/865.ts;streamtype=TSDOWNLOADER&amp;name=CARTONITO (by TeamBlue)$$lsname=CARTONITO (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoonito_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CARTOON NETWORK[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/863.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)$$lsname=CARTOON NETWORK (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY CHANNEL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/862.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL (by TeamBlue)$$lsname=DISNEY CHANNEL (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/g0UK661.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY CHANNEL +1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1294.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL +1 (by TeamBlue)$$lsname=DISNEY CHANNEL +1 (F4M) source #1</link>
+
+
+<thumbnail>http://i.imgur.com/g0UK661.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY JUNIOR[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/861.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)$$lsname=DISNEY JUNIOR (F4M) source #1</link>
+
+
+<thumbnail>http://cp.dmbshare.net:8000/live/riccardo/riccardo/6057.ts</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY XD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/860.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY XD (by TeamBlue)$$lsname=DISNEY XD (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_xd_us.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX ANIMATION[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/797.ts;streamtype=TSDOWNLOADER&amp;name=FOX ANIMATION (by TeamBlue)$$lsname=FOX ANIMATION (F4M) source #1</link>
+
+
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_animation_it.png</thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NICK JR[/B][/COLOR]</title>
+
+
+
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png</thumbnail></item>
