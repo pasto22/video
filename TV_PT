@@ -39,7 +39,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1826.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)$$lsname=PORTO CANAL (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1826.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)$$lsname=PORTO CANAL (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1826.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)$$lsname=PORTO CANAL (F4M) source #3</link>
-<link>http://146.185.16.60:8088/live/portocanalv/playlist.m3u8?id=86583&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702$$lsname=PORTO CANAL (HTTP)</link>
+<link>rtsp://213.13.26.11:1935/live/portocanal$$lsname=PORTO CANAL (HTTP)</link>
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.desportonline.com/index.php?canal=portocanal$$lsname=PORTO CANAL (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/HVBkpWS.png</thumbnail></item>
@@ -108,13 +108,13 @@
 
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnbc_europe.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] ETV[/B][/COLOR]</title>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ECONOMICO TV[/B][/COLOR]</title>
 
 
 
-<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8$$lsname=ETV (HTTP)</link>
+<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8$$lsname=ECONOMICO TV (HTTP)</link>
 
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdesporto.info/economicotv.php$$lsname=ETV (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdesporto.info/economicotv.php$$lsname=ECONOMICO TV (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/EEzmzqY.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EURONEWS[/B][/COLOR]</title>
@@ -130,7 +130,7 @@
 
 
 
-
+<link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8$$lsname=FRANCE 24 (FR) (HTTP)</link>
 
 
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/france24_english.png</thumbnail></item>
@@ -171,11 +171,11 @@
 
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] AR TV[/B][/COLOR]</title>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL PARLAMENTO[/B][/COLOR]</title>
 
 
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=AR TV (by TeamBlue)$$lsname=AR TV (F4M) source #3</link>
-<link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8$$lsname=AR TV (HTTP)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=CANAL PARLAMENTO (by TeamBlue)$$lsname=CANAL PARLAMENTO (F4M) source #3</link>
+<link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8$$lsname=CANAL PARLAMENTO (HTTP)</link>
 
 
 <thumbnail>http://www.lyngsat.com/logo/tv/cc/canal_parlamento_por.png</thumbnail></item>
@@ -229,7 +229,7 @@
 
 
 
-<link>http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8$$lsname=RECORD NEWS (HTTP)</link>
+<link>http://107.182.231.88:1935/liverepeater/ch24-1/playlist.m3u8$$lsname=RECORD NEWS (HTTP)</link>
 
 
 <thumbnail>http://i.imgur.com/RWZ8Pdl.png</thumbnail></item>
@@ -319,7 +319,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1813.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)$$lsname=TVI FICCAO (F4M) source #1</link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1813.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)$$lsname=TVI FICCAO (F4M) source #3</link>
-<link>http://62.212.82.87:8088/live/tvicrl/playlist.m3u8?id=24273&wowzasessionid=3732575339&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=TVI FICCAO (HTTP)</link>
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/tvificcao$$lsname=TVI FICCAO (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail></item>
@@ -328,7 +328,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1812.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)$$lsname=TVI REALITY (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1812.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)$$lsname=TVI REALITY (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1812.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)$$lsname=TVI REALITY (F4M) source #3</link>
-<link>http://46.23.67.42:8088/live/canaltvi24horas/playlist.m3u8?id=252660&wowzasessionid=179553458&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=TVI REALITY (HTTP)</link>
+
 
 
 <thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail></item>
@@ -409,7 +409,7 @@
 
 <link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=RECORD (by TeamBlue)$$lsname=RECORD (F4M) source #2</link>
 
-
+<link>http://107.182.231.88:1935/liverepeater/ch24-1/playlist.m3u8$$lsname=RECORD (HTTP)</link>
 
 
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail></item>
@@ -423,7 +423,7 @@
 
 <thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FASHION TV[/B][/COLOR]</title>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FTV[/B][/COLOR]</title>
 
 
 
@@ -481,7 +481,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1846.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)$$lsname=A BOLA TV (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1846.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)$$lsname=A BOLA TV (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1846.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)$$lsname=A BOLA TV (F4M) source #3</link>
-<link>http://178.162.193.26:8088/stream/BOLAAAA383893899/playlist.m3u8?id=27441&wowzasessionid=7812144229&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=A BOLA TV (HTTP)</link>
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.desportonline.net/index.php?canal=abolatv$$lsname=A BOLA TV (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail></item>
@@ -490,7 +490,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1710.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)$$lsname=BENFICA TV (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1710.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)$$lsname=BENFICA TV (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1710.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)$$lsname=BENFICA TV (F4M) source #3</link>
-<link>http://62.212.82.81:8088/live/benfieux/playlist.m3u8?id=251853&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702$$lsname=BENFICA TV (HTTP)</link>
+
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=gergtrg?keys=bgTVSHj_R7k44rqRvZCNUQ&keyt;=1471708579 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=gergtrg$$lsname=BENFICA TV (RTMP)</link>
 
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/benfica_tv.png</thumbnail></item>
@@ -580,15 +580,15 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1170.ts;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)$$lsname=PFC (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1170.ts;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)$$lsname=PFC (F4M) source #2</link>
 
-
+<link>http://107.182.231.88:1935/liverepeater/ch84-1/live.m3u8$$lsname=PFC (HTTP)</link>
 
 
 <thumbnail>http://i.imgur.com/j3ZgJkr.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV+[/B][/COLOR]</title>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV[/B][/COLOR]</title>
 
 
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV+ (by TeamBlue)$$lsname=SPORT TV+ (F4M) source #3</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV (by TeamBlue)$$lsname=SPORT TV (F4M) source #3</link>
 
 
 
@@ -788,7 +788,7 @@
 
 <link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)$$lsname=AXN (F4M) source #2</link>
 
-<link>http://5.63.149.236:8088/live/axn1x/playlist.m3u8?id=84753&wowzasessionid=3762589586&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=AXN (HTTP)</link>
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/axn$$lsname=AXN (Sports Devil)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_global.png</thumbnail></item>
@@ -806,7 +806,7 @@
 
 <link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)$$lsname=AXN WHITE (F4M) source #2</link>
 
-<link>http://5.63.149.236:8088/live/axnwhitex/playlist.m3u8?id=84774&wowzasessionid=3771377550&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=AXN WHITE (HTTP)</link>
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/axnwhite$$lsname=AXN WHITE (Sports Devil)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png</thumbnail></item>
@@ -833,7 +833,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1215.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1215.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1215.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M) source #3</link>
-<link>http://46.28.53.142:8088/live/foxcrl/playlist.m3u8?id=24274&wowzasessionid=3994617192&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=FOX (HTTP)</link>
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/fox$$lsname=FOX (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
@@ -851,7 +851,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1216.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)$$lsname=FOX CRIME (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1216.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)$$lsname=FOX CRIME (F4M) source #2</link>
 
-<link>http://146.185.16.62:8088/live/foxcrimex/playlist.m3u8?id=84766&wowzasessionid=320301583&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=FOX CRIME (HTTP)</link>
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxcrime$$lsname=FOX CRIME (Sports Devil)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png</thumbnail></item>
@@ -860,7 +860,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1181.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE (by TeamBlue)$$lsname=FOX LIFE (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1181.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE (by TeamBlue)$$lsname=FOX LIFE (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1181.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE (by TeamBlue)$$lsname=FOX LIFE (F4M) source #3</link>
-<link>http://178.162.211.97:8088/stream/foxlifea/playlist.m3u8?id=19709&wowzasessionid=3457406689&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=FOX LIFE (HTTP)</link>
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxlife$$lsname=FOX LIFE (Sports Devil)</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail></item>
@@ -869,7 +869,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1214.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)$$lsname=FOX MOVIES (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1214.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)$$lsname=FOX MOVIES (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1214.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)$$lsname=FOX MOVIES (F4M) source #3</link>
-<link>http://46.28.50.116:8088/live/sical/playlist.m3u8?id=24913&wowzasessionid=921923968&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=FOX MOVIES (HTTP)</link>
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxmovies$$lsname=FOX MOVIES (Sports Devil)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_movies_pt.png</thumbnail></item>
@@ -946,13 +946,13 @@
 
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY CHANNEL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1189.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL (by TeamBlue)$$lsname=DISCOVERY CHANNEL (F4M) source #1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1189.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL (by TeamBlue)$$lsname=DISCOVERY CHANNEL (F4M) source #2</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1189.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL (by TeamBlue)$$lsname=DISCOVERY CHANNEL (F4M) source #3</link>
-<link>http://5.63.149.236:8088/live/discoveryx/playlist.m3u8?id=84775&wowzasessionid=7868335795&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=DISCOVERY CHANNEL (HTTP)</link>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1189.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY (by TeamBlue)$$lsname=DISCOVERY (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1189.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY (by TeamBlue)$$lsname=DISCOVERY (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1189.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY (by TeamBlue)$$lsname=DISCOVERY (F4M) source #3</link>
 
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=discovery$$lsname=DISCOVERY CHANNEL (Sports Devil)</link>
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=discovery$$lsname=DISCOVERY (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY SHOWCASE[/B][/COLOR]</title>
@@ -968,7 +968,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1192.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)$$lsname=HISTORIA (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1192.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)$$lsname=HISTORIA (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1192.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)$$lsname=HISTORIA (F4M) source #3</link>
-<link>http://178.162.211.231:8088/stream/historiab/playlist.m3u8?id=21918&wowzasessionid=3116208586&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=HISTORIA (HTTP)</link>
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=historia$$lsname=HISTORIA (Sports Devil)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/historia_pt.png</thumbnail></item>
@@ -995,7 +995,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1171.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)$$lsname=ODISSEIA (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1171.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)$$lsname=ODISSEIA (F4M) source #2</link>
 
-<link>http://178.162.199.137:8088/live/odisseiax/playlist.m3u8?id=84765&wowzasessionid=448098210&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=ODISSEIA (HTTP)</link>
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/embed.php?c=odisseia$$lsname=ODISSEIA (Sports Devil)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png</thumbnail></item>
@@ -1090,13 +1090,13 @@
 
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_hits_ce.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV PORTUGAL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1175.ts;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL (by TeamBlue)$$lsname=MTV PORTUGAL (F4M) source #1</link>
-<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1175.ts;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL (by TeamBlue)$$lsname=MTV PORTUGAL (F4M) source #2</link>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1175.ts;streamtype=TSDOWNLOADER&amp;name=MTV (by TeamBlue)$$lsname=MTV (F4M) source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1175.ts;streamtype=TSDOWNLOADER&amp;name=MTV (by TeamBlue)$$lsname=MTV (F4M) source #2</link>
 
-<link>http://146.185.16.60:8088/live/mtvax/playlist.m3u8?id=84773&wowzasessionid=410905365&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=MTV PORTUGAL (HTTP)</link>
 
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/mtv$$lsname=MTV PORTUGAL (Sports Devil)</link>
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/mtv$$lsname=MTV (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/GyPW7Rw.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TRACE URBAN[/B][/COLOR]</title>
@@ -1166,7 +1166,7 @@
 
 
 
-
+<link>http://107.182.231.88:1935/liverepeater/ch22-1/playlist.m3u8$$lsname=BAND (HTTP)</link>
 
 
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/band_nacional_br.png</thumbnail></item>
@@ -1175,7 +1175,7 @@
 
 
 
-<link>http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8$$lsname=REDE TV (HTTP)</link>
+<link>http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8$$lsname=REDE TV (HTTP)</link>
 
 
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rede_tv_br.png</thumbnail></item>
@@ -1189,11 +1189,11 @@
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SBT[/B][/COLOR]</title>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TPA INTERNACIONAL[/B][/COLOR]</title>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TPA[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TPA INTERNACIONAL (by TeamBlue)$$lsname=TPA INTERNACIONAL (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TPA (by TeamBlue)$$lsname=TPA (F4M) source #2</link>
 
-<link>http://livestream-f.akamaihd.net/i/1181452_5141181_lsie2w0wnbne6pj94it_1@305766/master.m3u8?__b__=446&dw=100&hdnea=st=1474818639~exp=1474820439~acl=/i/1181452_5141181_lsie2w0wnbne6pj94it_1@305766/*~hmac=8962f1554c090da2ebf9d20434d1396e01f847f315c721f767c0848c527d4e3b&__a__=off$$lsname=TPA INTERNACIONAL (HTTP)</link>
+
 
 
 <thumbnail>http://i.imgur.com/ZqfQZuH.png</thumbnail></item>
