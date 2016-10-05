@@ -29,7 +29,7 @@ http://live.impresa.pt/live/sic/sic540p.m3u8
 
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/tt/tvi_pt.png,TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/tt/tvi_24.png,TVI 24
+#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/tt/tvi_24.png,TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 
@@ -45,16 +45,16 @@ rtsp://213.13.26.11:1935/live/portocanal
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/3rjsCFB.png,SPORT TV 1
-http://163.172.170.33:8081/live/sporttv1-hq/l_103923_21579000_2674.ts?nimblesessionid=1160952&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDEyOjU4OjU4IFBNJmhhc2hfdmFsdWU9TjJsbTJnb3FhU25uNlN0Nk15VW8zUT09JnZhbGlkbWludXRlcz02MCZpZD0xODguMTE0LjExMS4yMzYmc3RybV9sZW49MTY=
-#EXTINF:-1 tvg-logo=http://i.imgur.com/fsgRDjH.png,SPORT TV 2
-http://www.liveonlinetv247.info/embed/sporttv2.php?width=650&height=480
-#EXTINF:-1 tvg-logo=http://i.imgur.com/XvI6JNr.png,SPORT TV 3
-http://163.172.150.10:8081/live/sporttv3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDY6MTQgUE0maGFzaF92YWx1ZT1idlNWZytjcmdnQnQ4dHYvWVZNRW1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==
-#EXTINF:-1 tvg-logo=http://i.imgur.com/IZCGvyl.png,SPORT TV 4
-http://163.172.150.10:8081/live/sporttv3-hq/chunks.m3u8?nimblesessionid=24097376&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDQ6MDcgUE0maGFzaF92YWx1ZT0rSHg0YzRCZkZueUprSU56MVpMVVNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==
-#EXTINF:-1 tvg-logo=http://i.imgur.com/G8yH187.png,SPORT TV 5
-http://163.172.170.33:8081/live/sporttv5-hq/l_116087_374800_46.ts?nimblesessionid=1162215&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE2IDE6MDU6MjQgUE0maGFzaF92YWx1ZT1CbWtWZllzS25uOVpOYm90U2dmbkt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4xMTQuMTExLjIzNiZzdHJtX2xlbj0xNg==
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -122,7 +122,7 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_pt.png,CANCAO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/ZqfQZuH.png,TPA
-http://livestream-f.akamaihd.net/1181452_5141181_lsig9uz7i9qsvspstbm_1_446@179959?v=3.6.0&fp=WIN%2023,0,0,162&r=NMRRY&g=IZDQJLHFJQVQ
+http://livestream-f.akamaihd.net/1181452_5141181_lsig9uz7i9qsvspstbm_1_446@179959?v=3.6.0&fp=WIN%2023,0,0,162&r=ZJMXM&g=UONKTSVGQKGM
 #EXTINF:-1 tvg-logo=http://www.lyngsat-stream.com/logo/tv/tt/tv_lisboa_pt.png,TV LISBOA
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
