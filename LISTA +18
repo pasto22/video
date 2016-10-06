@@ -88,19 +88,35 @@
 
 <thumbnail>http://www.lyngsat.com/logo/tv/hh/hustler_tv_us.png</thumbnail>
 </item>
+
 <item>
 <title>JASMIN.TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/jimmy.soemowikromoiphone/jimmy.soemowikromoiphone/1205.ts;streamtype=TSDOWNLOADER&amp;name=JASMIN.TV$$lsname=source #1</link>
+<link>http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8$$lsname=source #5</link>
 <parentalblock>true</parentalblock>
 <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/biggi/biggi/929.ts;streamtype=TSDOWNLOADER&amp;name=JASMIN.TV$$lsname=source #2</link>
 <parentalblock>true</parentalblock>
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/jimmy.soemowikromoiphone/jimmy.soemowikromoiphone/1205.ts;streamtype=TSDOWNLOADER&amp;name=JASMIN.TV$$lsname=source #3</link>
 <parentalblock>true</parentalblock>
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/jimmy.soemowikromoiphone/jimmy.soemowikromoiphone/1205.ts;streamtype=TSDOWNLOADER&amp;name=JASMIN.TV$$lsname=source #4</link>
+<parentalblock>true</parentalblock>
 
 
 <thumbnail>https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p160x160/11046972_1547016762228097_8978976372468915740_n.png?oh=ce58105d539b32c0e8130832a1480a70&oe=58A4C13F</thumbnail>
+</item>
+
+<item>
+<title>MCS EXTREME</title>
+<link>http://78.46.64.13:1935/tv3/myStream/playlist.m3u8$$lsname=source #5</link>
+<parentalblock>true</parentalblock>
+
+
+
+
+
+
+
+
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/15/MCS-Extreme.png</thumbnail>
 </item>
 
 
