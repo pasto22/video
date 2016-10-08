@@ -33,8 +33,8 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/1OKBioL.png,TVI FICCAO
 http://95.211.186.223:8088/live/tvicrl/playlist.m3u8?id=24273&wowzasessionid=3515313974&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
-#EXTINF:-1 tvg-logo=http://i.imgur.com/D9HZ95f.png,TVI REALITY
-http://95.211.175.132:8088/live/ss6estraia7/playlist.m3u8?id=253308&wowzasessionid=550265216&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
+
+
 #EXTINF:-1 tvg-logo=http://i.imgur.com/HVBkpWS.png,PORTO CANAL
 rtsp://213.13.26.11:1935/live/portocanal
 #EXTINF:-1 tvg-logo=http://i.imgur.com/dMiWcSV.png,CM TV
@@ -54,7 +54,7 @@ http://cdn.widestream.io:8081/shareedge/live2-bipmr/chunks.m3u8?wmsAuthSign=c2Vy
 
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/G8yH187.png,SPORT TV 5
-http://163.172.143.191:8081/live/sporttv5-hq/chunks.m3u8?nimblesessionid=563214&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NDM6MjIgUE0maGFzaF92YWx1ZT1QYnRJcVUvQlppa29UWGdFbjBoQWRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjM0LjE1NSZzdHJtX2xlbj0xNg==
+http://cdn.widestream.io:8081/shareedge/live5-bipmr/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NDU6MjggUE0maGFzaF92YWx1ZT1rV1NRSC9zb1NzVDV3aENVcXcyam53PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo=http://i.imgur.com/KTEBwY0.png,SPORTING TV
 http://46.28.49.44:8088/live/sporiherdz/playlist.m3u8?id=251856&wowzasessionid=7395507969&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
@@ -119,14 +119,16 @@ http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-b.m3u8
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png,BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/tt/travel_channel_asia.png,TRAVEL
+http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/tt/tv_cancao_nova_pt.png,CANCAO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/ZqfQZuH.png,TPA
-http://livestream-f.akamaihd.net/i/1181452_5141181_lsig9uz7i9qsvspstbm_1@179959/index_446_av-p.m3u8?sd=10&dw=100&rebase=on&hdntl=exp=1475787277~acl=%2fi%2f1181452_5141181_lsig9uz7i9qsvspstbm_1%40179959%2f*~data=hdntl~hmac=28b02c54c304a097da81a9a9eac0ce9dd42a1337ee11aac753bc5c4452168840
+
+
 #EXTINF:-1 tvg-logo=http://www.lyngsat-stream.com/logo/tv/tt/tv_lisboa_pt.png,TV LISBOA
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/OznL5Kq.png,DISCOVERY
-http://146.185.16.60:8088/live/discoveryx/playlist.m3u8?id=84775&wowzasessionid=3655529793&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
+
+
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/hh/historia_pt.png,HISTORIA
 http://95.211.148.133:8088/stream/historiab/playlist.m3u8?id=21918&wowzasessionid=479378944&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/oo/odisseia_pt.png,ODISSEIA
@@ -138,11 +140,7 @@ http://178.162.199.73:8088/live/odisseiax/playlist.m3u8?id=84765&wowzasessionid=
 
 
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/mm/m6_fr.png,M6 MUSIQUE
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/mm/mtv_hits_ce.png,MTV HITS
-http://94.74.65.100:19123/ott/64:1122
-#EXTINF:-1 tvg-logo=http://i.imgur.com/GyPW7Rw.png,MTV
-http://146.185.16.60:8088/live/mtvax/playlist.m3u8?id=84773&wowzasessionid=3786536857&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
 
 
@@ -153,10 +151,14 @@ http://146.185.16.60:8088/live/mtvax/playlist.m3u8?id=84773&wowzasessionid=37865
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/RWZ8Pdl.png,RECORD NEWS
-http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/tt/tv_globo_pt.png,GLOBO PORTUGAL
+http://31.204.153.115:8081/live/globok/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/ss/sbt_br.png,SBT
@@ -165,25 +167,23 @@ http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
 http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/j3ZgJkr.png,PFC
-http://163.172.211.225/loadbalance/bfr1/chunks.m3u8?nimblesessionid=3763170&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NDk6MjEgUE0maGFzaF92YWx1ZT1KUVdvRUkvdGpqWEM5Z0tkODRkMjlBPT0mdmFsaWRtaW51dGVzPTE=
 
 
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/ss/sportv_br.png,SPORTTV (BR)
-http://163.172.36.45/loadbalance/slv0/chunks.m3u8?nimblesessionid=1705294&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NDc6MzEgUE0maGFzaF92YWx1ZT03ckZTUThQcVd4dkt0d1I0VWZOVTFnPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/ss/sportv2_br.png,SPORTTV 2 (BR)
-http://163.172.40.71/olimpiadas/spo224ha/750/playlist.m3u8?nimblesessionid=5305769&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NDc6NTAgUE0maGFzaF92YWx1ZT1nRGg2SndSNWgvdWxSQkgyRG82MUpnPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/ss/sportv3_br.png,SPORTTV 3 (BR)
-http://163.172.39.45/olimpiadas/spo324ha/750/playlist.m3u8?nimblesessionid=1795854&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NDg6MjEgUE0maGFzaF92YWx1ZT1xd2JXNVYxaXIwMzM4RUZTam0weFpBPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/ee/espn_br.png,ESPN BRASIL
-http://192.168.1.140:2869/upnphost/udhisapi.dll?content=uuid:ccc120ea-388c-4de7-8786-1cbd0369174b
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/ee/espn_br.png,ESPN (BR)
-http://163.172.39.15/loadbalance/canal-espn-hd/chunks.m3u8?nimblesessionid=1594544&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NDc6MDcgUE0maGFzaF92YWx1ZT05VVlwL3FZand5VHlBUGNKS0FTRHBBPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_global.png,FOX SPORTS 1 (BR)
-http://163.172.60.17/loadbalance/canal-fox-sports-hd/chunks.m3u8?nimblesessionid=1738964&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NDg6NDMgUE0maGFzaF92YWx1ZT01VHV6VFYvNVlSbzQyYi9FbFhuZkF3PT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_lam.png,FOX SPORTS 2 (BR)
-http://163.172.60.17/loadbalance/canal-fox-sports-hd/chunks.m3u8?nimblesessionid=1738964&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NDg6NDMgUE0maGFzaF92YWx1ZT01VHV6VFYvNVlSbzQyYi9FbFhuZkF3PT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png,TV GALICIA (ES)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/gg/galicia_tv_eu.png,TV GALICIA
 http://www.iptvsaga.com/play/tv3/0014.m3u8
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/aa/antena3.png,ANTENA 3 (ES)
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
