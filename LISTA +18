@@ -91,7 +91,7 @@
 
 <item>
 <title>JASMIN.TV</title>
-<link>http://www.q7t1.com:8000/live/jimmy.soemowikromoiphone/jimmy.soemowikromoiphone/1205.ts$$lsname=source #5 (Plexus)</link>
+<link>http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?www.jasmin.com$$lsname=source #5 (Plexus)</link>
 <parentalblock>true</parentalblock>
 
 
@@ -104,6 +104,10 @@
 <thumbnail>https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p160x160/11046972_1547016762228097_8978976372468915740_n.png?oh=ce58105d539b32c0e8130832a1480a70&oe=58A4C13F</thumbnail>
 </item>
 
+<item>
+<title>MCS EXTREME</title>
+<link>http://78.46.64.13:1935/tv3/myStream/playlist.m3u8$$lsname=source #5 (Plexus)</link>
+<parentalblock>true</parentalblock>
 
 
 
@@ -112,12 +116,8 @@
 
 
 
-
-
-
-
-
-
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/15/MCS-Extreme.png</thumbnail>
+</item>
 
 
 
@@ -211,12 +211,12 @@
 
 <item>
 <title>PLAYBOY TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1584.ts;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV$$lsname=source #1</link>
+<link>http://93.87.85.70/PLTV/88888888/224/3221226770/04.m3u8$$lsname=source #5 (Plexus)</link>
 <parentalblock>true</parentalblock>
-<link>plugin://plugin.video.f4mTester/?url=http://bur879.com:8080/live/mazlumuluc/041220151345/76.ts;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV$$lsname=source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1584.ts;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV$$lsname=source #2</link>
 <parentalblock>true</parentalblock>
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://bur879.com:8080/live/mazlumuluc/041220151345/76.ts;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV$$lsname=source #3</link>
+<parentalblock>true</parentalblock>
 
 
 <link>plugin://program.plexus/?url=acestream://f2b0a9ad025cdc2f07af47fcf8741da5941698c7&amp;mode=1&amp;name=acestream+ADULTSPLAYBOY TV$$lsname=source #5 (Plexus)</link>
