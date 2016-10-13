@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=http://i.imgur.com/nwF46j7.png,RTP 1
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/yAOu09B.png,RTP 2
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/UqZdQqJ.png,RTP 3
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/om9BKuk.png,RTP ACORES
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/YWi6NzU.png,RTP AFRICA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/YPL4ncR.png,RTP INTERNACIONAL
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/EQk4X7n.png,RTP MADEIRA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/lWlG90R.png,RTP MEMORIA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/ss/sic_pt.png,SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
@@ -36,7 +36,7 @@ http://95.211.186.223:8088/live/tvicrl/playlist.m3u8?id=24273&wowzasessionid=351
 
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/HVBkpWS.png,PORTO CANAL
-rtsp://213.13.26.11:1935/live/portocanal
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/dMiWcSV.png,CM TV
 http://163.172.41.73/loadbalance/14754455842767291813/chunks.m3u8?nimblesessionid=5099929&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NTA6NTQgUE0maGFzaF92YWx1ZT16NTd6M0VabmQwQy9vR3A2S0kzRmlRPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-logo=http://i.imgur.com/aDTQAYr.png,A BOLA TV
@@ -115,8 +115,6 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/ff/france24_english.png,FRANCE 24 (IN)
 http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-logo=http://www.lyngsat.com/logo/tv/aa/abc_np.png,ABC NEWS
-http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-b.m3u8
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png,BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/tt/travel_channel_asia.png,TRAVEL
@@ -235,15 +233,39 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_it.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/Y8TTqAm.png,FRANCA
 http://0.0.0.1234
+#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/ff/france24_english.png,FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/r1Tu1zq.jpg,EUROSPORT
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8#sthash.ulpTrB7G.dpuf
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/p8PuTw2.png,INGLATERRA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png,BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/r1Tu1zq.jpg,EUROSPORT 1
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/oRQ7h7d.png,ALEMANHA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/ee/euronews_fr.png,EURONEWS
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/d3Jhv5k.png,USA
+http://0.0.0.1234
+#EXTINF:-1 tvg-logo=http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Network (National)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 tvg-logo=http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Arizona
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1 tvg-logo=http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Bay Area
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 tvg-logo=http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Los Angeles
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 tvg-logo=http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Moutain
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 tvg-logo=http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Oregon
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 tvg-logo=http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 tvg-logo=http://vignette2.wikia.nocookie.net/logopedia/images/8/8a/CBS_HD.png,CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/index_4000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo=http://www.lyngsat.com/logo/tv/aa/abc_np.png,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
+#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png,BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?
