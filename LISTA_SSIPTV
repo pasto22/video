@@ -15,46 +15,46 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlis
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 #EXTINF:-1 tvg-logo=http://i.imgur.com/lWlG90R.png,RTP MEMORIA
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/ss/sic_pt.png,SIC
+#EXTINF:-1 tvg-logo=http://www.lyngsat.com/logo/tv/ss/sic_pt.png,SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/ss/sic_pt_mulher.png,SIC MULHER
+#EXTINF:-1 tvg-logo=http://www.lyngsat.com/logo/tv/ss/sic_pt_mulher.png,SIC MULHER
 http://95.211.168.17:8088/live/sicm02/playlist.m3u8?id=85250&wowzasessionid=546724412&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
 
 
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/tt/tvi_pt.png,TVI
+#EXTINF:-1 tvg-logo=http://www.lyngsat.com/logo/tv/tt/tvi_pt.png,TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/tt/tvi_24.png,TVI24
+#EXTINF:-1 tvg-logo=http://www.lyngsat.com/logo/tv/tt/tvi_24.png,TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/1OKBioL.png,TVI FICCAO
 http://95.211.186.223:8088/live/tvicrl/playlist.m3u8?id=24273&wowzasessionid=3515313974&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/HVBkpWS.png,PORTO CANAL
-http://146.185.16.60:8088/live/portocanalv/playlist.m3u8?id=86583&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
-#EXTINF:-1 tvg-logo=http://i.imgur.com/dMiWcSV.png,CM TV
-http://163.172.41.73/loadbalance/14754455842767291813/chunks.m3u8?nimblesessionid=5099929&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NTA6NTQgUE0maGFzaF92YWx1ZT16NTd6M0VabmQwQy9vR3A2S0kzRmlRPT0mdmFsaWRtaW51dGVzPTE=
+http://213.13.26.11:1935/live/portocanal/magellan.m3u8
+
+
 #EXTINF:-1 tvg-logo=http://i.imgur.com/aDTQAYr.png,A BOLA TV
 http://85.17.20.70:8088/stream/BOLAAAA383893899/playlist.m3u8?id=27441&wowzasessionid=3457991351&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/3rjsCFB.png,SPORT TV 1
-http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/fsgRDjH.png,SPORT TV 2
-http://cdn.widestream.io:8081/shareedge/live2-bipmr/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NDU6MjggUE0maGFzaF92YWx1ZT1rV1NRSC9zb1NzVDV3aENVcXcyam53PT0mdmFsaWRtaW51dGVzPTIw
 
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/G8yH187.png,SPORT TV 5
-http://cdn.widestream.io:8081/shareedge/live5-bipmr/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE2IDg6NDU6MjggUE0maGFzaF92YWx1ZT1rV1NRSC9zb1NzVDV3aENVcXcyam53PT0mdmFsaWRtaW51dGVzPTIw
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo=http://i.imgur.com/KTEBwY0.png,SPORTING TV
 http://46.28.49.44:8088/live/sporiherdz/playlist.m3u8?id=251856&wowzasessionid=7395507969&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
@@ -65,9 +65,9 @@ http://46.28.49.44:8088/live/sporiherdz/playlist.m3u8?id=251856&wowzasessionid=7
 mms://195.22.25.134/mpltv  
 
 
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/aa/axn_global.png,AXN
+#EXTINF:-1 tvg-logo=http://www.lyngsat.com/logo/tv/aa/axn_global.png,AXN
 http://178.162.199.137:8088/live/axn1x/playlist.m3u8?id=84753&wowzasessionid=3305818428&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/aa/axn_white_pt.png,AXN WHITE
+#EXTINF:-1 tvg-logo=http://www.lyngsat.com/logo/tv/aa/axn_white_us.png,AXN WHITE
 http://178.162.199.138:8088/live/axnwhitex/playlist.m3u8?id=84774&wowzasessionid=3971137111&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
@@ -75,11 +75,11 @@ http://178.162.199.138:8088/live/axnwhitex/playlist.m3u8?id=84774&wowzasessionid
 http://5.79.101.6:8088/live/foxcrl/playlist.m3u8?id=24274&wowzasessionid=528607538&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/ff/fox_crime_global.png,FOX CRIME
+#EXTINF:-1 tvg-logo=http://www.lyngsat.com/logo/tv/ff/fox_crime_global.png,FOX CRIME
 http://178.162.199.25:8088/live/foxcrimex/playlist.m3u8?id=84766&wowzasessionid=3243171094&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 #EXTINF:-1 tvg-logo=http://www.thelogodb.com/images/media/logo/rttuur1433432546.png,FOX LIFE
 http://178.162.211.97:8088/stream/foxlifea/playlist.m3u8?id=19709&wowzasessionid=3457406689&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/ff/fox_movies_pt.png,FOX MOVIES
+#EXTINF:-1 tvg-logo=http://www.lyngsat.com/logo/tv/ff/fox_movies_pt.png,FOX MOVIES
 http://95.211.214.158:8088/live/sical/playlist.m3u8?id=24913&wowzasessionid=007103995&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
