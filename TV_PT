@@ -4,8 +4,9 @@
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1727.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)$$lsname=RTP 1 (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/749.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)$$lsname=RTP 1 (F4M) source #3</link>
 <link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP 1 (HTTP)</link>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15  $$lsname=RTP 1 (RTMP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15$$lsname=RTP 1 (RTMP)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp1$$lsname=RTP 1 (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/rtp$$lsname=RTP 1 (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/nwF46j7.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 2[/B][/COLOR]</title>
@@ -13,8 +14,9 @@
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1726.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)$$lsname=RTP 2 (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/751.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)$$lsname=RTP 2 (F4M) source #3</link>
 <link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP 2 (HTTP)</link>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15  $$lsname=RTP 2 (RTMP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15$$lsname=RTP 2 (RTMP)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp2$$lsname=RTP 2 (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/rtp2$$lsname=RTP 2 (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/yAOu09B.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC[/B][/COLOR]</title>
@@ -24,6 +26,7 @@
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8$$lsname=SIC (HTTP)</link>
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/sic$$lsname=SIC (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvonlinehd.com/index.php?canal=sic$$lsname=SIC (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/U0XKwI5.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI[/B][/COLOR]</title>
@@ -33,6 +36,7 @@
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8$$lsname=TVI (HTTP)</link>
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/tvi$$lsname=TVI (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ontvfree2.me/tvi-directo-online$$lsname=TVI (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/eoUkAQT.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PORTO CANAL[/B][/COLOR]</title>
@@ -41,7 +45,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/785.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)$$lsname=PORTO CANAL (F4M) source #3</link>
 <link>rtsp://213.13.26.41:1935/live/portocanal$$lsname=PORTO CANAL (HTTP)</link>
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://kodiportugal.pt$$lsname=PORTO CANAL (RTMP)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.desportonline.com/index.php?canal=portocanal$$lsname=PORTO CANAL (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/portocanal$$lsname=PORTO CANAL (Sports Devil)</link>
 
 <thumbnail>http://i.imgur.com/4PpSPX6.png</thumbnail></item>
 
@@ -50,8 +54,8 @@
 
 
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/752.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)$$lsname=RTP ACORES (F4M) source #3</link>
-<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP ACORES (HTTP)</link>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15$$lsname=RTP ACORES (RTMP)</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/chunklist_b600000_slpt.m3u8$$lsname=RTP ACORES (HTTP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15$$lsname=RTP ACORES (RTMP)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpacores$$lsname=RTP ACORES (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail></item>
 
@@ -60,7 +64,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1684.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)$$lsname=RTP AFRICA (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/753.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)$$lsname=RTP AFRICA (F4M) source #3</link>
 <link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP AFRICA (HTTP)</link>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15$$lsname=RTP AFRICA (RTMP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15$$lsname=RTP AFRICA (RTMP)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpafrica$$lsname=RTP AFRICA (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail></item>
 
@@ -69,7 +73,7 @@
 
 
 <link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP INTERNACIONAL (HTTP)</link>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15$$lsname=RTP INTERNACIONAL (RTMP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15$$lsname=RTP INTERNACIONAL (RTMP)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpinternacional$$lsname=RTP INTERNACIONAL (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/YPL4ncR.png</thumbnail></item>
 
@@ -78,7 +82,7 @@
 
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/755.ts;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA (by TeamBlue)$$lsname=RTP MADEIRA (F4M) source #3</link>
 <link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP MADEIRA (HTTP)</link>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15$$lsname=RTP MADEIRA (RTMP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15$$lsname=RTP MADEIRA (RTMP)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpmadeira$$lsname=RTP MADEIRA (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail></item>
 
@@ -98,7 +102,7 @@
 
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/cmtv$$lsname=CM TV (Sports Devil)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdez.com/embed.php?c=cmtv$$lsname=CM TV (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvtuga.com/cmtv/$$lsname=CM TV (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/dMiWcSV.png</thumbnail></item>
 
 
@@ -114,7 +118,7 @@
 
 
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/769.ts;streamtype=TSDOWNLOADER&amp;name=ECONOMICO TV (by TeamBlue)$$lsname=ECONOMICO TV (F4M) source #3</link>
-<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8$$lsname=ECONOMICO TV (HTTP)</link>
+
 
 
 <thumbnail>http://i.imgur.com/EEzmzqY.png</thumbnail></item>
@@ -151,7 +155,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1715.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)$$lsname=RTP 3 (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1665.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)$$lsname=RTP 3 (F4M) source #3</link>
 <link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP 3 (HTTP)</link>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15$$lsname=RTP 3 (RTMP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15$$lsname=RTP 3 (RTMP)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp3$$lsname=RTP 3 (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/UqZdQqJ.png</thumbnail></item>
 
@@ -160,6 +164,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1657.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)$$lsname=SIC NOTICIAS (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/773.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (by TeamBlue)$$lsname=SIC NOTICIAS (F4M) source #3</link>
 
+<link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html$$lsname=SIC NOTICIAS (RTMP)</link>
 
 
 <thumbnail>http://i.imgur.com/qdQ02xS.png</thumbnail></item>
@@ -170,7 +175,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/775.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by TeamBlue)$$lsname=TVI24 (F4M) source #3</link>
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8$$lsname=TVI24 (HTTP)</link>
 
-
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tviplayer.iol.pt/direto/TVI24$$lsname=TVI24 (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvtuga.com/tvi-24/$$lsname=TVI24 (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/nYX9hTR.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL PARLAMENTO[/B][/COLOR]</title>
@@ -286,7 +292,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1683.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)$$lsname=RTP MEMORIA (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/756.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)$$lsname=RTP MEMORIA (F4M) source #3</link>
 <link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)$$lsname=RTP MEMORIA (HTTP)</link>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15$$lsname=RTP MEMORIA (RTMP)</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15$$lsname=RTP MEMORIA (RTMP)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpmemoria$$lsname=RTP MEMORIA (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail></item>
 
@@ -306,6 +312,7 @@
 <link>http://95.211.168.17:8088/live/sicm02/playlist.m3u8?id=85250&wowzasessionid=546724412&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=SIC MULHER (HTTP)</link>
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/sicmulher$$lsname=SIC MULHER (Sports Devil)</link>
+
 <thumbnail>http://i.imgur.com/PM9mIG3.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC RADICAL[/B][/COLOR]</title>
@@ -314,6 +321,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/759.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)$$lsname=SIC RADICAL (F4M) source #3</link>
 
 
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/sicradical$$lsname=SIC RADICAL (Sports Devil)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.embeducaster.com/membedplayer/sicradicalx/1/650/500$$lsname=SIC RADICAL (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/Vvv2OcG.png</thumbnail></item>
 
@@ -330,7 +338,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.37.71:8789/live/karimos/test/440.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)$$lsname=TVI REALITY (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1672.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)$$lsname=TVI REALITY (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1656.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)$$lsname=TVI REALITY (F4M) source #3</link>
-
+<link>http://163.172.217.53:8000/live/5grandiptv915/67863345/1656.m3u8$$lsname=TVI REALITY (HTTP)</link>
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://mytvfree2.me/ver/tvi-reality-24h$$lsname=TVI REALITY (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/qQcrbID.png</thumbnail></item>
@@ -412,7 +420,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1677.ts;streamtype=TSDOWNLOADER&amp;name=RECORD (by TeamBlue)$$lsname=RECORD (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/766.ts;streamtype=TSDOWNLOADER&amp;name=RECORD (by TeamBlue)$$lsname=RECORD (F4M) source #3</link>
 <link>http://163.172.217.53:8000/live/5grandiptv915/67863345/766.m3u8$$lsname=RECORD (HTTP)</link>
-
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15$$lsname=RECORD (RTMP)</link>
 
 <thumbnail>http://i.imgur.com/eo6n0fp.png</thumbnail></item>
 
@@ -485,8 +493,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/781.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)$$lsname=A BOLA TV (F4M) source #3</link>
 
 
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.desportonline.net/index.php?canal=abolatv$$lsname=A BOLA TV (Sports Devil)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdez.com/embed.php?c=abolatv$$lsname=A BOLA TV (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/abolatv$$lsname=A BOLA TV (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tvtuga.tk/a-bola-tv/$$lsname=A BOLA TV (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BENFICA TV[/B][/COLOR]</title>
@@ -495,8 +503,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/783.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)$$lsname=BENFICA TV (F4M) source #3</link>
 
 
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://reformadostv.comunidades.net/index.php$$lsname=BENFICA TV (Sports Devil)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://firstrowas.co///embed/9DOXhIxxsw$$lsname=BENFICA TV (Sports Devil)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tvtoss.com/channel-frames/Benfica TV/benficatv-server-1.php$$lsname=BENFICA TV (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/3MPQyry.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 1[/B][/COLOR]</title>
@@ -504,7 +512,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1667.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)$$lsname=EUROSPORT 1 (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/799.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (by TeamBlue)$$lsname=EUROSPORT 1 (F4M) source #3</link>
 
-<link>rtmp://31.220.40.59/privatestream/ playpath=euros1?keys=udtuM0jEV0Kf5-H18JlpZw&keyt;=1473439949 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf$$lsname=EUROSPORT 1 (RTMP)</link>
+
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=eurosport$$lsname=EUROSPORT 1 (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/024GQz7.png</thumbnail></item>
 
@@ -603,28 +611,28 @@
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)$$lsname=SPORT TV 1 (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1601.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)$$lsname=SPORT TV 1 (F4M) source #3</link>
 <link>http://163.172.217.53:8000/live/5grandiptv915/67863345/788.m3u8$$lsname=SPORT TV 1 (HTTP)</link>
-<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt;=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdesporto.info/sporttv.php$$lsname=SPORT TV 1 (Sports Devil)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=sporttv$$lsname=SPORT TV 1 (Sports Devil)</link>
+<link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=sporttv1$$lsname=SPORT TV 1 (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv.php?width=599&height=399$$lsname=SPORT TV 1 (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 2[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.37.71:8789/live/karimos/test/332.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1722.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1602.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #3</link>
-<link>http://cdn.widestream.io:8081/shareedge/push-merda2-zctvt/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE2IDEwOjM3OjM2IFBNJmhhc2hfdmFsdWU9b1hXcjh6WElveHcyS0k2aFlhRVBaUT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 2 (HTTP)</link>
+
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510$$lsname=SPORT TV 2 (RTMP)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=sporttv2$$lsname=SPORT TV 2 (Sports Devil)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=sporttv2$$lsname=SPORT TV 2 (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv2.php?width=599&height=399$$lsname=SPORT TV 2 (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 3[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.37.71:8789/live/karimos/test/337.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)$$lsname=SPORT TV 3 (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1723.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)$$lsname=SPORT TV 3 (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1603.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)$$lsname=SPORT TV 3 (F4M) source #3</link>
-<link>http://cdn.widestream.io:8081/shareedge/push-merda3-0zvdq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE2IDEwOjM5OjMyIFBNJmhhc2hfdmFsdWU9Wnlnb0hQWFNOcXhaaDVjbWx1TUFGZz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 3 (HTTP)</link>
+
 <link>rtmp://179.43.158.195:16625/stream/ playPath=o4NLATkOb3.stream?t5651a791kt952i1130rt838i6407nt5651a791kt952i646kt952i1130rt5651a791kt952i1130rt952i1130rt384i791yt384i791y swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t1692a262kt907i9535rt726i2985nt1692a262kt907i481kt907i9535rt1692a262kt907i9535rt907i9535rt572i262yt572i262y&st=s5t205n4w5c4t2s4643683u5j3k4w3d4y4i5x2p2p243z244746453z3w213e4s203z2&adx=&stream=h5v2b4e4k574v244d47444l5t2j5b4n2u584o3a3f413x2766476e3s5n39355h4n354u224r2a4z2v224p2f43464f413p2e4a4n2u5v2x4e3h49454v4s2p4d3n4y4n465j4w494k2m4m4k4f484p3p3e5e4a4v5a4z3244634p2o234a4w264z27433x2i544c40344c4c4o5e4b4b484b4t2e4b464w28464445413b474m234242434p2o234z3&sooor=Ng==&str=is&ok=&cat=3&link=1&idom=firstrowas.co$$lsname=SPORT TV 3 (RTMP)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=sporttv3$$lsname=SPORT TV 3 (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=sporttv3$$lsname=SPORT TV 3 (Sports Devil)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 3 (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail></item>
 
@@ -634,17 +642,17 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1604.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by TeamBlue)$$lsname=SPORT TV 4 (F4M) source #3</link>
 
 <link>rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=-mk38EysabgrlvA1TTGvWA&keyt;=1471232732 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds&width;=555&height;=440 timeout=10$$lsname=SPORT TV 4 (RTMP)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=sporttv4$$lsname=SPORT TV 4 (Sports Devil)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://firstrowsports.ge/?watch/408917/4/watch-xonetv.html$$lsname=SPORT TV 4 (Sports Devil)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=sporttv4$$lsname=SPORT TV 4 (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 5[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.37.71:8789/live/karimos/test/339.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)$$lsname=SPORT TV 5 (F4M) source #1</link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1605.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)$$lsname=SPORT TV 5 (F4M) source #3</link>
-<link>http://cdn.widestream.io:8081/shareedge/push-merda4-rp4un/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE2IDEwOjQzOjU0IFBNJmhhc2hfdmFsdWU9SEhDSExMZ2NnOFNacTUyUGJyeDFVdz09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (HTTP)</link>
+<link>http://cdn.widestream.io:8081/shareedge/merda4-rp4un/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAxNiAxMDozNjozNSBQTSZoYXNoX3ZhbHVlPUl0U2RLcEJieUtuNGNmWThjUUVCYnc9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (HTTP)</link>
 <link>rtmp://31.220.40.61/privatestream<playpath>dddd4uedifoekds?keys=-mk38EysabgrlvA1TTGvWA&keyt;=1471232732 <swfUrl>http://privatestream.tv/js/jwplayer.flash.swf <pageUrl>$$lsname=SPORT TV 5 (RTMP)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=sporttv5$$lsname=SPORT TV 5 (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=sporttv5$$lsname=SPORT TV 5 (Sports Devil)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://firstrowsports.ge/?watch/408917/5/watch-xonetv.html$$lsname=SPORT TV 5 (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/G8yH187.png</thumbnail></item>
 
@@ -654,7 +662,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1668.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV (by TeamBlue)$$lsname=SPORTING TV (F4M) source #3</link>
 <link>http://46.28.49.44:8088/live/sporiherdz/playlist.m3u8?id=251856&wowzasessionid=7395507969&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=SPORTING TV (HTTP)</link>
 
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://antena.mytvfree4.me/sporcanal.php$$lsname=SPORTING TV (Sports Devil)</link>
+
 <thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TOROS TV[/B][/COLOR]</title>
@@ -796,13 +804,15 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.37.71:8789/live/karimos/test/333.ts;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)$$lsname=AXN (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1714.ts;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)$$lsname=AXN (F4M) source #2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/809.ts;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)$$lsname=AXN (F4M) source #3</link>
-<link>http://178.162.199.137:8088/live/axn1x/playlist.m3u8?id=84753&wowzasessionid=3305818428&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=AXN (HTTP)</link>
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/axn$$lsname=AXN (Sports Devil)</link>
+
 <thumbnail>http://i.imgur.com/aDkAm6p.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN BLACK[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.37.71:8789/live/karimos/test/356.ts;streamtype=TSDOWNLOADER&amp;name=AXN BLACK (by TeamBlue)$$lsname=AXN BLACK (F4M) source #1</link>
+
 
 
 
@@ -814,7 +824,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.37.71:8789/live/karimos/test/355.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)$$lsname=AXN WHITE (F4M) source #1</link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/811.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)$$lsname=AXN WHITE (F4M) source #3</link>
-<link>http://178.162.199.138:8088/live/axnwhitex/playlist.m3u8?id=84774&wowzasessionid=3971137111&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=AXN WHITE (HTTP)</link>
+
+
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/axnwhite$$lsname=AXN WHITE (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/QDCk6tH.png</thumbnail></item>
@@ -843,12 +854,14 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/812.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M) source #3</link>
 <link>http://5.79.101.6:8088/live/foxcrl/playlist.m3u8?id=24274&wowzasessionid=528607538&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=FOX (HTTP)</link>
 
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=fox$$lsname=FOX (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/fox$$lsname=FOX (Sports Devil)</link>
+
 <thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX COMEDY[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.37.71:8789/live/karimos/test/330.ts;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY (by TeamBlue)$$lsname=FOX COMEDY (F4M) source #1</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1694.ts;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY (by TeamBlue)$$lsname=FOX COMEDY (F4M) source #2</link>
+
 
 
 
@@ -862,6 +875,7 @@
 <link>http://178.162.199.25:8088/live/foxcrimex/playlist.m3u8?id=84766&wowzasessionid=3243171094&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=FOX CRIME (HTTP)</link>
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxcrime$$lsname=FOX CRIME (Sports Devil)</link>
+
 <thumbnail>http://i.imgur.com/Q8uJUlH.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX LIFE[/B][/COLOR]</title>
@@ -871,6 +885,7 @@
 <link>http://178.162.211.97:8088/stream/foxlifea/playlist.m3u8?id=19709&wowzasessionid=3457406689&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=FOX LIFE (HTTP)</link>
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxlife$$lsname=FOX LIFE (Sports Devil)</link>
+
 <thumbnail>http://i.imgur.com/giiQxbn.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX MOVIES[/B][/COLOR]</title>
@@ -880,6 +895,7 @@
 <link>http://95.211.214.158:8088/live/sical/playlist.m3u8?id=24913&wowzasessionid=007103995&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=FOX MOVIES (HTTP)</link>
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxmovies$$lsname=FOX MOVIES (Sports Devil)</link>
+
 <thumbnail>http://i.imgur.com/gbjSBds.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HOLLYWOOD[/B][/COLOR]</title>
@@ -888,6 +904,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1652.ts;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD (by TeamBlue)$$lsname=HOLLYWOOD (F4M) source #3</link>
 
 
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.embeducaster.com/membedplayer/hollywoodx/1/650/500$$lsname=HOLLYWOOD (Sports Devil)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.embeducaster.com/membedplayer/hollywoodx/1/650/500$$lsname=HOLLYWOOD (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/wdCpBLc.png</thumbnail></item>
 
@@ -906,7 +923,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/803.ts;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 (by TeamBlue)$$lsname=TV CINE 1 (F4M) source #3</link>
 
 
-
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tvc1-pedro-solder.blogspot.nl/$$lsname=TV CINE 1 (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/0imsO3D.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TV CINE 2[/B][/COLOR]</title>
@@ -961,6 +978,7 @@
 
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=discovery$$lsname=DISCOVERY (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/discovery$$lsname=DISCOVERY (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/gvtBP6j.png</thumbnail></item>
 
 
@@ -979,6 +997,7 @@
 <link>http://95.211.148.133:8088/stream/historiab/playlist.m3u8?id=21918&wowzasessionid=479378944&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=HISTORIA (HTTP)</link>
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=historia$$lsname=HISTORIA (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/historia/$$lsname=HISTORIA (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/g5uYzpc.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NAT GEO CHANNEL[/B][/COLOR]</title>
@@ -988,6 +1007,7 @@
 
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/nationalgeographic$$lsname=NAT GEO CHANNEL (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.winpt.com/national-geographic-channel-online/$$lsname=NAT GEO CHANNEL (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/UPqfbBu.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NAT GEO WILD[/B][/COLOR]</title>
@@ -996,7 +1016,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/840.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)$$lsname=NAT GEO WILD (F4M) source #3</link>
 
 
-
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.wildsafarilive.com/$$lsname=NAT GEO WILD (Sports Devil)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://samistream.tv/nat-geo-wild-live-tv.php$$lsname=NAT GEO WILD (Sports Devil)</link>
 <thumbnail>http://i.imgur.com/mNhHiku.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ODISSEIA[/B][/COLOR]</title>
@@ -1006,6 +1027,7 @@
 <link>http://178.162.199.73:8088/live/odisseiax/playlist.m3u8?id=84765&wowzasessionid=3065204218&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5$$lsname=ODISSEIA (HTTP)</link>
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/odisseia$$lsname=ODISSEIA (Sports Devil)</link>
+
 <thumbnail>http://i.imgur.com/QyFiRiO.png</thumbnail></item>
 
 
@@ -1105,6 +1127,7 @@
 
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/mtv$$lsname=MTV (Sports Devil)</link>
+
 <thumbnail>http://i.imgur.com/5u1u9oO.png?1</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TRACE URBAN[/B][/COLOR]</title>
@@ -1170,21 +1193,21 @@
 
 <thumbnail>http://i.imgur.com/DzLrn28.png</thumbnail></item>
 
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BAND[/B][/COLOR]</title>
 
 
 
+<link>http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8$$lsname=BAND (HTTP)</link>
 
 
-
-
-
+<thumbnail>http://i.imgur.com/o1qPwNa.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] REDE TV[/B][/COLOR]</title>
 
 
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1662.ts;streamtype=TSDOWNLOADER&amp;name=REDE TV (by TeamBlue)$$lsname=REDE TV (F4M) source #3</link>
 <link>http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8$$lsname=REDE TV (HTTP)</link>
-<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1?Grupo_UP_e_DOWN$$lsname=REDE TV (RTMP)</link>
+
 
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png</thumbnail></item>
 
