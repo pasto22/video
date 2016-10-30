@@ -21,8 +21,8 @@ http://live.impresa.pt/live/sic/sic540p.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo=http://i.imgur.com/PM9mIG3.png,SIC MULHER
+http://178.162.199.25:8088/live/sicm02/playlist.m3u8?id=85250&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
 
@@ -31,6 +31,12 @@ http://live.impresa.pt/live/sic/sic540p.m3u8
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/nYX9hTR.png,TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/1OKBioL.png,TVI FICCAO
+http://95.211.210.100:8088/live/tvicrl/playlist.m3u8?id=24273&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
+
+
+#EXTINF:-1 tvg-logo=http://i.imgur.com/4PpSPX6.png,PORTO CANAL
+http://178.162.199.73:8088/live/portocanalv/playlist.m3u8?id=86583&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
 
@@ -59,6 +65,12 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=http://i.imgur.com/QDCk6tH.png,AXN WHITE
+http://81.171.6.228:8088/live/axnwhitex/playlist.m3u8?id=84774&wowzasessionid=3967137786&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
+
+
+#EXTINF:-1 tvg-logo=http://i.imgur.com/X4XkCez.png,FOX
+http://5.79.101.6:8088/live/foxcrl/playlist.m3u8?id=24274&wowzasessionid=271262080&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
 
@@ -71,20 +83,8 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo=http://i.imgur.com/0imsO3D.png,TV CINE 1
+http://tvc1-pedro-solder.blogspot.nl/
 
 
 
@@ -1061,8 +1061,8 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/GM9BhHH.png,SKY SPORT 1
-http://37.187.164.175:8080/mike/mike/33.ch
+
+
 
 
 
@@ -1115,12 +1115,12 @@ http://37.187.164.175:8080/mike/mike/33.ch
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/d3Jhv5k.png,USA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/aa/abc_np.png,ABC NEWS
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
 
 
-#EXTINF:-1 tvg-logo=,AMAZING MUSIC
-http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8
+
+
 
 
 
@@ -1131,12 +1131,12 @@ http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/EuQiOf1.png,CARTOON NETWORK
-http://31.204.152.6:8081/live/discoverykids/playlist.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/X0YowUz.png,CBS REALITY
-http://31.204.152.6:8081/live/disney/playlist.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/3CJSygl.png,CNBC
-http://31.204.152.6:8081/live/cartoonk/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png,CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/index_4000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo=http://i.imgur.com/9cnjX88.png,CNN
@@ -1153,8 +1153,6 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/CZvsFYH.png,DISNEY JUNIOR
-http://31.204.128.104:8081/live/sptv/playlist.m3u8
 
 
 
@@ -1181,25 +1179,27 @@ http://31.204.128.104:8081/live/sptv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/hh/hbo_comedy_east.png,HBO COMEDY
-http://31.204.152.6:8081/live/pfc/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/5u1u9oO.png?1,MTV
-http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/UPqfbBu.png,NATIONAL GEOGRAPHIC
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/nn/nba_tv_us.png,NBA TV
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png,NBA TV
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/nn/nbc_sports_network.png,NBC SPORT
-http://213.163.65.9:8081/live/sportv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/nn/nfl_network_us.png,NFL NETWORK
+
+
+#EXTINF:-1 tvg-logo=http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png,NFL NETWORK
 http://37.187.164.175:8080/mike/mike/4.ch
 
 
@@ -1213,8 +1213,8 @@ http://37.187.164.175:8080/mike/mike/4.ch
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/ZfEc8g5.png,TLC
-http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
+
+
 
 
 
