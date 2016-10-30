@@ -22,7 +22,7 @@ http://live.impresa.pt/live/sic/sic540p.m3u8
 
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/PM9mIG3.png,SIC MULHER
-http://178.162.199.25:8088/live/sicm02/playlist.m3u8?id=85250&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
+http://95.211.175.163:8088/live/sicm02/playlist.m3u8?id=85250&wowzasessionid=3931904031&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
 
@@ -32,7 +32,7 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/nYX9hTR.png,TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/1OKBioL.png,TVI FICCAO
-http://95.211.210.100:8088/live/tvicrl/playlist.m3u8?id=24273&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
+http://178.162.199.131:8088/live/sdddss/playlist.m3u8?id=89130&wowzasessionid=402077669&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/4PpSPX6.png,PORTO CANAL
@@ -45,12 +45,12 @@ http://178.162.199.73:8088/live/portocanalv/playlist.m3u8?id=86583&pk=5557205e6b
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo=http://i.imgur.com/3rjsCFB.png,SPORT TV 1
+http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 tvg-logo=http://i.imgur.com/fsgRDjH.png,SPORT TV 2
+http://cdn.widestream.io:8081/shareedge/live2-bipmr/chunks.m3u8?nimblesessionid=2560448&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA1OjUwOjQyIFBNJmhhc2hfdmFsdWU9Ujh0Zk9vbllrZUlPZmRjSWt1SkZ3Zz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-logo=http://i.imgur.com/XvI6JNr.png,SPORT TV 3
+http://cdn.widestream.io:8081/shareedge/live3-qszlx/chunks.m3u8?nimblesessionid=2560531&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA1OjUxOjE1IFBNJmhhc2hfdmFsdWU9MERNVDVmVXpIOGlkU2RBYlBHUEhPZz09JnZhbGlkbWludXRlcz0yMA==
 
 
 
@@ -301,8 +301,8 @@ http://37.187.164.175:8080/mike/mike/204.ch
 
 
 
-
-
+#EXTINF:-1 tvg-logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg,MOVISTAR MOTOGP
+http://cdn.sitenow.me/live/tvb117/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0
 
 
 
@@ -331,8 +331,8 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL257/PROFILE03.m3u8
 http://latino-webtv.ml:8880/tpmariocs/CANAL496/PROFILE03.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo=http://i.imgur.com/unT3Jrz.png,TELEDEPORTE
+http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0
 #EXTINF:-1 tvg-logo=https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/t/55dc67d3e4b025d475d026d7/1440507859238/tnt-fpb-channel-lineup,TNT
 http://latino-webtv.ml:8880/tpmariocs/CANAL482/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/zXT4FCD.png,TV GALICIA
@@ -541,12 +541,12 @@ http://0.0.0.1234
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo=http://i.imgur.com/UNGRg6Q.png,beiN SPORTS 1
+http://149.202.207.8:8080/KuRtllyAmbr00wsbhensfn-1/Strm/index.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/AZSqeFo.png,beiN SPORTS 2
+http://149.202.207.8:8080/KuRtllyAmbr00wsbhensfn-2/Strm/index.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/ouI3hiP.png,beiN SPORTS 3
+http://149.202.207.8:8080/KuRtllyAmbr00wsbhensfn-3/Strm/index.m3u8
 
 
 
@@ -770,9 +770,9 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 
 #EXTINF:-1 tvg-logo=http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png,BT SPORT ESPN
-http://37.187.164.175:8080/mike/mike/202.ch
+http://149.202.207.8:8080/KuRtllyAmbr00wsbteiSsepn/Strm/index.m3u8
 #EXTINF:-1 tvg-logo=http://sport.bt.com/s/assets/ucl/images/btsport3.png,BT SPORT 3
-http://37.187.164.175:8080/mike/mike/31.ch
+http://149.202.207.8:8080/KuRtllyAmbr00wsbeETy-U/Strm/index.m3u8
 
 
 
@@ -822,11 +822,11 @@ http://37.187.164.175:8080/mike/mike/31.ch
 
 
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png,ITV 1
-http://37.187.164.175:8080/mike/mike/290.ch
-
-
-
-
+http://149.202.207.8:8080/KuRtllyAmbr00wseyeTeV-1/Strm/index.m3u8
+#EXTINF:-1 tvg-logo=http://vignette2.wikia.nocookie.net/logopedia/images/8/86/ITV2_logo_2015.png/revision/latest?cb=20150812102407,ITV 2
+http://149.202.207.8:8080/KuRtllyAmbr00wseyeTeV-2/Strm/index.m3u8
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ITV3_logo_2013.svg/2000px-ITV3_logo_2013.svg.png,ITV 3
+http://149.202.207.8:8080/KuRtllyAmbr00wseyeTeV-3/Strm/index.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITV4_logo_2013.svg/2000px-ITV4_logo_2013.svg.png,ITV 4
 http://37.187.164.175:8080/mike/mike/292.ch
 #EXTINF:-1 tvg-logo=http://i.imgur.com/kQ7wwBO.png,MOTORS TV
@@ -1175,8 +1175,8 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P
 
 
 
-
-
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png,FOX SPORTS 1
+http://149.202.207.8:8080/KuRtllyAmbr00wsf00cs-sp-1/Strm/index.m3u8
 
 
 
@@ -1217,20 +1217,20 @@ http://37.187.164.175:8080/mike/mike/4.ch
 
 
 
+#N/D
+http://149.202.207.8:8080/KuRtllyAmbr00ws/teesn1/index.m3u8
+#N/D
+http://149.202.207.8:8080/KuRtllyAmbr00ws/teesn2/index.m3u8
+#N/D
+http://149.202.207.8:8080/KuRtllyAmbr00ws/teesn3/index.m3u8
+#N/D
+http://149.202.207.8:8080/KuRtllyAmbr00ws/teesn4/index.m3u8
+#N/D
+http://149.202.207.8:8080/KuRtllyAmbr00ws/teesn5/index.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo=http://vignette4.wikia.nocookie.net/logopedia/images/d/df/Wwenetworktransparent.png/revision/latest?cb=20140819192906,WWE NETWORK
+http://149.202.207.8:8080/KuRtllyAmbr00wsdublewoo3/Strm/index.m3u8
 #EXTINF:-1 tvg-logo=http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Network (National)
 http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1 tvg-logo=http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Arizona
