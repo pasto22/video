@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
+<item>
+<title>CENTO x CENTO</title>
 
 
 
@@ -11,6 +11,25 @@
 
 <link>plugin://program.plexus/?url=acestream://19d66af49c72e53d1e0417d45a5fbc062f9020b1&amp;mode=1&amp;name=acestream+ADULTSCENTO x CENTO$$lsname=source #5 (Plexus)</link>
 <parentalblock>true</parentalblock>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Cento-X-Cento-TV_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>BRAZZERS</title>
+
+
+
+
+
+
+
+
+
+
+<link>http://93.87.85.70/PLTV/88888888/224/3221226769/04.m3u8$$lsname=source #6 (HTTP)</link>
+<parentalblock>true</parentalblock>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/09/Brazzers-logo.png</thumbnail>
+</item>
 
 
 
@@ -43,9 +62,8 @@
 
 
 
-
-
-
+<item>
+<title>EXOTICA TV</title>
 
 
 
@@ -56,26 +74,26 @@
 
 <link>plugin://program.plexus/?url=acestream://5ae96eac79eb1a81ccadf2a522c7d0291ddcc8df&amp;mode=1&amp;name=acestream+ADULTSEXOTICA TV$$lsname=source #5 (Plexus)</link>
 <parentalblock>true</parentalblock>
-
-
+<thumbnail>http://stv.ee/images/chlogos/exotica_tv.png</thumbnail>
+</item>
 
 <item>
 <title>HOT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1585.ts;streamtype=TSDOWNLOADER&amp;name=HOT$$lsname=source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1585.ts;streamtype=TSDOWNLOADER&amp;name=HOT$$lsname=source #1 (F4M)</link>
 <parentalblock>true</parentalblock>
 
 
 
 
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=hot$$lsname=source #4</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.europeu2016.net/index.php?canal=hot$$lsname=source #4 (Sports Devil)</link>
 <parentalblock>true</parentalblock>
 
 
 <thumbnail>http://i.imgur.com/PNlKIGF.png</thumbnail>
 </item>
 
-
-
+<item>
+<title>HUSTLER</title>
 
 
 
@@ -86,12 +104,12 @@
 
 <link>plugin://program.plexus/?url=acestream://46c236f960ed522de871249a3e2ef739a898d2d1&amp;mode=1&amp;name=acestream+ADULTSHUSTLER$$lsname=source #5 (Plexus)</link>
 <parentalblock>true</parentalblock>
-
-
+<thumbnail>http://i.imgur.com/AjzCkE3.png</thumbnail>
+</item>
 
 <item>
 <title>JASMIN.TV</title>
-<link>http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?www.jasmin.com$$lsname=source #5 (Plexus)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?www.jasmin.com;streamtype=TSDOWNLOADER&amp;name=JASMIN.TV$$lsname=source #1 (F4M)</link>
 <parentalblock>true</parentalblock>
 
 
@@ -101,21 +119,25 @@
 
 
 
+<link>http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1068947352.m3u8$$lsname=source #6 (HTTP)</link>
+<parentalblock>true</parentalblock>
 <thumbnail>http://i.imgur.com/WsQdmim.jpg</thumbnail>
 </item>
 
 <item>
 <title>MCS EXTREME</title>
-<link>http://78.46.64.13:1935/tv3/myStream/playlist.m3u8$$lsname=source #5 (Plexus)</link>
+
+
+
+
+
+
+
+
+
+
+<link>http://78.46.64.13:1935/tv3/myStream/playlist.m3u8$$lsname=source #6 (HTTP)</link>
 <parentalblock>true</parentalblock>
-
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/15/MCS-Extreme.png</thumbnail>
 </item>
 
@@ -136,8 +158,8 @@
 
 <item>
 <title>NUART</title>
-
-
+<link>plugin://plugin.video.f4mTester/?url= ;streamtype=TSDOWNLOADER&amp;name=NUART$$lsname=source #1 (F4M)</link>
+<parentalblock>true</parentalblock>
 
 
 
@@ -151,8 +173,8 @@
 
 <item>
 <title>OLALA</title>
-
-
+<link>plugin://plugin.video.f4mTester/?url= ;streamtype=TSDOWNLOADER&amp;name=OLALA$$lsname=source #1 (F4M)</link>
+<parentalblock>true</parentalblock>
 
 
 
@@ -181,8 +203,10 @@
 
 <item>
 <title>PENTHOUSE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://765hub.com:8080/live/Mete/Kurt/2334.ts;streamtype=TSDOWNLOADER&amp;name=PENTHOUSE$$lsname=source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://765hub.com:8080/live/Mete/Kurt/2334.ts;streamtype=TSDOWNLOADER&amp;name=PENTHOUSE$$lsname=source #1 (F4M)</link>
 <parentalblock>true</parentalblock>
+
+
 
 
 
@@ -194,8 +218,8 @@
 <thumbnail>http://i.imgur.com/knluNWt.png</thumbnail>
 </item>
 
-
-
+<item>
+<title>PINK' O</title>
 
 
 
@@ -206,20 +230,22 @@
 
 <link>plugin://program.plexus/?url=acestream://eb0df712bc47e1b2f008c93026add7639e2c613c&amp;mode=1&amp;name=acestream+ADULTSPINK' O$$lsname=source #5 (Plexus)</link>
 <parentalblock>true</parentalblock>
-
-
+<thumbnail>http://i.imgur.com/UHpPAG7.png</thumbnail>
+</item>
 
 <item>
 <title>PLAYBOY TV</title>
-<link>http://93.87.85.70/PLTV/88888888/224/3221226770/04.m3u8$$lsname=source #5 (Plexus)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://93.87.85.70/PLTV/88888888/224/3221226770/04.m3u8;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV$$lsname=source #1 (F4M)</link>
 <parentalblock>true</parentalblock>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1584.ts;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV$$lsname=source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1584.ts;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV$$lsname=source #2 (F4M)</link>
 <parentalblock>true</parentalblock>
 
 
 
 
 <link>plugin://program.plexus/?url=acestream://408bc64df7d6ea05ed53b34d690be69ee09f8d4f&amp;mode=1&amp;name=acestream+ADULTSPLAYBOY TV$$lsname=source #5 (Plexus)</link>
+<parentalblock>true</parentalblock>
+<link>http://93.87.85.70/PLTV/88888888/224/3221226770/04.m3u8$$lsname=source #6 (HTTP)</link>
 <parentalblock>true</parentalblock>
 <thumbnail>http://i.imgur.com/aWVrG8f.png</thumbnail>
 </item>
@@ -250,7 +276,6 @@
 
 
 
-<link>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=acestream+ADULTSREDLIGHT$$lsname=source #5 (Plexus)</link>
 
 
 
@@ -265,8 +290,6 @@
 
 
 
-<link>plugin://program.plexus/?url=acestream://38d528f9e3b5fcaf1bd2b83803280379f0a05fdc&amp;mode=1&amp;name=acestream+ADULTSSCT$$lsname=source #5 (Plexus)</link>
-<parentalblock>true</parentalblock>
 
 
 
@@ -280,8 +303,10 @@
 
 
 
-<link>plugin://program.plexus/?url=acestream://38e8b5eee8858a5b4a6ffe1fdf779efe8c42649a&amp;mode=1&amp;name=acestream+ADULTSSEXTO SENSO$$lsname=source #5 (Plexus)</link>
-<parentalblock>true</parentalblock>
+
+
+
+
 
 
 
@@ -302,7 +327,7 @@
 
 <item>
 <title>VENUS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1586.ts;streamtype=TSDOWNLOADER&amp;name=VENUS$$lsname=source #1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1586.ts;streamtype=TSDOWNLOADER&amp;name=VENUS$$lsname=source #1 (F4M)</link>
 <parentalblock>true</parentalblock>
 
 
@@ -316,246 +341,114 @@
 </item>
 
 <item>
-<title>VOD: La France a Poil 01</title>
-<link>http://dlfr2.cdntlsv.com/6582511a11a90ccc06119d4a84218d36.mp4</link>
+<title>VOD: La France a Poil</title>
+<link>http://dlfr2.cdntlsv.com/6582511a11a90ccc06119d4a84218d36.mp4$$lsname=La France a Poil 01</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr2.cdntlsv.com/134d0295547459a32a3e546ca1065496.mp4$$lsname=La France a Poil 02</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/300ed1fc5e5b83d68c42689a75e3026b.mp4$$lsname=La France a Poil 03</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/8508c012c370489d39c2a7c90e76bc77.mp4$$lsname=La France a Poil 04</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/067b6ed95858e1a11f10e5765810b3f2.mp4$$lsname=La France a Poil 05</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/759127a932bd2af3cc7528eb839d09ff.mp4$$lsname=La France a Poil 06</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr2.cdntlsv.com/2ca219310f02a1f5f02d64dde4fdf761.mp4$$lsname=La France a Poil 07</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr2.cdntlsv.com/909ab898d448ae1729319315b18f701a.mp4$$lsname=La France a Poil 08</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr2.cdntlsv.com/4b0c2474c8a1607f810fc953c92f6a13.mp4$$lsname=La France a Poil 09</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr2.cdntlsv.com/092985895324a46a93045f4333e1e753.mp4$$lsname=La France a Poil 10</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/6a58c568af66c2220b63d67e94398483.mp4$$lsname=La France a Poil 11</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/05906a11b48b92ed0f994a3a056a1b05.mp4$$lsname=La France a Poil 12</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr2.cdntlsv.com/6582511a11a90ccc06119d4a84218d36.mp4$$lsname=La France a Poil 13</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr2.cdntlsv.com/092985895324a46a93045f4333e1e753.mp4$$lsname=La France a Poil 14</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/6a58c568af66c2220b63d67e94398483.mp4$$lsname=La France a Poil 15</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/05906a11b48b92ed0f994a3a056a1b05.mp4$$lsname=La France a Poil 16</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr2.cdntlsv.com/134d0295547459a32a3e546ca1065496.mp4$$lsname=La France a Poil 17</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/300ed1fc5e5b83d68c42689a75e3026b.mp4$$lsname=La France a Poil 18</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/8508c012c370489d39c2a7c90e76bc77.mp4$$lsname=La France a Poil 19</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/067b6ed95858e1a11f10e5765810b3f2.mp4$$lsname=La France a Poil 20</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr3.cdntlsv.com/759127a932bd2af3cc7528eb839d09ff.mp4 $$lsname=La France a Poil 21</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr2.cdntlsv.com/2ca219310f02a1f5f02d64dde4fdf761.mp4$$lsname=La France a Poil 22</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr2.cdntlsv.com/909ab898d448ae1729319315b18f701a.mp4$$lsname=La France a Poil 23</link>
+<parentalblock>true</parentalblock>
+<link>http://dlfr2.cdntlsv.com/4b0c2474c8a1607f810fc953c92f6a13.mp4$$lsname= </link>
 <parentalblock>true</parentalblock>
 <thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
 </item>
 
 <item>
-<title>VOD: La France a Poil 02</title>
-<link>http://dlfr2.cdntlsv.com/134d0295547459a32a3e546ca1065496.mp4</link>
+<title>VOD: VIDEOS  4K</title>
+<link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4$$lsname=21214</link>
 <parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 03</title>
-<link>http://dlfr3.cdntlsv.com/300ed1fc5e5b83d68c42689a75e3026b.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 04</title>
-<link>http://dlfr3.cdntlsv.com/8508c012c370489d39c2a7c90e76bc77.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 05</title>
-<link>http://dlfr3.cdntlsv.com/067b6ed95858e1a11f10e5765810b3f2.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 06</title>
-<link>http://dlfr3.cdntlsv.com/759127a932bd2af3cc7528eb839d09ff.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 07</title>
-<link>http://dlfr2.cdntlsv.com/2ca219310f02a1f5f02d64dde4fdf761.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 08</title>
-<link>http://dlfr2.cdntlsv.com/909ab898d448ae1729319315b18f701a.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 09</title>
-<link>http://dlfr2.cdntlsv.com/4b0c2474c8a1607f810fc953c92f6a13.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 10</title>
-<link>http://dlfr2.cdntlsv.com/092985895324a46a93045f4333e1e753.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 11</title>
-<link>http://dlfr3.cdntlsv.com/6a58c568af66c2220b63d67e94398483.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 12</title>
-<link>http://dlfr3.cdntlsv.com/05906a11b48b92ed0f994a3a056a1b05.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 13</title>
-<link>http://dlfr2.cdntlsv.com/6582511a11a90ccc06119d4a84218d36.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 14</title>
-<link>http://dlfr2.cdntlsv.com/092985895324a46a93045f4333e1e753.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 15</title>
-<link>http://dlfr3.cdntlsv.com/6a58c568af66c2220b63d67e94398483.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 16</title>
-<link>http://dlfr3.cdntlsv.com/05906a11b48b92ed0f994a3a056a1b05.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 17</title>
-<link>http://dlfr2.cdntlsv.com/134d0295547459a32a3e546ca1065496.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 18</title>
-<link>http://dlfr3.cdntlsv.com/300ed1fc5e5b83d68c42689a75e3026b.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 19</title>
-<link>http://dlfr3.cdntlsv.com/8508c012c370489d39c2a7c90e76bc77.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 20</title>
-<link>http://dlfr3.cdntlsv.com/067b6ed95858e1a11f10e5765810b3f2.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 21</title>
-<link>http://dlfr3.cdntlsv.com/759127a932bd2af3cc7528eb839d09ff.mp4 </link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 22</title>
-<link>http://dlfr2.cdntlsv.com/2ca219310f02a1f5f02d64dde4fdf761.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 23</title>
-<link>http://dlfr2.cdntlsv.com/909ab898d448ae1729319315b18f701a.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: La France a Poil 24</title>
-<link>http://dlfr2.cdntlsv.com/4b0c2474c8a1607f810fc953c92f6a13.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: VIDEO  4K: 021214</title>
-<link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: VIDEO  4K: 030414</title>
 <link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4</link>
 <parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: VIDEO  4K: 030514</title>
 <link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4</link>
 <parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: VIDEO  4K: 030614</title>
 <link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4</link>
 <parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: VIDEO  4K: 031914</title>
 <link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4</link>
 <parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: VIDEO  4K: 032514</title>
 <link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4</link>
 <parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: VIDEO  4K: 040314</title>
 <link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4</link>
 <parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: VIDEO  4K: 040414</title>
 <link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4</link>
 <parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: VIDEO  4K: 061914</title>
 <link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4</link>
 <parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
-</item>
-
-<item>
-<title>VOD: VIDEO  4K: 071414</title>
 <link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4</link>
+<parentalblock>true</parentalblock>
+<link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4</link>
 <parentalblock>true</parentalblock>
 <thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
 </item>
 
 <item>
-<title>VOD: VIDEO  4K: 22714</title>
-<link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4</link>
+<title>VOD: VIDEOS  XXL</title>
+<link>http://drainmainvein.com/media/videos/mp4/1736.mp4$$lsname=1736</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1737.mp4$$lsname=1737</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1738.mp4$$lsname=1738</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1739.mp4$$lsname=1739</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1740.mp4$$lsname=1740</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1741.mp4$$lsname=1741</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1742.mp4$$lsname=1742</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1743.mp4$$lsname=1743</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1744.mp4$$lsname=1744</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1745.mp4$$lsname=1745</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1746.mp4$$lsname=1746</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1747.mp4$$lsname=1747</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1748.mp4$$lsname=1748</link>
+<parentalblock>true</parentalblock>
+<link>http://drainmainvein.com/media/videos/mp4/1749.mp4$$lsname=1749</link>
 <parentalblock>true</parentalblock>
 <thumbnail>http://i.imgur.com/grFgBdy.png</thumbnail>
 </item>
