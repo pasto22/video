@@ -6,7 +6,7 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlis
 #EXTINF:-1 tvg-logo=http://i.imgur.com/UqZdQqJ.png,RTP 3
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 #EXTINF:-1 tvg-logo=http://i.imgur.com/om9BKuk.png,RTP ACORES
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/chunklist_b600000_slpt.m3u8
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 #EXTINF:-1 tvg-logo=http://i.imgur.com/YWi6NzU.png,RTP AFRICA
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 #EXTINF:-1 tvg-logo=http://i.imgur.com/YPL4ncR.png,RTP INTERNACIONAL
@@ -21,8 +21,8 @@ http://live.impresa.pt/live/sic/sic540p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/PM9mIG3.png,SIC MULHER
-http://95.211.168.17:8088/live/sicm02/playlist.m3u8?id=85250&wowzasessionid=546724412&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
+
+
 
 
 
@@ -31,22 +31,22 @@ http://95.211.168.17:8088/live/sicm02/playlist.m3u8?id=85250&wowzasessionid=5467
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/nYX9hTR.png,TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/1OKBioL.png,TVI FICCAO
-http://163.172.40.71/loadbalance/83133496787987943466/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiA0OjA1OjI1IFBNJmhhc2hfdmFsdWU9a1VsK0lCVzFYNFJ0U2FNaVdtTitTQT09JnZhbGlkbWludXRlcz0x
-#EXTINF:-1 tvg-logo=http://i.imgur.com/qQcrbID.png,TVI REALITY
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1656.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/4PpSPX6.png,PORTO CANAL
-rtsp://213.13.26.41:1935/live/portocanal
-#EXTINF:-1 tvg-logo=http://i.imgur.com/dMiWcSV.png,CM TV
-http://163.172.41.33/loadbalance/14754455842767291813/chunks.m3u8?nimblesessionid=6173056&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjQyOjQzIFBNJmhhc2hfdmFsdWU9T0ErREp6Z0E2eWk5cFVtN2pJdlA2dz09JnZhbGlkbWludXRlcz0x
 
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/024GQz7.png,EUROSPORT 1
-http://163.172.39.15/loadbalance/32781197683698314555/chunks.m3u8?nimblesessionid=2638317&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiAzOjUyOjM4IFBNJmhhc2hfdmFsdWU9MTlwT3J0cDIxQmZ0akVaWW5IYVlIUT09JnZhbGlkbWludXRlcz0x
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo=http://i.imgur.com/3rjsCFB.png,SPORT TV 1
-http://163.172.217.53:8000/live/5grandiptv915/67863345/788.m3u8
+http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAxMToyMDozOCBBTSZoYXNoX3ZhbHVlPVAwY25ma2U2eUUwbkcvZ2hXcnRLNlE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 
 
@@ -69,16 +69,16 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/788.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/X4XkCez.png,FOX
-http://163.172.35.253/loadbalance/68577615587962213319/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiA0OjA4OjA0IFBNJmhhc2hfdmFsdWU9aFplZGsrU2toSVpXdjB2OGd0clR0dz09JnZhbGlkbWludXRlcz0x
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/Q8uJUlH.png,FOX CRIME
-http://178.162.199.25:8088/live/foxcrimex/playlist.m3u8?id=84766&wowzasessionid=3243171094&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
-#EXTINF:-1 tvg-logo=http://i.imgur.com/giiQxbn.png,FOX LIFE
-http://163.172.60.35/loadbalance/85565955375174438343/chunks.m3u8?nimblesessionid=3160098&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiA0OjEwOjAzIFBNJmhhc2hfdmFsdWU9cjJOc1FaWEFoU1dCa1Vhd21JQVFHUT09JnZhbGlkbWludXRlcz0x
-#EXTINF:-1 tvg-logo=http://i.imgur.com/gbjSBds.png,FOX MOVIES
-http://163.172.24.207/loadbalance/49776879276343575596/chunks.m3u8?nimblesessionid=8255787&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiA0OjEzOjAzIFBNJmhhc2hfdmFsdWU9c2hwSEJRQSszOXlMSHNYR21Va2dQdz09JnZhbGlkbWludXRlcz0x
+
+
+
+
+
+
+
+
 
 
 
@@ -121,12 +121,12 @@ http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/gvtBP6j.png,DISCOVERY
-http://163.172.40.163/loadbalance/75544527844146811674/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiA0OjE3OjI4IFBNJmhhc2hfdmFsdWU9SGo4LzVDVHIzU0Erc1VYNklmeWR3UT09JnZhbGlkbWludXRlcz0x
-#EXTINF:-1 tvg-logo=http://i.imgur.com/g5uYzpc.png,HISTORIA
-http://163.172.60.49/loadbalance/48857514988963326694/chunks.m3u8?nimblesessionid=2835166&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxNiA0OjE1OjI1IFBNJmhhc2hfdmFsdWU9SUV0S2JTbkhJS0RaaDJ6eGlWRGdBQT09JnZhbGlkbWludXRlcz0x
-#EXTINF:-1 tvg-logo=http://i.imgur.com/QyFiRiO.png,ODISSEIA
-http://178.162.199.73:8088/live/odisseiax/playlist.m3u8?id=84765&wowzasessionid=3065204218&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
+
+
+
+
+
+
 
 
 
@@ -149,24 +149,24 @@ https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_ae
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/eo6n0fp.png,RECORD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/766.m3u8
+
+
 #EXTINF:-1 tvg-logo=http://i.imgur.com/RWZ8Pdl.png,RECORD NEWS
 http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/FKY3gsx.png,GLOBO PORTUGAL
-http://163.172.217.53:8000/live/5grandiptv915/67863345/1660.m3u8
+
+
 #EXTINF:-1 tvg-logo=http://i.imgur.com/IpdLuL6.png,SBT
 http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png,REDE TV
-http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+
+
 #EXTINF:-1 tvg-logo=http://i.imgur.com/o1qPwNa.png,BAND
-http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/hFOEDRM.png,PFC
-http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo=http://webtv.autohoje.com/images/autohoje-tv.gif,AUTO HOJE TV
 mms://195.22.25.134/mpltv  
 #EXTINF:-1 tvg-logo=http://i.imgur.com/heRTGFa.png,TV LISBOA
-http://213.13.26.11:1935/live/tvldireto/TEAMBLUE.m3u
+http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/OhbAhcZ.png,BRASIL
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo=http://i.imgur.com/FKY3gsx.png,GLOBO
@@ -175,20 +175,20 @@ http://31.204.128.104:8081/live/sptv/playlist.m3u8
 http://v.pool.us.wse-1.srvstream.com:1935/oncafebrasil2015/oncafebrasil2015_720p/live.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/o1qPwNa.png,BAND
 http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8
-#EXTINF:-1 tvg-logo=http://1.bp.blogspot.com/-WmYzlTdVfmI/VnMU0vyEBPI/AAAAAAAAmZY/jVEE42PWg3E/s1600/bandnews.png,BAND NEWS
-http://evce.mm.uol.com.br:1935/band/bandnews/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo=http://i.imgur.com/eo6n0fp.png,RECORD SP
 http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png,REDE TV
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/2000px-TV_Cultura.svg.png,TV CULTURA
 http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/EuQiOf1.png,CARTOON NETWORK
-http://31.204.152.6:8081/live/cartoonk/chunks.m3u8?nimblesessionid=26268031
-#EXTINF:-1 tvg-logo=http://i.imgur.com/g0UK661.png,DISNEY CHANNEL
+
+
+
+
+#EXTINF:-1 tvg-logo=http://i.imgur.com/CZvsFYH.png,DISNEY JUNIOR
 http://31.204.152.6:8081/live/disney/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo=http://vignette1.wikia.nocookie.net/logopedia/images/3/3c/Discovery_Kids_logo_2016_2D.png/revision/latest?cb=20161004155531,DISCOVERY KIDS
 http://31.204.152.6:8081/live/discoverykids/playlist.m3u8
 
@@ -203,8 +203,8 @@ http://31.204.152.6:8081/live/sportv2/playlist.m3u8
 http://213.163.65.9:8081/live/espnbr/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/hFOEDRM.png,PFC
 http://31.204.152.6:8081/live/pfc/playlist.m3u8
-#EXTINF:-1 tvg-logo=http://i.imgur.com/SEZKowx.png,FOX SPORTS 1
-http://213.163.65.9:8081/live/foxsport/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo=http://i.imgur.com/FrdCQPP.png,FOX SPORTS 2
 http://latino-webtv.ml:8880/tpmariocs/CANAL527/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/xYc7NIA.png,ESPANHA
@@ -301,8 +301,8 @@ http://37.187.164.175:8080/mike/mike/204.ch
 
 
 
-#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/mm/movistar_es_moto_gp.png,MOVISTAR MOTOGP
-http://cdn.sitenow.me/live/tvb117/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&Accept-Encoding=gzip,deflate&DNT=1&Referer=http://www.playerapp1.pw/&Connection=keep-alive&Icy-Metadata=0
+
+
 
 
 
@@ -541,10 +541,10 @@ http://0.0.0.1234
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo=http://i.imgur.com/UNGRg6Q.png,beiN SPORTS 1
+http://213.152.180.140:8081/live/mamahdbeinfr1.m3u8?e=1477800752&st=hR97hywPYKFVPHvXtGX_lQ
+#EXTINF:-1 tvg-logo=http://i.imgur.com/AZSqeFo.png,beiN SPORTS 2
+http://134.19.187.60:8081/live/mamahdbeinfr2.m3u8?e=1477775346&st=3E0gupgliPUz6eKWpS_NYw
 
 
 
@@ -612,11 +612,11 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 
 
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/ff/france2.png,FRANCE 2
-http://213.200.110.119/live/1717.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d39977e56e3e74c7be1ce8648059e951bdcee5bc985e15ba9ee30873b9d5416dda069265474d9c8d7a420d0b21c43e91373a12bab5c2787031b3a53eb3b1c8a5968a
+http://213.200.110.119/live/1717.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d39977e56e3e74c7be1ce8648059e951bdcee5bc985e15ba9ee30873b9d5416dda069265474d9c8d7a420d0b21c43e91373a12bab5c2787031b3a53eb3b1c8a5968a26bba7f7acf1445b2fe6923f76a724977465ce5abc3385670989937ef31487631f036cf4563f4e75873a0ced5e1b5db4b65d1548a37245
 #EXTINF:-1 tvg-logo=http://i.imgur.com/d4783ZP.png,FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/ff/france3.png,FRANCE 3
-http://live-823.gv2.edge.filmon.com/live/1723.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d39977e56e3e74c7be1ce8648059e951bdcee5bc985e15ba9ee30873b9d5416dda069265474d9c8d7a420d0b21c43e91373a12bab5c2787031b3a53
+http://live-823.gv2.edge.filmon.com/live/1723.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d39977e56e3e74c7be1ce8648059e951bdcee5bc985e15ba9ee30873b9d5416dda069265474d9c8d7a420d0b21c43e91373a12bab5c2787031b3a53eb3b1c8a596deded04247c508e62e392bdd81d04516f52e5cce8cfb8d5535c941489d06a31ecd40cbf8e905e1622d95efd71164046fb411380f10d78a1a
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/ff/france4.png,FRANCE 4
 http://opus.re/al/tkn/w/17d427c0dc17011ece8783884a4ab908e108cf42/france4_1@97330/index_900_av-p.m3u8?srvid=p100
 
@@ -766,11 +766,13 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/rto6R1B.png,BT SPORT 1
-http://service1.astrovida.tv:8000/live/testapp/testapp/4808.m3u8?id=BT_Sport_1
+http://37.187.164.175:8080/mike/mike/84.ch
 
 
 #EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/bb/bt_sport_uk_espn.png,BT SPORT ESPN
-http://service1.astrovida.tv:8000/live/testapp/testapp/4806.m3u8?id=bt_sports
+http://37.187.164.175:8080/mike/mike/202.ch
+#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/hires/bb/bt_sport_uk_europe.png,BT SPORT EUROPE
+http://37.187.164.175:8080/mike/mike/31.ch
 
 
 
@@ -819,18 +821,16 @@ http://service1.astrovida.tv:8000/live/testapp/testapp/4806.m3u8?id=bt_sports
 
 
 
+#EXTINF:-1 tvg-logo=http://www.andrewlloydwebber.com/wp-content/uploads/2012/09/145.gif,ITV 1
+http://37.187.164.175:8080/mike/mike/290.ch
+#EXTINF:-1 tvg-logo=http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/itv2_logo_new_2015.jpg,ITV 2
+http://37.187.164.175:8080/mike/mike/291.ch
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo=data:image/png;base64,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,ITV 4
+http://37.187.164.175:8080/mike/mike/292.ch
+#EXTINF:-1 tvg-logo=http://i.imgur.com/kQ7wwBO.png,MOTORS TV
+http://37.187.164.175:8080/mike/mike/206.ch
 
 
 
@@ -870,7 +870,7 @@ http://service1.astrovida.tv:8000/live/testapp/testapp/4806.m3u8?id=bt_sports
 
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/GM9BhHH.png,SKY SPORTS 1
-http://service1.astrovida.tv:8000/live/testapp/testapp/4731.m3u8?id=Sky_Sports
+http://78.56.221.9:7059/skysp1
 #EXTINF:-1 tvg-logo=http://i.imgur.com/JM9osWD.png,SKY SPORTS 2
 http://78.56.221.9:7059/skysp2
 #EXTINF:-1 tvg-logo=http://i.imgur.com/CfwpEyD.png,SKY SPORTS 3
@@ -1061,8 +1061,8 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo=http://i.imgur.com/GM9BhHH.png,SKY SPORT 1
+http://37.187.164.175:8080/mike/mike/33.ch
 
 
 
