@@ -45,10 +45,10 @@ http://178.162.199.73:8088/live/portocanalv/playlist.m3u8?id=86583&pk=5557205e6b
 
 
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/3rjsCFB.png,SPORT TV 1
-http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 tvg-logo=http://i.imgur.com/fsgRDjH.png,SPORT TV 2
-http://cdn.widestream.io:8081/shareedge/live2-bipmr/chunks.m3u8?nimblesessionid=2560448&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA1OjUwOjQyIFBNJmhhc2hfdmFsdWU9Ujh0Zk9vbllrZUlPZmRjSWt1SkZ3Zz09JnZhbGlkbWludXRlcz0yMA==
+
+
+
+
 #EXTINF:-1 tvg-logo=http://i.imgur.com/XvI6JNr.png,SPORT TV 3
 http://cdn.widestream.io:8081/shareedge/live3-qszlx/chunks.m3u8?nimblesessionid=2560531&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA1OjUxOjE1IFBNJmhhc2hfdmFsdWU9MERNVDVmVXpIOGlkU2RBYlBHUEhPZz09JnZhbGlkbWludXRlcz0yMA==
 
@@ -59,6 +59,8 @@ http://cdn.widestream.io:8081/shareedge/live3-qszlx/chunks.m3u8?nimblesessionid=
 
 
 
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png,NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 
 
@@ -281,8 +283,8 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL353/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/0Z0iDCF.png,LA SEXTA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-
-
+#N/D
+#N/D
 
 
 
@@ -301,7 +303,7 @@ http://37.187.164.175:8080/mike/mike/204.ch
 
 
 
-#EXTINF:-1 tvg-logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg,MOVISTAR MOTOGP
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/800px-Movistar_Moto_GP.svg.png,MOVISTAR MOTOGP
 http://cdn.sitenow.me/live/tvb117/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0
 
 
@@ -332,7 +334,7 @@ http://latino-webtv.ml:8880/tpmariocs/CANAL496/PROFILE03.m3u8
 
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/unT3Jrz.png,TELEDEPORTE
-http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0
+http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Ic
 #EXTINF:-1 tvg-logo=https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/t/55dc67d3e4b025d475d026d7/1440507859238/tnt-fpb-channel-lineup,TNT
 http://latino-webtv.ml:8880/tpmariocs/CANAL482/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/zXT4FCD.png,TV GALICIA
@@ -345,8 +347,8 @@ http://media3.crtvg.es/live/tvge/vcx7.m3u8
 
 
 
-
-
+#N/D
+#N/D
 #EXTINF:-1 tvg-logo=http://i.imgur.com/i7PS9i4.png,ITALIA
 http://0.0.0.1234
 
@@ -901,8 +903,8 @@ http://0.0.0.1234
 
 
 
-
-
+#N/D
+#N/D
 
 
 
