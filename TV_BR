@@ -6,12 +6,12 @@
 <link>http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8$$lsname=BAND (HTTP)</link>
 <thumbnail>http://i.imgur.com/o1qPwNa.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] GLOBO[/B][/COLOR]</title>
 
 
 
-<link>http://31.204.128.104:8081/live/sptv/playlist.m3u8$$lsname=GLOBO (HTTP)</link>
-<thumbnail>http://i.imgur.com/FKY3gsx.png</thumbnail></item>
+
+
+
 
 
 
@@ -74,7 +74,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1578.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO NEWS (by TeamBlue)$$lsname=GLOBO NEWS (F4M) source #1</link>
 
 
-<link>http://v.pool.us.wse-1.srvstream.com:1935/oncafebrasil2015/oncafebrasil2015_720p/live.m3u8$$lsname=GLOBO NEWS (HTTP)</link>
+
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/globo_news.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RECORD NEWS[/B][/COLOR]</title>
@@ -166,21 +166,21 @@
 
 
 
-<thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo_family_lam.png</thumbnail></item>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO PLUS[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1570.ts;streamtype=TSDOWNLOADER&amp;name=HBO PLUS (by TeamBlue)$$lsname=HBO PLUS (F4M) source #1</link>
 
 
 
-<thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo_plus_lam.png</thumbnail></item>
+<thumbnail>http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO SIGNATURE[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1569.ts;streamtype=TSDOWNLOADER&amp;name=HBO SIGNATURE (by TeamBlue)$$lsname=HBO SIGNATURE (F4M) source #1</link>
 
 
 
-<thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo_signature_asia.png</thumbnail></item>
+<thumbnail>http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TELECINE ACTION[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1553.ts;streamtype=TSDOWNLOADER&amp;name=TELECINE ACTION (by TeamBlue)$$lsname=TELECINE ACTION (F4M) source #1</link>
@@ -222,7 +222,7 @@
 
 
 
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/uu/universal_channel_global.png</thumbnail></item>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/e6/Universal_Int_2013.png/revision/latest/scale-to-width-down/250?cb=20130505201440</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1590.ts;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)$$lsname=AXN (F4M) source #1</link>
@@ -259,19 +259,19 @@
 
 <thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY KIDS[/B][/COLOR]</title>
 
 
 
-<link>http://31.204.152.6:8081/live/discoverykids/playlist.m3u8$$lsname=DISCOVERY KIDS (HTTP)</link>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/3/3c/Discovery_Kids_logo_2016_2D.png/revision/latest?cb=20161004155531</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY CHANNEL[/B][/COLOR]</title>
 
 
 
-<link>http://31.204.152.6:8081/live/disney/playlist.m3u8$$lsname=DISNEY CHANNEL (HTTP)</link>
-<thumbnail>http://i.imgur.com/g0UK661.png</thumbnail></item>
+
+
+
+
+
+
+
 
 
 
@@ -313,11 +313,19 @@
 
 
 <link>http://213.163.65.9:8081/live/espnbr/playlist.m3u8$$lsname=ESPN BRASIL (HTTP)</link>
+
+<link><link>$doregex[m3u8]$$lsname=ESPN BRASIL (RTMP) by Teamblue|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link><regex><name>m3u8</name><expres>file: '([^']*)</expres><page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=2096&amp;width=640&amp;height=386&amp;jwplayer=flash</page><referer>http://ekostreams.co/ch/espnbrasil.php?width=640&amp;height=386</referer></regex><regex><name>page</name><expres>file='([^']*)</expres><page>http://ekostreams.co/ch/espnbrasil.php?width=640&amp;height=386</page><referer></referer></regex></link>
+
+
 <thumbnail>http://i.imgur.com/RDEG8LP.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX SPORTS 1[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1579.ts;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS 1 (by TeamBlue)$$lsname=FOX SPORTS 1 (F4M) source #1</link>
 
+
+
+
+<link><link>$doregex[m3u8]$$lsname=FOX SPORTS (RTMP) by Teamblue|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link><regex><name>m3u8</name><expres>file: '([^']*)</expres><page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=30&amp;width=640&amp;height=360&amp;jwplayer=flash</page><referer>http://ekostreams.co/ch/foxsports.php?width=640&amp;height=360</referer></regex><regex><name>page</name><expres>file='([^']*)</expres><page>http://ekostreams.co/ch/foxsports.php?width=640&amp;height=360</page><referer></referer></regex></link>
 
 
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png</thumbnail></item>
@@ -327,6 +335,10 @@
 
 
 <link>http://latino-webtv.ml:8880/tpmariocs/CANAL527/PROFILE03.m3u8$$lsname=FOX SPORTS 2 (HTTP)</link>
+
+<link><link>$doregex[m3u8]$$lsname=FOX SPORTS  2 (RTMP) by Teamblue|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link><regex><name>m3u8</name><expres>file: '([^']*)</expres><page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=35&amp;width=640&amp;height=380&amp;jwplayer=flash</page><referer>http://ekostreams.co/ch/foxsports2.php?width=640&amp;height=380</referer></regex><regex><name>page</name><expres>file='([^']*)</expres><page>http://ekostreams.co/ch/foxsports2.php?width=640&amp;height=380</page><referer> </referer></regex></link>
+
+
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PFC[/B][/COLOR]</title>
@@ -334,6 +346,10 @@
 
 
 <link>http://31.204.152.6:8081/live/pfc/playlist.m3u8$$lsname=PFC (HTTP)</link>
+
+<link><link>$doregex[m3u8]$$lsname=PFC (RTMP) by Teamblue|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link><regex><name>m3u8</name><expres>file: '([^']*)</expres><page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://brasilsports.tv/assistir/pfc-ao-vivo</page><referer>http://ekostreams.co/ch/pfc.php?width=600&height=384</referer></regex><regex><name>page</name><expres>file='([^']*)</expres><page>http://ekostreams.co/ch/pfc.php?width=600&height=384</page><referer></referer></regex></link>
+
+
 <thumbnail>http://i.imgur.com/hFOEDRM.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PFC 2[/B][/COLOR]</title>
@@ -348,6 +364,10 @@
 
 
 <link>http://213.163.65.9:8081/live/sportv/playlist.m3u8$$lsname=SPORTV (HTTP)</link>
+
+<link><link>$doregex[m3u8]$$lsname=SPORTV (RTMP) by Teamblue|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link><regex><name>m3u8</name><expres>file: '([^']*)</expres><page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=17&amp;width=640&amp;height=360&amp;jwplayer=flash</page><referer>http://ekostreams.co/ch/sportvhd.php?width=640&amp;height=360</referer></regex><regex><name>page</name><expres>file='([^']*)</expres><page>http://ekostreams.co/ch/sportvhd.php?width=640&amp;height=360</page><referer></referer></regex></link>
+
+
 <thumbnail>http://i.imgur.com/Frawzcq.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORTV2[/B][/COLOR]</title>
@@ -355,11 +375,19 @@
 
 
 <link>http://31.204.152.6:8081/live/sportv2/playlist.m3u8$$lsname=SPORTV2 (HTTP)</link>
+
+<link><link>$doregex[m3u8]$$lsname=SPORTV 2 (RTMP) by Teamblue|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link><regex><name>m3u8</name><expres>file: '([^']*)</expres><page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=89&amp;width=640&amp;height=380&amp;jwplayer=flash</page><referer>http://ekostreams.co/ch/sportv2.php?width=640&amp;height=380</referer></regex><regex><name>page</name><expres>file='([^']*)</expres><page>http://ekostreams.co/ch/sportv2.php?width=640&amp;height=380</page><referer></referer></regex></link>
+
+
 <thumbnail>http://i.imgur.com/4dV4aQ2.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORTV3[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1555.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3 (by TeamBlue)$$lsname=SPORTV3 (F4M) source #1</link>
 
+
+
+
+<link><link>$doregex[m3u8]$$lsname=SPORTTV 3 (RTMP) by Teamblue|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link><regex><name>m3u8</name><expres>file: '([^']*)</expres><page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=82&amp;width=640&amp;height=380&amp;jwplayer=flash</page><referer>http://ekostreams.co/ch/sportv3.php?width=640&amp;height=380</referer></regex><regex><name>page</name><expres>file='([^']*)</expres><page>http://ekostreams.co/ch/sportv3.php?width=640&amp;height=380</page><referer> </referer></regex></link>
 
 
 <thumbnail>http://i.imgur.com/2ECJlV7.png</thumbnail></item>
