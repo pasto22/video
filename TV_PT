@@ -25,7 +25,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/760.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)$$lsname=SIC (F4M) source #3 by Teamblue</link>
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8$$lsname=SIC (HTTP) by Teamblue</link>
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=SIC (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/sicamapissa/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=SIC (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/sicamapissa/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/sic$$lsname=SIC (Sports Devil) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvonlinehd.com/index.php?canal=sic$$lsname=SIC (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/U0XKwI5.png</thumbnail></item>
@@ -46,7 +46,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)$$lsname=PORTO CANAL (F4M) source #3 by Teamblue</link>
 
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP) by Teamblue</link>
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/portocanal$$lsname=PORTO CANAL (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/4PpSPX6.png</thumbnail></item>
@@ -102,7 +102,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/800.ts;streamtype=TSDOWNLOADER&amp;name=CM TV (by TeamBlue)$$lsname=CM TV (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=CM TV (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/gareerga/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=CM TV (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/gareerga/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/cmtv$$lsname=CM TV (Sports Devil) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdez.com/embed.php?c=cmtv$$lsname=CM TV (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/dMiWcSV.png</thumbnail></item>
@@ -313,7 +313,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/719.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (by TeamBlue)$$lsname=SIC MULHER (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=SIC MULHER (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/sicm02/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=SIC MULHER (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/sicm02/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/sicmulher$$lsname=SIC MULHER (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/PM9mIG3.png</thumbnail></item>
@@ -324,7 +324,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/756.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)$$lsname=SIC RADICAL (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=SIC RADICAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/sicradicalx/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=SIC RADICAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/sicradicalx/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 
 
 <thumbnail>http://i.imgur.com/Vvv2OcG.png</thumbnail></item>
@@ -335,7 +335,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/737.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)$$lsname=TVI FICCAO (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=TVI FICCAO (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://cdn.pubezcast.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embedezcast.com/membedplayer/tvicrl/1/599/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embedezcast.com</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=TVI FICCAO (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://cdn.pubezcast.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embedezcast.com/membedplayer/tvicrl/1/599/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embedezcast.com</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/tvificcao$$lsname=TVI FICCAO (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail></item>
 
@@ -345,7 +345,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/710.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (by TeamBlue)$$lsname=TVI REALITY (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=TVI REALITY (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.streamifypublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.streamifyplayer.com/membedplayer/TviReality2/1/545/440</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.streamifyplayer.com</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=TVI REALITY (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.streamifypublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.streamifyplayer.com/membedplayer/TviReality2/1/545/440</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.streamifyplayer.com</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tvxat.info/quinta.php$$lsname=TVI REALITY (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/qQcrbID.png</thumbnail></item>
 
@@ -489,7 +489,7 @@
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/713.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL (by TeamBlue)$$lsname=TRAVEL (F4M) source #3 by Teamblue</link>
 <link>http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8$$lsname=TRAVEL (HTTP) by Teamblue</link>
-<link><link><link<<link>$doregex[getLink]$$lsname=TRAVEL (RTMP) by Teamblue |User-Agent=iPad</link><regex><name>getLink</name><expres>file: '(.*?)',</expres><page>http://pxstream.tv/embedrouter.php?file=chistoriax&amp;width=555&amp;height=435&amp;jwplayer=flash</page><referer>http://www.meocanaltv.com/canais.php?stream=HISTORIA</referer><cookieJar></cookieJar><agent>iPad</agent></regex></link></link></link>
+<link><link<<link>$doregex[getLink]$$lsname=TRAVEL (RTMP) by Teamblue |User-Agent=iPad</link><regex><name>getLink</name><expres>file: '(.*?)',</expres><page>http://pxstream.tv/embedrouter.php?file=chistoriax&amp;width=555&amp;height=435&amp;jwplayer=flash</page><referer>http://www.meocanaltv.com/canais.php?stream=HISTORIA</referer><cookieJar></cookieJar><agent>iPad</agent></regex></link></link>
 
 
 <thumbnail>http://i.imgur.com/xgqZgC6.png</thumbnail></item>
@@ -500,7 +500,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/820.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (by TeamBlue)$$lsname=A BOLA TV (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=A BOLA TV (RTMP by Teamblue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/BOLA33888338/1/565/440</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=A BOLA TV (RTMP by Teamblue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/BOLA33888338/1/565/440</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/abolatv$$lsname=A BOLA TV (Sports Devil) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tvtuga.tk/a-bola-tv/$$lsname=A BOLA TV (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail></item>
@@ -511,7 +511,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/813.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by TeamBlue)$$lsname=BENFICA TV (F4M) source #3 by Teamblue</link>
 
 <link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=gwearger?keys=bgTVSHj_R7k44rqRvZCNUQ&keyt=1471708579 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=gwearger$$lsname=BENFICA TV (RTMP) by Teamblue</link>
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=BENFICA TV (RTMP) by Teamblue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://cdn.mipspublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.mipsplayer.com/membedplayer/benfaschannelix/1/555/442</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.mips.tv</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=BENFICA TV (RTMP) by Teamblue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://cdn.mipspublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.mipsplayer.com/membedplayer/benfaschannelix/1/555/442</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.mips.tv</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tvtoss.com/channel-frames/Benfica TV/benficatv-server-1.php$$lsname=BENFICA TV (Sports Devil) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=benficatv$$lsname=BENFICA TV (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/3MPQyry.png</thumbnail></item>
@@ -585,7 +585,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/779.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (by TeamBlue)$$lsname=MOTORS TV (F4M) source #3 by Teamblue</link>
 
 
-<link><link>rtmp://$doregex[get-ip]/live$$lsname=MOTORS TV (RTMP) by Teamblue playpath=motorstvx?id=83213&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=</link><regex><name>get-ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>get-pk</name><expres>pk=(.*?)'</expres><page>http://www.embeducaster.com/embedplayer/motorstvx/1/599/399</page><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link>rtmp://$doregex[get-ip]/live$$lsname=MOTORS TV (RTMP) by Teamblue playpath=motorstvx?id=83213&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=</link><regex><name>get-ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>get-pk</name><expres>pk=(.*?)'</expres><page>http://www.embeducaster.com/embedplayer/motorstvx/1/599/399</page><referer>http://www.embeducaster.com/</referer></regex></link>
 
 
 <thumbnail>http://i.imgur.com/kQ7wwBO.png</thumbnail></item>
@@ -633,7 +633,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1617.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)$$lsname=SPORT TV 1 (F4M) source #3 by Teamblue</link>
 
 <link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP) by Teamblue</link>
-<link><link><link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8]$$lsname=SPORT TV 1 (RTMP) by Teamblue |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link></link></link>
+<link><link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8]$$lsname=SPORT TV 1 (RTMP) by Teamblue |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (Sports Devil) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail></item>
@@ -644,7 +644,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/753.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #3 by Teamblue</link>
 
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510$$lsname=SPORT TV 2 (RTMP) by Teamblue</link>
-<link><link><link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link></link></link>
+<link><link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tvaborla.com/Live2.html$$lsname=SPORT TV 2 (Sports Devil) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv2.php$$lsname=SPORT TV 2 (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail></item>
@@ -655,7 +655,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/751.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)$$lsname=SPORT TV 3 (F4M) source #3 by Teamblue</link>
 
 <link>rtmp://179.43.158.195:16625/stream/ playPath=o4NLATkOb3.stream?t5651a791kt952i1130rt838i6407nt5651a791kt952i646kt952i1130rt5651a791kt952i1130rt952i1130rt384i791yt384i791y swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t1692a262kt907i9535rt726i2985nt1692a262kt907i481kt907i9535rt1692a262kt907i9535rt907i9535rt572i262yt572i262y&st=s5t205n4w5c4t2s4643683u5j3k4w3d4y4i5x2p2p243z244746453z3w213e4s203z2&adx=&stream=h5v2b4e4k574v244d47444l5t2j5b4n2u584o3a3f413x2766476e3s5n39355h4n354u224r2a4z2v224p2f43464f413p2e4a4n2u5v2x4e3h49454v4s2p4d3n4y4n465j4w494k2m4m4k4f484p3p3e5e4a4v5a4z3244634p2o234a4w264z27433x2i544c40344c4c4o5e4b4b484b4t2e4b464w28464445413b474m234242434p2o234z3&sooor=Ng==&str=is&ok=&cat=3&link=1&idom=firstrowas.co$$lsname=SPORT TV 3 (RTMP) by Teamblue</link>
-<link><link><link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live3-qszlx</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link></link></link>
+<link><link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live3-qszlx</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://hdfree.tv/watch/78/sport-tv-3-pt-live-stream.html$$lsname=SPORT TV 3 (Sports Devil) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.bigcast.us/embed.php?v=stv3&vw=620&vh=490$$lsname=SPORT TV 3 (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail></item>
@@ -677,7 +677,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by TeamBlue)$$lsname=SPORT TV 5 (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>$doregex[file]$$lsname=SPORT TV 5 (RTMP) by Teamblue|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/merda4-rp4un</page><referer>http://sharecast.eu/embed/merda4-rp4un</referer></regex></link></link>
+<link><link>$doregex[file]$$lsname=SPORT TV 5 (RTMP) by Teamblue|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/merda4-rp4un</page><referer>http://sharecast.eu/embed/merda4-rp4un</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv5.php$$lsname=SPORT TV 5 (Sports Devil) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/G8yH187.png</thumbnail></item>
@@ -834,7 +834,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/817.ts;streamtype=TSDOWNLOADER&amp;name=AXN (by TeamBlue)$$lsname=AXN (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=AXN  (RTMP) by Teamblue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/axn1x/1/650/450</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=AXN  (RTMP) by Teamblue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/axn1x/1/650/450</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/axn$$lsname=AXN (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/aDkAm6p.png</thumbnail></item>
@@ -855,7 +855,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/731.ts;streamtype=TSDOWNLOADER&amp;name=AXN WHITE (by TeamBlue)$$lsname=AXN WHITE (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=AXN WHITE (RTMP) by Teamblue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/axnwhitex/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=AXN WHITE (RTMP) by Teamblue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/axnwhitex/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/axnwhite$$lsname=AXN WHITE (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/QDCk6tH.png</thumbnail></item>
@@ -884,7 +884,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/790.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=FOX (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://cdn.pubezcast.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embedezcast.com/membedplayer/foxcrl/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embedezcast.com</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=FOX (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://cdn.pubezcast.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embedezcast.com/membedplayer/foxcrl/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embedezcast.com</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/fox$$lsname=FOX (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
@@ -905,7 +905,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/724.ts;streamtype=TSDOWNLOADER&amp;name=FOX CRIME (by TeamBlue)$$lsname=FOX CRIME (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=FOX CRIME (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/foxcrimex/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=FOX CRIME (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/foxcrimex/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxcrime$$lsname=FOX CRIME (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/Q8uJUlH.png</thumbnail></item>
@@ -916,7 +916,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/979.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE (by TeamBlue)$$lsname=FOX LIFE (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=FOX LIFE (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/foxlifea/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=FOX LIFE (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/foxlifea/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxlife$$lsname=FOX LIFE (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/giiQxbn.png</thumbnail></item>
@@ -927,7 +927,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/722.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)$$lsname=FOX MOVIES (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=FOX MOVIES (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://cdn.pubezcast.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embedezcast.com/membedplayer/sical/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embedezcast.com</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=FOX MOVIES (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://cdn.pubezcast.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embedezcast.com/membedplayer/sical/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embedezcast.com</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/foxmovies$$lsname=FOX MOVIES (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/gbjSBds.png</thumbnail></item>
@@ -938,7 +938,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/784.ts;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD (by TeamBlue)$$lsname=HOLLYWOOD (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=HOLLYWOOD (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/hollywoodx/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=HOLLYWOOD (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/hollywoodx/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 
 <thumbnail>http://i.imgur.com/wdCpBLc.png</thumbnail></item>
 
@@ -1011,7 +1011,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/799.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY (by TeamBlue)$$lsname=DISCOVERY (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=DISCOVERY (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/discoveryx/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=DISCOVERY (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/discoveryx/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=discovery$$lsname=DISCOVERY (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/gvtBP6j.png</thumbnail></item>
@@ -1031,7 +1031,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/785.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)$$lsname=HISTORIA (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=HISTORIA (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/historiab/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=HISTORIA (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/historiab/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=historia$$lsname=HISTORIA (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/g5uYzpc.png</thumbnail></item>
@@ -1062,7 +1062,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/772.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)$$lsname=ODISSEIA (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=ODISSEIA (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/odisseiax/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=ODISSEIA (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/odisseiax/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/odisseia$$lsname=ODISSEIA (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/QyFiRiO.png</thumbnail></item>
@@ -1163,7 +1163,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/776.ts;streamtype=TSDOWNLOADER&amp;name=MTV (by TeamBlue)$$lsname=MTV (F4M) source #3 by Teamblue</link>
 
 
-<link><link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=MTV (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/mtvax/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=MTV (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/mtvax/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 
 
 <thumbnail>http://i.imgur.com/5u1u9oO.png?1</thumbnail></item>
