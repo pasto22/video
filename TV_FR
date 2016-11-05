@@ -296,17 +296,25 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/equidia_live.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] beiN SPORTS 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvthebest.ddns.net:15000/live/LMtwKt8NMR/4iHwdSVzUi/9321.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 1 (by TeamBlue)$$lsname=beiN SPORTS 1 (F4M) source #1</link>
+
 
 
 <link>http://149.202.207.8:8080/KuRtllyAmbr00wsbhensfn-1/Strm/index.m3u8$$lsname=beiN SPORTS 1 (HTTP)</link>
+
+<link><link>$doregex[select_Url]$$lsname=beiN SPORTS 1 (FR) (RTMP by Teamblue</link><regex><name>select_Url</name><expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres><page></page></regex><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/beinsports1france.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex><regex><name>get_sxstream1</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/beinsports1france.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex></link>
+
+
 <thumbnail>http://i.imgur.com/UNGRg6Q.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] beiN SPORTS 2[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvthebest.ddns.net:15000/live/LMtwKt8NMR/4iHwdSVzUi/9324.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 2 (by TeamBlue)$$lsname=beiN SPORTS 2 (F4M) source #1</link>
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 2 (by TeamBlue)$$lsname=beiN SPORTS 2 (F4M) source #2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://pro-vision.dyndns.pro:12580/live/55E2D/553ED/415.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 2 (by TeamBlue)$$lsname=beiN SPORTS 2 (F4M) source #3</link>
 <link>http://149.202.207.8:8080/KuRtllyAmbr00wsbhensfn-2/Strm/index.m3u8$$lsname=beiN SPORTS 2 (HTTP)</link>
+
+
+
+
 <thumbnail>http://i.imgur.com/AZSqeFo.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] beiN SPORTS 3[/B][/COLOR]</title>
@@ -314,6 +322,10 @@
 
 
 <link>http://149.202.207.8:8080/KuRtllyAmbr00wsbhensfn-3/Strm/index.m3u8$$lsname=beiN SPORTS 3 (HTTP)</link>
+
+<link><link>$doregex[select_Url]$$lsname=beiN SPORTS 3 (FR) (RTMP by Teamblue</link><regex><name>select_Url</name><expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres><page></page></regex><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/beinsports3france.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex><regex><name>get_sxstream1</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/beinsports3france.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex></link>
+
+
 <thumbnail>http://i.imgur.com/ouI3hiP.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Toute l'Histoire[/B][/COLOR]</title>
@@ -453,7 +465,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvthebest.ddns.net:15000/live/LMtwKt8NMR/4iHwdSVzUi/9318.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ sport (by TeamBlue)$$lsname=Canal+ sport (F4M) source #1</link>
 
 
-
+<link>http://cdn.sitenow.me/live/tvb125/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0$$lsname=Canal+ sport (HTTP)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_sport.png</thumbnail></item>
 
 
