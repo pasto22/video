@@ -26,8 +26,8 @@
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8$$lsname=SIC (HTTP) by Teamblue</link>
 
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=SIC (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/sicamapissa/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/sic$$lsname=SIC (Sports Devil) by Teamblue</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvonlinehd.com/index.php?canal=sic$$lsname=SIC (Sports Devil) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/U0XKwI5.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI[/B][/COLOR]</title>
@@ -36,6 +36,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/739.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)$$lsname=TVI (F4M) source #3 by Teamblue</link>
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8$$lsname=TVI (HTTP) by Teamblue</link>
 
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=TVI (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/tvioles/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/tvi$$lsname=TVI (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/eoUkAQT.png</thumbnail></item>
