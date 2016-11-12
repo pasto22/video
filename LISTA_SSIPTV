@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nwF46j7.png",RTP 1
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yAOu09B.png",RTP 2
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UqZdQqJ.png",RTP 3
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png",RTP ACORES
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YWi6NzU.png",RTP AFRICA
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YPL4ncR.png",RTP INTERNACIONAL
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png",RTP MADEIRA
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png",RTP MEMORIA
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
@@ -775,8 +775,8 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 http://149.202.207.8:8080/KuRtllyAmbr00wsbteiSsepn/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png",BT SPORT 3
 http://149.202.207.8:8080/KuRtllyAmbr00wsbeETy-U/Strm/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://api.iptvapi.com/img/0/4/0/0/400.jpg",BT SPORT EXTRA
+http://149.202.207.8:8080/mALLk00oJIbeETy-etcr/Strm/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 
 
 
@@ -1161,8 +1161,8 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ye5S2CL.png",ESPN USA
+http://188.165.119.236:8080/eiisapn1yous/eiisapn1yous/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 
 
 
