@@ -3,94 +3,161 @@
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1727.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)$$lsname=RTP 1 (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1727.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)$$lsname=RTP 1 (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/766.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1 (by TeamBlue)$$lsname=RTP 1 (F4M) source #3 by Teamblue</link>
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36$$lsname=RTP 1 (HTTP) by Teamblue</link>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15$$lsname=RTP 1 (RTMP) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp1$$lsname=RTP 1 (Sports Devil) by Teamblue</link>
+
 <thumbnail>http://i.imgur.com/nwF46j7.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 2[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1726.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)$$lsname=RTP 2 (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1726.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)$$lsname=RTP 2 (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/765.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2 (by TeamBlue)$$lsname=RTP 2 (F4M) source #3 by Teamblue</link>
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36$$lsname=RTP 2 (HTTP) by Teamblue</link>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15$$lsname=RTP 2 (RTMP) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp2$$lsname=RTP 2 (Sports Devil) by Teamblue</link>
+
 <thumbnail>http://i.imgur.com/yAOu09B.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7810.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)$$lsname=SIC (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/760.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)$$lsname=SIC (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/760.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)$$lsname=SIC (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/760.ts;streamtype=TSDOWNLOADER&amp;name=SIC (by TeamBlue)$$lsname=SIC (F4M) source #3 by Teamblue</link>
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8$$lsname=SIC (HTTP) by Teamblue</link>
+
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=SIC MULHER (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/sicamapissa/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
+
+
 <thumbnail>http://i.imgur.com/U0XKwI5.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1674.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)$$lsname=TVI (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/739.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)$$lsname=TVI (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/739.ts;streamtype=TSDOWNLOADER&amp;name=TVI (by TeamBlue)$$lsname=TVI (F4M) source #3 by Teamblue</link>
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8$$lsname=TVI (HTTP) by Teamblue</link>
+
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=TVI (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/tvioles/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/tvi$$lsname=TVI (Sports Devil) by Teamblue</link>
+
 <thumbnail>http://i.imgur.com/eoUkAQT.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PORTO CANAL[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)$$lsname=PORTO CANAL (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/2706.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)$$lsname=PORTO CANAL (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by TeamBlue)$$lsname=PORTO CANAL (F4M) source #3 by Teamblue</link>
+
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP) by Teamblue</link>
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/portocanal$$lsname=PORTO CANAL (Sports Devil) by Teamblue</link>
+
 <thumbnail>http://i.imgur.com/4PpSPX6.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP ACORES[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/763.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)$$lsname=RTP ACORES (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/5549.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)$$lsname=RTP ACORES (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7594.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES (by TeamBlue)$$lsname=RTP ACORES (F4M) source #3 by Teamblue</link>
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36$$lsname=RTP ACORES (HTTP) by Teamblue</link>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15$$lsname=RTP ACORES (RTMP) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpacores$$lsname=RTP ACORES (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP AFRICA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1684.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)$$lsname=RTP AFRICA (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/767.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)$$lsname=RTP AFRICA (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/767.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (by TeamBlue)$$lsname=RTP AFRICA (F4M) source #3 by Teamblue</link>
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36$$lsname=RTP AFRICA (HTTP) by Teamblue</link>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15$$lsname=RTP AFRICA (RTMP) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpafrica$$lsname=RTP AFRICA (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP INTERNACIONAL[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8909.ts;streamtype=TSDOWNLOADER&amp;name=RTP INTERNACIONAL (by TeamBlue)$$lsname=RTP INTERNACIONAL (F4M) source #1 by Teamblue</link>
+
+
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36$$lsname=RTP INTERNACIONAL (HTTP) by Teamblue</link>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15$$lsname=RTP INTERNACIONAL (RTMP) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpinternacional$$lsname=RTP INTERNACIONAL (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/YPL4ncR.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP MADEIRA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1659.ts;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA (by TeamBlue)$$lsname=RTP MADEIRA (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/762.ts;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA (by TeamBlue)$$lsname=RTP MADEIRA (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/762.ts;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA (by TeamBlue)$$lsname=RTP MADEIRA (F4M) source #3 by Teamblue</link>
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36$$lsname=RTP MADEIRA (HTTP) by Teamblue</link>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15$$lsname=RTP MADEIRA (RTMP) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpmadeira$$lsname=RTP MADEIRA (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CANCAO NOVA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1727.ts;streamtype=TSDOWNLOADER&amp;name=CANCAO NOVA (by TeamBlue)$$lsname=CANCAO NOVA (F4M) source #1 by Teamblue</link>
+
+
 <link>http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8$$lsname=CANCAO NOVA (HTTP) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/VRnat0c.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CM TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1700.ts;streamtype=TSDOWNLOADER&amp;name=CM TV (by TeamBlue)$$lsname=CM TV (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1700.ts;streamtype=TSDOWNLOADER&amp;name=CM TV (by TeamBlue)$$lsname=CM TV (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/800.ts;streamtype=TSDOWNLOADER&amp;name=CM TV (by TeamBlue)$$lsname=CM TV (F4M) source #3 by Teamblue</link>
+
+
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=CM TV (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/gareerga/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/cmtv$$lsname=CM TV (Sports Devil) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvdez.com/embed.php?c=cmtv$$lsname=CM TV (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/dMiWcSV.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EURONEWS[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/726.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS (by TeamBlue)$$lsname=EURONEWS (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/726.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS (by TeamBlue)$$lsname=EURONEWS (F4M) source #3 by Teamblue</link>
 <link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8$$lsname=EURONEWS (HTTP) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/2uOZdMM.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 24 (FR)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/721.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 24 (FR) (by TeamBlue)$$lsname=FRANCE 24 (FR) (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/721.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 24 (FR) (by TeamBlue)$$lsname=FRANCE 24 (FR) (F4M) source #3 by Teamblue</link>
 <link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8$$lsname=FRANCE 24 (FR) (HTTP) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/d4783ZP.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 24 (IN)[/B][/COLOR]</title>
+
+
+
 <link>http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8$$lsname=FRANCE 24 (IN) (HTTP) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/d4783ZP.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 3[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1715.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)$$lsname=RTP 3 (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/764.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)$$lsname=RTP 3 (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/764.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3 (by TeamBlue)$$lsname=RTP 3 (F4M) source #3 by Teamblue</link>
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36$$lsname=RTP 3 (HTTP) by Teamblue</link>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15$$lsname=RTP 3 (RTMP) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp3$$lsname=RTP 3 (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/UqZdQqJ.png</thumbnail></item>
@@ -143,6 +210,15 @@
 
 <thumbnail>http://i.imgur.com/9cnjX88.png</thumbnail></item>
 
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RAI NEWS[/B][/COLOR]</title>
 
 
@@ -161,14 +237,14 @@
 
 <thumbnail>http://i.imgur.com/JcoOA0R.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] RECORD NEWS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net/live/chiristx/46746673/25023.ts;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS (by TeamBlue)$$lsname=RECORD NEWS (F4M) source #1 by Teamblue</link>
 
 
 
 
 
-<thumbnail>http://i.imgur.com/RWZ8Pdl.png</thumbnail></item>
+
+
+
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] AeE[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1711.ts;streamtype=TSDOWNLOADER&amp;name=AeE (by TeamBlue)$$lsname=AeE (F4M) source #1 by Teamblue</link>
@@ -190,7 +266,7 @@
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL Q[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/806.ts;streamtype=TSDOWNLOADER&amp;name=CANAL Q (by TeamBlue)$$lsname=CANAL Q (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net/live/chiristx/46746673/24952.ts;streamtype=TSDOWNLOADER&amp;name=CANAL Q (by TeamBlue)$$lsname=CANAL Q (F4M) source #2 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/806.ts;streamtype=TSDOWNLOADER&amp;name=CANAL Q (by TeamBlue)$$lsname=CANAL Q (F4M) source #3 by Teamblue</link>
 
 
@@ -198,8 +274,8 @@
 <thumbnail>http://i.imgur.com/wYskerA.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS REALITY[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7831.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)$$lsname=CBS REALITY (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/803.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)$$lsname=CBS REALITY (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/803.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)$$lsname=CBS REALITY (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/803.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)$$lsname=CBS REALITY (F4M) source #3 by Teamblue</link>
 
 
@@ -207,7 +283,7 @@
 <thumbnail>http://i.imgur.com/X0YowUz.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] E![/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1695.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)$$lsname=E! (F4M) source #1 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/moi/moi/1695.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)$$lsname=E! (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/977.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)$$lsname=E! (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/977.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)$$lsname=E! (F4M) source #3 by Teamblue</link>
 
@@ -216,10 +292,10 @@
 <thumbnail>http://i.imgur.com/zGAy6qU.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP MEMORIA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7807.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)$$lsname=RTP MEMORIA (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/761.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)$$lsname=RTP MEMORIA (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/761.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (by TeamBlue)$$lsname=RTP MEMORIA (F4M) source #3 by Teamblue</link>
-
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36$$lsname=RTP MEMORIA (HTTP) by Teamblue</link>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15$$lsname=RTP MEMORIA (RTMP) by Teamblue</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtpmemoria$$lsname=RTP MEMORIA (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail></item>
@@ -238,15 +314,15 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/719.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (by TeamBlue)$$lsname=SIC MULHER (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/719.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (by TeamBlue)$$lsname=SIC MULHER (F4M) source #3 by Teamblue</link>
 
-
+<link>rtmp://95.211.168.17/live/ playPath=sicm02?id=85250&pk=02a038c3c71d64972c3c44d028f5ccf5bd847bd856b2dc956c5da1cfa9481fed swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2023,0,0,162 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/730/430$$lsname=SIC MULHER (RTMP) by Teamblue</link>
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=SIC MULHER (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/sicm02/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/sicmulher$$lsname=SIC MULHER (Sports Devil) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/PM9mIG3.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC RADICAL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1656.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)$$lsname=SIC RADICAL (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/756.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)$$lsname=SIC RADICAL (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/756.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)$$lsname=SIC RADICAL (F4M) source #1 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/moi/moi/1725.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)$$lsname=SIC RADICAL (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/756.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (by TeamBlue)$$lsname=SIC RADICAL (F4M) source #3 by Teamblue</link>
 
 
@@ -256,7 +332,7 @@
 <thumbnail>http://i.imgur.com/Vvv2OcG.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI FICCAO[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7751.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)$$lsname=TVI FICCAO (F4M) source #1 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/737.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)$$lsname=TVI FICCAO (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/2718.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)$$lsname=TVI FICCAO (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/737.ts;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (by TeamBlue)$$lsname=TVI FICCAO (F4M) source #3 by Teamblue</link>
 
@@ -274,9 +350,64 @@
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=TVI REALITY (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.streamifypublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.streamifyplayer.com/membedplayer/TviReality2/1/545/440</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.streamifyplayer.com</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tvxat.info/quinta.php$$lsname=TVI REALITY (Sports Devil) by Teamblue</link>
 <thumbnail>http://i.imgur.com/qQcrbID.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] GLOBO PORTUGAL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1678.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)$$lsname=GLOBO PORTUGAL (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/787.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)$$lsname=GLOBO PORTUGAL (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/787.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)$$lsname=GLOBO PORTUGAL (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/787.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL (by TeamBlue)$$lsname=GLOBO PORTUGAL (F4M) source #3 by Teamblue</link>
 
 
@@ -312,12 +443,30 @@
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FTV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/789.ts;streamtype=TSDOWNLOADER&amp;name=FTV (by TeamBlue)$$lsname=FTV (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net/live/chiristx/46746673/25009.ts;streamtype=TSDOWNLOADER&amp;name=FTV (by TeamBlue)$$lsname=FTV (F4M) source #2 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/789.ts;streamtype=TSDOWNLOADER&amp;name=FTV (by TeamBlue)$$lsname=FTV (F4M) source #3 by Teamblue</link>
 
 <link>rtmp://95.67.8.43:1935/live/fashionhd$$lsname=FTV (RTMP) by Teamblue</link>
 
 <thumbnail>http://i.imgur.com/SuvQGau.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MCS LIFESTYLE[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/780.ts;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE (by TeamBlue)$$lsname=MCS LIFESTYLE (F4M) source #1 by Teamblue</link>
@@ -338,8 +487,8 @@
 <thumbnail>http://i.imgur.com/ZfEc8g5.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TRAVEL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8407.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL (by TeamBlue)$$lsname=TRAVEL (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/713.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL (by TeamBlue)$$lsname=TRAVEL (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/713.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL (by TeamBlue)$$lsname=TRAVEL (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/713.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL (by TeamBlue)$$lsname=TRAVEL (F4M) source #3 by Teamblue</link>
 <link>http://stream.taksimbilisim.com:1935/wtc/smil:wtc.smil/playlist.m3u8$$lsname=TRAVEL (HTTP) by Teamblue</link>
 <link><link<<link>$doregex[getLink]$$lsname=TRAVEL (RTMP) by Teamblue |User-Agent=iPad</link><regex><name>getLink</name><expres>file: '(.*?)',</expres><page>http://pxstream.tv/embedrouter.php?file=chistoriax&amp;width=555&amp;height=435&amp;jwplayer=flash</page><referer>http://www.meocanaltv.com/canais.php?stream=HISTORIA</referer><cookieJar></cookieJar><agent>iPad</agent></regex></link></link>
@@ -388,7 +537,7 @@
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/4/4b/Eurosport_2_2015.png/revision/latest?cb=20151112192506</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 2 XTRA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/plkh23/3091.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA (by TeamBlue)$$lsname=EUROSPORT 2 XTRA (F4M) source #1 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/792.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA (by TeamBlue)$$lsname=EUROSPORT 2 XTRA (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/8911.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA (by TeamBlue)$$lsname=EUROSPORT 2 XTRA (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/792.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA (by TeamBlue)$$lsname=EUROSPORT 2 XTRA (F4M) source #3 by Teamblue</link>
 
@@ -396,14 +545,14 @@
 
 <thumbnail>http://i.imgur.com/0tybBJ0.jpg</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT NEWS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7769.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS (by TeamBlue)$$lsname=EUROSPORT NEWS (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net/live/chiristx/46746673/24980.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS (by TeamBlue)$$lsname=EUROSPORT NEWS (F4M) source #2 by Teamblue</link>
 
 
 
 
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/f5/Eurosport_news.png/revision/latest?cb=20120904171521</thumbnail></item>
+
+
+
+
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FUEL TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/788.ts;streamtype=TSDOWNLOADER&amp;name=FUEL TV (by TeamBlue)$$lsname=FUEL TV (F4M) source #1 by Teamblue</link>
@@ -414,31 +563,57 @@
 
 <thumbnail>http://i.imgur.com/udcCfFP.png</thumbnail></item>
 
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FIGHT NETWORK[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/975.ts;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK (by TeamBlue)$$lsname=FIGHT NETWORK (F4M) source #1 by Teamblue</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/975.ts;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK (by TeamBlue)$$lsname=FIGHT NETWORK (F4M) source #3 by Teamblue</link>
 
 
 
-<thumbnail>http://i.imgur.com/cQ4UFEO.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOTORS TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7822.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (by TeamBlue)$$lsname=MOTORS TV (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/779.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (by TeamBlue)$$lsname=MOTORS TV (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/779.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (by TeamBlue)$$lsname=MOTORS TV (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/779.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (by TeamBlue)$$lsname=MOTORS TV (F4M) source #3 by Teamblue</link>
+
+
 <link>rtmp://$doregex[get-ip]/live$$lsname=MOTORS TV (RTMP) by Teamblue playpath=motorstvx?id=83213&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=</link><regex><name>get-ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>get-pk</name><expres>pk=(.*?)'</expres><page>http://www.embeducaster.com/embedplayer/motorstvx/1/599/399</page><referer>http://www.embeducaster.com/</referer></regex></link>
+
+
 <thumbnail>http://i.imgur.com/kQ7wwBO.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOTORVISION TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/2145.ts;streamtype=TSDOWNLOADER&amp;name=MOTORVISION TV (by TeamBlue)$$lsname=MOTORVISION TV (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/778.ts;streamtype=TSDOWNLOADER&amp;name=MOTORVISION TV (by TeamBlue)$$lsname=MOTORVISION TV (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/778.ts;streamtype=TSDOWNLOADER&amp;name=MOTORVISION TV (by TeamBlue)$$lsname=MOTORVISION TV (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/778.ts;streamtype=TSDOWNLOADER&amp;name=MOTORVISION TV (by TeamBlue)$$lsname=MOTORVISION TV (F4M) source #3 by Teamblue</link>
+
+
+
 <thumbnail>http://i.imgur.com/jgu61cv.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NBA[/B][/COLOR]</title>
+
+
+
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8?TeamBlue$$lsname=NBA (HTTP) by TeamBlue</link>
+
+
+
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PFC[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7764.ts;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)$$lsname=PFC (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/771.ts;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)$$lsname=PFC (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/771.ts;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)$$lsname=PFC (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/771.ts;streamtype=TSDOWNLOADER&amp;name=PFC (by TeamBlue)$$lsname=PFC (F4M) source #3 by Teamblue</link>
 
 
@@ -457,8 +632,8 @@
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)$$lsname=SPORT TV 1 (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)$$lsname=SPORT TV 1 (F4M) source #2 by Teamblue</link>
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by TeamBlue)$$lsname=SPORT TV 1 (F4M) source #3 by Teamblue</link>
+<link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNiAzOjE0OjU2IFBNJmhhc2hfdmFsdWU9Vyt2cG5vTTlTT3RlMk5UUGFZRWc3QT09JnZhbGlkbWludXRlcz0yMA==|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (HTTP) by Teamblue</link>
 <link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP) by Teamblue</link>
 <link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (Sports Devil) by Teamblue</link>
@@ -466,10 +641,10 @@
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1722.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1722.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #2 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1071.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #3 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/1071.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #1 by Teamblue</link>
 
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1071.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by TeamBlue)$$lsname=SPORT TV 2 (F4M) source #3 by Teamblue</link>
+<link>http://cdn.widestream.io:8081/shareedge/live2-bipmr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNiAzOjE2OjA3IFBNJmhhc2hfdmFsdWU9d1I4bFYxWHVBbW15ODI4NkpzVDdFUT09JnZhbGlkbWludXRlcz0yMA==$$lsname=SPORT TV 2 (HTTP) by Teamblue</link>
 <link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510$$lsname=SPORT TV 2 (RTMP) by Teamblue</link>
 <link><link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=sporttv2$$lsname=SPORT TV 2 (Sports Devil) by Teamblue</link>
@@ -480,7 +655,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/751.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)$$lsname=SPORT TV 3 (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/824.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)$$lsname=SPORT TV 3 (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/751.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by TeamBlue)$$lsname=SPORT TV 3 (F4M) source #3 by Teamblue</link>
-
+<link>http://cdn.widestream.io:8081/shareedge/live3-qszlx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNiAzOjE2OjQ5IFBNJmhhc2hfdmFsdWU9UURlOTJzTnBEYUFaM01iTzhVb1duQT09JnZhbGlkbWludXRlcz0yMA==$$lsname=SPORT TV 3 (HTTP) by Teamblue</link>
 <link>rtmp://179.43.158.195:16625/stream/ playPath=o4NLATkOb3.stream?t5651a791kt952i1130rt838i6407nt5651a791kt952i646kt952i1130rt5651a791kt952i1130rt952i1130rt384i791yt384i791y swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t1692a262kt907i9535rt726i2985nt1692a262kt907i481kt907i9535rt1692a262kt907i9535rt907i9535rt572i262yt572i262y&st=s5t205n4w5c4t2s4643683u5j3k4w3d4y4i5x2p2p243z244746453z3w213e4s203z2&adx=&stream=h5v2b4e4k574v244d47444l5t2j5b4n2u584o3a3f413x2766476e3s5n39355h4n354u224r2a4z2v224p2f43464f413p2e4a4n2u5v2x4e3h49454v4s2p4d3n4y4n465j4w494k2m4m4k4f484p3p3e5e4a4v5a4z3244634p2o234a4w264z27433x2i544c40344c4c4o5e4b4b484b4t2e4b464w28464445413b474m234242434p2o234z3&sooor=Ng==&str=is&ok=&cat=3&link=1&idom=firstrowas.co$$lsname=SPORT TV 3 (RTMP) by Teamblue</link>
 <link><link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live3-qszlx</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://hdfree.tv/watch/78/sport-tv-3-pt-live-stream.html$$lsname=SPORT TV 3 (Sports Devil) by Teamblue</link>
@@ -522,7 +697,7 @@
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TOROS TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/714.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)$$lsname=TOROS TV (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1680.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)$$lsname=TOROS TV (F4M) source #2 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/714.ts;streamtype=TSDOWNLOADER&amp;name=TOROS TV (by TeamBlue)$$lsname=TOROS TV (F4M) source #3 by Teamblue</link>
 
 
@@ -531,7 +706,7 @@
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CACAVISION[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/808.ts;streamtype=TSDOWNLOADER&amp;name=CACAVISION (by TeamBlue)$$lsname=CACAVISION (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net/live/chiristx/46746673/25018.ts;streamtype=TSDOWNLOADER&amp;name=CACAVISION (by TeamBlue)$$lsname=CACAVISION (F4M) source #2 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/808.ts;streamtype=TSDOWNLOADER&amp;name=CACAVISION (by TeamBlue)$$lsname=CACAVISION (F4M) source #3 by Teamblue</link>
 
 
@@ -539,8 +714,8 @@
 <thumbnail>http://i.imgur.com/pIEZt5S.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CACA & PESCA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7833.ts;streamtype=TSDOWNLOADER&amp;name=CACA & PESCA (by TeamBlue)$$lsname=CACA & PESCA (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/809.ts;streamtype=TSDOWNLOADER&amp;name=CACA & PESCA (by TeamBlue)$$lsname=CACA & PESCA (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/809.ts;streamtype=TSDOWNLOADER&amp;name=CACA & PESCA (by TeamBlue)$$lsname=CACA & PESCA (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/809.ts;streamtype=TSDOWNLOADER&amp;name=CACA & PESCA (by TeamBlue)$$lsname=CACA & PESCA (F4M) source #3 by Teamblue</link>
 
 
@@ -557,7 +732,7 @@
 <thumbnail>http://i.imgur.com/xTAptxu.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BABY FIRST[/B][/COLOR]</title>
-
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/816.ts;streamtype=TSDOWNLOADER&amp;name=BABY FIRST (by TeamBlue)$$lsname=BABY FIRST (F4M) source #1 by Teamblue</link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/816.ts;streamtype=TSDOWNLOADER&amp;name=BABY FIRST (by TeamBlue)$$lsname=BABY FIRST (F4M) source #3 by Teamblue</link>
 
@@ -566,8 +741,8 @@
 <thumbnail>http://i.imgur.com/CO31Je4.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BIGGS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7811.ts;streamtype=TSDOWNLOADER&amp;name=BIGGS (by TeamBlue)$$lsname=BIGGS (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/729.ts;streamtype=TSDOWNLOADER&amp;name=BIGGS (by TeamBlue)$$lsname=BIGGS (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/729.ts;streamtype=TSDOWNLOADER&amp;name=BIGGS (by TeamBlue)$$lsname=BIGGS (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/729.ts;streamtype=TSDOWNLOADER&amp;name=BIGGS (by TeamBlue)$$lsname=BIGGS (F4M) source #3 by Teamblue</link>
 
 
@@ -584,8 +759,8 @@
 <thumbnail>http://i.imgur.com/zWiKosU.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CARTOON NETWORK[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7814.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)$$lsname=CARTOON NETWORK (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/804.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)$$lsname=CARTOON NETWORK (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/804.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)$$lsname=CARTOON NETWORK (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/804.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (by TeamBlue)$$lsname=CARTOON NETWORK (F4M) source #3 by Teamblue</link>
 
 
@@ -611,8 +786,8 @@
 <thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] JIMJAM[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/Apo/Apo/3692.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM (by TeamBlue)$$lsname=JIMJAM (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/782.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM (by TeamBlue)$$lsname=JIMJAM (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/782.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM (by TeamBlue)$$lsname=JIMJAM (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/782.ts;streamtype=TSDOWNLOADER&amp;name=JIMJAM (by TeamBlue)$$lsname=JIMJAM (F4M) source #3 by Teamblue</link>
 
 
@@ -636,6 +811,16 @@
 
 
 <thumbnail>http://i.imgur.com/lhej3uE.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] AMC[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1709.ts;streamtype=TSDOWNLOADER&amp;name=AMC (by TeamBlue)$$lsname=AMC (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/818.ts;streamtype=TSDOWNLOADER&amp;name=AMC (by TeamBlue)$$lsname=AMC (F4M) source #2 by Teamblue</link>
@@ -686,6 +871,15 @@
 
 <thumbnail>http://i.imgur.com/cU4rgbA.png</thumbnail></item>
 
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1663.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/790.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M) source #2 by Teamblue</link>
@@ -730,7 +924,7 @@
 <thumbnail>http://i.imgur.com/giiQxbn.png</thumbnail></item>
 
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX MOVIES[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1729.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)$$lsname=FOX MOVIES (F4M) source #1 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/722.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)$$lsname=FOX MOVIES (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1729.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)$$lsname=FOX MOVIES (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/722.ts;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (by TeamBlue)$$lsname=FOX MOVIES (F4M) source #3 by Teamblue</link>
 
@@ -821,98 +1015,285 @@
 
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=DISCOVERY (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/discoveryx/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=discovery$$lsname=DISCOVERY (Sports Devil) by Teamblue</link>
+
 <thumbnail>http://i.imgur.com/gvtBP6j.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY SHOWCASE[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/798.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE (by TeamBlue)$$lsname=DISCOVERY SHOWCASE (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/798.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE (by TeamBlue)$$lsname=DISCOVERY SHOWCASE (F4M) source #3 by Teamblue</link>
+
+
+
 <thumbnail>http://i.imgur.com/H3pCgSC.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HISTORIA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1706.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)$$lsname=HISTORIA (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1706.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)$$lsname=HISTORIA (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/785.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA (by TeamBlue)$$lsname=HISTORIA (F4M) source #3 by Teamblue</link>
+
+
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=HISTORIA (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/historiab/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonline.com/index.php?canal=historia$$lsname=HISTORIA (Sports Devil) by Teamblue</link>
+
 <thumbnail>http://i.imgur.com/g5uYzpc.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NAT GEO CHANNEL[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1690.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL (by TeamBlue)$$lsname=NAT GEO CHANNEL (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/774.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL (by TeamBlue)$$lsname=NAT GEO CHANNEL (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/774.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO CHANNEL (by TeamBlue)$$lsname=NAT GEO CHANNEL (F4M) source #3 by Teamblue</link>
+
+
+
+
 <thumbnail>http://i.imgur.com/UPqfbBu.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NAT GEO WILD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1689.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)$$lsname=NAT GEO WILD (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1689.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)$$lsname=NAT GEO WILD (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/775.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (by TeamBlue)$$lsname=NAT GEO WILD (F4M) source #3 by Teamblue</link>
+
+
+
+
 <thumbnail>http://i.imgur.com/mNhHiku.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ODISSEIA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1687.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)$$lsname=ODISSEIA (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7765.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)$$lsname=ODISSEIA (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/moi/moi/1687.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)$$lsname=ODISSEIA (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/772.ts;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (by TeamBlue)$$lsname=ODISSEIA (F4M) source #3 by Teamblue</link>
+
+
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=ODISSEIA (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/odisseiax/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.estadiofutebol.com/gratis/odisseia$$lsname=ODISSEIA (Sports Devil) by Teamblue</link>
+
 <thumbnail>http://i.imgur.com/QyFiRiO.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] AFRO MUSIC[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/2141.ts;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC (by TeamBlue)$$lsname=AFRO MUSIC (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/2141.ts;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC (by TeamBlue)$$lsname=AFRO MUSIC (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/819.ts;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC (by TeamBlue)$$lsname=AFRO MUSIC (F4M) source #3 by Teamblue</link>
+
+
+
 <thumbnail>http://i.imgur.com/DS8VGbH.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] C MUSIC[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/810.ts;streamtype=TSDOWNLOADER&amp;name=C MUSIC (by TeamBlue)$$lsname=C MUSIC (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/810.ts;streamtype=TSDOWNLOADER&amp;name=C MUSIC (by TeamBlue)$$lsname=C MUSIC (F4M) source #3 by Teamblue</link>
+
+
+
 <thumbnail>http://i.imgur.com/BbypShX.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] M6 MUSIQUE[/B][/COLOR]</title>
+
+
+
 <link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8$$lsname=M6 MUSIQUE (HTTP) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/UUjLsQg.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MCM POP[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/781.ts;streamtype=TSDOWNLOADER&amp;name=MCM POP (by TeamBlue)$$lsname=MCM POP (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/781.ts;streamtype=TSDOWNLOADER&amp;name=MCM POP (by TeamBlue)$$lsname=MCM POP (F4M) source #3 by Teamblue</link>
+
+
+
 <thumbnail>http://i.imgur.com/a3lNp0e.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MCM TOP[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/2146.ts;streamtype=TSDOWNLOADER&amp;name=MCM TOP (by TeamBlue)$$lsname=MCM TOP (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/822.ts;streamtype=TSDOWNLOADER&amp;name=MCM TOP (by TeamBlue)$$lsname=MCM TOP (F4M) source #3 by Teamblue</link>
+
+
+
 <thumbnail>http://i.imgur.com/LIMXJmc.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV DANCE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/973.ts;streamtype=TSDOWNLOADER&amp;name=MTV DANCE (by TeamBlue)$$lsname=MTV DANCE (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/973.ts;streamtype=TSDOWNLOADER&amp;name=MTV DANCE (by TeamBlue)$$lsname=MTV DANCE (F4M) source #3 by Teamblue</link>
-<thumbnail>http://i.imgur.com/WCZQdTA.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1691.ts;streamtype=TSDOWNLOADER&amp;name=MTV (by TeamBlue)$$lsname=MTV (F4M) source #1 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/776.ts;streamtype=TSDOWNLOADER&amp;name=MTV (by TeamBlue)$$lsname=MTV (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1691.ts;streamtype=TSDOWNLOADER&amp;name=MTV (by TeamBlue)$$lsname=MTV (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/776.ts;streamtype=TSDOWNLOADER&amp;name=MTV (by TeamBlue)$$lsname=MTV (F4M) source #3 by Teamblue</link>
+
+
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=MTV (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/mtvax/1/650/500</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></regex></link>
+
+
 <thumbnail>http://i.imgur.com/5u1u9oO.png?1</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TRACE URBAN[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/2142.ts;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN (by TeamBlue)$$lsname=TRACE URBAN (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/748.ts;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN (by TeamBlue)$$lsname=TRACE URBAN (F4M) source #2 by Teamblue</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/748.ts;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN (by TeamBlue)$$lsname=TRACE URBAN (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/748.ts;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN (by TeamBlue)$$lsname=TRACE URBAN (F4M) source #3 by Teamblue</link>
+
+
+
 <thumbnail>http://i.imgur.com/VBaL5gr.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] VH1[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/2143.ts;streamtype=TSDOWNLOADER&amp;name=VH1 (by TeamBlue)$$lsname=VH1 (F4M) source #1 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/708.ts;streamtype=TSDOWNLOADER&amp;name=VH1 (by TeamBlue)$$lsname=VH1 (F4M) source #2 by Teamblue</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/708.ts;streamtype=TSDOWNLOADER&amp;name=VH1 (by TeamBlue)$$lsname=VH1 (F4M) source #3 by Teamblue</link>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226595/04.m3u8$$lsname=VH1 (HTTP) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/qfie62n.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] VH1 CLASSIC[/B][/COLOR]</title>
+
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/707.ts;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC (by TeamBlue)$$lsname=VH1 CLASSIC (F4M) source #3 by Teamblue</link>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226771/04.m3u8$$lsname=VH1 CLASSIC (HTTP) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/DzLrn28.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BAND[/B][/COLOR]</title>
+
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1589.ts;streamtype=TSDOWNLOADER&amp;name=BAND (by TeamBlue)$$lsname=BAND (F4M) source #3 by Teamblue</link>
 <link>http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8$$lsname=BAND (HTTP) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/o1qPwNa.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SBT[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://selling-team.net/live/chiristx/46746673/24951.ts;streamtype=TSDOWNLOADER&amp;name=SBT (by TeamBlue)$$lsname=SBT (F4M) source #1 by Teamblue</link>
+
+
+
 <link>http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8$$lsname=SBT (HTTP) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/IpdLuL6.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] TPA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/967.ts;streamtype=TSDOWNLOADER&amp;name=TPA (by TeamBlue)$$lsname=TPA (F4M) source #1 by Teamblue</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/967.ts;streamtype=TSDOWNLOADER&amp;name=TPA (by TeamBlue)$$lsname=TPA (F4M) source #3 by Teamblue</link>
-<thumbnail>http://i.imgur.com/tsNZEpc.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TV5 MONDE[/B][/COLOR]</title>
+
+
+
 <link>http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8$$lsname=TV5 MONDE (HTTP) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/89chccl.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TV GALICIA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/746.ts;streamtype=TSDOWNLOADER&amp;name=TV GALICIA (by TeamBlue)$$lsname=TV GALICIA (F4M) source #1 by Teamblue</link>
+
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/746.ts;streamtype=TSDOWNLOADER&amp;name=TV GALICIA (by TeamBlue)$$lsname=TV GALICIA (F4M) source #3 by Teamblue</link>
 <link>http://www.iptvsaga.com/play/tv3/0014.m3u8$$lsname=TV GALICIA (HTTP) by Teamblue</link>
+
+
 <thumbnail>http://i.imgur.com/zXT4FCD.png</thumbnail></item>
+
 Copyright © 2016 - TeamBlue
