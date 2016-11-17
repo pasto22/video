@@ -1,87 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item><title>[B][COLOR red]16.11 09h00 [B][COLOR green]MOTOGP [COLOR blue]TESTES OFICIAIS • VALÊNCIA [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
-
-<link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1501.ts;streamtype=TSDOWNLOADER&amp;name=MOVISTAR MOTOGP (by Teamblue)$$lsname=MOVISTAR MOTOGP (F4M) (source #1)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/338.ts;streamtype=TSDOWNLOADER&amp;name=MOVISTAR MOTOGP (by Teamblue)$$lsname=MOVISTAR MOTOGP (F4m) (source #3)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
-<link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://801e033c9c01e8deec32b1e431a1e9c6749aa5c4&amp;mode=1&amp;name=AV11 (Plexus) (by Teamblue)$$lsname=AV11 (Plexus)</link>
-<link>plugin://program.plexus/?url=acestream://c9100815e95268198b8a4e85a84c2e31ef6bf5c7&amp;mode=1&amp;name=AV12 (Plexus) (by Teamblue)$$lsname=AV12 (Plexus)</link>
-
-
-<thumbnail>http://i.imgur.com/H7bQhji.png</thumbnail></item>
-<item><title>[B][COLOR red]16.11 13h00 [B][COLOR green]MOTOGP [COLOR blue]TESTES OFICIAIS • VALÊNCIA [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
-
-<link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1501.ts;streamtype=TSDOWNLOADER&amp;name=MOVISTAR MOTOGP (by Teamblue)$$lsname=MOVISTAR MOTOGP (F4M) (source #1)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/338.ts;streamtype=TSDOWNLOADER&amp;name=MOVISTAR MOTOGP (by Teamblue)$$lsname=MOVISTAR MOTOGP (F4m) (source #3)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
-<link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://801e033c9c01e8deec32b1e431a1e9c6749aa5c4&amp;mode=1&amp;name=AV11 (Plexus) (by Teamblue)$$lsname=AV11 (Plexus)</link>
-<link>plugin://program.plexus/?url=acestream://c9100815e95268198b8a4e85a84c2e31ef6bf5c7&amp;mode=1&amp;name=AV12 (Plexus) (by Teamblue)$$lsname=AV12 (Plexus)</link>
-
-
-<thumbnail>http://i.imgur.com/H7bQhji.png</thumbnail></item>
-<item><title>[B][COLOR red]16.11 14h00 [B][COLOR green]TENIS [COLOR blue]A MURRAY • N NISHIKORI [B][COLOR green]ATP WORLD TOUR FINALS[/B][/COLOR]</title>
+<item><title>[B][COLOR red]17.11 14h00 [B][COLOR green]TENIS [COLOR blue]N. DJOKOVIC • G. MONFILS [B][COLOR green]ATP WORLD TOUR FINALS[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/2139.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4M) (source #1)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4790.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #2)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #3)</link>
 
 
-<link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/merda4-rp4un</page><referer>http://sharecast.eu/embed/merda4-rp4un</referer></regex></link>
+<link><link>$doregex[select_Url]$$lsname=SPORT TV 5 (RTMP #source 02) by TeamBlue</link><regex><name>select_Url</name><expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres><page></page></regex><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex><regex><name>get_sxstream1</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex></link>
 
 
 
@@ -100,729 +24,7 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv5.php$$lsname=SPORT TV 5 (SD)</link>
-<link>http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (SD)</link>
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://603065890d5b4cbf7cdf618efe20b7e1daa7e3dd&amp;mode=1&amp;name=AV5  (Plexus) (by Teamblue)$$lsname=AV5  (Plexus)</link>
-<link>plugin://program.plexus/?url=acestream://63d6ff96b5371c4680283dd73a5c9ca133585e4f&amp;mode=1&amp;name=AV6  (Plexus) (by Teamblue)$$lsname=AV6  (Plexus)</link>
-
-
-<thumbnail>http://i.imgur.com/tX9VCyo.png</thumbnail></item>
-<item><title>[B][COLOR red]16.11 18h00 [B][COLOR green]BASQUETEBOL [COLOR blue]OLYMPIAKOS PIRAEUS • FC BARCELONA [B][COLOR green]EUROLEAGUE[/B][/COLOR]</title>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://801e033c9c01e8deec32b1e431a1e9c6749aa5c4&amp;mode=1&amp;name=AV11 (Plexus) (by Teamblue)$$lsname=AV11 (Plexus)</link>
-<link>plugin://program.plexus/?url=acestream://c9100815e95268198b8a4e85a84c2e31ef6bf5c7&amp;mode=1&amp;name=AV12 (Plexus) (by Teamblue)$$lsname=AV12 (Plexus)</link>
-
-
-<thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]16.11 18h30 [B][COLOR green]NOTICIAS [COLOR blue]MAIS BASTIDORES [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7591.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/738.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/738.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4m) (source #3)</link>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8$$lsname=TVI24 (HTTP)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://i.imgur.com/WHv8jrM.png</thumbnail></item>
-<item><title>[B][COLOR red]16.11 18h30 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/2706.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #3)</link>
-
-<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP)</link>
-<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>http://www.estadiofutebol.com/gratis/portocanal$$lsname=PORTO CANAL (SD)</link>
-
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://i.imgur.com/WHv8jrM.png</thumbnail></item>
-<item><title>[B][COLOR red]16.11 20h00 [B][COLOR green]BASQUETEBOL [COLOR blue]REAL MADRID • PANATHINAIKOS [B][COLOR green]EUROLEAGUE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
-
-<link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
-<link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://801e033c9c01e8deec32b1e431a1e9c6749aa5c4&amp;mode=1&amp;name=AV11 (Plexus) (by Teamblue)$$lsname=AV11 (Plexus)</link>
-<link>plugin://program.plexus/?url=acestream://c9100815e95268198b8a4e85a84c2e31ef6bf5c7&amp;mode=1&amp;name=AV12 (Plexus) (by Teamblue)$$lsname=AV12 (Plexus)</link>
-
-
-<thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]16.11 20h00 [B][COLOR green]TENIS [COLOR blue]S WAWKINKA • M CILIC [B][COLOR green]ATP WORLD TOUR FINALS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/2139.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4790.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #3)</link>
-
-
-<link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/merda4-rp4un</page><referer>http://sharecast.eu/embed/merda4-rp4un</referer></regex></link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>http://cdn2.zuuk.org/sporttv5.php$$lsname=SPORT TV 5 (SD)</link>
-<link>http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (SD)</link>
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://i.imgur.com/tX9VCyo.png</thumbnail></item>
-<item><title>[B][COLOR red]16.11 21h00 [B][COLOR green]BASQUETEBOL [COLOR blue]FC PORTO • NANTERRE [B][COLOR green]EUROLEAGUE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/2706.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #3)</link>
-
-<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP)</link>
-<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>http://www.estadiofutebol.com/gratis/portocanal$$lsname=PORTO CANAL (SD)</link>
-
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]16.11 21h00 [B][COLOR green]HOQUEI [COLOR blue]SL BENFICA • MASSAMA [B][COLOR green]CAMP NAC SEM FEM[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1670.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by Teamblue)$$lsname=BENFICA TV (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1670.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by Teamblue)$$lsname=BENFICA TV (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/813.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV (by Teamblue)$$lsname=BENFICA TV (F4m) (source #3)</link>
-
-<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=gwearger?keys=bgTVSHj_R7k44rqRvZCNUQ&keyt=1471708579 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=gwearger$$lsname=BENFICA TV (RTMP)</link>
-<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=BENFICA TV (RTMP) by Teamblue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://cdn.mipspublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.mipsplayer.com/membedplayer/benfaschannelix/1/555/442</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.mips.tv</referer></regex></link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>http://firstrowas.co///embed/9DOXhIxxsw$$lsname=BENFICA TV (SD)</link>
-<link>http://www.sporttvsonline.com/index.php?canal=benficatv$$lsname=BENFICA TV (SD)</link>
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://i.imgur.com/flKVV1H.png</thumbnail></item>
-<item><title>[B][COLOR red]16.11 22h00 [B][COLOR green]NOTICIAS [COLOR blue]MAIS BASTIDORES [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7591.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/738.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/738.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4m) (source #3)</link>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8$$lsname=TVI24 (HTTP)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://i.imgur.com/WHv8jrM.png</thumbnail></item>
-<item><title>[B][COLOR red]16.11 23h45 [B][COLOR green]FUTEBOL [COLOR blue]AMÉRICA • FLAMENGO [B][COLOR green]BRASILEIRAO[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1722.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/753.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1071.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #3)</link>
-
-<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510$$lsname=SPORT TV 2 (RTMP)</link>
-<link><link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link></link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>http://www.sporttvsonline.com/index.php?canal=sporttv2$$lsname=SPORT TV 2 (SD)</link>
-<link>http://firstrowsports.ge/?watch/408917/2/watch-xonetv.html$$lsname=SPORT TV 2 (SD)</link>
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
-<item><title>[B][COLOR red]17.11 00h00 [B][COLOR green]NBA [COLOR blue]INDIANA PACERS • CLEVELAND CAVALIERS [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
-
-<link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
-<link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://97b86c30c70c446cb06393734183717e28f5b5dd&amp;mode=1&amp;name=AV8  (Plexus) (by Teamblue)$$lsname=AV8  (Plexus)</link>
-<link>plugin://program.plexus/?url=acestream://5832e1cf2d1e91a536290c21fcf8ecb963e4c916&amp;mode=1&amp;name=AV9  (Plexus) (by Teamblue)$$lsname=AV9  (Plexus)</link>
-
-
-<thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]17.11 00h00 [B][COLOR green]NBA [COLOR blue]PHILADELPHIA 76ERS • WASHIGTON WIZARDS [B][COLOR green][/B][/COLOR]</title>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://8e3a1c6fb9153dd89c99ca78521b578f73df0d53&amp;mode=1&amp;name=AV20 (Plexus) (by Teamblue)$$lsname=AV20 (Plexus)</link>
-
-
-
-<thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]17.11 00h30 [B][COLOR green]NBA [COLOR blue]BOSTON CELTICS • DALLAS MAVERICKS [B][COLOR green][/B][/COLOR]</title>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://449c541fb3d94a6fcb656be0133f1604f76a59a1&amp;mode=1&amp;name=AV21 (Plexus) (by Teamblue)$$lsname=AV21 (Plexus)</link>
-
-
-
-<thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]17.11 00h30 [B][COLOR green]NBA [COLOR blue]NEW YORK KNICKS • DETROIT PISTONS [B][COLOR green][/B][/COLOR]</title>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://801e033c9c01e8deec32b1e431a1e9c6749aa5c4&amp;mode=1&amp;name=AV11 (Plexus) (by Teamblue)$$lsname=AV11 (Plexus)</link>
-<link>plugin://program.plexus/?url=acestream://c9100815e95268198b8a4e85a84c2e31ef6bf5c7&amp;mode=1&amp;name=AV12 (Plexus) (by Teamblue)$$lsname=AV12 (Plexus)</link>
-
-
-<thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]17.11 00h30 [B][COLOR green]NHL [COLOR blue]WASHINGTON • PITTSBURGH [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1724.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by Teamblue)$$lsname=SPORT TV 4 (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by Teamblue)$$lsname=SPORT TV 4 (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1441.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by Teamblue)$$lsname=SPORT TV 4 (F4m) (source #3)</link>
-
-<link>rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=-mk38EysabgrlvA1TTGvWA&keyt;=1471232732 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds&width;=555&height;=440 timeout=10$$lsname=SPORT TV 4 (RTMP)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>http://www.bigcast.us/embed.php?v=stv4&vw=620&vh=490$$lsname=SPORT TV 4 (SD)</link>
-<link>http://hdfree.tv/watch/79/sport-tv-4-pt-live-stream.html$$lsname=SPORT TV 4 (SD)</link>
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://i.imgur.com/P3qd7xu.jpg</thumbnail></item>
-<item><title>[B][COLOR red]17.11 01h00 [B][COLOR green]NBA [COLOR blue]OKLAHOMA CITY THUNDER • HOUSTON ROCKETS [B][COLOR green][/B][/COLOR]</title>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://dfc9c8ed1d60474e9c2a8faf8b0591e715178980&amp;mode=1&amp;name=AV22 (Plexus) (by Teamblue)$$lsname=AV22 (Plexus)</link>
-
-
-
-<thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]17.11 01h00 [B][COLOR green]NBA [COLOR blue]TORONTO RAPTORS • GOLDEN STATE WARRIORS [B][COLOR green][/B][/COLOR]</title>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://17ec6c2ffcaf4db9927eb54187de125b0e218413&amp;mode=1&amp;name=AV30 (Plexus) (by Teamblue)$$lsname=AV30 (Plexus)</link>
-
-
-
-<thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]17.11 03h30 [B][COLOR green]NBA [COLOR blue]LOS ANGELES CLIPPERS • MEMPHIS GRIZZLIES [B][COLOR green][/B][/COLOR]</title>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://17ec6c2ffcaf4db9927eb54187de125b0e218413&amp;mode=1&amp;name=AV30 (Plexus) (by Teamblue)$$lsname=AV30 (Plexus)</link>
-
-
-
-<thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]17.11 03h30 [B][COLOR green]NBA [COLOR blue]SACRAMENTO KINGS • SAN ANTONIO SPURS [B][COLOR green][/B][/COLOR]</title>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>plugin://program.plexus/?url=acestream://8e3a1c6fb9153dd89c99ca78521b578f73df0d53&amp;mode=1&amp;name=AV20 (Plexus) (by Teamblue)$$lsname=AV20 (Plexus)</link>
-
-
-
-<thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]17.11 14h00 [B][COLOR green]TENIS [COLOR blue]A DEFINIR [B][COLOR green]ATP WORLD TOUR FINALS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/2139.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4M) (source #1)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4790.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #2)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #3)</link>
-
-
-<link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/merda4-rp4un</page><referer>http://sharecast.eu/embed/merda4-rp4un</referer></regex></link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link>http://cdn2.zuuk.org/sporttv5.php$$lsname=SPORT TV 5 (SD)</link>
+<link>http://hdfree.tv/watch/80/sport-tv-5-pt-live-stream.html$$lsname=SPORT TV 5 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (SD)</link>
 
 
@@ -841,7 +43,58 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
 
 <link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
+"<link><link>rtmp://$doregex[r1].$doregex[r2].$doregex[r3].$doregex[r4]$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv live=1 timeout=15$$lsname= SPORT TV 1 (RTMP #source 02) by TeamBlue</link>
+<regex>
+<name>r1</name>
+<expres>$pyFunction:($doregex[vara]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r2</name>
+<expres>$pyFunction:($doregex[varb]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r3</name>
+<expres>$pyFunction:($doregex[varc]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r4</name>
+<expres>$pyFunction:($doregex[vard]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>path</name>
+<expres>v_part = '(.*)'</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vara</name>
+<expres>var a = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+<referer>http://privatestream.tv/</referer>
+</regex>
+<regex>
+<name>varb</name>
+<expres>var b = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varc</name>
+<expres>var c = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vard</name>
+<expres>var d = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varf</name>
+<expres>var f = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex></link>"
 
 
 
@@ -860,8 +113,8 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv.php$$lsname=SPORT TV 1 (SD)</link>
 
 
 
@@ -917,7 +170,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #3)</link>
 
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP)</link>
-<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP #source 02) by TeamBlue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
 
 
 
@@ -987,13 +240,13 @@
 
 
 <thumbnail>http://i.imgur.com/18fkQ87.png</thumbnail></item>
-<item><title>[B][COLOR red]17.11 20h00 [B][COLOR green]TENIS [COLOR blue]A DEFINIR [B][COLOR green]ATP WORLD TOUR FINALS[/B][/COLOR]</title>
+<item><title>[B][COLOR red]17.11 20h00 [B][COLOR green]TENIS [COLOR blue]M. RAONIC • D. THIEM [B][COLOR green]ATP WORLD TOUR FINALS[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/2139.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4M) (source #1)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4790.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #2)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #3)</link>
 
 
-<link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/merda4-rp4un</page><referer>http://sharecast.eu/embed/merda4-rp4un</referer></regex></link>
+<link><link>$doregex[select_Url]$$lsname=SPORT TV 5 (RTMP #source 02) by TeamBlue</link><regex><name>select_Url</name><expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres><page></page></regex><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex><regex><name>get_sxstream1</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex></link>
 
 
 
@@ -1012,7 +265,7 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv5.php$$lsname=SPORT TV 5 (SD)</link>
+<link>http://hdfree.tv/watch/80/sport-tv-5-pt-live-stream.html$$lsname=SPORT TV 5 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (SD)</link>
 
 
@@ -1031,7 +284,58 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
 
 <link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
+"<link><link>rtmp://$doregex[r1].$doregex[r2].$doregex[r3].$doregex[r4]$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv live=1 timeout=15$$lsname= SPORT TV 1 (RTMP #source 02) by TeamBlue</link>
+<regex>
+<name>r1</name>
+<expres>$pyFunction:($doregex[vara]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r2</name>
+<expres>$pyFunction:($doregex[varb]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r3</name>
+<expres>$pyFunction:($doregex[varc]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r4</name>
+<expres>$pyFunction:($doregex[vard]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>path</name>
+<expres>v_part = '(.*)'</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vara</name>
+<expres>var a = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+<referer>http://privatestream.tv/</referer>
+</regex>
+<regex>
+<name>varb</name>
+<expres>var b = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varc</name>
+<expres>var c = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vard</name>
+<expres>var d = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varf</name>
+<expres>var f = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex></link>"
 
 
 
@@ -1050,8 +354,8 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv.php$$lsname=SPORT TV 1 (SD)</link>
 
 
 
@@ -1069,7 +373,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #3)</link>
 
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP)</link>
-<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP #source 02) by TeamBlue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
 
 
 
@@ -1106,8 +410,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/753.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #2)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1071.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #3)</link>
 
-<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510$$lsname=SPORT TV 2 (RTMP)</link>
-<link><link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link></link>
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510$$lsname=SPORT TV 2 (RTMP)</link>
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP #source 02) by TeamBlue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
 
 
 
@@ -1126,8 +430,8 @@
 
 
 
+<link>http://hdfree.tv/watch/77/sport-tv-2-pt-live-stream.html$$lsname=SPORT TV 2 (SD)</link>
 <link>http://www.sporttvsonline.com/index.php?canal=sporttv2$$lsname=SPORT TV 2 (SD)</link>
-<link>http://firstrowsports.ge/?watch/408917/2/watch-xonetv.html$$lsname=SPORT TV 2 (SD)</link>
 
 
 
@@ -1297,7 +601,58 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
 
 <link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
+"<link><link>rtmp://$doregex[r1].$doregex[r2].$doregex[r3].$doregex[r4]$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv live=1 timeout=15$$lsname= SPORT TV 1 (RTMP #source 02) by TeamBlue</link>
+<regex>
+<name>r1</name>
+<expres>$pyFunction:($doregex[vara]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r2</name>
+<expres>$pyFunction:($doregex[varb]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r3</name>
+<expres>$pyFunction:($doregex[varc]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r4</name>
+<expres>$pyFunction:($doregex[vard]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>path</name>
+<expres>v_part = '(.*)'</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vara</name>
+<expres>var a = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+<referer>http://privatestream.tv/</referer>
+</regex>
+<regex>
+<name>varb</name>
+<expres>var b = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varc</name>
+<expres>var c = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vard</name>
+<expres>var d = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varf</name>
+<expres>var f = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex></link>"
 
 
 
@@ -1316,8 +671,8 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv.php$$lsname=SPORT TV 1 (SD)</link>
 
 
 
@@ -1335,7 +690,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #3)</link>
 
 
-<link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/merda4-rp4un</page><referer>http://sharecast.eu/embed/merda4-rp4un</referer></regex></link>
+<link><link>$doregex[select_Url]$$lsname=SPORT TV 5 (RTMP #source 02) by TeamBlue</link><regex><name>select_Url</name><expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres><page></page></regex><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex><regex><name>get_sxstream1</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex></link>
 
 
 
@@ -1354,7 +709,7 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv5.php$$lsname=SPORT TV 5 (SD)</link>
+<link>http://hdfree.tv/watch/80/sport-tv-5-pt-live-stream.html$$lsname=SPORT TV 5 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (SD)</link>
 
 
@@ -1411,7 +766,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #3)</link>
 
 
-<link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/merda4-rp4un</page><referer>http://sharecast.eu/embed/merda4-rp4un</referer></regex></link>
+<link><link>$doregex[select_Url]$$lsname=SPORT TV 5 (RTMP #source 02) by TeamBlue</link><regex><name>select_Url</name><expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres><page></page></regex><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex><regex><name>get_sxstream1</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex></link>
 
 
 
@@ -1430,7 +785,7 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv5.php$$lsname=SPORT TV 5 (SD)</link>
+<link>http://hdfree.tv/watch/80/sport-tv-5-pt-live-stream.html$$lsname=SPORT TV 5 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (SD)</link>
 
 
@@ -1449,7 +804,58 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
 
 <link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
+"<link><link>rtmp://$doregex[r1].$doregex[r2].$doregex[r3].$doregex[r4]$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv live=1 timeout=15$$lsname= SPORT TV 1 (RTMP #source 02) by TeamBlue</link>
+<regex>
+<name>r1</name>
+<expres>$pyFunction:($doregex[vara]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r2</name>
+<expres>$pyFunction:($doregex[varb]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r3</name>
+<expres>$pyFunction:($doregex[varc]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r4</name>
+<expres>$pyFunction:($doregex[vard]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>path</name>
+<expres>v_part = '(.*)'</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vara</name>
+<expres>var a = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+<referer>http://privatestream.tv/</referer>
+</regex>
+<regex>
+<name>varb</name>
+<expres>var b = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varc</name>
+<expres>var c = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vard</name>
+<expres>var d = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varf</name>
+<expres>var f = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex></link>"
 
 
 
@@ -1468,8 +874,8 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv.php$$lsname=SPORT TV 1 (SD)</link>
 
 
 
@@ -1487,7 +893,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #3)</link>
 
 
-<link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/merda4-rp4un</page><referer>http://sharecast.eu/embed/merda4-rp4un</referer></regex></link>
+<link><link>$doregex[select_Url]$$lsname=SPORT TV 5 (RTMP #source 02) by TeamBlue</link><regex><name>select_Url</name><expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres><page></page></regex><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex><regex><name>get_sxstream1</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex></link>
 
 
 
@@ -1506,7 +912,7 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv5.php$$lsname=SPORT TV 5 (SD)</link>
+<link>http://hdfree.tv/watch/80/sport-tv-5-pt-live-stream.html$$lsname=SPORT TV 5 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (SD)</link>
 
 
@@ -1525,7 +931,58 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
 
 <link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
+"<link><link>rtmp://$doregex[r1].$doregex[r2].$doregex[r3].$doregex[r4]$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv live=1 timeout=15$$lsname= SPORT TV 1 (RTMP #source 02) by TeamBlue</link>
+<regex>
+<name>r1</name>
+<expres>$pyFunction:($doregex[vara]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r2</name>
+<expres>$pyFunction:($doregex[varb]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r3</name>
+<expres>$pyFunction:($doregex[varc]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r4</name>
+<expres>$pyFunction:($doregex[vard]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>path</name>
+<expres>v_part = '(.*)'</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vara</name>
+<expres>var a = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+<referer>http://privatestream.tv/</referer>
+</regex>
+<regex>
+<name>varb</name>
+<expres>var b = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varc</name>
+<expres>var c = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vard</name>
+<expres>var d = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varf</name>
+<expres>var f = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex></link>"
 
 
 
@@ -1544,8 +1001,8 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv.php$$lsname=SPORT TV 1 (SD)</link>
 
 
 
@@ -1601,7 +1058,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #3)</link>
 
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP)</link>
-<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP #source 02) by TeamBlue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
 
 
 
@@ -1638,8 +1095,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/824.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #2)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/751.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #3)</link>
 
-<link>rtmp://179.43.158.195:16625/stream/ playPath=o4NLATkOb3.stream?t5651a791kt952i1130rt838i6407nt5651a791kt952i646kt952i1130rt5651a791kt952i1130rt952i1130rt384i791yt384i791y swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t1692a262kt907i9535rt726i2985nt1692a262kt907i481kt907i9535rt1692a262kt907i9535rt907i9535rt572i262yt572i262y&st=s5t205n4w5c4t2s4643683u5j3k4w3d4y4i5x2p2p243z244746453z3w213e4s203z2&adx=&stream=h5v2b4e4k574v244d47444l5t2j5b4n2u584o3a3f413x2766476e3s5n39355h4n354u224r2a4z2v224p2f43464f413p2e4a4n2u5v2x4e3h49454v4s2p4d3n4y4n465j4w494k2m4m4k4f484p3p3e5e4a4v5a4z3244634p2o234a4w264z27433x2i544c40344c4c4o5e4b4b484b4t2e4b464w28464445413b474m234242434p2o234z3&sooor=Ng==&str=is&ok=&cat=3&link=1&idom=firstrowas.co$$lsname=SPORT TV 3 (RTMP)</link>
-<link><link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live3-qszlx</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link></link>
+
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP #source 02) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live3-qszlx</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
 
 
 
@@ -1677,7 +1134,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #3)</link>
 
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP)</link>
-<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP #source 02) by TeamBlue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
 
 
 
@@ -1752,8 +1209,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/753.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #2)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1071.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #3)</link>
 
-<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt;=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width;=630&height;=510$$lsname=SPORT TV 2 (RTMP)</link>
-<link><link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link></link>
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510$$lsname=SPORT TV 2 (RTMP)</link>
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP #source 02) by TeamBlue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
 
 
 
@@ -1772,8 +1229,8 @@
 
 
 
+<link>http://hdfree.tv/watch/77/sport-tv-2-pt-live-stream.html$$lsname=SPORT TV 2 (SD)</link>
 <link>http://www.sporttvsonline.com/index.php?canal=sporttv2$$lsname=SPORT TV 2 (SD)</link>
-<link>http://firstrowsports.ge/?watch/408917/2/watch-xonetv.html$$lsname=SPORT TV 2 (SD)</link>
 
 
 
@@ -1791,7 +1248,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #3)</link>
 
 
-<link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/merda4-rp4un</page><referer>http://sharecast.eu/embed/merda4-rp4un</referer></regex></link>
+<link><link>$doregex[select_Url]$$lsname=SPORT TV 5 (RTMP #source 02) by TeamBlue</link><regex><name>select_Url</name><expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres><page></page></regex><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex><regex><name>get_sxstream1</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex></link>
 
 
 
@@ -1810,7 +1267,7 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv5.php$$lsname=SPORT TV 5 (SD)</link>
+<link>http://hdfree.tv/watch/80/sport-tv-5-pt-live-stream.html$$lsname=SPORT TV 5 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (SD)</link>
 
 
@@ -1828,7 +1285,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by Teamblue)$$lsname=SPORT TV 4 (F4m) (source #2)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1441.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by Teamblue)$$lsname=SPORT TV 4 (F4m) (source #3)</link>
 
-<link>rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=-mk38EysabgrlvA1TTGvWA&keyt;=1471232732 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds&width;=555&height;=440 timeout=10$$lsname=SPORT TV 4 (RTMP)</link>
+
 
 
 
@@ -1867,7 +1324,58 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
 
 <link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
+"<link><link>rtmp://$doregex[r1].$doregex[r2].$doregex[r3].$doregex[r4]$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv live=1 timeout=15$$lsname= SPORT TV 1 (RTMP #source 02) by TeamBlue</link>
+<regex>
+<name>r1</name>
+<expres>$pyFunction:($doregex[vara]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r2</name>
+<expres>$pyFunction:($doregex[varb]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r3</name>
+<expres>$pyFunction:($doregex[varc]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r4</name>
+<expres>$pyFunction:($doregex[vard]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>path</name>
+<expres>v_part = '(.*)'</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vara</name>
+<expres>var a = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+<referer>http://privatestream.tv/</referer>
+</regex>
+<regex>
+<name>varb</name>
+<expres>var b = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varc</name>
+<expres>var c = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vard</name>
+<expres>var d = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varf</name>
+<expres>var f = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex></link>"
 
 
 
@@ -1886,8 +1394,8 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv.php$$lsname=SPORT TV 1 (SD)</link>
 
 
 
@@ -1905,7 +1413,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #3)</link>
 
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP)</link>
-<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP) (by TeamBlue)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP #source 02) by TeamBlue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
 
 
 
@@ -2057,7 +1565,58 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
 
 <link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
+"<link><link>rtmp://$doregex[r1].$doregex[r2].$doregex[r3].$doregex[r4]$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv live=1 timeout=15$$lsname= SPORT TV 1 (RTMP #source 02) by TeamBlue</link>
+<regex>
+<name>r1</name>
+<expres>$pyFunction:($doregex[vara]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r2</name>
+<expres>$pyFunction:($doregex[varb]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r3</name>
+<expres>$pyFunction:($doregex[varc]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r4</name>
+<expres>$pyFunction:($doregex[vard]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>path</name>
+<expres>v_part = '(.*)'</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vara</name>
+<expres>var a = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+<referer>http://privatestream.tv/</referer>
+</regex>
+<regex>
+<name>varb</name>
+<expres>var b = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varc</name>
+<expres>var c = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vard</name>
+<expres>var d = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varf</name>
+<expres>var f = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex></link>"
 
 
 
@@ -2076,8 +1635,8 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv.php$$lsname=SPORT TV 1 (SD)</link>
 
 
 
@@ -2095,7 +1654,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #3)</link>
 
 
-<link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/merda4-rp4un</page><referer>http://sharecast.eu/embed/merda4-rp4un</referer></regex></link>
+<link><link>$doregex[select_Url]$$lsname=SPORT TV 5 (RTMP #source 02) by TeamBlue</link><regex><name>select_Url</name><expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres><page></page></regex><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex><regex><name>get_sxstream1</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex></link>
 
 
 
@@ -2114,7 +1673,7 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv5.php$$lsname=SPORT TV 5 (SD)</link>
+<link>http://hdfree.tv/watch/80/sport-tv-5-pt-live-stream.html$$lsname=SPORT TV 5 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (SD)</link>
 
 
@@ -2208,8 +1767,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/824.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #2)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/751.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #3)</link>
 
-<link>rtmp://179.43.158.195:16625/stream/ playPath=o4NLATkOb3.stream?t5651a791kt952i1130rt838i6407nt5651a791kt952i646kt952i1130rt5651a791kt952i1130rt952i1130rt384i791yt384i791y swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t1692a262kt907i9535rt726i2985nt1692a262kt907i481kt907i9535rt1692a262kt907i9535rt907i9535rt572i262yt572i262y&st=s5t205n4w5c4t2s4643683u5j3k4w3d4y4i5x2p2p243z244746453z3w213e4s203z2&adx=&stream=h5v2b4e4k574v244d47444l5t2j5b4n2u584o3a3f413x2766476e3s5n39355h4n354u224r2a4z2v224p2f43464f413p2e4a4n2u5v2x4e3h49454v4s2p4d3n4y4n465j4w494k2m4m4k4f484p3p3e5e4a4v5a4z3244634p2o234a4w264z27433x2i544c40344c4c4o5e4b4b484b4t2e4b464w28464445413b474m234242434p2o234z3&sooor=Ng==&str=is&ok=&cat=3&link=1&idom=firstrowas.co$$lsname=SPORT TV 3 (RTMP)</link>
-<link><link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live3-qszlx</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link></link>
+
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP #source 02) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live3-qszlx</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
 
 
 
@@ -2361,7 +1920,58 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
 
 <link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
-<link><link>http://cdn.widestream.io:8081/shareedge/live1-rbi6c/chunks.m3u8?wmsAuthSign=$doregex[m3u8] |User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=SPORT TV 1 (RTMP) by Teamblue</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page><referer>http://antena.ontvfree2.me/esportiva.php?ch=sat69</referer></regex></link>
+"<link><link>rtmp://$doregex[r1].$doregex[r2].$doregex[r3].$doregex[r4]$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv live=1 timeout=15$$lsname= SPORT TV 1 (RTMP #source 02) by TeamBlue</link>
+<regex>
+<name>r1</name>
+<expres>$pyFunction:($doregex[vara]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r2</name>
+<expres>$pyFunction:($doregex[varb]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r3</name>
+<expres>$pyFunction:($doregex[varc]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r4</name>
+<expres>$pyFunction:($doregex[vard]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>path</name>
+<expres>v_part = '(.*)'</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vara</name>
+<expres>var a = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+<referer>http://privatestream.tv/</referer>
+</regex>
+<regex>
+<name>varb</name>
+<expres>var b = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varc</name>
+<expres>var c = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vard</name>
+<expres>var d = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varf</name>
+<expres>var f = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex></link>"
 
 
 
@@ -2380,8 +1990,8 @@
 
 
 
-<link>http://cdn2.zuuk.org/sporttv.php?width=599$$lsname=SPORT TV 1 (SD)</link>
 <link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv.php$$lsname=SPORT TV 1 (SD)</link>
 
 
 
@@ -2394,26 +2004,905 @@
 
 <thumbnail>http://i.imgur.com/kVm184D.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 11h00 [B][COLOR green]FUTEBOL [COLOR blue]FC PORTO B • MARITIMO B [B][COLOR green]L LEDMAN[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/2706.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #3)</link>
+
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP)</link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP #source 02) by TeamBlue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://www.estadiofutebol.com/gratis/portocanal$$lsname=PORTO CANAL (SD)</link>
+
+
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 12h00 [B][COLOR green]FUTEBOL [COLOR blue]DEPORTIVO LA CORUNA • SEVILLA [B][COLOR green]SPANISH LALIGA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1722.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/753.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1071.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #3)</link>
+
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510$$lsname=SPORT TV 2 (RTMP)</link>
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP #source 02) by TeamBlue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://hdfree.tv/watch/77/sport-tv-2-pt-live-stream.html$$lsname=SPORT TV 2 (SD)</link>
+<link>http://www.sporttvsonline.com/index.php?canal=sporttv2$$lsname=SPORT TV 2 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&amp;mode=1&amp;name=AV1  (Plexus) (by Teamblue)$$lsname=AV1  (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&amp;mode=1&amp;name=AV2  (Plexus) (by Teamblue)$$lsname=AV2  (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 12h30 [B][COLOR green]FUTEBOL [COLOR blue]MANCHESTER UNITED • ARSENAL [B][COLOR green]PREMIER LEAGUE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1723.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/824.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/751.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #3)</link>
+
+
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP #source 02) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live3-qszlx</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://hdfree.tv/watch/78/sport-tv-3-pt-live-stream.html$$lsname=SPORT TV 3 (SD)</link>
+<link>http://www.bigcast.us/embed.php?v=stv3&vw=620&vh=490$$lsname=SPORT TV 3 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&amp;mode=1&amp;name=AV3  (Plexus) (by Teamblue)$$lsname=AV3  (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&amp;mode=1&amp;name=AV4  (Plexus) (by Teamblue)$$lsname=AV4  (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 14h00 [B][COLOR green]TENIS [COLOR blue]A DEFINIR [B][COLOR green]ATP WORLD TOUR FINALS[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/2139.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4790.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #3)</link>
+
+
+<link><link>$doregex[select_Url]$$lsname=SPORT TV 5 (RTMP #source 02) by TeamBlue</link><regex><name>select_Url</name><expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres><page></page></regex><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex><regex><name>get_sxstream1</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://hdfree.tv/watch/80/sport-tv-5-pt-live-stream.html$$lsname=SPORT TV 5 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://75495b030175229976bf2f619684ce12f61ee959&amp;mode=1&amp;name=AV13 (Plexus) (by Teamblue)$$lsname=AV13 (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://4d0e8adbe3f332d24467873cd4831e6992ea465c&amp;mode=1&amp;name=AV14 (Plexus) (by Teamblue)$$lsname=AV14 (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/tX9VCyo.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 14h00 [B][COLOR green]FUTEBOL [COLOR blue]CHIEVO VERONA • CAGLIARI [B][COLOR green]ITALIA SERIE A[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
+
+<link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
+"<link><link>rtmp://$doregex[r1].$doregex[r2].$doregex[r3].$doregex[r4]$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv live=1 timeout=15$$lsname= SPORT TV 1 (RTMP #source 02) by TeamBlue</link>
+<regex>
+<name>r1</name>
+<expres>$pyFunction:($doregex[vara]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r2</name>
+<expres>$pyFunction:($doregex[varb]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r3</name>
+<expres>$pyFunction:($doregex[varc]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r4</name>
+<expres>$pyFunction:($doregex[vard]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>path</name>
+<expres>v_part = '(.*)'</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vara</name>
+<expres>var a = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+<referer>http://privatestream.tv/</referer>
+</regex>
+<regex>
+<name>varb</name>
+<expres>var b = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varc</name>
+<expres>var c = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vard</name>
+<expres>var d = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varf</name>
+<expres>var f = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex></link>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv.php$$lsname=SPORT TV 1 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://801e033c9c01e8deec32b1e431a1e9c6749aa5c4&amp;mode=1&amp;name=AV11 (Plexus) (by Teamblue)$$lsname=AV11 (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://c9100815e95268198b8a4e85a84c2e31ef6bf5c7&amp;mode=1&amp;name=AV12 (Plexus) (by Teamblue)$$lsname=AV12 (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 14h30 [B][COLOR green]RUGBY [COLOR blue]INGLATERRA • FIJI [B][COLOR green]JOGO TESTE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1724.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by Teamblue)$$lsname=SPORT TV 4 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by Teamblue)$$lsname=SPORT TV 4 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1441.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by Teamblue)$$lsname=SPORT TV 4 (F4m) (source #3)</link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://www.bigcast.us/embed.php?v=stv4&vw=620&vh=490$$lsname=SPORT TV 4 (SD)</link>
+<link>http://hdfree.tv/watch/79/sport-tv-4-pt-live-stream.html$$lsname=SPORT TV 4 (SD)</link>
+
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/3QxaCJB.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 15h00 [B][COLOR green]FUTEBOL [COLOR blue]CRYSTAL PALACE • MANCHESTER CITY [B][COLOR green]PREMIER LEAGUE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1723.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/824.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/751.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #3)</link>
+
+
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP #source 02) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live3-qszlx</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://hdfree.tv/watch/78/sport-tv-3-pt-live-stream.html$$lsname=SPORT TV 3 (SD)</link>
+<link>http://www.bigcast.us/embed.php?v=stv3&vw=620&vh=490$$lsname=SPORT TV 3 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&amp;mode=1&amp;name=AV3  (Plexus) (by Teamblue)$$lsname=AV3  (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&amp;mode=1&amp;name=AV4  (Plexus) (by Teamblue)$$lsname=AV4  (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 15h00 [B][COLOR green]FUTEBOL [COLOR blue]FC PORTO • OLIVEIRENSE [B][COLOR green]SUB19[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/2706.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #3)</link>
+
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP)</link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP #source 02) by TeamBlue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://www.estadiofutebol.com/gratis/portocanal$$lsname=PORTO CANAL (SD)</link>
+
+
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 15h00 [B][COLOR green]FUTEBOL [COLOR blue]SOUTHAMPTON • LIVERPOOL [B][COLOR green]PREMIER LEAGUE[/B][/COLOR]</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&amp;mode=1&amp;name=AV26 (Plexus) (by Teamblue)$$lsname=AV26 (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&amp;mode=1&amp;name=AV27 (Plexus) (by Teamblue)$$lsname=AV27 (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 15h15 [B][COLOR green]FUTEBOL [COLOR blue]FC BARCELONA • MALAGA [B][COLOR green]SPANISH LALIGA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1722.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/753.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1071.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #3)</link>
+
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510$$lsname=SPORT TV 2 (RTMP)</link>
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP #source 02) by TeamBlue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://hdfree.tv/watch/77/sport-tv-2-pt-live-stream.html$$lsname=SPORT TV 2 (SD)</link>
+<link>http://www.sporttvsonline.com/index.php?canal=sporttv2$$lsname=SPORT TV 2 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&amp;mode=1&amp;name=AV1  (Plexus) (by Teamblue)$$lsname=AV1  (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&amp;mode=1&amp;name=AV2  (Plexus) (by Teamblue)$$lsname=AV2  (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 16h00 [B][COLOR green]FUTEBOL [COLOR blue]PARIS SAINT GERMAIN • NANTES [B][COLOR green]FRENCH LIGUE 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/2139.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.monkeycline.com:25461/live/jasne/jasne/4790.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/717.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 (by Teamblue)$$lsname=SPORT TV 5 (F4m) (source #3)</link>
+
+
+<link><link>$doregex[select_Url]$$lsname=SPORT TV 5 (RTMP #source 02) by TeamBlue</link><regex><name>select_Url</name><expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres><page></page></regex><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex><regex><name>get_sxstream1</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/sporttv5.php</page><referer>http://www.liveonlinetv247.info/</referer><agent></agent></regex></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://hdfree.tv/watch/80/sport-tv-5-pt-live-stream.html$$lsname=SPORT TV 5 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 5 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://801e033c9c01e8deec32b1e431a1e9c6749aa5c4&amp;mode=1&amp;name=AV11 (Plexus) (by Teamblue)$$lsname=AV11 (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://c9100815e95268198b8a4e85a84c2e31ef6bf5c7&amp;mode=1&amp;name=AV12 (Plexus) (by Teamblue)$$lsname=AV12 (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 16h00 [B][COLOR green]HOQUEI [COLOR blue]SPORTING CP • AD SANJOANENSE [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7591.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/738.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/738.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4m) (source #3)</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8$$lsname=TVI24 (HTTP)</link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/flKVV1H.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 17h00 [B][COLOR green]FUTEBOL [COLOR blue]UDINESE • NAPOLI [B][COLOR green]ITALIA SERIE A[/B][/COLOR]</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://15dfa49ef9f6a6bf373a4976f3d8f8caad7e7a13&amp;mode=1&amp;name=AV15 (Plexus) (by Teamblue)$$lsname=AV15 (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://a1fee08b446425ad331dd1a73157448e81d23acb&amp;mode=1&amp;name=AV16 (Plexus) (by Teamblue)$$lsname=AV16 (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 17h30 [B][COLOR green]FUTEBOL [COLOR blue]BORUSSIA DORTMUND • BAYERN MUNICH [B][COLOR green]BUNDESLIGA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1721.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/755.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (by Teamblue)$$lsname=SPORT TV 1 (F4m) (source #3)</link>
+
+<link>rtmp://31.220.40.63/privatestream/ app=privatestream/ playpath=fawergge?keys=SV_LwvATKH5Cin2z5vmXJQ&keyt=1470488331 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge$$lsname=SPORT TV 1 (RTMP)</link>
+"<link><link>rtmp://$doregex[r1].$doregex[r2].$doregex[r3].$doregex[r4]$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv live=1 timeout=15$$lsname= SPORT TV 1 (RTMP #source 02) by TeamBlue</link>
+<regex>
+<name>r1</name>
+<expres>$pyFunction:($doregex[vara]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r2</name>
+<expres>$pyFunction:($doregex[varb]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r3</name>
+<expres>$pyFunction:($doregex[varc]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>r4</name>
+<expres>$pyFunction:($doregex[vard]/$doregex[varf])</expres>
+<page></page>
+</regex>
+<regex>
+<name>path</name>
+<expres>v_part = '(.*)'</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vara</name>
+<expres>var a = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+<referer>http://privatestream.tv/</referer>
+</regex>
+<regex>
+<name>varb</name>
+<expres>var b = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varc</name>
+<expres>var c = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>vard</name>
+<expres>var d = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex>
+<regex>
+<name>varf</name>
+<expres>var f = (.*);</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+</regex></link>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://cdn2.zuuk.org/sporttv3.php$$lsname=SPORT TV 1 (SD)</link>
+<link>http://cdn2.zuuk.org/sporttv.php$$lsname=SPORT TV 1 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://524c6feace7b35ef91debdd469822495f618294f&amp;mode=1&amp;name=AV3  (Plexus) (by Teamblue)$$lsname=AV3  (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://d9c9f8c17e94892e8436990517b1866481018236&amp;mode=1&amp;name=AV4  (Plexus) (by Teamblue)$$lsname=AV4  (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 17h30 [B][COLOR green]FUTEBOL [COLOR blue]EIBAR • CELTA [B][COLOR green]SPANISH LALIGA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1722.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/753.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1071.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #3)</link>
+
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510$$lsname=SPORT TV 2 (RTMP)</link>
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP #source 02) by TeamBlue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://hdfree.tv/watch/77/sport-tv-2-pt-live-stream.html$$lsname=SPORT TV 2 (SD)</link>
+<link>http://www.sporttvsonline.com/index.php?canal=sporttv2$$lsname=SPORT TV 2 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://a08367e9ac2d0972857217e2e0d66bc904e96b90&amp;mode=1&amp;name=AV1  (Plexus) (by Teamblue)$$lsname=AV1  (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://136352001350cc1c800b86f79987d7a572f445d3&amp;mode=1&amp;name=AV2  (Plexus) (by Teamblue)$$lsname=AV2  (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 17h30 [B][COLOR green]RUGBY [COLOR blue]IRLANDA • NOVA ZELANDIA [B][COLOR green]JOGO TESTE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1724.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by Teamblue)$$lsname=SPORT TV 4 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by Teamblue)$$lsname=SPORT TV 4 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1441.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 (by Teamblue)$$lsname=SPORT TV 4 (F4m) (source #3)</link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://www.bigcast.us/embed.php?v=stv4&vw=620&vh=490$$lsname=SPORT TV 4 (SD)</link>
+<link>http://hdfree.tv/watch/79/sport-tv-4-pt-live-stream.html$$lsname=SPORT TV 4 (SD)</link>
+
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/3QxaCJB.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 17h30 [B][COLOR green]FUTEBOL [COLOR blue]TOTTENHAM HOTSPUR • WEST HAM UNITED [B][COLOR green]PREMIER LEAGUE[/B][/COLOR]</title>
-<item><title>[B][COLOR red]19.11 18h00 [B][COLOR green]HOQUEI [COLOR blue]FC PORTO • PACO ARCOS [B][COLOR green]SPANISH LALIGA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1723.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/824.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/751.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #3)</link>
+
+
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP #source 02) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live3-qszlx</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://hdfree.tv/watch/78/sport-tv-3-pt-live-stream.html$$lsname=SPORT TV 3 (SD)</link>
+<link>http://www.bigcast.us/embed.php?v=stv3&vw=620&vh=490$$lsname=SPORT TV 3 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&amp;mode=1&amp;name=AV26 (Plexus) (by Teamblue)$$lsname=AV26 (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&amp;mode=1&amp;name=AV27 (Plexus) (by Teamblue)$$lsname=AV27 (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
+<item><title>[B][COLOR red]19.11 18h00 [B][COLOR green]HOQUEI [COLOR blue]FC PORTO • PACO ARCOS [B][COLOR green]CAMP NAC[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/2706.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/769.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (by Teamblue)$$lsname=PORTO CANAL (F4m) (source #3)</link>
+
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11$$lsname=PORTO CANAL (RTMP)</link>
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=PORTO CANAL (RTMP #source 02) by TeamBlue</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.embeducaster.com/</referer></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://www.estadiofutebol.com/gratis/portocanal$$lsname=PORTO CANAL (SD)</link>
+
+
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/flKVV1H.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 18h30 [B][COLOR green]FUTSAL [COLOR blue]CDR VINHAIS • SPORTING CP [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/yanis0910@hotmail.fr/dVKWJ437Ls/7591.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/738.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/738.ts;streamtype=TSDOWNLOADER&amp;name=TVI24 (by Teamblue)$$lsname=TVI24 (F4m) (source #3)</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8$$lsname=TVI24 (HTTP)</link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 19h45 [B][COLOR green]FUTEBOL [COLOR blue]ATLETICO MADRID • REAL MADRID [B][COLOR green]SPANISH LALIGA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1722.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/753.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/1071.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 (by Teamblue)$$lsname=SPORT TV 2 (F4m) (source #3)</link>
+
+<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=zrd8IHbjrxTjmvn9NTCF1A&keyt=1471185438 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=he56t5r6&width=630&height=510$$lsname=SPORT TV 2 (RTMP)</link>
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 2 (RTMP #source 02) by TeamBlue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live2-bipmr</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://hdfree.tv/watch/77/sport-tv-2-pt-live-stream.html$$lsname=SPORT TV 2 (SD)</link>
+<link>http://www.sporttvsonline.com/index.php?canal=sporttv2$$lsname=SPORT TV 2 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://e677cd71455f6e78c017ca66f95416674c20fca2&amp;mode=1&amp;name=AV17 (Plexus) (by Teamblue)$$lsname=AV17 (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://081f0ec18cf62bc8d84642aae399fc1fe15a0e12&amp;mode=1&amp;name=AV18 (Plexus) (by Teamblue)$$lsname=AV18 (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://cd5ba0a29be9153772b9d946ce25564d59d6e476&amp;mode=1&amp;name=AV26 (Plexus) (by Teamblue)$$lsname=AV26 (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://74acfd9687fa9b5258b2e6c9bce792cee87d3c71&amp;mode=1&amp;name=AV27 (Plexus) (by Teamblue)$$lsname=AV27 (Plexus)</link>
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 19h45 [B][COLOR green]FUTEBOL [COLOR blue]JUVENTUS • PESCARA [B][COLOR green]ITALIA SERIE A[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/client/myclient/1723.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4M) (source #1)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/fabrica/fabrica/824.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #2)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/751.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 (by Teamblue)$$lsname=SPORT TV 3 (F4m) (source #3)</link>
+
+
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP #source 02) by Teamblue</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=live3-qszlx</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex></link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link>http://hdfree.tv/watch/78/sport-tv-3-pt-live-stream.html$$lsname=SPORT TV 3 (SD)</link>
+<link>http://www.bigcast.us/embed.php?v=stv3&vw=620&vh=490$$lsname=SPORT TV 3 (SD)</link>
+
+
+
+
+
+
+<link>plugin://program.plexus/?url=acestream://801e033c9c01e8deec32b1e431a1e9c6749aa5c4&amp;mode=1&amp;name=AV11 (Plexus) (by Teamblue)$$lsname=AV11 (Plexus)</link>
+<link>plugin://program.plexus/?url=acestream://c9100815e95268198b8a4e85a84c2e31ef6bf5c7&amp;mode=1&amp;name=AV12 (Plexus) (by Teamblue)$$lsname=AV12 (Plexus)</link>
+
+
+<thumbnail>http://i.imgur.com/ZthEL2U.png</thumbnail></item>
 <item><title>[B][COLOR red]19.11 20h00 [B][COLOR green]TENIS [COLOR blue]MEIA FINAL [B][COLOR green]ATP WORLD TOUR FINALS[/B][/COLOR]</title>
 <item><title>[B][COLOR red]19.11 20h15 [B][COLOR green]FUTEBOL [COLOR blue]SL BENFICA • MARITIMO [B][COLOR green]TACA PORTUGAL[/B][/COLOR]</title>
 <item><title>[B][COLOR red]19.11 21h00 [B][COLOR green]UFC [COLOR blue]MMA • MOUSASI - HALL 2 [B][COLOR green]UFC FIGHT NIGHT[/B][/COLOR]</title>
@@ -2431,7 +2920,7 @@
 <item><title>[B][COLOR red]20.11 04h40 [B][COLOR green]FIA GT SERIES [COLOR blue]MACAU • MAIN RACE [B][COLOR green]WORLD CUP[/B][/COLOR]</title>
 <item><title>[B][COLOR red]20.11 06h00 [B][COLOR green]FIA GT SERIES [COLOR blue]MACAU • MAIN RACE [B][COLOR green]WORLD CUP[/B][/COLOR]</title>
 <item><title>[B][COLOR red]20.11 09h00 [B][COLOR green]JUDO [COLOR blue]QUINGDAO - 3º DIA [B][COLOR green]GRAND PRIX[/B][/COLOR]</title>
-<item><title>[B][COLOR red]20.11 11h00 [B][COLOR green]FUTEBOL [COLOR blue]DEPORTIVO ALAVES • ESPANYOL [B][COLOR green]SPANISH LALIGA[/B][/COLOR]</title>
+<item><title>[B][COLOR red]20.11 11h00 [B][COLOR green]FUTEBOL [COLOR blue]DEPORTIVO ALAVES • ESPANYOL [B][COLOR green]ITALIA SERIE A[/B][/COLOR]</title>
 <item><title>[B][COLOR red]20.11 11h00 [B][COLOR green]BASQUETEBOL [COLOR blue]DRAGON FORCE • GINASIO [B][COLOR green][/B][/COLOR]</title>
 <item><title>[B][COLOR red]20.11 11h30 [B][COLOR green]FUTEBOL [COLOR blue]SAMPDORIA • SASSUOLO [B][COLOR green]ITALIA SERIE A[/B][/COLOR]</title>
 <item><title>[B][COLOR red]20.11 13h30 [B][COLOR green]FUTEBOL [COLOR blue]AJAX • NEC [B][COLOR green]EREDIVISIE[/B][/COLOR]</title>
@@ -2456,6 +2945,27 @@
 <item><title>[B][COLOR red]20.11 20h00 [B][COLOR green]NASCAR [COLOR blue]FORD ECOBOOST 400 [B][COLOR green]NASCAR SPRINT CUP SERIES[/B][/COLOR]</title>
 <item><title>[B][COLOR red]20.11 20h30 [B][COLOR green]NBA [COLOR blue]BROOKLYN NETS • PORTLAND TRAIL BLAZERS [B][COLOR green][/B][/COLOR]</title>
 <item><title>[B][COLOR red]20.11 21h30 [B][COLOR green]FUTEBOL [COLOR blue]FLAMENGO • CORITIBA [B][COLOR green]BRASILEIRAO[/B][/COLOR]</title>
+<item><title>[B][COLOR red]20.11 21h30 [B][COLOR green]NFL [COLOR blue]SEATTLE SEAHAWKS • PHILADELPHIA EAGLES [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]21.11 00h00 [B][COLOR green]NBA [COLOR blue]OKLAHOMA CITY THUNDER • INDIANA PACERS [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]21.11 01h30 [B][COLOR green]NFL [COLOR blue]WASHINGTON REDSKINS • GREEN BAY PACKERS [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]21.11 02h00 [B][COLOR green]NBA [COLOR blue]DENVER NUGGETS • UTAH JAZZ [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]21.11 02h30 [B][COLOR green]NBA [COLOR blue]LOS ANGELES LAKERS • CHICAGO BULLS [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]21.11 19h45 [B][COLOR green]FUTEBOL [COLOR blue]LEGANES • OSASUNA [B][COLOR green]SPANISH LALIGA[/B][/COLOR]</title>
+<item><title>[B][COLOR red]21.11 20h00 [B][COLOR green]FUTEBOL [COLOR blue]WEST BROMWICH ALBION • BURNLEY [B][COLOR green]PREMIER LEAGUE[/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 00h00 [B][COLOR green]NBA [COLOR blue]CHARLOTTE HORNETS • MEMPHIS GRIZZLIES [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 00h00 [B][COLOR green]NBA [COLOR blue]INDIANA PACERS • GOLDEN STATE WARRIORS [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 00h00 [B][COLOR green]NBA [COLOR blue]PHILADELPHIA 76ERS • MIAMI HEAT [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 00h30 [B][COLOR green]NBA [COLOR blue]DETROIT PISTONS • HOUSTON ROCKETS [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 01h00 [B][COLOR green]NBA [COLOR blue]MINNESOTA TIMBERWOLVES • BOSTON CELTICS:11 [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 01h00 [B][COLOR green]WWE [COLOR blue]MONDAY NIGHT RAW [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 01h30 [B][COLOR green]NFL [COLOR blue]OAKLAND RAIDERS • HOUSTON TEXANS [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 01h30 [B][COLOR green]NBA [COLOR blue]SAN ANTONIO SPURS • DALLAS MAVERICKS [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 03h30 [B][COLOR green]NBA [COLOR blue]LOS ANGELES CLIPPERS • TORONTO RAPTORS [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 13h00 [B][COLOR green]FUTEBOL [COLOR blue]SPORTING CP • REAL MADRID [B][COLOR green]UYL[/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 15h00 [B][COLOR green]FUTEBOL [COLOR blue]COPENHAGA • FC PORTO [B][COLOR green]UYL[/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 15h00 [B][COLOR green]FUTEBOL [COLOR blue]SEVILHA • JUVENTUS [B][COLOR green]UYL[/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 17h00 [B][COLOR green]FUTEBOL [COLOR blue]CSKA • B LEVERKUSEN [B][COLOR green]UCL[/B][/COLOR]</title>
+<item><title>[B][COLOR red]22.11 19h45 [B][COLOR green]FUTEBOL [COLOR blue]LEICESTER CITY • CLUB BRUGGE [B][COLOR green]UCL[/B][/COLOR]</title>
 <item><title>[B][COLOR red]20.11 21h30 [B][COLOR green]NFL [COLOR blue]SEATTLE SEAHAWKS • PHILADELPHIA EAGLES [B][COLOR green][/B][/COLOR]</title>
 <item><title>[B][COLOR red]21.11 00h00 [B][COLOR green]NBA [COLOR blue]OKLAHOMA CITY THUNDER • INDIANA PACERS [B][COLOR green][/B][/COLOR]</title>
 <item><title>[B][COLOR red]21.11 01h30 [B][COLOR green]NFL [COLOR blue]WASHINGTON REDSKINS • GREEN BAY PACKERS [B][COLOR green][/B][/COLOR]</title>
