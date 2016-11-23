@@ -33,28 +33,28 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png",TVI REALITY
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4PpSPX6.png",PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/live.m3u8
 
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png",BENFICA TV
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/88
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/79
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/81
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/83
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/84
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",SPORT TV 5
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/86
 
 
 
@@ -151,16 +151,16 @@ http://193.23.58.156:4025/udp/234.1.10.58:1234
 http://ott2.odessa.tv:7321/index.php?channel=193&key_ott=5f7690fd0bd330afafb91f331adc46dd
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png",VH1 CLASSIC
 http://ott2.odessa.tv:7321/index.php?channel=415&key_ott=5f7690fd0bd330afafb91f331adc46dd
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish2/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",SBT
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png",REDE TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?TeamBlue
 
 
 
@@ -260,7 +260,7 @@ http://109.236.83.148:8081/live/sptv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD
-http://srv3.zoeweb.tv:1935/zw321/stream/chunklist_w1366688792.m3u8
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish2/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD SP
 http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png",RECORD NEWS
@@ -414,7 +414,7 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png",LA 1
-http://88.148.69.129:9090/play/a013
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/2000px-Logo_TVE-2.svg.png",LA 2
 http://88.148.69.129:9090/play/a014
 
@@ -428,7 +428,7 @@ http://88.148.69.129:9090/play/a01w
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png",TV GALICIA
-http://media3.crtvg.es/live/tvge/vcx7.m3u8
+http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png",TVE 24 H
 http://88.148.69.129:9090/play/a015
 
@@ -503,8 +503,8 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_it.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/la_7_it.png",LA 7
+http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
 
 
 
@@ -625,6 +625,10 @@ http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/AB_MOTEURS_HD_2015.jpg/revision/latest?cb=20140706174957",AB Moteurs
 http://51.254.199.142:8000/live/malbertologi/fth4tyj46d654ue/4808.ts?id=ab_moteurs
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c2/Action_2014.png/revision/latest/scale-to-width-down/255?cb=20141101162929",Action
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/48/Animaux_logo_2011.png/revision/latest/scale-to-width-down/250?cb=20111120001830",ANIMAUX
+http://www.mytvonline.org/fra/animaux.m3u8
 
 
 
@@ -657,12 +661,8 @@ http://51.254.199.142:8000/live/malbertologi/fth4tyj46d654ue/4808.ts?id=ab_moteu
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cine_fx.png",Cine FX
+http://live-m03.abweb.com/liveabm03/cinefx.smil/chunklist_b1296000_slFRA.m3u8
 
 
 
@@ -783,8 +783,8 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Science_et_Vie_TV_logo_2015.png",SCIENCES & VIE TV
+http://www.mytvonline.org/fra/sciencevie.m3u8
 
 
 
@@ -813,8 +813,8 @@ http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Science_et_Vie_TV_logo_2015.png",SCIENCES & VIE TV
+http://www.mytvonline.org/fra/sciencevie.m3u8
 
 
 
@@ -845,12 +845,12 @@ http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160105050834",BBC NEWS
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IGYGsia.png",BBC ONE
+http://www.filmon.com/channel/bbc-one
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vPlqVpp.png",BBC TWO
+http://www.filmon.com/channel/bbc-two
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png",BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
@@ -1339,5 +1339,3 @@ http://xrxs.net/video/live-p12moun-4728.m3u8
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Washington
 http://xrxs.net/video/live-p12wash-4728.m3u8
-
-Copyright © 2016 - TeamBlue
