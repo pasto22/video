@@ -17,12 +17,12 @@ http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.s
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png",SIC CARAS
+http://213.58.181.46:8000/play/siccarast
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png",SIC MULHER
+http://213.58.181.46:8000/play/sicmulhert
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png",SIC NOTICIAS
 http://213.228.128.27/hlsl/1/SICN/04.m3u8
 
@@ -33,20 +33,20 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png",TVI REALITY
+http://213.58.181.46:8000/play/tvirealityt
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dMiWcSV.png",CM TV
+http://213.58.181.46:8000/play/cmtvt
 
 
 
 
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1
+http://213.58.181.46:8000/play/a00v
 
 
 
@@ -81,20 +81,20 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8?TeamBlue
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wdCpBLc.png",HOLLYWOOD
+http://213.58.181.46:8000/play/hollywoodhdt
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0imsO3D.png",TV CINE 1
+http://213.58.181.46:8000/play/tvcine1t
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ygfeoOl.png",TV CINE 2
+http://213.58.181.46:8000/play/tvcine2t
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FKAk8WS.png",TV CINE 3
+http://213.58.181.46:8000/play/tvcine3t
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X2nOGkS.png",TV CINE 4
+http://213.58.181.46:8000/play/tvcine4t
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4HBqB9G.png",TV SERIES
+http://213.58.181.46:8000/play/tvseriest
 
 
 
