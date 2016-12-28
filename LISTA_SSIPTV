@@ -67,12 +67,12 @@ http://gochannelstv.dyndns.tv:80/p101tvi24/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1OKBioL.png",TVI FICCAO (source #02)
 http://gochannelstv.dyndns.tv:80/p102tvificcao/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png",TVI REALITY (source #01)
+http://liveitpremium.gleeze.com:8000/live/marco/marco/86.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png",TVI REALITY (source #02)
 http://gochannelstv.dyndns.tv:80/p103tvireality/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4PpSPX6.png",PORTO CANAL (source #01)
-http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4PpSPX6.png",PORTO CANAL (source #02)
 http://gochannelstv.dyndns.tv:80/p64portocanal/index.m3u8
 
@@ -107,16 +107,16 @@ http://gochannelstv.dyndns.tv:80/p83sporttv1hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2 (source #02)
 http://gochannelstv.dyndns.tv:80/p84sporttv2hd/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3 (source #01)
+http://89.248.168.18:8081/live/sporttv3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxNiA5OjM0OjMyIFBNJmhhc2hfdmFsdWU9aFJTK0M3OWJLWHNiMTZkQUkvUWQ3QT09JnZhbGlkbWludXRlcz02MCZpZD0xNzIuNjguMTAyLjcyJnN0cm1fbGVuPTE2
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3 (source #02)
 http://gochannelstv.dyndns.tv:80/p85sporttv3hd/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4 (source #01)
+http://89.248.168.18:8081/live/sporttv4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxNiA5OjMyOjAxIFBNJmhhc2hfdmFsdWU9c0htdTRWd1V1bXcxWldubE1CcU9HZz09JnZhbGlkbWludXRlcz02MCZpZD0xNzIuNjguMTAyLjcyJnN0cm1fbGVuPTE2
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4 (source #02)
 http://gochannelstv.dyndns.tv:80/p86sporttv4hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",SPORT TV 5 (source #01)
-http://liveitpremium.gleeze.com:8000/live/marco/marco/5389.ts
+http://89.248.168.18:8081/live/sporttv5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxNiA5OjM2OjEwIFBNJmhhc2hfdmFsdWU9R2NTRG03YzRFa1FLbThFMCsyNG1wQT09JnZhbGlkbWludXRlcz02MCZpZD0xNzIuNjguMTAyLjcyJnN0cm1fbGVuPTE2
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",SPORT TV 5 (source #02)
 http://gochannelstv.dyndns.tv:80/p87sporttv5hd/index.m3u8
 
@@ -151,8 +151,8 @@ http://gochannelstv.dyndns.tv:80/p09axnwhitehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png",CINEMUNDO (source #02)
 http://gochannelstv.dyndns.tv:80/p25cinemundo/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png",FOX (source #01)
+http://iptv.ndasat.com:88/live/decodeur-sat240/K5-=V6xfD/2091.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png",FOX (source #02)
 http://gochannelstv.dyndns.tv:80/p38foxhd/index.m3u8
 
@@ -459,8 +459,8 @@ http://5.226.137.3:80/loadbalance/slv5/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tEizXWx.png",GLOBO SP (source #01)
+http://31.204.128.117:8081/live/sptv/playlist.m3u8
 
 
 
@@ -959,20 +959,20 @@ http://0.0.0.1234
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160105050834",BBC NEWS (source #01)
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png",BLOOMBERG (source #01)
@@ -995,12 +995,12 @@ http://gochannelstv.dyndns.tv:80/p143btsports1/index.m3u8
 http://gochannelstv.dyndns.tv:80/p144btsports2/index.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png",BT SPORT 3 (source #01)
 http://gochannelstv.dyndns.tv:80/p142btsportseu/index.m3u8
+
+
+
+
 
 
 
