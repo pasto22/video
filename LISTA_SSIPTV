@@ -99,20 +99,20 @@ http://85.1.247.100:9000/play/a079
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1 (source #01)
+http://198.255.76.34:8080/sporttv1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1 (source #02)
 http://85.1.247.100:9000/play/a063
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2 (source #01)
+http://198.255.76.34:8080/sporttv2/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3 (source #01)
+http://198.255.76.34:8080/sporttv3/index.m3u8
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4 (source #01)
+http://198.255.76.34:8080/sporttv4/index.m3u8
 
 
 
@@ -179,16 +179,16 @@ http://85.1.247.100:9000/play/a017
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0imsO3D.png",TVCINE 1 (source #01)
+http://198.255.76.34:8080/tvcine1/index.m3u8 
 
 
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ygfeoOl.png",TVCINE 2 (source #02)
 http://85.1.247.100:9000/play/a00t
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FKAk8WS.png",TVCINE 3 (source #01)
+http://198.255.76.34:8080/tvcine3/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FKAk8WS.png",TVCINE 3 (source #02)
 http://85.1.247.100:9000/play/a00r
 
@@ -287,8 +287,8 @@ http://85.1.247.100:9000/play/a070
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png",AFRO MUSIC (source #01)
+http://streamer01.infoview.tv:8080/Afro_Music/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png",M6 MUSIQUE (source #01)
@@ -316,7 +316,7 @@ http://193.23.58.156:4025/udp/234.1.10.58:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qfie62n.png",VH1 (source #02)
 http://85.1.247.100:9000/play/a01a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png",VH1 CLASSIC (source #01)
-http://213.188.51.185:9981/play/a018
+http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8
 
 
 
@@ -413,8 +413,6 @@ http://31.204.128.117:8081/live/discoverykids/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g0UK661.png",DISNEY CHANNEL (source #02)
-http://31.204.128.117:8081/live/disney/playlist.m3u8
 
 
 
@@ -429,18 +427,20 @@ http://31.204.128.117:8081/live/disney/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RDEG8LP.png",ESPN BRASIL (source #02)
-https://api.contentgate.go.com/mCGate/v2/secure/espni/e3_vdms/ZXNwbjMvYXV0aC93YXRjaGVzcG4vc3RhcnRTZXNzaW9uP3NpbXVsY2FzdEFpcmluZ0lkPW4yMGEmY2hhbm5lbD1lc3BuMyZwbGF5YmFja1NjZW5hcmlvPUhUVFBfQ0xPVURfTU9CSUxFJnBsYXllcklkPWlvcyZwa2FuPVNFVF9NRSZpZGVudGl0eVBvaW50SWQ9U0VUX01FJnBhcnRuZXJDb250ZW50SWQ9MjY2Mzc2MA/video.m3u8?oauth_token=fhfecLQJgbGVj-J5RHZP3w
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RDEG8LP.png",ESPN BRASIL (source #01)
+http://31.204.128.117:8081/live/espnbr/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png",FOX (source #02)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png",FOX (source #01)
 http://163.172.209.135:8000/live/animalstars/scambioan654k4/913.ts 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png",FOX SPORTS 1 BR (source #01)
-http://31.204.128.117:8081/live/foxsport/playlist.m3u8
+
+
+
+
 
 
 
@@ -448,7 +448,7 @@ http://31.204.128.117:8081/live/foxsport/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FKY3gsx.png",GLOBO (source #01)
-http://5.226.137.3:80/loadbalance/slv5/playlist.m3u8
+http://85.1.247.100:9000/play/a077
 
 
 
@@ -543,10 +543,10 @@ http://31.204.128.117:8081/live/espnbr/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD (source #01)
+http://31.204.128.117:8081/live/record/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD (source #02)
-http://gochannelstv.dyndns.tv:80/p108tvrecordhd/index.m3u8
 
 
 
@@ -560,7 +560,7 @@ http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png",REDE TV (source #02)
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",SBT (source #01)
-http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+http://31.204.128.117:8081/live/sbt/playlist.m3u8
 
 
 
@@ -568,7 +568,7 @@ http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlis
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Frawzcq.png",SPORTV BR (source #01)
-http://109.200.202.87:8081/live/sportv/playlist.m3u8
+http://31.204.128.117:8081/live/sportv1/playlist.m3u8
 
 
 
@@ -659,8 +659,8 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.beinsportsconnect.es/uploads/comun/img/logos/bein-laliga-md.png",beiN SPORTS LA LIGA (source #01)
 http://1.442244.info/sp_bein_laliga/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://static.beinsportsconnect.es/uploads/comun/img/logos/bein-laliga-md.png",beiN SPORTS LA LIGA (source #02)
+http://1.442244.info/sp_bein_laliga/index.m3u8
 
 
 
@@ -847,8 +847,8 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254",MOVISTAR DEPORTES 1 (source #01)
 http://1.442244.info/sp_m_dep_1/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254",MOVISTAR DEPORTES 1 (source #02)
+http://1.442244.info/sp_m_dep_1/index.m3u8
 
 
 
@@ -863,12 +863,12 @@ http://1.442244.info/sp_m_dep_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png",MOVISTAR FUTBOL (source #01)
 http://1.442244.info/sp_m_fotbol/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png",MOVISTAR FUTBOL (source #02)
+http://1.442244.info/sp_m_fotbol/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/800px-Movistar_Golf.svg.png",MOVISTAR GOLF (source #01)
 http://1.442244.info/sp_m_golf/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/800px-Movistar_Golf.svg.png",MOVISTAR GOLF (source #02)
+http://1.442244.info/sp_m_golf/index.m3u8
 
 
 
@@ -934,7 +934,7 @@ http://88.148.69.129:9090/play/a01j
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/unT3Jrz.png",TELEDEPORTE (source #01)
-http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0
+http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Ic
 
 
 
@@ -973,8 +973,8 @@ http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160105050834",BBC NEWS (source #01)
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160105050834",BBC NEWS (source #02)
+http://streamer01.infoview.tv:8080/BBC_News/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png",BLOOMBERG (source #01)
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
@@ -987,20 +987,12 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/F2R303x.png",BT SPORT 1 (source #01)
-http://gochannelstv.dyndns.tv:80/p143btsports1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png",BT SPORT 2 (source #01)
-http://gochannelstv.dyndns.tv:80/p144btsports2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png",BT SPORT 3 (source #01)
-http://gochannelstv.dyndns.tv:80/p142btsportseu/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png",BT SPORT ESPN (source #01)
-http://1.442244.info/uk_espn/index.m3u8
 
 
 
@@ -1035,8 +1027,6 @@ http://1.442244.info/uk_espn/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3CJSygl.png",CNBC (source #01)
-http://208.86.19.123:8080/live/107.stream/index.m3u8
 
 
 
@@ -1115,12 +1105,8 @@ http://208.86.19.123:8080/live/107.stream/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITV4_logo_2013.svg/2000px-ITV4_logo_2013.svg.png",ITV 4 (source #01)
-http://37.187.164.175:8080/mike/mike/292.ch
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png",MOTORS TV (source #01)
-http://37.187.164.175:8080/mike/mike/206.ch
 
 
 
@@ -1161,6 +1147,20 @@ http://37.187.164.175:8080/mike/mike/206.ch
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/premier_sports.png",PREMIER SPORTS (source #01)
+http://1.442244.info/uk_premier_sport/index.m3u8
 
 
 
@@ -1205,12 +1205,12 @@ http://37.187.164.175:8080/mike/mike/206.ch
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png",SKY SPORTS 1 (source #01)
 http://1.442244.info/uk_sky_sports_1/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png",SKY SPORTS 1 (source #02)
+http://streamer01.infoview.tv:8080/Sky_Sport1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png",SKY SPORTS 2 (source #01)
 http://1.442244.info/uk_sky_sports_2/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png",SKY SPORTS 2 (source #02)
+http://streamer01.infoview.tv:8080/Sky_Sport2/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CfwpEyD.png",SKY SPORTS 3 (source #01)
 http://1.442244.info/uk_sky_sports_3/index.m3u8
 
@@ -1225,6 +1225,8 @@ http://1.442244.info/uk_sky_sports_5/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png",SKY SPORTS F1 (source #01)
 http://1.442244.info/uk_sky_sports_f1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png",SKY SPORTS F1 (source #02)
+http://streamer01.infoview.tv:8080/Sky_SportF1/index.m3u8
 
 
 
@@ -1249,31 +1251,5 @@ http://1.442244.info/uk_sky_sports_f1/index.m3u8
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oRQ7h7d.png",ALEMANHA
-http://0.0.0.1234
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/i7PS9i4.png",ITALIA
-http://0.0.0.1234
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Y8TTqAm.png",FRANCA
-http://0.0.0.1234
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/d3Jhv5k.png",USA
-http://0.0.0.1234
-
-
-
-
-
-
-Copyright © 2016 - TeamBlue
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qfie62n.png",VH1 (source #01)
+http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8
