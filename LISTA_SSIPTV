@@ -1,126 +1,128 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nwF46j7.png",RTP 1 (source #01)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nwF46j7.png",RTP 1 (source #02)
+http://83.79.134.18:9000/play/rtp11234
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yAOu09B.png",RTP 2 (source #02)
+http://83.79.134.18:9000/play/rtp21234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UqZdQqJ.png",RTP 3 (source #01)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UqZdQqJ.png",RTP 3 (source #02)
+http://83.79.134.18:9000/play/rtp31234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png",RTP ACORES (source #01)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YWi6NzU.png",RTP AFRICA (source #01)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YWi6NzU.png",RTP AFRICA (source #02)
+http://83.79.134.18:9000/play/rtpac1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YPL4ncR.png",RTP INTERNACIONAL (source #01)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png",RTP MADEIRA (source #01)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png",RTP MADEIRA (source #02)
+http://83.79.134.18:9000/play/rtpomad1234
 
 
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",SIC (source #01)
 http://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",SIC (source #02)
+http://83.79.134.18:9000/play/sic1234
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png",SIC CARAS (source #02)
+http://83.79.134.18:9000/play/a09m
 
 
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png",SIC MULHER (source #01)
 http://213.188.51.185:9981/play/a00e
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png",SIC MULHER (source #02)
+http://83.79.134.18:9000/play/a063
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png",SIC NOTICIAS (source #01)
 http://213.188.51.185:9981/play/a00k
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png",SIC NOTICIAS (source #02)
+http://83.79.134.18:9000/play/sicn1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC RADICAL (source #01)
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC RADICAL (source #02)
+http://83.79.134.18:9000/play/a09h
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png",TVI (source #01)
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png",TVI (source #02)
+http://83.79.134.18:9000/play/tvi1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nYX9hTR.png",TVI24 (source #01)
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nYX9hTR.png",TVI24 (source #02)
+http://83.79.134.18:9000/play/tvi241234
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1OKBioL.png",TVI FICCAO (source #02)
+http://83.79.134.18:9000/play/a082
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png",TVI REALITY (source #01)
 http://213.188.51.185:9981/play/a007
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png",TVI REALITY (source #02)
+http://83.79.134.18:9000/play/a062
 
 
 
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dMiWcSV.png",CM TV (source #02)
+http://83.79.134.18:9000/play/cmtv1234
 
 
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png",BENFICA TV (source #01)
 http://198.255.76.34:8080/benfica1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png",BENFICA TV (source #02)
+http://83.79.134.18:9000/play/btv11234
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2000px-Eurosport_1_Logo_2015.svg.png",EUROSPORT 1 (source #02)
+http://83.79.134.18:9000/play/eurosport1234
 
 
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0tybBJ0.jpg",EUROSPORT 2 XTRA (source #01)
 http://213.188.51.185:9981/play/a013
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0tybBJ0.jpg",EUROSPORT 2 XTRA (source #02)
+http://83.79.134.18:9000/play/euroextrahd1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1 (source #01)
 http://198.255.76.34:8080/sporttv1/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1 (source #02)
+http://83.79.134.18:9000/play/sptv11234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2 (source #01)
 http://198.255.76.34:8080/sporttv2/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2 (source #02)
+http://83.79.134.18:9000/play/sptv21234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3 (source #01)
 http://198.255.76.34:8080/sporttv3/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3 (source #02)
+http://83.79.134.18:9000/play/sptv1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4 (source #01)
 http://198.255.76.34:8080/sporttv4/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4 (source #02)
+http://83.79.134.18:9000/play/sptv41234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",SPORT TV 5 (source #01)
 http://213.188.51.185:9981/play/a008
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",SPORT TV 5 (source #02)
+http://83.79.134.18:9000/play/a068
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",SPORTING TV (source #01)
 http://213.188.51.185:9981/play/a009
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",SPORTING TV (source #02)
+http://83.79.134.18:9000/play/a06c
 
 
 
@@ -131,10 +133,8 @@ http://213.188.51.185:9981/play/a009
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png",MOTORS TV (source #02)
+http://83.79.134.18:9000/play/a07o
 
 
 
@@ -169,30 +169,32 @@ http://213.188.51.185:9981/play/a00z
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png",FOX MOVIES (source #01)
 http://213.188.51.185:9981/play/a00p
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png",FOX MOVIES (source #02)
+http://83.79.134.18:9000/play/a064
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wdCpBLc.png",HOLLYWOOD (source #02)
+http://83.79.134.18:9000/play/hollywood1234
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png",SYFY (source #02)
+http://83.79.134.18:9000/play/a07l
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0imsO3D.png",TVCINE 1 (source #01)
 http://198.255.76.34:8080/tvcine1/index.m3u8 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0imsO3D.png",TVCINE 1 (source #02)
+http://83.79.134.18:9000/play/a07u
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ygfeoOl.png",TVCINE 2 (source #01)
 http://198.255.76.34:8080/tvcine2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FKAk8WS.png",TVCINE 3 (source #01)
 http://198.255.76.34:8080/tvcine3/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FKAk8WS.png",TVCINE 3 (source #02)
+http://83.79.134.18:9000/play/a07v
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X2nOGkS.png",TVCINE 4 (source #01)
 http://198.255.76.34:8080/tvcine4/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X2nOGkS.png",TVCINE 4 (source #02)
+http://83.79.134.18:9000/play/tvc4hd1234
 
 
 
@@ -203,18 +205,16 @@ http://198.255.76.34:8080/tvcine4/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zWiKosU.png",CANAL PANDA (source #02)
+http://83.79.134.18:9000/play/panda1234
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g0UK661.png",DISNEY CHANNEL (source #02)
+http://83.79.134.18:9000/play/a07z
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png",DISNEY JUNIOR (source #01)
 http://213.188.51.185:9981/play/a00n
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png",DISNEY JUNIOR (source #02)
+http://83.79.134.18:9000/play/a06b
 
 
 
@@ -237,8 +237,8 @@ http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png",FRANCE 24 (IN) (source #01)
 http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png",FRANCE 24 (IN) (source #02)
+http://83.79.134.18:9000/play/a067
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png",BLOOMBERG (source #01)
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
@@ -265,18 +265,20 @@ http://213.188.51.185:9981/play/a00w
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png",HISTORIA (source #02)
+http://83.79.134.18:9000/play/historia1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QyFiRiO.png",ODISSEIA (source #01)
+http://83.79.134.18:9000/play/a05j
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QyFiRiO.png",ODISSEIA (source #02)
+http://83.79.134.18:9000/play/odisseia1234
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png",NAT GEO CHANNEL (source #02)
+http://83.79.134.18:9000/play/a056
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Caza_y_Pesca.svg/1280px-Caza_y_Pesca.svg.png",CACA & PESCA (source #01)
 http://213.188.51.185:9981/play/a00c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Caza_y_Pesca.svg/1280px-Caza_y_Pesca.svg.png",CACA & PESCA (source #02)
+http://83.79.134.18:9000/play/cacapesca1234
 
 
 
@@ -287,10 +289,8 @@ http://213.188.51.185:9981/play/a00c
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png",AFRO MUSIC (source #02)
+http://83.79.134.18:9000/play/a07y
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png",M6 MUSIQUE (source #01)
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
@@ -301,12 +301,12 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1",MTV (source #02)
+http://83.79.134.18:9000/play/mtv1234
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png",MCM POP (source #02)
+http://83.79.134.18:9000/play/a09y
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LIMXJmc.png",MCM TOP (source #01)
 http://193.23.58.156:4025/udp/234.1.10.58:1234
 
@@ -321,8 +321,8 @@ http://213.188.51.185:9981/play/a018
 http://streamer01.infoview.tv:8080/VH1_Classic/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD (source #02)
+http://83.79.134.18:9000/play/tvrecord1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png",RECORD NEWS (source #01)
 http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png",RECORD NEWS (source #02)
@@ -331,6 +331,26 @@ http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png",BBC WORLD NEWS (source #02)
+http://83.79.134.18:9000/play/a07f
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",DEUTCHE WELLE (source #02)
+http://83.79.134.18:9000/play/a080
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FKY3gsx.png",GLOBO PORTUGAL (source #02)
+http://83.79.134.18:9000/play/globo1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",SBT (source #01)
 http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",SBT (source #02)
@@ -697,8 +717,8 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cQpNN8V.png",CALLE 13 (source #01)
+http://83.79.134.18:9000/play/a05c
 
 
 
@@ -823,6 +843,8 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png",LALIGA TV (source #01)
 http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/1711.m3u8
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png",LALIGA TV (source #02)
+http://83.79.134.18:9000/play/a05k
 
 
 
@@ -867,10 +889,8 @@ http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/1
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/800px-Movistar_Golf.svg.png",MOVISTAR GOLF (source #01)
+http://83.79.134.18:9000/play/a057
 
 
 
@@ -922,7 +942,7 @@ http://88.148.69.129:9090/play/a01b
 
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205",REAL MADRID TV (source #01)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+http://213.188.51.185:9981/play/a00s
 
 
 
