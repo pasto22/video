@@ -51,8 +51,8 @@ http://83.79.134.18:9000/play/a063
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png",SIC NOTICIAS (source #02) Copyright © 2017 - TeamBlue
 http://83.79.134.18:9000/play/sicn1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC RADICAL (source #01) Copyright © 2017 - TeamBlue
-http://live.impresa.pt/live/sicrad/sicrad.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC RADICAL (source #02) Copyright © 2017 - TeamBlue
 http://83.79.134.18:9000/play/a09h
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png",TVI (source #01) Copyright © 2017 - TeamBlue
@@ -72,7 +72,7 @@ http://213.188.51.185:9981/play/a007
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png",TVI REALITY (source #02) Copyright © 2017 - TeamBlue
 http://83.79.134.18:9000/play/a062
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4PpSPX6.png",PORTO CANAL (source #01) Copyright © 2017 - TeamBlue
-http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+http://213.13.26.11:1935/live/portocanal/teamblue.m3u8
 
 
 
@@ -171,8 +171,8 @@ http://213.188.51.185:9981/play/a00z
 http://213.188.51.185:9981/play/a00p
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png",FOX MOVIES (source #02) Copyright © 2017 - TeamBlue
 http://83.79.134.18:9000/play/a064
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wdCpBLc.png",HOLLYWOOD (source #01) Copyright © 2017 - TeamBlue
+http://89.109.65.126:4022/udp/239.251.0.93:5501/
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wdCpBLc.png",HOLLYWOOD (source #02) Copyright © 2017 - TeamBlue
 http://83.79.134.18:9000/play/hollywood1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png",SYFY (source #01) Copyright © 2017 - TeamBlue
@@ -297,8 +297,8 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png",MTV HITS (source #01) Copyright © 2017 - TeamBlue
 http://193.23.58.156:4025/udp/234.1.20.36:1234
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png",MTV HITS (source #02) Copyright © 2017 - TeamBlue
+http://134.0.117.5:8030/1
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1",MTV (source #02) Copyright © 2017 - TeamBlue
@@ -353,8 +353,8 @@ http://83.79.134.18:9000/play/a07f
 http://83.79.134.18:9000/play/globo1234
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",SBT (source #02) Copyright © 2017 - TeamBlue
-http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png",REDE TV (source #01) Copyright © 2017 - TeamBlue
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png",REDE TV (source #02) Copyright © 2017 - TeamBlue
