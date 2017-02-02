@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nwF46j7.png",RTP 1 - Copyright © 2017 - TeamBlue
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://www.rtp.pt/play/
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yAOu09B.png",RTP 2 - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2496.ts
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",SIC (source #01) - Copyright © 2017 - TeamBlue
 http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",SIC (source #02) - Copyright © 2017 - TeamBlue
@@ -8,13 +14,13 @@ http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png",TVI (source #01) - Copyright © 2017 - TeamBlue
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png",TVI (source #02) - Copyright © 2017 - TeamBlue
-http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-2/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg",PORTO CANAL (source #01) - Copyright © 2017 - TeamBlue
-rtsp://213.13.26.11:1935/live/portocanal
+http://iptv.electro-clair.net:8000/live/germany/germany/2623.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg",PORTO CANAL (source #02) - Copyright © 2017 - TeamBlue
-http://213.13.26.11:1935/live/portocanal/teamblue.m3u8
-
-
+http://213.13.26.13:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png",RTP ACORES - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2495.ts
 
 
 
@@ -93,10 +99,22 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png",RTP MEMORIA - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2494.ts
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png",SIC CARAS (source #01) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2493.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png",SIC CARAS (source #02) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2507.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png",SIC MULHER - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2492.ts
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC RADICAL (source #01) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2589.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC RADICAL (source #02) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2491.ts
 
 
 
@@ -121,6 +139,8 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2487.ts
 
 
 
@@ -139,6 +159,8 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDTQAYr.png",A BOLA TV - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2511.ts
 
 
 
@@ -149,10 +171,20 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2000px-Eurosport_1_Logo_2015.svg.png",EUROSPORT 1 (source #01) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2502.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2000px-Eurosport_1_Logo_2015.svg.png",EUROSPORT 1 (source #02) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2602.ts
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4b/Eurosport_2_2015.png/revision/latest?cb=20151112192506",EUROSPORT 2 (source #01) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2503.ts
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4b/Eurosport_2_2015.png/revision/latest?cb=20151112192506",EUROSPORT 2 (source #02) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2600.ts
 
 
 
 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f5/Eurosport_news.png/revision/latest?cb=20120904171521",EUROSPORT NEWS - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2501.ts
 
 
 
@@ -161,6 +193,8 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jgu61cv.png",MOTORVISION TV - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2499.ts
 
 
 
@@ -177,76 +211,48 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1 - Copyright © 2017 - TeamBlue
-http://bestiptv.dyndns.tv:80/live?channelId=208&uid=403&deviceUser=razija&devicePass=razija1
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1 (source #01) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1754.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1 - Copyright © 2017 - TeamBlue
 http://iptv.electro-clair.net:8000/live/germany/germany/2239.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2 - Copyright © 2017 - TeamBlue
-http://bestiptv.dyndns.tv:80/live?channelId=209&uid=403&deviceUser=razija&devicePass=razija1
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2 (source #01) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1755.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2 - Copyright © 2017 - TeamBlue
 http://iptv.electro-clair.net:8000/live/germany/germany/2240.ts
 
 
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3 - Copyright © 2017 - TeamBlue
-http://bestiptv.dyndns.tv:80/live?channelId=346&uid=403&deviceUser=razija&devicePass=razija1
+http://iptv.electro-clair.net:8000/live/germany/germany/2596.ts
 
 
 
 
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4 - Copyright © 2017 - TeamBlue
-http://bestiptv.dyndns.tv:80/live?channelId=211&uid=403&deviceUser=razija&devicePass=razija1
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4 - Copyright © 2017 - TeamBlue
 http://iptv.electro-clair.net:8000/live/germany/germany/1753.ts
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",SPORT TV 5 - Copyright © 2017 - TeamBlue
-http://bestiptv.dyndns.tv:80/live?channelId=230&uid=403&deviceUser=razija&devicePass=razija1
+http://iptv.electro-clair.net:8000/live/germany/germany/2597.ts
 
 
 
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",SPORTING TV - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2599.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",BARCA TV - Copyright © 2017 - TeamBlue
@@ -257,6 +263,36 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png",TOROS TV - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2490.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zWiKosU.png",CANAL PANDA - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2508.ts
+
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959",DISNEY CHANNEL - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2505.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png",DISNEY JUNIOR - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2504.ts
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png",NICKELODEON - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2628.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png",AXN - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2615.ts
 
 
 
@@ -273,52 +309,30 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0imsO3D.png",TVCINE 1 - Copyright © 2017 - TeamBlue
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png",FOX MOVIES - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2613.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wdCpBLc.png",HOLLYWOOD - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2609.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AsdhWPJ.png",MOV - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2611.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0imsO3D.png",TVCINE 1 (source #01) - Copyright © 2017 - TeamBlue
 http://ptvirtual.dnsfor.me:8000/live/Rui_Couto/HqBi46bZj1/85.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0imsO3D.png",TVCINE 1 (source #02) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2405.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ygfeoOl.png",TVCINE 2 (source #01) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2410.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ygfeoOl.png",TVCINE 2 (source #02) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2606.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FKAk8WS.png",TVCINE 3 - Copyright © 2017 - TeamBlue
-http://iptv.electro-clair.net:8000/live/germany/germany/2407.ts
+http://iptv.electro-clair.net:8000/live/germany/germany/2607.ts
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X2nOGkS.png",TVCINE 4 (source #01) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2408.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X2nOGkS.png",TVCINE 4 (source #02) - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2608.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4HBqB9G.png",TVSERIES - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2409.ts
 
 
 
@@ -333,16 +347,8 @@ http://iptv.electro-clair.net:8000/live/germany/germany/2407.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png",NAT GEO WILD - Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2618.ts
 
 
 
@@ -609,118 +615,34 @@ http://vidzi.tv/n094yf6qnxrc-1046feee76b23baa72e9eca94f6dbc37.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OhbAhcZ.png",BRASIL
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png",BAND (source #01) Copyright © 2017 - TeamBlue
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png",BAND - Copyright © 2017 - TeamBlue
 http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/chunklist_w1910940606.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png",BAND (source #01) Copyright © 2017 - TeamBlue
-http://31.204.128.117:8081/live/band/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO (source #01) Copyright © 2017 - TeamBlue
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO - Copyright © 2017 - TeamBlue
 http://173.236.10.10:1935/redecanaisbobo/redecanaisbobo/playlist.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO SP (source #01) Copyright © 2017 - TeamBlue
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO SP - Copyright © 2017 - TeamBlue
 http://173.212.216.7:8081/live/sptv/playlist.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD (source #01) Copyright © 2017 - TeamBlue
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD - Copyright © 2017 - TeamBlue
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD (source #01) Copyright © 2017 - TeamBlue
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD SP - Copyright © 2017 - TeamBlue
 http://srv3.zoeweb.tv:1935/zw321/stream/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD SP (source #01) Copyright © 2017 - TeamBlue
-http://srv3.zoeweb.tv:1935/zw321/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD SP (source #01) Copyright © 2017 - TeamBlue
-http://31.204.128.104:8081/live/record/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png",REDE TV (source #01) Copyright © 2017 - TeamBlue
-http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png",REDE TV (source #01) Copyright © 2017 - TeamBlue
-http://187.49.86.238:10000/bysid/111
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",SBT (source #01) Copyright © 2017 - TeamBlue
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png",REDE TV - Copyright © 2017 - TeamBlue
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",SBT - Copyright © 2017 - TeamBlue
 http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbt.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",SBT (source #01) Copyright © 2017 - TeamBlue
-http://gbbrlive2.sambatech.com.br/…/livestrea…/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",SBT (source #01) Copyright © 2017 - TeamBlue
-https://bkp-slrp.sambavideos.sambatech.com/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/2000px-TV_Cultura.svg.png",TV CULTURA (source #01) Copyright © 2017 - TeamBlue
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/2000px-TV_Cultura.svg.png",TV CULTURA - Copyright © 2017 - TeamBlue
 http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/2000px-TV_Cultura.svg.png",TV CULTURA (source #01) Copyright © 2017 - TeamBlue
-http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/BandNews_TV_logo_2010.svg",BAND NEWS (source #01) Copyright © 2017 - TeamBlue
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/BandNews_TV_logo_2010.svg",BAND NEWS - Copyright © 2017 - TeamBlue
 http://ev.mm.uol.com.br:1935/band/bandnews/live.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png",RECORD NEWS (source #01) Copyright © 2017 - TeamBlue
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png",RECORD NEWS - Copyright © 2017 - TeamBlue
 http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png",RECORD NEWS (source #01) Copyright © 2017 - TeamBlue
-http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png",RECORD NEWS (source #01) Copyright © 2017 - TeamBlue
-http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
-
-
 
 
 
@@ -1747,8 +1669,8 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1000px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",beiN SPORTS N (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2274.ts
 
 
 
@@ -1829,8 +1751,8 @@ http://iptv.tjurk.com:8000/live/italiaanhj/lkhgughu/385.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254",MOVISTAR DEPORTES 1 (source #01) Copyright © 2017 - TeamBlue
 http://iptv.tjurk.com:8000/live/italiaanhj/lkhgughu/388.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254",MOVISTAR DEPORTES 1 (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2143.ts
 
 
 
@@ -1845,8 +1767,8 @@ http://pro213.com:80/live/toska775/kmk7j2/2518.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png",MOVISTAR FUTBOL (source #01) Copyright © 2017 - TeamBlue
 http://iptv.tjurk.com:8000/live/italiaanhj/lkhgughu/386.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png",MOVISTAR FUTBOL (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1671.ts
 
 
 
@@ -1861,8 +1783,8 @@ http://pro213.com:80/live/toska775/kmk7j2/1903.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",MOVISTAR F1 (source #01) Copyright © 2017 - TeamBlue
 http://koubaiptv.ddns.net:8000/live/testcup/testcup/3582.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",MOVISTAR F1 (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1948.ts
 
 
 
@@ -1877,8 +1799,8 @@ http://koubaiptv.ddns.net:8000/live/testcup/testcup/3582.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",BARCA TV (source #01) Copyright © 2017 - TeamBlue
 http://pro213.com:80/live/toska775/kmk7j2/2445.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",BARCA TV (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1541.ts
 
 
 
@@ -1886,8 +1808,8 @@ http://pro213.com:80/live/toska775/kmk7j2/2445.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205",REAL MADRID TV (source #01) Copyright © 2017 - TeamBlue
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205",REAL MADRID TV (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1542.ts
 
 
 
@@ -3330,10 +3252,10 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png",PREMIUM SPORT (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1330.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png",PREMIUM SPORT (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1792.ts
 
 
 
@@ -3397,15 +3319,15 @@ http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png",SKY SPORT F1 IT (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1356.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png",SKY SPORT F1 IT (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2833.ts
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CmFj0p2.png",SKY SPORT MOTOGP IT (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/2707.ts
 
 
 
@@ -3501,12 +3423,12 @@ http://163.172.5.115:8080/rte2/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png",BLOOMBERG (source #01) Copyright © 2017 - TeamBlue
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png",BLOOMBERG (source #01) Copyright © 2017 - TeamBlue
-http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M24K.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png",BLOOMBERG (source #01) Copyright © 2017 - TeamBlue
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
+
+
+
+
+
+
 
 
 
@@ -3973,8 +3895,8 @@ http://94.74.65.100:19123/ott/68:1122
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F2R303x.png",BT SPORT 1 (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1789.ts
 
 
 
@@ -3985,12 +3907,12 @@ http://94.74.65.100:19123/ott/68:1122
 http://163.172.5.115:8080/bt2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png",BT SPORT 2 (source #01) Copyright © 2017 - TeamBlue
 http://188.141.71.170:8001/1:0:1:D020:909:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png",BT SPORT 2 (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1790.ts
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png",BT SPORT 3 (source #01) Copyright © 2017 - TeamBlue
+http://iptv.electro-clair.net:8000/live/germany/germany/1791.ts
 #EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png",BT SPORT 3 (source #01) Copyright © 2017 - TeamBlue
 http://188.141.71.170:8001/1:0:1:D7DC:840:2:11A0000:0:0:0:
 
@@ -5731,6 +5653,90 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/62.mpegts
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/df/Wwenetworktransparent.png/revision/latest?cb=20140819192906",WWE NETWORK (source #01) Copyright © 2017 - TeamBlue
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/57.mpegts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
