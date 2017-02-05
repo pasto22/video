@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
 #EXTINF:-1 tvg-logo=http://i.imgur.com/nwF46j7.png,RTP 1
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1204.ts
 #EXTINF:-1 tvg-logo=http://i.imgur.com/yAOu09B.png,RTP 2
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://www.rtp.pt/play/
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1203.ts
 #EXTINF:-1 tvg-logo=http://i.imgur.com/U0XKwI5.png,SIC
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/eoUkAQT.png,TVI
@@ -10,12 +10,327 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg,PORTO CANAL
 http://213.13.26.13:1935/live/portocanal/chunklist_w838684759.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/om9BKuk.png,RTP ACORES
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://www.rtp.pt/play/
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1201.ts
 #EXTINF:-1 tvg-logo=http://i.imgur.com/YWi6NzU.png,RTP AFRICA
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-logo=http://i.imgur.com/YPL4ncR.png,RTP INTERNACIONAL
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://www.rtp.pt/play/
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1200.ts
+
+
 #EXTINF:-1 tvg-logo=http://i.imgur.com/EQk4X7n.png,RTP MADEIRA
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://www.rtp.pt/play/
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1198.ts
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png,CM TV
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1222.ts
+
+
+
+
+#EXTINF:-1 tvg-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/d4783ZP.png,FRANCE 24 (FR)
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/d4783ZP.png,FRANCE 24 (IN)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/UqZdQqJ.png,RTP 3
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1202.ts
+#EXTINF:-1 tvg-logo=http://i.imgur.com/qdQ02xS.png,SIC NOTICIAS
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/nYX9hTR.png,TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/j5XGBIT.png,CANAL PARLAMENTO
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png,BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/ix40Cv6.png,BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=http://i.imgur.com/v7fRn8r.png,FOX NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/QK9Bl3u.png,RAI NEWS 24
+http://94.32.101.18/streamagoedge/1917/810/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=http://i.imgur.com/JcoOA0R.png,TVE 24
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo=http://i.imgur.com/RWZ8Pdl.png,RECORD NEWS
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?ListaVIP
+#EXTINF:-1 tvg-logo=http://i.imgur.com/W4mLcJh.png,A&E
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1233.ts
+
+
+
+
+#EXTINF:-1 tvg-logo=http://i.imgur.com/wYskerA.png,CANAL Q
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1224.ts
+
+
+#EXTINF:-1 tvg-logo=http://i.imgur.com/heRTGFa.png,LISBOA TV
+http://213.13.26.11:1935/live/tvldireto/chunklist_w560822665.m3u8
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png,CBSN
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+
+
+#EXTINF:-1 tvg-logo=http://i.imgur.com/zGAy6qU.png,E!
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1220.ts
+#EXTINF:-1 tvg-logo=http://i.imgur.com/lWlG90R.png,RTP MEMORIA
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1197.ts
+#EXTINF:-1 tvg-logo=http://i.imgur.com/mHv2YrF.png,SIC CARAS
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1194.ts
+#EXTINF:-1 tvg-logo=http://i.imgur.com/PM9mIG3.png,SIC MULHER
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1193.ts
+#EXTINF:-1 tvg-logo=http://i.imgur.com/Vvv2OcG.png,SIC RADICAL
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1191.ts
+#EXTINF:-1 tvg-logo=http://i.imgur.com/1OKBioL.png,TVI FICCAO
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1174.ts
+#EXTINF:-1 tvg-logo=http://i.imgur.com/qQcrbID.png,TVI REALITY
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1173.ts
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png,GLOBO PORTUGAL
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1180.ts
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png,GLOBO PREMIUM
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1179.ts
+#EXTINF:-1 tvg-logo=http://i.imgur.com/eo6n0fp.png,RECORD
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1178.ts
+#EXTINF:-1 tvg-logo=http://i.imgur.com/ds8f0f4.png,24 KITCHEN
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1235.ts
+
+
+
+
+#EXTINF:-1 tvg-logo=http://i.imgur.com/n2CzI8b.png,FOOD NETWORK
+http://186.179.169.35/edge/smil:foodnetwork_iptv.smil/playlist.m3u8?hdnea=ip=172.112.199.70~st=1462061031~exp=1462075431~acl=*~data=1~hmac=1ebaba8b1c0e35e7c5cecafab27da0c4edd4780e6e2c022b9b84718336f8e820
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png,TLC
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1184.ts
+
+
+<item><title>[B][COLOR white]A BOLA TV[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1234.ts$$lsname=A BOLA TV</link><thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]BENFICA TV[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1710.ts$$lsname=BENFICA TV</link><thumbnail>http://i.imgur.com/3MPQyry.png</thumbnail></item>
+<item><title>[B][COLOR white] [/B][/COLOR]</title>
+#N/D
+
+<item><title>[B][COLOR white]EUROSPORT 1[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1712.ts$$lsname=EUROSPORT 1</link><thumbnail>http://i.imgur.com/8KXbjyH.jpg</thumbnail></item>
+
+
+
+
+
+
+
+
+<item><title>[B][COLOR white]FUEL TV[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1219.ts$$lsname=FUEL TV</link><thumbnail>http://i.imgur.com/udcCfFP.png</thumbnail></item>
+
+
+
+
+<item><title>[B][COLOR white]MOTORS TV[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1211.ts$$lsname=MOTORS TV</link><thumbnail>http://i.imgur.com/kQ7wwBO.png</thumbnail></item>
+
+
+
+
+<item><title>[B][COLOR white]PFC[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1206.ts$$lsname=PFC</link><thumbnail>http://i.imgur.com/hFOEDRM.png</thumbnail></item>
+<item><title>[B][COLOR white]SPORT TV+[/B][/COLOR]</title>
+<link>http://149.202.72.15:8000/live/casa/casa/1477.m3u8$$lsname=SPORT TV+</link><thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/e/eb/Sport_TV%2B.svg/revision/latest?cb=20160903152108</thumbnail></item>
+
+
+<item><title>[B][COLOR white]SPORT TV 1[/B][/COLOR]</title>
+<link>http://51.254.47.234:8000/live/italiaanhj/lkhgughu/278.m3u8|User-Agent=VLC/2.2.2 LibVLC/2.2.17$$lsname=SPORT TV 1</link><thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]SPORT TV 2[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1189.ts$$lsname=SPORT TV 2</link><thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]SPORT TV 3[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1188.ts$$lsname=SPORT TV 3</link><thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]SPORT TV 4[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1187.ts$$lsname=SPORT TV 4</link><thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]SPORT TV 5[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1186.ts$$lsname=SPORT TV 5</link><thumbnail>http://i.imgur.com/G8yH187.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]SPORTING TV[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1185.ts$$lsname=SPORTING TV</link><thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]BARCA TV[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3034.ts$$lsname=BARCA TV</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png</thumbnail></item>
+<item><title>[B][COLOR white]REAL MADRID TV[/B][/COLOR]</title>
+<link>http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8$$lsname=REAL MADRID TV</link><thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205</thumbnail></item>
+<item><title>[B][COLOR white]CHELSEA TV[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1318.ts$$lsname=CHELSEA TV</link><thumbnail>http://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png</thumbnail></item>
+<item><title>[B][COLOR white]MUTV[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1317.ts$$lsname=MUTV</link><thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056</thumbnail></item>
+
+
+
+
+
+
+
+
+<item><title>[B][COLOR white]BIGGS[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1227.ts$$lsname=BIGGS</link><thumbnail>http://i.imgur.com/HKbRVtU.png</thumbnail></item>
+<item><title>[B][COLOR white]CANAL PANDA[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1225.ts$$lsname=CANAL PANDA</link><thumbnail>http://i.imgur.com/zWiKosU.png</thumbnail></item>
+
+
+
+
+
+
+<item><title>[B][COLOR white]JIMJAM[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1212.ts$$lsname=JIMJAM</link><thumbnail>http://i.imgur.com/b6Mhyk9.png</thumbnail></item>
+<item><title>[B][COLOR white]NICKELODEON[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1208.ts$$lsname=NICKELODEON</link><thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail></item>
+
+
+
+
+<item><title>[B][COLOR white]AMC[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1232.ts$$lsname=AMC</link><thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png</thumbnail></item>
+<item><title>[B][COLOR white]AXN[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1231.ts$$lsname=AXN</link><thumbnail>http://i.imgur.com/aDkAm6p.png</thumbnail></item>
+<item><title>[B][COLOR white]AXN BLACK[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1230.ts$$lsname=AXN BLACK</link><thumbnail>http://i.imgur.com/kSJMp6w.png</thumbnail></item>
+<item><title>[B][COLOR white]AXN WHITE[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1229.ts$$lsname=AXN WHITE</link><thumbnail>http://i.imgur.com/QDCk6tH.png</thumbnail></item>
+<item><title>[B][COLOR white]CINEMUNDO[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1223.ts$$lsname=CINEMUNDO</link><thumbnail>http://i.imgur.com/cU4rgbA.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]FOX[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1218.ts$$lsname=FOX</link><thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
+<item><title>[B][COLOR white]FOX COMEDY[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1217.ts$$lsname=FOX COMEDY</link><thumbnail>http://i.imgur.com/xemj0LD.png</thumbnail></item>
+<item><title>[B][COLOR white]FOX CRIME[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1216.ts$$lsname=FOX CRIME</link><thumbnail>http://i.imgur.com/Q8uJUlH.png</thumbnail></item>
+<item><title>[B][COLOR white]FOX LIFE[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1215.ts$$lsname=FOX LIFE</link><thumbnail>http://i.imgur.com/giiQxbn.png</thumbnail></item>
+<item><title>[B][COLOR white]FOX MOVIES[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1214.ts$$lsname=FOX MOVIES</link><thumbnail>http://i.imgur.com/gbjSBds.png</thumbnail></item>
+<item><title>[B][COLOR white]HOLLYWOOD[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1213.ts$$lsname=HOLLYWOOD</link><thumbnail>http://i.imgur.com/wdCpBLc.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]TVCINE 1[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1177.ts$$lsname=TVCINE 1</link><thumbnail>http://i.imgur.com/0imsO3D.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]TVCINE 2[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1183.ts$$lsname=TVCINE 2</link><thumbnail>http://i.imgur.com/ygfeoOl.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]TVCINE 3[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1182.ts$$lsname=TVCINE 3</link><thumbnail>http://i.imgur.com/FKAk8WS.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]TVCINE 4[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1181.ts$$lsname=TVCINE 4</link><thumbnail>http://i.imgur.com/X2nOGkS.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
+
+
+<item><title>[B][COLOR white]DISCOVERY SHOWCASE[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1221.ts$$lsname=DISCOVERY SHOWCASE</link><thumbnail>http://i.imgur.com/H3pCgSC.png</thumbnail></item>
+
+
+
+
+<item><title>[B][COLOR white]NAT GEO WILD[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1209.ts$$lsname=NAT GEO WILD</link><thumbnail>http://i.imgur.com/mNhHiku.png</thumbnail></item>
+<item><title>[B][COLOR white]ODISSEIA[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1207.ts$$lsname=ODISSEIA</link><thumbnail>http://i.imgur.com/QyFiRiO.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
+<item><title>[B][COLOR white]M6 MUSIQUE[/B][/COLOR]</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8$$lsname=M6 MUSIQUE</link><thumbnail>http://i.imgur.com/UUjLsQg.png</thumbnail></item>
+
+
+
+
+<item><title>[B][COLOR white]MEZZO[/B][/COLOR]</title>
+<link>http://ott2.odessa.tv:7321/index.php?channel=197&key_ott=5f7690fd0bd330afafb91f331adc46dd$$lsname=MEZZO</link><thumbnail>http://www.lyngsat-logo.com/hires/mm/mezzo.png</thumbnail></item>
+<item><title>[B][COLOR white]MTV DANCE[/B][/COLOR]</title>
+<link>http://193.23.58.156:4025/udp/234.1.20.37:1234$$lsname=MTV DANCE</link><thumbnail>http://i.imgur.com/WCZQdTA.png</thumbnail></item>
+<item><title>[B][COLOR white]MTV HITS[/B][/COLOR]</title>
+<link>http://134.0.117.5:8030/1$$lsname=MTV HITS</link><thumbnail>http://i.imgur.com/iyi7pTK.png</thumbnail></item>
+
+
+<item><title>[B][COLOR white]MTV ROCKS[/B][/COLOR]</title>
+<link>http://94.74.65.100:19123/ott/68:1122$$lsname=MTV ROCKS</link><thumbnail>http://i.imgur.com/ptZeCgt.png</thumbnail></item>
+
+
+
+
+
+
+
+
+
+
+<item><title>[B][COLOR white]VH1[/B][/COLOR]</title>
+<link>http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1458.ts$$lsname=VH1</link><thumbnail>https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg</thumbnail></item>
+<item><title>[B][COLOR white]VH1 CLASSIC[/B][/COLOR]</title>
+<link>http://193.23.58.156:4025/udp/234.1.20.35:1234$$lsname=VH1 CLASSIC</link><thumbnail>http://i.imgur.com/DzLrn28.png</thumbnail></item>
+<item><title>[B][COLOR white]CANCAO NOVA[/B][/COLOR]</title>
+<link>http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8$$lsname=CANCAO NOVA</link><thumbnail>http://i.imgur.com/VRnat0c.png</thumbnail></item>
+<item><title>[B][COLOR white]BAND[/B][/COLOR]</title>
+<link>http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/chunklist_w1910940606.m3u8$$lsname=BAND</link><thumbnail>http://i.imgur.com/o1qPwNa.png</thumbnail></item>
+<item><title>[B][COLOR white]REDE TV[/B][/COLOR]</title>
+<link>http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8$$lsname=REDE TV</link><thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png</thumbnail></item>
+<item><title>[B][COLOR white]DEUTCHE WELLE[/B][/COLOR]</title>
+<link>http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8$$lsname=DEUTCHE WELLE</link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png</thumbnail></item>
+<item><title>[B][COLOR white]SBT[/B][/COLOR]</title>
+<link>http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8$$lsname=SBT</link><thumbnail>http://i.imgur.com/IpdLuL6.png</thumbnail></item>
+
+
+
+
+<item><title>[B][COLOR white]TV5 MONDE[/B][/COLOR]</title>
+<link>https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8$$lsname=TV5 MONDE</link><thumbnail>http://i.imgur.com/89chccl.png</thumbnail></item>
+
+
