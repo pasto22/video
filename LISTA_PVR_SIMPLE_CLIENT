@@ -1,5 +1,5 @@
-#EXTM3U  url-tvg="http://51.255.196.214/epgFile.xml.gz"
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nwF46j7.png" tvg-id="rtp1.pt",RTP 1
+#EXTM3U
+#EXTINF:-1 url-tvg="http://51.255.196.214/epgFile.xml.gz" tvg-logo="http://i.imgur.com/nwF46j7.png" tvg-id="rtp1.pt",RTP 1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1204.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yAOu09B.png,RTP 2
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1203.ts
