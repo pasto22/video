@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 url-tvg="http://51.255.196.214/epgFile.xml.gz" tvg-logo="http://i.imgur.com/nwF46j7.png" tvg-id="rtp1.pt",RTP 1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nwF46j7.png" tvg-id="rtp1.pt",RTP 1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1204.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yAOu09B.png,RTP 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yAOu09B.png" tvg-id="rtp2.pt",RTP 2
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1203.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png,SIC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt",SIC
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1195.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png,TVI
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png" tvg-id="TVI.pt",TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg,PORTO CANAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-id="PortoCanal.pt",PORTO CANAL
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1205.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png,RTP ACORES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" tvg-id="RTPAcores.pt",RTP ACORES
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1201.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YWi6NzU.png,RTP AFRICA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YWi6NzU.png" tvg-id="RTPAfrica.pt",RTP AFRICA
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1200.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YPL4ncR.png,RTP INTERNACIONAL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YPL4ncR.png" tvg-id="RTPInternacional.pt",RTP INTERNACIONAL
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png,RTP MADEIRA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" tvg-id="RTPMadeira.pt",RTP MADEIRA
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1198.ts
 
 
@@ -23,323 +23,17 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1198.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww,EURONEWS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww" tvg-id="Euronews.nws",EURONEWS
 http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png,FRANCE 24 (FR)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png" tvg-id="",FRANCE 24 (FR)
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png,FRANCE 24 (IN)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png" tvg-id="",FRANCE 24 (IN)
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_500.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UqZdQqJ.png,RTP 3
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png,SIC NOTICIAS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UqZdQqJ.png" tvg-id="rtpn.pt",RTP 3
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1204.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt",SIC NOTICIAS
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1192.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nYX9hTR.png,TVI24
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1175.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png,CANAL PARLAMENTO
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png,BBC WORLD NEWS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png,BLOOMBERG
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1364.ts
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png,FOX NEWS
-http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png,RAI NEWS 24
-http://94.32.101.18/streamagoedge/1917/810/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png,TVE 24
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png,RECORD NEWS
-http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png,CANAL Q
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1224.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png,CBSN
-http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png,CBS REALITY
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1233.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png,E!
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1220.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png,RTP MEMORIA
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1197.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png,SIC CARAS
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1194.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png,SIC MULHER
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1193.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png,SIC RADICAL
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1191.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1OKBioL.png,TVI FICCAO
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1174.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png,TVI REALITY
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1173.ts
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png,GLOBO PORTUGAL
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1180.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png,GLOBO PREMIUM
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1179.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png,RECORD
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1178.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png,24 KITCHEN
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1235.ts
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png,TLC
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1184.ts
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png,BENFICA TV
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1710.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
