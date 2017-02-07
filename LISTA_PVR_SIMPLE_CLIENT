@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nwF46j7.png",RTP 1 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nwF46j7.png" tvg-id="rtp1.pt",RTP 1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1204.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yAOu09B.png",RTP 2 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yAOu09B.png" tvg-id="rtp2.pt",RTP 2
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1203.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",SIC (Geobloqueado) (source #01) - Copyright © 2017 (by TeamBlue)
-http://live.impresa.pt/live/sic/sic.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",SIC  (source #02) - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",SIC (Geobloqueado) (source #01) - (Copyright © 2017 by TeamBlue)
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1195.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",SIC  (source #02) - (Copyright © 2017 by TeamBlue)
 http://live.impresa.pt/live/sic/sic540p.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png",TVI - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png" tvg-id="TVI.pt",TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg",PORTO CANAL - Copyright © 2017 (by TeamBlue)
-http://213.13.26.13:1935/live/portocanal/chunklist_w838684759.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png",RTP ACORES - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-id="PortoCanal.pt",PORTO CANAL
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1205.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" tvg-id="RTPAcores.pt",RTP ACORES
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1201.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YWi6NzU.png",RTP AFRICA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YWi6NzU.png" tvg-id="RTPAfrica.pt",RTP AFRICA
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1200.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YPL4ncR.png",RTP INTERNACIONAL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YPL4ncR.png" tvg-id="RTPInternacional.pt",RTP INTERNACIONAL
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png",RTP MADEIRA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" tvg-id="RTPMadeira.pt",RTP MADEIRA
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1198.ts
 
 
@@ -25,35 +25,35 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1198.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww",EURONEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww" tvg-id="Euronews.nws",EURONEWS
 http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png",FRANCE 24 (FR) - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png" tvg-id="FR24F",FRANCE 24 (FR)
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png",FRANCE 24 (IN) - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png" tvg-id="",FRANCE 24 (IN)
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_500.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UqZdQqJ.png",RTP 3 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UqZdQqJ.png" tvg-id="rtpn.pt",RTP 3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png",SIC NOTICIAS - Copyright © 2017 (by TeamBlue)
-http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nYX9hTR.png",TVI24 - Copyright © 2017 (by TeamBlue)
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png",CANAL PARLAMENTO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt",SIC NOTICIAS
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1192.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nYX9hTR.png" tvg-id="TVI24.pt",TVI24
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1175.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt",CANAL PARLAMENTO
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png",BBC WORLD NEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" tvg-id="",BBC WORLD NEWS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png",BLOOMBERG - Copyright © 2017 (by TeamBlue)
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" tvg-id="BLOOM",BLOOMBERG
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1364.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png",FOX NEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" tvg-id="",FOX NEWS
 http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png",RAI NEWS 24 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" tvg-id="",RAI NEWS 24
 http://94.32.101.18/streamagoedge/1917/810/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png",TVE 24 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" tvg-id="",TVE 24
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png",RECORD NEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png" tvg-id="",RECORD NEWS
 http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
 
 
@@ -61,29 +61,29 @@ http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png",CANAL Q - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="",CANAL Q
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1224.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png",CBSN - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png" tvg-id="",CBSN
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png",CBS REALITY - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSR",CBS REALITY
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1233.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png",E! - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="E!",E!
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1220.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png",RTP MEMORIA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt",RTP MEMORIA
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1197.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png",SIC CARAS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" tvg-id="SicCaras.pt",SIC CARAS
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1194.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png",SIC MULHER - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt",SIC MULHER
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1193.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC RADICAL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt",SIC RADICAL
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1191.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1OKBioL.png",TVI FICCAO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1OKBioL.png" tvg-id="TVIFiccao.pt",TVI FICCAO
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1174.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png",TVI REALITY - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png" tvg-id="",TVI REALITY
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1173.ts
 
 
@@ -97,13 +97,13 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1173.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO PORTUGAL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" tvg-id="",GLOBO PORTUGAL
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1180.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png",GLOBO PREMIUM - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" tvg-id="GLOBO",GLOBO PREMIUM
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1179.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png" tvg-id="TVRECORD",RECORD
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1178.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png",24 KITCHEN - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt",24 KITCHEN
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1235.ts
 
 
@@ -117,7 +117,7 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1235.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png",TLC - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png" tvg-id="TLC.pt",TLC
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1184.ts
 
 
@@ -125,19 +125,19 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1184.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png",BENFICA TV  - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png" tvg-id="BenficaTV.PT",BENFICA TV
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1710.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg",EUROSPORT 1 - Copyright © 2017 (by TeamBlue)
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1712.ts
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dr2mSY2.jpg",EUROSPORT NEWS - Copyright © 2017 (by TeamBlue)
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dr2mSY2.jpg" tvg-id="EURSN",EUROSPORT NEWS
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1219.ts
 
 
@@ -145,49 +145,49 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1219.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png",MOTORS TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png" tvg-id="MOTOR",MOTORS TV
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1211.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png",PFC - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC",PFC
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1206.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1  - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt",SPORT TV 1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1190.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2  - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv12pt",SPORT TV 2
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1189.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3  - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt",SPORT TV 3
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1188.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4  - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt",SPORT TV 4
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1187.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",SPORT TV 5  - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt",SPORT TV 5
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1186.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",SPORTING TV  - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt",SPORTING TV
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1185.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",BARCA TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" tvg-id="",BARCA TV
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3034.ts
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205",REAL MADRID TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="RMTV.pt",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058",CHELSEA TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058" tvg-id="",CHELSEA TV
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1318.ts
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056",MUTV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" tvg-id="",MUTV
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1317.ts
 
 
@@ -197,9 +197,9 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1317.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HKbRVtU.png",BIGGS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HKbRVtU.png" tvg-id="PandaBiggs.pt",BIGGS
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1227.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zWiKosU.png",CANAL PANDA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zWiKosU.png" tvg-id="canalpanda.pt",CANAL PANDA
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1225.ts
 
 
@@ -207,53 +207,53 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1225.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png",JIMJAM - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM",JIMJAM
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1212.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png",NICKELODEON - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="",NICKELODEON
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1208.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png",AMC - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" tvg-id="AMC",AMC
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1232.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png",AXN - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt",AXN
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1231.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kSJMp6w.png",AXN BLACK - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kSJMp6w.png" tvg-id="AXNBlackpt",AXN BLACK
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1230.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QDCk6tH.png",AXN WHITE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QDCk6tH.png" tvg-id="AXNWhite.pt",AXN WHITE
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1229.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png",CINEMUNDO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="CINEMUNDO",CINEMUNDO
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1223.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png",FOX - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt",FOX
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1218.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png",FOX CRIME - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt",FOX CRIME
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1216.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png",FOX LIFE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt",FOX LIFE
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1215.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png",FOX MOVIES - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM",FOX MOVIES
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1214.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wdCpBLc.png",HOLLYWOOD - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wdCpBLc.png" tvg-id="hollywood.pt",HOLLYWOOD
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1213.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0imsO3D.png",TVCINE 1  - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0imsO3D.png" tvg-id="TVCine1.pt",TVCINE 1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1177.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ygfeoOl.png",TVCINE 2  - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ygfeoOl.png" tvg-id="TVCine2.pt",TVCINE 2
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1183.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FKAk8WS.png",TVCINE 3  - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FKAk8WS.png" tvg-id="TVCine3.pt",TVCINE 3
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1182.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X2nOGkS.png",TVCINE 4  - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X2nOGkS.png" tvg-id="TVCine4.pt",TVCINE 4
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1181.ts
 
 
@@ -267,15 +267,15 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1181.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png",DISCOVERY SHOWCASE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" tvg-id="",DISCOVERY SHOWCASE
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1221.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png",NAT GEO WILD - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NGWIL",NAT GEO WILD
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1209.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QyFiRiO.png",ODISSEIA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QyFiRiO.png" tvg-id="odisseia.pt",ODISSEIA
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1207.ts
 
 
@@ -285,35 +285,32 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1207.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg",DJING CLASSIC - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg" tvg-id="",DJING CLASSIC
 http://djing.com/tv/i-05.m3u8
-#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png",DJING DANCE FLOOR MUSIC - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" tvg-id="",DJING DANCE FLOOR MUSIC
 http://djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png",DJING HITS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" tvg-id="",DJING HITS
 http://www.djing.com/tv/04.m3u8
-#EXTINF:-1 tvg-logo="https://teleonline.org/wp-content/uploads/2016/02/djing-ibiza-poster.png",DJING IBIZA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://teleonline.org/wp-content/uploads/2016/02/djing-ibiza-poster.png" tvg-id="",DJING IBIZA
 http://djing.com/tv/ibiza.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png",M6 MUSIQUE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" tvg-id="",M6 MUSIQUE
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mezzo.png",MEZZO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mezzo.png" tvg-id="",MEZZO
 http://ott2.odessa.tv:7321/index.php?channel=197&key_ott=5f7690fd0bd330afafb91f331adc46dd
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png",MTV DANCE - Copyright © 2017 (by TeamBlue)
-http://193.23.58.156:4025/udp/234.1.20.37:1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png",MTV HITS - Copyright © 2017 (by TeamBlue)
-http://134.0.117.5:8030/1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="",MTV DANCE
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1450.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png" tvg-id="",MTV HITS
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1447.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png",MTV ROCKS - Copyright © 2017 (by TeamBlue)
-http://94.74.65.100:19123/ott/68:1122
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="",MTV ROCKS
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1454.ts
 
 
 
@@ -321,29 +318,32 @@ http://94.74.65.100:19123/ott/68:1122
 
 
 
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg",VH1 - Copyright © 2017 (by TeamBlue)
+
+
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg" tvg-id="VH1",VH1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1458.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png",VH1 CLASSIC - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="",VH1 CLASSIC
 http://193.23.58.156:4025/udp/234.1.20.35:1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VRnat0c.png",CANCAO NOVA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VRnat0c.png" tvg-id="CancaoNova.PT",CANCAO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png",BAND - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png" tvg-id="",BAND
 http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/chunklist_w1910940606.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png",REDE TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" tvg-id="",REDE TV
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",DEUTCHE WELLE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" tvg-id="",DEUTCHE WELLE
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",SBT - Copyright © 2017 (by TeamBlue)
-http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png" tvg-id="",SBT
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1196.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/89chccl.png",TV5 MONDE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/89chccl.png" tvg-id="",TV5 MONDE
 https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png",TV GALICIA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" tvg-id="",TV GALICIA
 http://media3.crtvg.es/live/tvge/vcx7.m3u8
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/CvkwE6F.png,[COLOR blue]•••••[/COLOR]FILMES[COLOR blue]•••••[/COLOR]
@@ -553,37 +553,37 @@ http://vidzi.tv/2t5zv7lxrdui-48edd68cd38957b311f1954e2e9e9617.m3u8
 http://vidzi.tv/n094yf6qnxrc-1046feee76b23baa72e9eca94f6dbc37.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k2Iy5Ig.png",BRASIL
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png",BAND - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png,BAND
 http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/chunklist_w1910940606.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png,GLOBO
 http://91.205.174.38:8081/look/globo/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO SP - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png,GLOBO SP
 http://173.212.216.7:8081/live/sptv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png,RECORD
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png",RECORD SP - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png,RECORD SP
 http://srv3.zoeweb.tv:1935/zw321/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png",REDE TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png,REDE TV
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",SBT - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png,SBT
 http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/63/Brasil.jpg/revision/latest?cb=20131114185714",CANAL BRASIL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/63/Brasil.jpg/revision/latest?cb=20131114185714,CANAL BRASIL
 http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/2000px-TV_Cultura.svg.png",TV CULTURA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/2000px-TV_Cultura.svg.png,TV CULTURA
 http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/BandNews_TV_logo_2010.svg",BAND NEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/BandNews_TV_logo_2010.svg,BAND NEWS
 http://ev.mm.uol.com.br:1935/band/bandnews/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png",RECORD NEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RWZ8Pdl.png,RECORD NEWS
 http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO RJ - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png,GLOBO RJ
 http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/467.ts
 
 
@@ -593,11 +593,11 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/467.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png",DISCOVERY - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png,DISCOVERY
 http://187.49.86.238:10000/bysid/120
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png",HISTORIA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png,HISTORIA
 http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
 
 
@@ -609,7 +609,7 @@ http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hbo_asia.png",HBO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hbo_asia.png,HBO
 http://187.49.86.238:10000/bysid/69
 
 
@@ -625,7 +625,7 @@ http://187.49.86.238:10000/bysid/69
 
 
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353",PARAMOUNT CHANNEL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353,PARAMOUNT CHANNEL
 http://187.49.86.238:10000/bysid/49
 
 
@@ -639,9 +639,9 @@ http://187.49.86.238:10000/bysid/49
 
 
 
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png",TELECINE PREMIUM - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png,TELECINE PREMIUM
 http://187.49.86.238:10000/bysid/61
-#EXTINF:-1 tvg-logo="https://edhyghellen.files.wordpress.com/2010/10/tctouch.gif",TELECINE TOUCH - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://edhyghellen.files.wordpress.com/2010/10/tctouch.gif,TELECINE TOUCH
 http://187.49.86.238:10000/bysid/63
 
 
@@ -653,7 +653,7 @@ http://187.49.86.238:10000/bysid/63
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png",FOX - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png,FOX
 http://163.172.209.135:8000/live/animalstars/scambioan654k4/913.ts 
 
 
@@ -661,9 +661,9 @@ http://163.172.209.135:8000/live/animalstars/scambioan654k4/913.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png",CARTOON NETWORK - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png,CARTOON NETWORK
 http://31.204.128.117:8081/live/cartoon/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logos/images/3/3c/Discovery_Kids_logo_2016_2D.png/revision/latest?cb=20161005160027&path-prefix=pt-br",DISCOVERY KIDS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logos/images/3/3c/Discovery_Kids_logo_2016_2D.png/revision/latest?cb=20161005160027&path-prefix=pt-br,DISCOVERY KIDS
 http://31.204.128.117:8081/live/discoverykids/playlist.m3u8
 
 
@@ -671,35 +671,35 @@ http://31.204.128.117:8081/live/discoverykids/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/1/12/20120320050805!Logo_Gloob.png",GLOOB - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/1/12/20120320050805!Logo_Gloob.png,GLOOB
 http://187.49.86.238:10000/bysid/94
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png",NICK - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png,NICK
 http://142.4.219.208:1935/redecanaisnick/redecanaisnick/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/302?cb=20160514054656",TOONCAST - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/302?cb=20160514054656,TOONCAST
 http://169.57.142.110:25461/live/6oHdLlrWdf/ecIgaO6mws/11.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",NICKTOONS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png,NICKTOONS
 http://208.86.19.13:8080/live/15.stream/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/band-sports.png",BAND SPORTS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/band-sports.png,BAND SPORTS
 http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/717.ts
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png",CANAL COMBATE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png,CANAL COMBATE
 http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/114.ts
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b1/EI_Maxx.png/revision/20160125133423",EI MAXX - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b1/EI_Maxx.png/revision/20160125133423,EI MAXX
 http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/660.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RDEG8LP.png",ESPN BRASIL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RDEG8LP.png,ESPN BRASIL
 http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/827.ts
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/ESPNUK.png/revision/latest?cb=20130806171811",ESPN - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/ESPNUK.png/revision/latest?cb=20130806171811,ESPN
 http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/697.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png",ESPORTE INTERATIVO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png,ESPORTE INTERATIVO
 http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/662.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png",FOX SPORTS 1 BR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png,FOX SPORTS 1 BR
 http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/464.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",FOX SPORTS 2 BR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png,FOX SPORTS 2 BR
 http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/465.ts
 
 
@@ -707,15 +707,19 @@ http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/465.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Frawzcq.png",SPORTV BR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Frawzcq.png,SPORTV BR
 http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/212.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4dV4aQ2.png,SPORTV2 BR
+http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/508.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2ECJlV7.png,SPORTV3 BR
+http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/214.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G5Qyvcr.png",ALEMANHA
 http://0.0.0.1234
 
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/aa/ard_das_erste.png",DAS ERST - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/aa/ard_das_erste.png,DAS ERST
 http://live-lh.daserste.de/i/daserste_de@91204/index_184_av-p.m3u8?sd=10&rebase=on
 
 
@@ -735,13 +739,13 @@ http://live-lh.daserste.de/i/daserste_de@91204/index_184_av-p.m3u8?sd=10&rebase=
 
 
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756",VOX - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756,VOX
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png",NDR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png,NDR
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9a/WDR_Fernsehen_HD.png/revision/latest/scale-to-width-down/639?cb=20141110201119",WDR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9a/WDR_Fernsehen_HD.png/revision/latest/scale-to-width-down/639?cb=20141110201119,WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 
 
@@ -749,7 +753,7 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",DEUTCHE WELLE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png,DEUTCHE WELLE
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 
 
@@ -769,7 +773,7 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zNkBXhU.png",TAGESSCHAU24 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNkBXhU.png,TAGESSCHAU24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 
 
@@ -865,12 +869,12 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png",MTV DANCE - Copyright © 2017 (by TeamBlue)
-http://193.23.58.156:4025/udp/234.1.20.37:1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png",MTV HITS - Copyright © 2017 (by TeamBlue)
-http://134.0.117.5:8030/1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png",MTV ROCKS - Copyright © 2017 (by TeamBlue)
-http://94.74.65.100:19123/ott/68:1122
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png,MTV DANCE
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1450.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iyi7pTK.png,MTV HITS
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1447.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png,MTV ROCKS
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1454.ts
 
 
 
@@ -925,7 +929,7 @@ http://94.74.65.100:19123/ott/68:1122
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png",M6 MUSIQUE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png,M6 MUSIQUE
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
 
@@ -941,31 +945,31 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aCjxWE8.png",ESPANHA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TBNYyb8.png",ANDALUCIA TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TBNYyb8.png,ANDALUCIA TV
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oM2twOs.png",ANTENA 3 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oM2twOs.png,ANTENA 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0Z0iDCF.png",LA SEXTA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0Z0iDCF.png,LA SEXTA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png",LA 1 - Copyright © 2017 (by TeamBlue)
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/2000px-Logo_TVE-2.svg.png",LA 2 - Copyright © 2017 (by TeamBlue)
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png",TELECINCO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png,LA 1
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2966.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/2000px-Logo_TVE-2.svg.png,LA 2
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2967.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png,TELECINCO
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2971.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png",TV GALICIA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png,TV GALICIA
 http://media3.crtvg.es/live/tvge/vcx7.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww",EURONEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww,EURONEWS
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png",TVE 24 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png,TVE 24
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",DEUTCHE WELLE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png,DEUTCHE WELLE
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 
@@ -985,11 +989,11 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png",NAT GEO WILD - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png,NAT GEO WILD
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3010.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png",AMC - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png,AMC
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3004.ts
 
 
@@ -999,43 +1003,43 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3004.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png",COMEDY CENTRAL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png,COMEDY CENTRAL
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3000.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png",FOX LIFE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png,FOX LIFE
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2997.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wdCpBLc.png",HOLLYWOOD - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wdCpBLc.png,HOLLYWOOD
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2996.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/800px-Movistar_Xtra.svg.png",MOVISTAR XTRA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/800px-Movistar_Xtra.svg.png,MOVISTAR XTRA
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2982.ts
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png/revision/latest?cb=20160707190742",MOVISTAR ACCION - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png/revision/latest?cb=20160707190742,MOVISTAR ACCION
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2988.ts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637",MOVISTAR COMEDIA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637,MOVISTAR COMEDIA
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2987.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104",MOVISTAR DCINE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104,MOVISTAR DCINE
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2986.ts
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png/revision/latest?cb=20160707185129",MOVISTAR ESTRENOS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png/revision/latest?cb=20160707185129,MOVISTAR ESTRENOS
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2985.ts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/mm/movistar_es_series.png",MOVISTAR SERIES - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/mm/movistar_es_series.png,MOVISTAR SERIES
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2984.ts
 
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353",PARAMOUNT CHANNEL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353,PARAMOUNT CHANNEL
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2995.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/t/55dc67d3e4b025d475d026d7/1440507859238/tnt-fpb-channel-lineup",TNT - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/t/55dc67d3e4b025d475d026d7/1440507859238/tnt-fpb-channel-lineup,TNT
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2992.ts
 
 
@@ -1043,7 +1047,7 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2992.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zWiKosU.png",CANAL PANDA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zWiKosU.png,CANAL PANDA
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2989.ts
 
 
@@ -1061,13 +1065,13 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2989.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1",MTV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1,MTV
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3012.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg",VH1 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg,VH1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1458.ts
 
 
@@ -1077,27 +1081,27 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1458.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg",EUROSPORT 1 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg,EUROSPORT 1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3017.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254",MOVISTAR DEPORTES 1 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254,MOVISTAR DEPORTES 1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3028.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png",MOVISTAR FUTBOL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png,MOVISTAR FUTBOL
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3027.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",MOVISTAR F1 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg,MOVISTAR F1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3014.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",BARCA TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png,BARCA TV
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3034.ts
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205",REAL MADRID TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
@@ -1165,7 +1169,7 @@ http://0.0.0.1234
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww",EURONEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww,EURONEWS
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
 
 
@@ -1177,9 +1181,9 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/89chccl.png",TV5 MONDE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/89chccl.png,TV5 MONDE
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png",FRANCE 24 (FR) - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d4783ZP.png,FRANCE 24 (FR)
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 
 
@@ -1187,7 +1191,7 @@ http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg",EUROSPORT 2 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg,EUROSPORT 2
 http://149.202.207.8:8080/chINNkkeeyPanduuubhensfn-1/Strm/index.m3u8
 
 
@@ -1199,9 +1203,9 @@ http://149.202.207.8:8080/chINNkkeeyPanduuubhensfn-1/Strm/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AZSqeFo.png",beiN SPORTS 2 FR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AZSqeFo.png,beiN SPORTS 2 FR
 http://149.202.207.8:8080/chINNkkeeyPanduuubhensfn-2/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png",beiN SPORTS 3 FR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png,beiN SPORTS 3 FR
 http://149.202.207.8:8080/chINNkkeeyPanduuubhensfn-3/Str
 
 
@@ -1209,7 +1213,7 @@ http://149.202.207.8:8080/chINNkkeeyPanduuubhensfn-3/Str
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/tt/toute_histoire_fr.png",TOUTE L'HISTOIRE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/tt/toute_histoire_fr.png,TOUTE L'HISTOIRE
 http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
 
 
@@ -1221,7 +1225,7 @@ http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png",GONG - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png,GONG
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
 
@@ -1307,53 +1311,53 @@ http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png",MTV Rocks - Copyright © 2017 (by TeamBlue)
-http://94.74.65.100:19123/ott/68:1122
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png",M6 MUSIQUE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png,MTV Rocks
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1454.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png,M6 MUSIQUE
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333",NRJ Hits - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333,NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p4uCFIG.png",ITALIA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_canale5.png",CANALE 5 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_canale5.png,CANALE 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_la_5.png",LA 5 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_la_5.png,LA 5
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/la_7_it.png",LA 7 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/la_7_it.png,LA 7
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hVDJfWs.png",RAI 1 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hVDJfWs.png,RAI 1
 http://b2.stream14.rai.it/italy/rai1_1200/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5XaTbVX.png",RAI 2 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5XaTbVX.png,RAI 2
 http://b2.stream14.rai.it/italy/rai2_1200/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7hwG3Dy.png",RAI 3 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7hwG3Dy.png,RAI 3
 http://b2.stream14.rai.it/italy/rai3_1200/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GPmFBH0.png",RAI 4 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GPmFBH0.png,RAI 4
 http://b2.stream14.rai.it/italy/rai4_1200/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/2000px-Rai_5_logo.svg.png",RAI 5 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/2000px-Rai_5_logo.svg.png,RAI 5
 http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zjcI6EQ.png",RETE 4 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zjcI6EQ.png,RETE 4
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(03)/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww",EURONEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww,EURONEWS
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/18-live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png",RAI NEWS 24 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png,RAI NEWS 24
 http://94.32.101.18/streamagoedge/1917/810/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/webtv/logo_senatoTV.jpg",SENATO TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/webtv/logo_senatoTV.jpg,SENATO TV
 http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/o4ca5xo.png",SKY TG24 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o4ca5xo.png,SKY TG24
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/RAI_Premium_2010_neu_Logo.svg/2000px-RAI_Premium_2010_neu_Logo.svg.png",RAI PREMIUM - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/RAI_Premium_2010_neu_Logo.svg/2000px-RAI_Premium_2010_neu_Logo.svg.png,RAI PREMIUM
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
 
 
@@ -1361,15 +1365,15 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png",DISCOVERY CHANNEL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png,DISCOVERY CHANNEL
 http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7403.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG",DISCOVERY SCIENCE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG,DISCOVERY SCIENCE
 http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4391.ts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/discovery_travel_living_it.png",DISCOVERY TRAVEL & LIVING - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/discovery_travel_living_it.png,DISCOVERY TRAVEL & LIVING
 http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4342.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/dmax_de.png",DMAX - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/dmax_de.png,DMAX
 http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4469.ts
 
 
@@ -1393,7 +1397,7 @@ http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4469.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353",PARAMOUNT CHANNEL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353,PARAMOUNT CHANNEL
 http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-b.m3u8
 
 
@@ -1423,7 +1427,7 @@ http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-b.m
 
 
 
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png",RAI MOVIE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png,RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-b.m3u8
 
 
@@ -1447,9 +1451,9 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-b.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png",DISNEY JUNIOR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png,DISNEY JUNIOR
 http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4435.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png",DISNEY XD - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png,DISNEY XD
 http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4390.ts
 
 
@@ -1457,9 +1461,9 @@ http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/4390.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rai_Gulp_2010.svg/2000px-Rai_Gulp_2010.svg.png",RAI GULP - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rai_Gulp_2010.svg/2000px-Rai_Gulp_2010.svg.png,RAI GULP
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/2000px-RAI_YoYo_2010_Logo.svg.png",RAI YOYO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/2000px-RAI_YoYo_2010_Logo.svg.png,RAI YOYO
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8
 
 
@@ -1469,7 +1473,7 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png",PREMIUM SPORT - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png,PREMIUM SPORT
 http://iptv.electro-clair.net:8000/live/germany/germany/1330.ts
 
 
@@ -1477,7 +1481,7 @@ http://iptv.electro-clair.net:8000/live/germany/germany/1330.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8sport.jpg",RETE 8 SPORT - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8sport.jpg,RETE 8 SPORT
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 
 
@@ -1487,53 +1491,53 @@ http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png",SKY SPORT F1 IT - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png,SKY SPORT F1 IT
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CmFj0p2.png",SKY SPORT MOTOGP IT - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CmFj0p2.png,SKY SPORT MOTOGP IT
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tgoApnl.png",INGLATERRA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IGYGsia.png",BBC ONE - Copyright © 2017 (by TeamBlue)
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/vPlqVpp.png",BBC TWO - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/bbc2hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XatsMnO.png",BBC THREE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IGYGsia.png,BBC ONE
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1320.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vPlqVpp.png,BBC TWO
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1321.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XatsMnO.png,BBC THREE
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1322.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hqHINhS.png",BBC FOUR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hqHINhS.png,BBC FOUR
 http://163.172.5.115:8080/bbc4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png",ITV - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/itv1hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/ITV2_logo_2015.png/revision/latest?cb=20150812102407",ITV 2 - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/itv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ITV3_logo_2013.svg/2000px-ITV3_logo_2013.svg.png",ITV 3 - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/itv3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITV4_logo_2013.svg/2000px-ITV4_logo_2013.svg.png",ITV 4 - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/itv4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160105050834",BBC NEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png,ITV
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1336.ts
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/ITV2_logo_2015.png/revision/latest?cb=20150812102407,ITV 2
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1340.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ITV3_logo_2013.svg/2000px-ITV3_logo_2013.svg.png,ITV 3
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1341.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITV4_logo_2013.svg/2000px-ITV4_logo_2013.svg.png,ITV 4
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1322.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1280px-RT%C3%89_One_2014.svg.png",RTE ONE - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/rte1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png",RTE TWO - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/rte2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png",BLOOMBERG - Copyright © 2017 (by TeamBlue)
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww",EURONEWS - Copyright © 2017 (by TeamBlue)
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png",CNN - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160105050834,BBC NEWS
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1322.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1280px-RT%C3%89_One_2014.svg.png,RTE ONE
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1334.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png,RTE TWO
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1335.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png,BLOOMBERG
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1364.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSklxAcjNfXJltQMICcsDSfY1NpnOsYq1BnfYhtOL6wB1LetYUxww,EURONEWS
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1370.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png,CNN
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1372.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png",CBS REALITY - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png,CBS REALITY
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1414.ts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png",CHANNEL 4 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png,CHANNEL 4
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1355.ts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_5_uk.png",CHANNEL 5 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_5_uk.png,CHANNEL 5
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1353.ts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/dmax_de.png",DMAX - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/dmax/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/dmax_de.png,DMAX
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1422.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/n2CzI8b.png",FOOD NETWORK - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/n2CzI8b.png,FOOD NETWORK
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1412.ts
 
 
@@ -1543,79 +1547,79 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1412.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png",DISCOVERY CHANNEL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png,DISCOVERY CHANNEL
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1423.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Discovery_History_logo.png",DISCOVERY HISTORY - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Discovery_History_logo.png,DISCOVERY HISTORY
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1425.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG",DISCOVERY SCIENCE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG,DISCOVERY SCIENCE
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1424.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",DISCOVERY TURBO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png,DISCOVERY TURBO
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1427.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/clt7STi.png",FINE LIVING - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/clt7STi.png,FINE LIVING
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1408.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png",HISTORY - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png,HISTORY
 http://163.172.5.115:8080/history/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png",NAT GEO WILD - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png,NAT GEO WILD
 http://163.172.5.115:8080/natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cbs_action_uk.png",CBS ACTION - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cbs_action_uk.png,CBS ACTION
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1416.ts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cbs_drama_eu.png",CBS DRAMA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cbs_drama_eu.png,CBS DRAMA
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1415.ts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png",COMEDY CENTRAL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png,COMEDY CENTRAL
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1410.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZFearVC.png",SKY ONE - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/sky1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WJI04Pv.png",SKY TWO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZFearVC.png,SKY ONE
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1391.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WJI04Pv.png,SKY TWO
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1322.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UVZI7Kf.png",SKY ATLANTIC - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/atlantic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Arts_logo.svg/1280px-Sky_Arts_logo.svg.png",SKY ARTS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UVZI7Kf.png,SKY ATLANTIC
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1394.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Arts_logo.svg/1280px-Sky_Arts_logo.svg.png,SKY ARTS
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1395.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7TpiSjn.png",SKY MOVIES ACTION - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/movaction/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oByD3KB.png",SKY MOVIES COMEDY - Copyright © 2017 (by TeamBlue)
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1380.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jGTg5vN.png",SKY MOVIES CRIME & THRILLER - Copyright © 2017 (by TeamBlue)
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1382.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/vXDClfC.png",SKY MOVIES DRAMA & ROMANCE - Copyright © 2017 (by TeamBlue)
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1379.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3dDwnfB.png",SKY MOVIES FAMILY - Copyright © 2017 (by TeamBlue)
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1378.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Vc1kEF9.png",SKY MOVIES SYFY & HORROR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7TpiSjn.png,SKY MOVIES ACTION
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1322.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Kcj5M1Q.png",SKY MOVIES SELECT - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oByD3KB.png,SKY MOVIES COMEDY
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1380.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jGTg5vN.png,SKY MOVIES CRIME & THRILLER
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1382.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vXDClfC.png,SKY MOVIES DRAMA & ROMANCE
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1379.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3dDwnfB.png,SKY MOVIES FAMILY
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1378.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vc1kEF9.png,SKY MOVIES SYFY & HORROR
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1322.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kcj5M1Q.png,SKY MOVIES SELECT
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1383.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DlhyJ2V.png",TCM - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DlhyJ2V.png,TCM
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1389.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png",FOX - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png,FOX
 http://163.172.5.115:8080/fox/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png",SYFY - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/syfy/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/mixels/images/4/41/Boomerang_tv_logo.png/revision/latest?cb=20150307200807",BOOMERANG - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png,SYFY
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1396.ts
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/mixels/images/4/41/Boomerang_tv_logo.png/revision/latest?cb=20150307200807,BOOMERANG
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1437.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png",CARTOON NETWORK - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png,CARTOON NETWORK
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1441.ts
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959",DISNEY CHANNEL - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/disney/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959,DISNEY CHANNEL
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1440.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png",DISNEY JUNIOR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png,DISNEY JUNIOR
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1439.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png",DISNEY XD - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png,DISNEY XD
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1438.ts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png",NICK JR - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png,NICK JR
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1444.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png",NICKELODEON - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png,NICKELODEON
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1443.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",NICKTOONS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png,NICKTOONS
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1446.ts
 
 
@@ -1629,87 +1633,87 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1446.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png",MTV ROCKS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png,MTV ROCKS
 http://94.74.65.100:19123/ott/68:1122
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg",VH1 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg,VH1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1458.ts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/bb/box_nation_uk.png",BOXNATION - Copyright © 2017 (by TeamBlue)
-http://149.202.207.8:8080/chINNkkeeyPanduuubxoo-nan/Str
-#EXTINF:-1 tvg-logo="http://i.imgur.com/F2R303x.png",BT SPORT 1 - Copyright © 2017 (by TeamBlue)
-http://149.202.207.8:8080/chINNkkeeyPanduuubeETy-1/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png",BT SPORT 2 - Copyright © 2017 (by TeamBlue)
-http://149.202.207.8:8080/chINNkkeeyPanduuubeETy-2/Strm
-#EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png",BT SPORT 3 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/bb/box_nation_uk.png,BOXNATION
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1314.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F2R303x.png,BT SPORT 1
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1303.ts
+#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png,BT SPORT 2
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1304.ts
+#EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png,BT SPORT 3
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1300.ts
-#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png",BT SPORT ESPN - Copyright © 2017 (by TeamBlue)
-http://149.202.207.8:8080/chINNkkeeyPanduuubteiSsepn/Str
+#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png,BT SPORT ESPN
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1301.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg",EUROSPORT 1 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg,EUROSPORT 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg",EUROSPORT 2 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg,EUROSPORT 2
 http://149.202.207.8:8080/chINNkkeeyPanduuueiuor-2/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png",MOTORS TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png,MOTORS TV
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1313.ts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/premier_sports.png",PREMIER SPORTS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/premier_sports.png,PREMIER SPORTS
 http://188.141.71.170:8001/1:0:1:C7A9:821:2:11A0000:0:0:0:
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png",SKY SPORTS 1 - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/skysp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png",SKY SPORTS 2 - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/skysp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CfwpEyD.png",SKY SPORTS 3 - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/skysp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3ha97Ea.png",SKY SPORTS 4 - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/skysp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0xHzWmL.png",SKY SPORTS 5 - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/skysp5/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png",SKY SPORTS F1 - Copyright © 2017 (by TeamBlue)
-http://163.172.5.115:8080/skyspf1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png",SKY SPORTS NEWS - Copyright © 2017 (by TeamBlue)
-http://188.141.71.170:8001/1:0:1:52D:7ED:2:11A0000:0:0:0:
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058",CHELSEA TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png,SKY SPORTS 1
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1292.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png,SKY SPORTS 2
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1293.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CfwpEyD.png,SKY SPORTS 3
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1294.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3ha97Ea.png,SKY SPORTS 4
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1295.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0xHzWmL.png,SKY SPORTS 5
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1296.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png,SKY SPORTS F1
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1297.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png,SKY SPORTS NEWS
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1322.ts
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058,CHELSEA TV
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1318.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QMvi4QM.png",USA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/abc_2013_logo_detail.jpg",ABC TV - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/abc_2013_logo_detail.jpg,ABC TV
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/4.mpegts
-#EXTINF:-1 tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png",HBO SIGNATURE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png,HBO SIGNATURE
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/26.mpegts
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/memoryalpha/images/9/97/NBC_logo.png/revision/latest?cb=20120109171307&path-prefix=en",NBC NEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/memoryalpha/images/9/97/NBC_logo.png/revision/latest?cb=20120109171307&path-prefix=en,NBC NEWS
 http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png",ABC NEWS - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png",BLOOMBERG - Copyright © 2017 (by TeamBlue)
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png",CNN - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png,BLOOMBERG
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1364.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png,CNN
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/68.mpegts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3CJSygl.png",CNBC - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3CJSygl.png,CNBC
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/70.mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png",CBSN - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png,CBSN
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859",WGN 9 NEWS CHICAGO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859,WGN 9 NEWS CHICAGO
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png",A&E - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png,A&E
 http://free-premium-iptv.ddns.net:9090/load/freestreams/2.mpegts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png",E! - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png,E!
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/5.mpegts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/2000px-Hallmark_Channel.svg.png",HALLMARK - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/2000px-Hallmark_Channel.svg.png,HALLMARK
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/13.mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",DEUTCHE WELLE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png,DEUTCHE WELLE
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/n2CzI8b.png",FOOD NETWORK - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/n2CzI8b.png,FOOD NETWORK
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/83.mpegts
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/6d/Usa_network_hd.png/revision/latest?cb=20110408015547",USA NETWORK - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/6d/Usa_network_hd.png/revision/latest?cb=20110408015547,USA NETWORK
 http://www.tunisiaiptv.com:8000/live/SSSST/4442/3248.m3u8
 
 
@@ -1721,39 +1725,39 @@ http://www.tunisiaiptv.com:8000/live/SSSST/4442/3248.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bgpVuQt.png",ANIMAL PLANET - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bgpVuQt.png,ANIMAL PLANET
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/79.mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png",DISCOVERY CHANNEL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png,DISCOVERY CHANNEL
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png",H2 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png,H2
 http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png",HISTORY - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png,HISTORY
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/75.mpegts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png",NATIONAL GEOGRAPHIC - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png,NATIONAL GEOGRAPHIC
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/77.mpegts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png",NAT GEO WILD - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png,NAT GEO WILD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/78.mpegts
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png",AMC - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png,AMC
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/3.mpegts
 
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/Cinemax.svg/revision/latest/scale-to-width-down/200?cb=20170109014350",CINEMAX 5 StarMax - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/Cinemax.svg/revision/latest/scale-to-width-down/200?cb=20170109014350,CINEMAX 5 StarMax
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/40.mpegts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/Cinemax.svg/revision/latest/scale-to-width-down/200?cb=20170109014350",CINEMAX ActionMax East - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/Cinemax.svg/revision/latest/scale-to-width-down/200?cb=20170109014350,CINEMAX ActionMax East
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/41.mpegts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/Cinemax.svg/revision/latest/scale-to-width-down/200?cb=20170109014350",CINEMAX East - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/Cinemax.svg/revision/latest/scale-to-width-down/200?cb=20170109014350,CINEMAX East
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/39.mpegts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/Cinemax.svg/revision/latest/scale-to-width-down/200?cb=20170109014350",CINEMAX Moremax - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/Cinemax.svg/revision/latest/scale-to-width-down/200?cb=20170109014350,CINEMAX Moremax
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/42.mpegts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png",COMEDY CENTRAL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png,COMEDY CENTRAL
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/19.mpegts
 
 
@@ -1763,19 +1767,19 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/19.mpegts
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hbo_asia.png",HBO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hbo_asia.png,HBO
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/22.mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png",HBO COMEDY - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png,HBO COMEDY
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/24.mpegts
 
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/41/Starz_Cinema_2016.svg/revision/latest/scale-to-width-down/200?cb=20160403221123",STARZ CINEMA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/41/Starz_Cinema_2016.svg/revision/latest/scale-to-width-down/200?cb=20160403221123,STARZ CINEMA
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/34.mpegts
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c8/Starz_Comedy_2016.svg/revision/latest/scale-to-width-down/250?cb=20160403221307",STARZ COMEDY - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c8/Starz_Comedy_2016.svg/revision/latest/scale-to-width-down/250?cb=20160403221307,STARZ COMEDY
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/36.mpegts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6d/Starz_Edge_2016.svg/revision/latest/scale-to-width-down/200?cb=20160403221446",STARZ EDGE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6d/Starz_Edge_2016.svg/revision/latest/scale-to-width-down/200?cb=20160403221446,STARZ EDGE
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/33.mpegts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png",FOX - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png,FOX
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/6.mpegts
 
 
@@ -1799,17 +1803,17 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/6.mpegts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ye5S2CL.png",ESPN USA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ye5S2CL.png,ESPN USA
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/45.mpegts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_2.png",ESPN 2 USA - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_2.png,ESPN 2 USA
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/46.mpegts
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png",FOX SPORTS 1 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png,FOX SPORTS 1
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",FOX SPORTS 2 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png,FOX SPORTS 2
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
 
 
@@ -1817,49 +1821,49 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
 
 
 
-#EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png",NFL NETWORK - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png,NFL NETWORK
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/54.mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/NHL_Logo_former.svg/996px-NHL_Logo_former.svg.png",NHL - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/NHL_Logo_former.svg/996px-NHL_Logo_former.svg.png,NHL
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/56.mpegts
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZJ8xW1t.png",TSN1 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZJ8xW1t.png,TSN1
 http://149.202.207.8:8080/tinKk00JuTT/teesn1/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png",TSN2 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png,TSN2
 http://149.202.207.8:8080/tinKk00JuTT/teesn2/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BsMyeWs.png",TSN3 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BsMyeWs.png,TSN3
 http://149.202.207.8:8080/tinKk00JuTT/teesn3/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rMjGqgH.png",TSN4 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rMjGqgH.png,TSN4
 http://149.202.207.8:8080/tinKk00JuTT/teesn4/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QldQfqY.png",TSN5 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QldQfqY.png,TSN5
 http://149.202.207.8:8080/tinKk00JuTT/teesn5/index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/df/Wwenetworktransparent.png/revision/latest?cb=20140819192906",WWE NETWORK - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/df/Wwenetworktransparent.png/revision/latest?cb=20140819192906,WWE NETWORK
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/57.mpegts
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Arizona - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Arizona
 http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Bay Area - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Bay Area
 http://xrxs.net/video/live-p12baya-1164.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Los Angeles - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Los Angeles
 http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Moutain - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Moutain
 http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Network (National) - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Network (National)
 http://xrxs.net/video/live-p12netw-1164.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Oregon - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Oregon
 http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Washington - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png,PAC 12 Washington
 http://xrxs.net/video/live-p12wash-1164.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/67/230px-SN_360_logo.svg.png/revision/latest/scale-to-width-down/200?cb=20140805003412",SPORTSNET 360 - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/67/230px-SN_360_logo.svg.png/revision/latest/scale-to-width-down/200?cb=20140805003412,SPORTSNET 360
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/18/1000px-Sportsnetone2011_svg.png/revision/latest/scale-to-width-down/390?cb=20120424202314",SPORTSNET ONE - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/18/1000px-Sportsnetone2011_svg.png/revision/latest/scale-to-width-down/390?cb=20120424202314,SPORTSNET ONE
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/63.mpegts
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fd/Sportsnet_ontario.png/revision/latest/scale-to-width-down/250?cb=20120212021015",SPORTSNET ONTARIO - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fd/Sportsnet_ontario.png/revision/latest/scale-to-width-down/250?cb=20120212021015,SPORTSNET ONTARIO
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/64.mpegts
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043",SPORTSNET PACIFIC - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043,SPORTSNET PACIFIC
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/67.mpegts
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/8f/250px-SportsnetWorld.svg.png/revision/latest?cb=20111112195204",SPORTSNET WORLD - Copyright © 2017 (by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/8f/250px-SportsnetWorld.svg.png/revision/latest?cb=20111112195204,SPORTSNET WORLD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/65.mpegts
 
 
@@ -1870,4 +1874,4 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/65.mpegts
 
 
 
-Copyright © 2017 (by TeamBlue)
+(Copyright © 2017 by TeamBlue)
