@@ -1,57 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1",RTP 1 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" group-title="PORTUGAL",RTP 1 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2",RTP 2 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" group-title="PORTUGAL",RTP 2 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",SIC (Geobloqueado) (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" group-title="PORTUGAL",SIC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://live.impresa.pt/live/sic/sic.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png",TVI (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png" group-title="PORTUGAL",TVI (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Porto-Canal-Novo.png/revision/latest?cb=20160112063510",PORTO CANAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Porto-Canal-Novo.png/revision/latest?cb=20160112063510" group-title="PORTUGAL",PORTO CANAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://213.13.26.13:1935/live/portocanal/chunklist_w838684759.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png",RTP ACORES (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" group-title="PORTUGAL",RTP ACORES (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-logo="http://bit.ly/2kXKGGs",RTP AFRICA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/2kXKGGs" group-title="PORTUGAL",RTP AFRICA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-logo="http://bit.ly/2lsG9sq",RTP INTERNACIONAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/2lsG9sq" group-title="PORTUGAL",RTP INTERNACIONAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png",RTP MADEIRA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" group-title="PORTUGAL",RTP MADEIRA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png",CM TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="PORTUGAL",CM TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://178.162.199.155:8088/live/cmtvias1/playlist.m3u8?id=90393&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_EURONEWS",EURONEWS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_EURONEWS" group-title="PORTUGAL",EURONEWS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24",FRANCE 24 (FR) (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" group-title="PORTUGAL",FRANCE 24 (FR) (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24",FRANCE 24 (IN) (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" group-title="PORTUGAL",FRANCE 24 (IN) (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_500.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP3",RTP 3 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP3" group-title="PORTUGAL",RTP 3 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png",SIC NOTICIAS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" group-title="PORTUGAL",SIC NOTICIAS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVI24",TVI24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVI24" group-title="PORTUGAL",TVI24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png",CANAL PARLAMENTO (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" group-title="PORTUGAL",CANAL PARLAMENTO (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png",BBC WORLD NEWS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="PORTUGAL",BBC WORLD NEWS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png",BLOOMBERG (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" group-title="PORTUGAL",BLOOMBERG (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png",FOX NEWS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" group-title="PORTUGAL",FOX NEWS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png",RAI NEWS 24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" group-title="PORTUGAL",RAI NEWS 24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png",TVE 24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" group-title="PORTUGAL",TVE 24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
 
 
@@ -61,29 +61,29 @@ http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png",CANAL Q (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" group-title="PORTUGAL",CANAL Q (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1224.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png",CBSN (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png" group-title="PORTUGAL",CBSN (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png",CBS REALITY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" group-title="PORTUGAL",CBS REALITY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1233.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png",E! (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" group-title="PORTUGAL",E! (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1220.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png",RTP MEMORIA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" group-title="PORTUGAL",RTP MEMORIA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png",SIC CARAS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" group-title="PORTUGAL",SIC CARAS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1194.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png",SIC MULHER (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" group-title="PORTUGAL",SIC MULHER (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1193.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png",SIC RADICAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" group-title="PORTUGAL",SIC RADICAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1191.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1OKBioL.png",TVI FICCAO (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1OKBioL.png" group-title="PORTUGAL",TVI FICCAO (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1174.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png",TVI REALITY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png" group-title="PORTUGAL",TVI REALITY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1173.ts
 
 
@@ -97,13 +97,13 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1173.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO PORTUGAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="PORTUGAL",GLOBO PORTUGAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1180.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png",GLOBO PREMIUM (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" group-title="PORTUGAL",GLOBO PREMIUM (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1179.ts
-#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh",RECORD (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" group-title="PORTUGAL",RECORD (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1178.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png",24 KITCHEN (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" group-title="PORTUGAL",24 KITCHEN (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1235.ts
 
 
@@ -117,15 +117,15 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1235.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png",TLC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png" group-title="PORTUGAL",TLC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1184.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aDTQAYr.png",A BOLA TV -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDTQAYr.png" group-title="PORTUGAL",A BOLA TV -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://178.162.199.138:8088/live/abolinha/playlist.m3u8?id=90240&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png",BENFICA TV -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png" group-title="PORTUGAL",BENFICA TV -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1710.ts
 
 
@@ -157,27 +157,27 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1206.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" group-title="PORTUGAL",SPORT TV 1 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1190.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" group-title="PORTUGAL",SPORT TV 2 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1189.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" group-title="PORTUGAL",SPORT TV 3 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1188.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" group-title="PORTUGAL",SPORT TV 4 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1187.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",SPORT TV 5 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" group-title="PORTUGAL",SPORT TV 5 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1186.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",SPORTING TV -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" group-title="PORTUGAL",SPORTING TV -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1185.ts
 
 
@@ -243,22 +243,22 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1214.ts
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1213.ts
 
 
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1",TVCINE 1 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" group-title="PORTUGAL",TVCINE 1 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1177.ts
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2",TVCINE 2 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" group-title="PORTUGAL",TVCINE 2 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1183.ts
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3",TVCINE 3 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" group-title="PORTUGAL",TVCINE 3 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1182.ts
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4",TVCINE 4 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" group-title="PORTUGAL",TVCINE 4 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1181.ts
+
+
 
 
 
@@ -327,8 +327,8 @@ http://94.74.65.100:19123/ott/68:1122
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1458.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png",VH1 CLASSIC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://89.38.8.131:39496
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VRnat0c.png",CANCAO NOVA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png",REDE TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
