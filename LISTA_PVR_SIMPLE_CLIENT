@@ -34,9 +34,9 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_500.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP3" tvg-id="rtpn.pt" group-title="PORTUGAL",RTP 3
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="PORTUGAL",SIC NOTICIAS
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1192.ts
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVI24" tvg-id="TVI24.pt" group-title="PORTUGAL",TVI24
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1175.ts
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt" group-title="PORTUGAL",CANAL PARLAMENTO
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" tvg-id="" group-title="PORTUGAL",BBC WORLD NEWS
@@ -182,7 +182,7 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1185.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" tvg-id="" group-title="PORTUGAL",BARCA TV
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3034.ts
+http://5.10.201.88:9090/play/a013
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="RMTV.pt" group-title="PORTUGAL",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058" tvg-id="" group-title="PORTUGAL",CHELSEA TV
@@ -233,8 +233,8 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1223.ts
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1218.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxlife.pt" group-title="PORTUGAL",FOX CRIME
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1216.ts
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="FOXM" group-title="PORTUGAL",FOX LIFE
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1215.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="hollywood.pt" group-title="PORTUGAL",FOX MOVIES
@@ -289,12 +289,12 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1207.ts
 
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg" tvg-id="" group-title="PORTUGAL",DJING CLASSIC
 http://djing.com/tv/i-05.m3u8
-#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" tvg-id="" group-title="PORTUGAL",DJING DANCE FLOOR MUSIC
-http://djing.com/tv/dancefloor.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" tvg-id="" group-title="PORTUGAL",DJING HITS
 http://www.djing.com/tv/04.m3u8
-#EXTINF:-1 tvg-logo="https://teleonline.org/wp-content/uploads/2016/02/djing-ibiza-poster.png" tvg-id="" group-title="PORTUGAL",DJING IBIZA
-http://djing.com/tv/ibiza.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" tvg-id="" group-title="PORTUGAL",M6 MUSIQUE
@@ -326,9 +326,9 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1454.ts
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg" tvg-id="" group-title="PORTUGAL",VH1
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1458.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="CancaoNova.PT" group-title="PORTUGAL",VH1 CLASSIC
-http://193.23.58.156:4025/udp/234.1.20.35:1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VRnat0c.png" tvg-id="" group-title="PORTUGAL",CANCAO NOVA
-http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/1459.ts
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" tvg-id="" group-title="PORTUGAL",REDE TV
@@ -1100,7 +1100,7 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3014.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" tvg-id="" group-title="ESPANHA",BARCA TV
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3034.ts
+http://5.10.201.88:9090/play/a013
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="" group-title="ESPANHA",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/unT3Jrz.png" tvg-id="" group-title="ESPANHA",TELEDEPORTE
@@ -1865,4 +1865,13 @@ http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/64.mpegts
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/67.mpegts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/8f/250px-SportsnetWorld.svg.png/revision/latest?cb=20111112195204" tvg-id="" group-title="USA",SPORTSNET WORLD
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/65.mpegts
+
+
+
+
+
+
+
+
+
 Copyright © 2017 - TeamBlue
