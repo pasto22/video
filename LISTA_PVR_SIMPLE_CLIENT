@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/p
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/p
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="PORTUGAL",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
 
@@ -12,13 +12,13 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Porto-Canal-Novo.png/revision/latest?cb=20160112063510" tvg-id="PortoCanal.pt" group-title="PORTUGAL",PORTO CANAL
 http://213.13.26.13:1935/live/portocanal/chunklist_w838684759.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" tvg-id="RTPAcores.pt" group-title="PORTUGAL",RTP ACORES
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://bit.ly/2kXKGGs" tvg-id="RTPAfrica.pt" group-title="PORTUGAL",RTP AFRICA
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp
-#EXTINF:-1 tvg-logo="http://bit.ly/2lsG9sq" tvg-id="RTPInternacional.pt" group-title="PORTUGAL",RTP INTERNACIONAL
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/p
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-logo="http://bit.ly/2lsG9sq" tvg-id="RTPi.pt" group-title="PORTUGAL",RTP INTERNACIONAL
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" tvg-id="RTPMadeira.pt" group-title="PORTUGAL",RTP MADEIRA
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rt
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 
 
 
@@ -29,29 +29,29 @@ http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.s
 http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24F" group-title="PORTUGAL",FRANCE 24 (FR)
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="" group-title="PORTUGAL",FRANCE 24 (IN)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24I" group-title="PORTUGAL",FRANCE 24 (IN)
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_500.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP3" tvg-id="rtpn.pt" group-title="PORTUGAL",RTP 3
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/p
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="PORTUGAL",SIC NOTICIAS
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVI24" tvg-id="TVI24.pt" group-title="PORTUGAL",TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt" group-title="PORTUGAL",CANAL PARLAMENTO
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" tvg-id="" group-title="PORTUGAL",BBC WORLD NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" tvg-id="BBCWorldNews" group-title="PORTUGAL",BBC WORLD NEWS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" tvg-id="BLOOM" group-title="PORTUGAL",BLOOMBERG
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" tvg-id="" group-title="PORTUGAL",FOX NEWS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" tvg-id="FOXNews" group-title="PORTUGAL",FOX NEWS
 http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" tvg-id="" group-title="PORTUGAL",RAI NEWS 24
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" tvg-id="" group-title="PORTUGAL",TVE 24
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" tvg-id="TVE24h" group-title="PORTUGAL",TVE 24
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
 
 
@@ -74,7 +74,7 @@ http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt" group-title="PORTUGAL",RTP MEMORIA
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" tvg-id="SicCaras.pt" group-title="PORTUGAL",SIC CARAS
 http://smart-iptv2016.com:9500/live/stream156/0610509511/1457.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt" group-title="PORTUGAL",SIC MULHER
@@ -161,7 +161,7 @@ http://www.filmon.com/tv/channel/export?channel_id=21
 http://smart-iptv2016.com:9500/live/stream156/0610509511/1446.ts
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv12pt" group-title="PORTUGAL",SPORT TV 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2pt" group-title="PORTUGAL",SPORT TV 2
 http://smart-iptv2016.com:9500/live/stream156/0610509511/1447.ts
 
 
@@ -245,23 +245,23 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 1
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1
 http://smart-iptv2016.com:9500/live/stream156/0610509511/1442.ts
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 2
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2
 http://smart-iptv2016.com:9500/live/stream156/0610509511/1443.ts
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 3
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
 http://smart-iptv2016.com:9500/live/stream156/0610509511/1444.ts
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TCSeries.pt" group-title="PORTUGAL",TVCINE 4
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4
 http://smart-iptv2016.com:9500/live/stream156/0610509511/1445.ts
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="SyFy.pt" group-title="PORTUGAL",TVSERIES
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSERIES
 http://smart-iptv2016.com:9500/live/stream156/0610509511/1454.ts
 
 
@@ -303,7 +303,7 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes
 
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_MEZZO" tvg-id="" group-title="PORTUGAL",MEZZO
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_MEZZO" tvg-id="Mezzo" group-title="PORTUGAL",MEZZO
 http://ott2.odessa.tv:7321/index.php?channel=197&key_ott=5f7690fd0bd330afafb91f331adc46dd
 
 
@@ -311,7 +311,7 @@ http://ott2.odessa.tv:7321/index.php?channel=197&key_ott=5f7690fd0bd330afafb91f3
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="TRACE TV" group-title="PORTUGAL",MTV ROCKS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="" group-title="PORTUGAL",MTV ROCKS
 http://94.74.65.100:19123/ott/68:1122
 
 
@@ -325,7 +325,7 @@ http://94.74.65.100:19123/ott/68:1122
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="CancaoNova.PT" group-title="PORTUGAL",VH1 CLASSIC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="" group-title="PORTUGAL",VH1 CLASSIC
 http://89.38.8.131:39496
 
 
@@ -333,18 +333,20 @@ http://89.38.8.131:39496
 http://217.23.2.169:8081/look/band/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" tvg-id="" group-title="PORTUGAL",REDE TV
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" tvg-id="" group-title="PORTUGAL",DEUTCHE WELLE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" tvg-id="DeutscheWelle" group-title="PORTUGAL",DEUTCHE WELLE
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png" tvg-id="TPA" group-title="PORTUGAL",SBT
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png" tvg-id="" group-title="PORTUGAL",SBT
 http://evp.mm.uol.com.br/ne10//ne10-tvjornal-recife-video-web.sdp/live.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" tvg-id="" group-title="PORTUGAL",TV5 MONDE
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" tvg-id="TV5Monde" group-title="PORTUGAL",TV5 MONDE
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" tvg-id="TVGalicia" group-title="PORTUGAL",TV GALICIA
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CvkwE6F.png" group-title="FILMES",[COLOR blue]•••••[/COLOR]FILMES[COLOR blue]•••••[/COLOR]
 http://0.0.01234
@@ -959,17 +961,17 @@ http://0.0.0.1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TBNYyb8.png" tvg-id="" group-title="ESPANHA",ANDALUCIA TV
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oM2twOs.png" tvg-id="" group-title="ESPANHA",ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+http://smart-iptv2016.com:9500/live/stream156/0610509511/92.ts
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cuatro_es.png" tvg-id="" group-title="ESPANHA",CUATRO
-http://5.10.201.88:9090/play/a01d
+http://smart-iptv2016.com:9500/live/stream156/0610509511/73.ts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_LASEXTA" tvg-id="" group-title="ESPANHA",LA SEXTA
-http://185.22.78.83:8802/play/a00p
+http://smart-iptv2016.com:9500/live/stream156/0610509511/69.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" tvg-id="" group-title="ESPANHA",LA 1
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2966.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/70.ts
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/3f/TVE2_bug.png/revision/latest?cb=20100228173645" tvg-id="" group-title="ESPANHA",LA 2
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2967.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/944.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png" tvg-id="" group-title="ESPANHA",TELECINCO
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2971.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/68.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" tvg-id="" group-title="ESPANHA",TV GALICIA
 http://media3.crtvg.es/live/tvga/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_EURONEWS" tvg-id="" group-title="ESPANHA",EURONEWS
@@ -991,93 +993,95 @@ http://185.22.78.83:8803/play/a010
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id="" group-title="ESPANHA",DISCOVERY CHANNEL
-http://185.22.78.83:8804/play/a018
+http://smart-iptv2016.com:9500/live/stream156/0610509511/959.ts
 
 
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="" group-title="ESPANHA",HISTORIA
-http://185.22.78.83:8804/play/a01a
+http://smart-iptv2016.com:9500/live/stream156/0610509511/954.ts
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="" group-title="ESPANHA",NAT GEO WILD
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3010.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/960.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="" group-title="ESPANHA",ODISEA
+http://smart-iptv2016.com:9500/live/stream156/0610509511/948.ts
+#EXTINF:-1 tvg-logo="http://logos.wikia.com/wiki/File:Blue.png" tvg-id="" group-title="ESPANHA",#0
+http://smart-iptv2016.com:9500/live/stream156/0610509511/93.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" tvg-id="" group-title="ESPANHA",AMC
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3004.ts
+http://185.22.78.83:8803/play/a011
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="" group-title="ESPANHA",AXN
+http://smart-iptv2016.com:9500/live/stream156/0610509511/91.ts
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cQpNN8V.png" tvg-id="" group-title="ESPANHA",CALLE 13
+http://smart-iptv2016.com:9500/live/stream156/0610509511/74.ts
 
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png" tvg-id="" group-title="ESPANHA",COMEDY CENTRAL
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3000.ts
-
-
+http://185.22.78.83:8803/play/a00x
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="" group-title="ESPANHA",FOX
+http://smart-iptv2016.com:9500/live/stream156/0610509511/72.ts
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="" group-title="ESPANHA",FOX LIFE
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2997.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/71.ts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_HOLLYWOOD" tvg-id="" group-title="ESPANHA",HOLLYWOOD
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2996.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/953.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/800px-Movistar_Xtra.svg.png" tvg-id="" group-title="ESPANHA",MOVISTAR XTRA
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2982.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/75.ts
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png/revision/latest?cb=20160707190742" tvg-id="" group-title="ESPANHA",MOVISTAR ACCION
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2988.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/88.ts
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637" tvg-id="" group-title="ESPANHA",MOVISTAR COMEDIA
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2987.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/87.ts
 
 
 #EXTINF:-1 tvg-logo="http://movistar.i.lithium.com/t5/image/serverpage/image-id/111652i5C6AECD1888E0BFE/image-size/original?v=v2&px=-1" tvg-id="" group-title="ESPANHA",MOVISTAR DCINE N
 http://185.22.78.83:8804/play/a01c
-
-
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104" tvg-id="" group-title="ESPANHA",MOVISTAR DCINE
+http://smart-iptv2016.com:9500/live/stream156/0610509511/86.ts
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png/revision/latest?cb=20160707185129" tvg-id="" group-title="ESPANHA",MOVISTAR ESTRENOS
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2985.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/83.ts
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/mm/movistar_es_series.png" tvg-id="" group-title="ESPANHA",MOVISTAR SERIES
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2984.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/78.ts
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/mm/movistar_es_series_xtra.png" tvg-id="" group-title="ESPANHA",MOVISTAR SERIES XTRA
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3004.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/77.ts
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" tvg-id="" group-title="ESPANHA",PARAMOUNT CHANNEL
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2995.ts
+http://5.10.201.88:9090/play/a01y
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DlhyJ2V.png" tvg-id="" group-title="ESPANHA",TCM
-http://185.22.78.83:8803/play/a00w
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/t/55dc67d3e4b025d475d026d7/1440507859238/tnt-fpb-channel-lineup" tvg-id="" group-title="ESPANHA",TNT
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2992.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/947.ts
+
+
 
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BOING" tvg-id="" group-title="ESPANHA",BOING
 http://5.10.201.88:9090/play/a00t
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="" group-title="ESPANHA",CANAL PANDA
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2989.ts
+
+
 
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" tvg-id="" group-title="ESPANHA",DISNEY CHANNEL
-http://185.22.78.83:8803/play/a00u
+http://smart-iptv2016.com:9500/live/stream156/0610509511/957.ts
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" tvg-id="" group-title="ESPANHA",DISNEY XD
-http://185.22.78.83:8804/play/a014
-
-
+http://smart-iptv2016.com:9500/live/stream156/0610509511/955.ts
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png" tvg-id="" group-title="ESPANHA",NICK JR
+http://smart-iptv2016.com:9500/live/stream156/0610509511/949.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/XEWA-XHEWA_Los40_logo.png" tvg-id="" group-title="ESPANHA",LOS40
 http://185.22.78.83:8803/play/a00v
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="" group-title="ESPANHA",MTV
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3012.ts
 
 
 
@@ -1086,6 +1090,8 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3012.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1000px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="" group-title="ESPANHA",beiN SPORTS N
+http://smart-iptv2016.com:9500/live/stream156/0610509511/89.ts
 
 
 
@@ -1093,21 +1099,21 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3012.ts
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="" group-title="ESPANHA",EUROSPORT 1
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3017.ts
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" tvg-id="" group-title="ESPANHA",MOVISTAR DEPORTES 1
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3028.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/84.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png" tvg-id="" group-title="ESPANHA",MOVISTAR FUTBOL
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3027.ts
+http://smart-iptv2016.com:9500/live/stream156/0610509511/82.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/800px-Movistar_Golf.svg.png" tvg-id="" group-title="ESPANHA",MOVISTAR GOLF
+http://smart-iptv2016.com:9500/live/stream156/0610509511/81.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg" tvg-id="" group-title="ESPANHA",MOVISTAR F1
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3014.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/800px-Movistar_Moto_GP.svg.png" tvg-id="" group-title="ESPANHA",MOVISTAR MOTOGP
 http://185.22.78.83:8804/play/a01e
 
@@ -1115,7 +1121,7 @@ http://185.22.78.83:8804/play/a01e
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="" group-title="ESPANHA",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/unT3Jrz.png" tvg-id="" group-title="ESPANHA",TELEDEPORTE
-http://185.22.78.83:8803/play/a00z
+http://smart-iptv2016.com:9500/live/stream156/0610509511/946.ts
 #EXTINF:-1 tvg-logo=http://i.imgur.com/5xWUqQt.png,FRANCA
 http://0.0.0.1234
 
