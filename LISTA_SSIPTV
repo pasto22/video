@@ -6,7 +6,7 @@ http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/pl
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" group-title="PORTUGAL",SIC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://live.impresa.pt/live/sic/sic.m3u8
 
-
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1410.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png" group-title="PORTUGAL",TVI (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Porto-Canal-Novo.png/revision/latest?cb=20160112063510" group-title="PORTUGAL",PORTO CANAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
@@ -19,8 +19,8 @@ http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.sm
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" group-title="PORTUGAL",RTP MADEIRA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="PORTUGAL",CM TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1419.ts
 
 
 
@@ -43,44 +43,48 @@ http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" group-title="PORTUGAL",BLOOMBERG (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" group-title="PORTUGAL",CNN (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1421.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" group-title="PORTUGAL",FOX NEWS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" group-title="PORTUGAL",RAI NEWS 24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PE5eJmw.png" group-title="PORTUGAL",SKY NEWS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1518.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" group-title="PORTUGAL",TVE 24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" group-title="PORTUGAL",A&E (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1539.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Oud80vD.png" group-title="PORTUGAL",BBC ENTERTAINMENT (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1523.ts
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" group-title="PORTUGAL",CANAL Q (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1428.ts
 #EXTINF:-1 tvg-logo="http://www.jfarroios.pt/2016/wp-content/uploads/2015/10/logo-tv1.jpg" group-title="PORTUGAL",ARROIOS TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://213.13.26.11:1935/live/luis/livestream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png" group-title="PORTUGAL",CBSN (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" group-title="PORTUGAL",CBS REALITY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1525.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" group-title="PORTUGAL",E! (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1524.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" group-title="PORTUGAL",RTP MEMORIA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" group-title="PORTUGAL",SIC CARAS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://smart-iptv2016.com:9500/live/stream156/0610509511/1457.ts
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1424.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" group-title="PORTUGAL",SIC MULHER (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://smart-iptv2016.com:9500/live/stream156/0610509511/1458.ts
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1423.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" group-title="PORTUGAL",SIC RADICAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1OKBioL.png" group-title="PORTUGAL",TVI FICCAO (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1425.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qQcrbID.png" group-title="PORTUGAL",TVI REALITY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1426.ts
 
 
 
@@ -95,96 +99,193 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" group-title="PORTUGAL",GLOBO PREMIUM (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1528.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" group-title="PORTUGAL",RECORD (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1530.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" group-title="PORTUGAL",24 KITCHEN (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1427.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2000px-Fashion_TV_logo.svg.png" group-title="PORTUGAL",FTV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://www.filmon.com/tv/channel/export?channel_id=21
 
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MCS-Extreme.png" group-title="PORTUGAL",MCS EXTREME (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1512.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" group-title="PORTUGAL",MCS LIFESTYLE (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1526.ts
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/11/sundancechannel__120717160525-275x223.jpg" group-title="PORTUGAL",SUNDANCE TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1490.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png" group-title="PORTUGAL",TLC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1527.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" group-title="PORTUGAL",TRAVEL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1513.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDTQAYr.png" group-title="PORTUGAL",A BOLA TV -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1449.ts
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png" group-title="PORTUGAL",BENFICA TV -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1674.ts
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg",EUROSPORT 1 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1451.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg",EUROSPORT 2 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1452.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fVjngD3.jpg" group-title="PORTUGAL",EUROSPORT 2 XTRA -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1453.ts
 
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/udcCfFP.png",FUEL TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1462.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cQ4UFEO.png",FIGHT NETWORK (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1463.ts
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png",MOTORS TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1461.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jgu61cv.png",MOTORVISION TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1460.ts
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" group-title="PORTUGAL",SPORT TV 1 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://ipsatpro.info:8000/live/123456789/987654321/880.ts
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" group-title="PORTUGAL",SPORT TV 2 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://smart-iptv2016.com:9500/live/stream156/0610509511/1447.ts
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" group-title="PORTUGAL",SPORT TV 3 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://smart-iptv2016.com:9500/live/stream156/0610509511/1448.ts
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" group-title="PORTUGAL",SPORT TV 4 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://smart-iptv2016.com:9500/live/stream156/0610509511/1449.ts
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png",PFC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1464.ts
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/eb/Sport_TV%2B.svg/revision/latest/scale-to-width-down/200?cb=20160903152108" group-title="PORTUGAL",SPORT TV+ (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1430.ts
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/eb/Sport_TV%2B.svg/revision/latest/scale-to-width-down/200?cb=20160903152108" group-title="PORTUGAL"",SPORT TV+ (source #02) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1668.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" group-title="PORTUGAL",SPORT TV 1 (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1944.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" group-title="PORTUGAL"",SPORT TV 1 (source #02) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1431.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" group-title="PORTUGAL",SPORT TV 2 (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1437.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" group-title="PORTUGAL"",SPORT TV 2 (source #02) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1436.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" group-title="PORTUGAL",SPORT TV 3 (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1440.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" group-title="PORTUGAL"",SPORT TV 3 (source #02) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1439.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" group-title="PORTUGAL",SPORT TV 4 (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1441.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" group-title="PORTUGAL"",SPORT TV 4 (source #02) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1672.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" group-title="PORTUGAL",SPORT TV 5 (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1442.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" group-title="PORTUGAL"",SPORT TV 5 (source #02) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1673.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" group-title="PORTUGAL",SPORTING TV -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1448.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",BARCA TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://149.56.14.22/espana/iks.php/http://cdn1.elitegol.xyz/verliga/2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205",REAL MADRID TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058",CHELSEA TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1459.ts
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png",TOROS TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1456.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Caza_y_Pesca.svg/1280px-Caza_y_Pesca.svg.png",CACA & PESCA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1455.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png",CACAVISION (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1454.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png",BABY TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1495.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CO31Je4.png",BABY FIRST (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1496.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS",BIGGS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1497.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA",CANAL PANDA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1494.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png",CARTOON NETWORK (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1498.ts
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959",DISNEY CHANNEL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1492.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png",DISNEY JUNIOR (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1491.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png",JIMJAM (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1499.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png",NICKELODEON (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1500.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png",SIC K (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1493.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png",AMC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1477.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png",AXN (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1481.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kSJMp6w.png",AXN BLACK (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1483.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QDCk6tH.png",AXN WHITE (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1482.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png",CINEMUNDO (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1478.ts
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png",FOX (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1484.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png",FOX COMEDY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1488.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png",FOX CRIME (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1486.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png",FOX LIFE (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1485.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png",FOX MOVIES (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1475.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_HOLLYWOOD",HOLLYWOOD (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1474.ts
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" group-title="PORTUGAL",TVCINE 1 (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1466.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" group-title="PORTUGAL"",TVCINE 1 (source #02) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1465.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" group-title="PORTUGAL",TVCINE 2 (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1468.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" group-title="PORTUGAL"",TVCINE 2 (source #02) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1467.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" group-title="PORTUGAL",TVCINE 3 (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1470.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" group-title="PORTUGAL"",TVCINE 3 (source #02) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1469.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" group-title="PORTUGAL",TVCINE 4 (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1472.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" group-title="PORTUGAL"",TVCINE 4 (source #02) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1471.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" group-title="PORTUGAL",TVSERIES (source #01) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1480.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" group-title="PORTUGAL"",TVSERIES (source #02) -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1479.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png",SYFY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1489.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png",DISCOVERY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1511.ts
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png",DISCOVERY SHOWCASE (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1510.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png",HISTORIA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1517.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png",NAT GEO CHANNEL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1514.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png",NAT GEO WILD (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1515.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA",ODISSEIA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1516.ts
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png",AFRO MUSIC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1509.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png",C MUSIC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1508.ts
+
 
 
 
@@ -192,127 +293,28 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" group-title="PORTUGAL",TVCINE 1 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://smart-iptv2016.com:9500/live/stream156/0610509511/1442.ts
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" group-title="PORTUGAL",TVCINE 2 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://smart-iptv2016.com:9500/live/stream156/0610509511/1443.ts
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" group-title="PORTUGAL",TVCINE 3 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://smart-iptv2016.com:9500/live/stream156/0610509511/1444.ts
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" group-title="PORTUGAL",TVCINE 4 -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://smart-iptv2016.com:9500/live/stream156/0610509511/1445.ts
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" group-title="PORTUGAL",TVSERIES -  (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://smart-iptv2016.com:9500/live/stream156/0610509511/1454.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://teleonline.org/wp-content/uploads/2016/02/djing-ibiza-poster.png",DJING IBIZA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://cdn.djing.com/tv/d-03.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png",M6 MUSIQUE (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png",MCM POP (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1507.ts
 
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_MEZZO",MEZZO (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://ott2.odessa.tv:7321/index.php?channel=197&key_ott=5f7690fd0bd330afafb91f331adc46dd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png",MTV DANCE (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1505.ts
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1",MTV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1504.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png",MTV ROCKS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://94.74.65.100:19123/ott/68:1122
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png",TRACE URBAN (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1503.ts
 
 
 
@@ -321,10 +323,8 @@ http://94.74.65.100:19123/ott/68:1122
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg",VH1 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1501.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png",VH1 CLASSIC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://89.38.8.131:39496
 
@@ -651,11 +651,13 @@ http://158.69.127.12:25461/live/mfernando3/333/39.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="BRASIL",TELECINE FUN (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://158.69.127.12:25461/live/mfernando3/333/36.ts
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="BRASIL",TELECINE PIPOCA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://158.69.127.12:25461/live/mfernando3/333/34.ts
+http://217.23.2.169:8081/look/pipoca/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="BRASIL",TELECINE PREMIUM (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://187.49.86.238:10000/bysid/61
 #EXTINF:-1 tvg-logo="https://edhyghellen.files.wordpress.com/2010/10/tctouch.gif" group-title="BRASIL",TELECINE TOUCH (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://187.49.86.238:10000/bysid/63
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TCM_Latin_America.png/revision/latest?cb=20151209165240" group-title="BRASIL",TCM (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://169.57.142.110:25461/live/C3oppncu4n/Vfqjqjbeok/39.m3u8
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/t/55dc67d3e4b025d475d026d7/1440507859238/tnt-fpb-channel-lineup" group-title="BRASIL",TNT (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://158.69.127.12:25461/live/mfernando3/333/24.ts
 
@@ -690,8 +692,8 @@ http://187.49.86.238:10000/bysid/94
 http://tv.redecanais.com:1935/redecanaisnick/myStream/playlist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/302?cb=20160514054656" group-title="BRASIL",TOONCAST (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://169.57.142.110:25461/live/6oHdLlrWdf/ecIgaO6mws/11.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="BRASIL",NICKTOONS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 
@@ -720,8 +722,6 @@ http://158.69.127.12:25461/live/mfernando3/333/126.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Frawzcq.png" group-title="BRASIL",SPORTV BR (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://217.23.2.169:8081/look/sportv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G5Qyvcr.png",ALEMANHA
 http://0.0.0.1234
 
@@ -878,8 +878,8 @@ http://84.22.46.188/play/a01c
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" group-title="ALEMANHA",MTV DANCE (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1505.ts
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" group-title="ALEMANHA",MTV ROCKS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
@@ -1004,8 +1004,8 @@ http://149.56.14.22/espana/iks.php/http://cdn1.elitegol.xyz/verliga/12/chunks.m3
 http://149.56.14.22/espana/iks.php/http://cdn1.elitegol.xyz/verliga/34/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://logos.wikia.com/wiki/File:Blue.png" group-title="ESPANHA",#0 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://149.56.14.22/espana/iks.php/http://cdn1.elitegol.xyz/verliga/24/chunks.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://imagenes.lainformacion.com/2015/11/10/television/Logo-atresseries_860924294_41319407_626x472.jpg" group-title="ESPANHA",A3SERIES (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" group-title="ESPANHA",AMC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://149.56.14.22/espana/iks.php/http://cdn1.elitegol.xyz/verliga/26/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" group-title="ESPANHA",AXN (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
@@ -1084,16 +1084,16 @@ http://149.56.14.22/espana/iks.php/http://cdn1.elitegol.xyz/verliga/1/chunks.m3u
 
 
 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg" group-title="ESPANHA",VH1 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1501.ts
 
 
 
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="ESPANHA",TOROS TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1456.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" group-title="ESPANHA",EUROSPORT 1 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" group-title="ESPANHA",EUROSPORT 2 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
@@ -1148,8 +1148,8 @@ http://0.0.0.1234
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="FRANCA",NRJ12 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 
 
 
@@ -1202,10 +1202,10 @@ http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" group-title="FRANCA",EUROSPORT (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" group-title="FRANCA",EUROSPORT 2 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 
 
 
@@ -1335,7 +1335,7 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p4uCFIG.png",ITALIA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_canale5.png" group-title="ITALIA",CANALE 5 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://88.129.155.251:8080/play/a04k
+http://37.46.192.238:10000/play/a00j/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_la_5.png" group-title="ITALIA",LA 5 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
@@ -1361,13 +1361,15 @@ http://88.129.155.251:8080/play/a04l
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_EURONEWS" group-title="ITALIA",EURONEWS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/18-live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" group-title="ITALIA",RAI NEWS 24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://84.22.46.188/play/a00n
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_a
 #EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/webtv/logo_senatoTV.jpg" group-title="ITALIA",SENATO TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/o4ca5xo.png" group-title="ITALIA",SKY TG24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cc/Italia_1_logo.svg/revision/latest?cb=20100308164118" group-title="ITALIA",ITALIA1 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a00k/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/RAI_Premium_2010_neu_Logo.svg/2000px-RAI_Premium_2010_neu_Logo.svg.png" group-title="ITALIA",RAI PREMIUM (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
@@ -1390,6 +1392,8 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="ITALIA",INVESTIGATION DISCOVERY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a00y/index.m3u8
 
 
 
@@ -1413,33 +1417,37 @@ http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2946.ts
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" group-title="ITALIA",PARAMOUNT CHANNEL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vP0vLFh.png" group-title="ITALIA",PREMIUM ACTION (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2959.ts
+http://37.46.192.238:10000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vP0vLFh.png" group-title="ITALIA",PREMIUM ACTION +24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2962.ts
-
-
+http://37.46.192.238:10000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/63ViXvw.png" group-title="ITALIA",PREMIUM CINEMA (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W5rqigb.png" group-title="ITALIA",PREMIUM CINEMA 2 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2961.ts
+http://37.46.192.238:10000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W5rqigb.png" group-title="ITALIA",PREMIUM CINEMA 2 +24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2960.ts
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LQUpJYB.png" group-title="ITALIA",PREMIUM CINEMA COMEDY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2958.ts
+http://37.46.192.238:10000/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/czn3088.png" group-title="ITALIA",PREMIUM CINEMA EMOTION (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a00w/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8LdlWXR.png" group-title="ITALIA",PREMIUM CINEMA ENERGY +24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8LdlWXR.png" group-title="ITALIA",PREMIUM CINEMA ENERGY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2957.ts
+http://37.46.192.238:10000/play/a00e/index.m3u8
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139" group-title="ITALIA",PREMIUM JOI (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139" group-title="ITALIA",PREMIUM JOI +24 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MyZGKeG.png" group-title="ITALIA",PREMIUM STORIES (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KKvkqg3.png" group-title="ITALIA",PREMIUM STUDIO UNIVERSAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" group-title="ITALIA",RAI MOVIE (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-b.m3u8
 
@@ -1480,16 +1488,16 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-b.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" group-title="ITALIA",EUROSPORT 1 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" group-title="ITALIA",EUROSPORT 2 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a005/index.m3u8
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png" group-title="ITALIA",PREMIUM SPORT (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LYnoEog.png" group-title="ITALIA",PREMIUM SPORT 2 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a006/index.m3u8
 
 
 
@@ -1498,16 +1506,8 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" group-title="ITALIA",SKY SPORT 2 IT (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://37.46.192.238:10000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tgoApnl.png",INGLATERRA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IGYGsia.png" group-title="UK",BBC ONE (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
@@ -1538,8 +1538,8 @@ http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PE5eJmw.png" group-title="UK",SKY NEWS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1518.ts
 
 
 
@@ -1547,27 +1547,27 @@ http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/dmax_de.png" group-title="UK",DMAX (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://163.172.5.115:8080/dmax/playlist.m3u8
+http://5.255.90.223:5000/play/a00y
 
 
 
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png" group-title="UK",TLC (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://5.255.90.223:5000/play/a01j
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bgpVuQt.png" group-title="UK",ANIMAL PLANET (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://5.255.90.223:5000/play/a019
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Discovery_History_logo.png" group-title="UK",DISCOVERY HISTORY (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://5.255.90.223:5000/play/a01g
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" group-title="UK",DISCOVERY SCIENCE (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://5.255.90.223:5000/play/a01c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="UK",DISCOVERY TURBO (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://5.255.90.223:5000/play/a01f
 
 
 
@@ -1584,8 +1584,8 @@ http://163.172.5.115:8080/history/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png" group-title="UK",COMEDY CENTRAL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://5.255.90.223:5000/play/a004
 
 
 
@@ -1628,28 +1628,28 @@ http://163.172.5.115:8080/disney/playlist.m3u8
 http://213.167.0.231:10000/play/a007
 
 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png" group-title="UK",NICK JR (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://5.255.90.223:5000/play/a008
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" group-title="UK",NICKELODEON (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://5.255.90.223:5000/play/a00b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="UK",NICKTOONS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://5.255.90.223:5000/play/a002
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" group-title="UK",MTV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://5.255.90.223:5000/play/a00d
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" group-title="UK",MTV DANCE (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1505.ts
 
 
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" group-title="UK",MTV ROCKS (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://94.74.65.100:19123/ott/68:1122
-
-
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg" group-title="UK",VH1 (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1501.ts
 
 
 
@@ -1686,8 +1686,8 @@ http://149.202.207.8:8080/chINNkkeeyPanduuueiuor-2/Strm/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058" group-title="UK",CHELSEA TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
+http://masteriptv.dnsfor.me:8000/live/rafael/rafael/1459.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QMvi4QM.png",USA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/abc_2013_logo_detail.jpg" group-title="USA",ABC TV (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
@@ -1739,7 +1739,7 @@ http://www.tunisiaiptv.com:8000/live/SSSST/4442/3248.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bgpVuQt.png" group-title="USA",ANIMAL PLANET (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
-http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/79.mpegts
+http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="USA",DISCOVERY CHANNEL (Copyright © 2017 by [B][COLOR blue]T[/B][/COLOR]eam[B][COLOR blue]B[/B][/COLOR]lue)
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 
