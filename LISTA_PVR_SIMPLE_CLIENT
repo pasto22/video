@@ -22,7 +22,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Porto-Canal-Novo.png/revision/latest?cb=20160112063510" tvg-id="PortoCanal.pt" group-title="PORTUGAL",PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/magellan.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" tvg-id="CMTV.pt" group-title="PORTUGAL",CM TV
-http://46.105.115.37:8000/live/iptv1790/179065287/436.m3u8
+http://www.embeducaster.com/embedplayer/cmtvias1/1/650/500|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://skatv.net/cmtv/
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="PORTUGAL",SIC RADICAL
@@ -40,15 +40,15 @@ http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
-http://privatestream.tv/player?streamname=sarupa2&width=599&height=399|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&amp;Referer=http://www.televisaofutebol.com/privatestream.php?chname=sarupa2&height=399&width=599&logofile=images.tvdez.com/logostream.png&logolink=www.estadiofutebol.com/&logoposition=bottom-right&image=images.tvdez.com/fundostream.png&skin=&stretching=exactfit&autostart=true
-
-
-
-
-
-
-
-
+http://193.124.176.120/swf/2045.m3u8?sf=d2l6aGQwMjA=&token=TrNhryQT9q8-0IuCyt26sQ|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://bro.adca.st/stream.php?id=2045&p=1&c=0&stretching=uniform&old=0
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2pt" group-title="PORTUGAL",SPORT TV 2
+http://www.bigcast.us/embed.php?v=stv2&vw=620&vh=490|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://bigsports.me/live/stv2.php
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
+http://www.bigcast.us/embed.php?v=stv3&vw=620&vh=490|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://bigsports.me/live/stv3.php
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
+http://www.bigcast.us/embed.php?v=stv3&vw=620&vh=490|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://bigsports.me/live/stv4.php
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
+http://www.bigcast.us/embed.php?v=stv5&vw=620&vh=490|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://skatv.net/sport-tv5/
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png" tvg-id="BenficaTV.PT" group-title="PORTUGAL",BENFICA TV
 http://46.105.115.37:8000/live/iptv1790/179065287/416.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDTQAYr.png" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A BOLA TV
