@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/p
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/p
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="PORTUGAL",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png" tvg-id="TVI.pt" group-title="PORTUGAL",TVI
@@ -10,7 +10,7 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="PORTUGAL",SIC NOTICIAS
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP3" tvg-id="rtpn.pt" group-title="PORTUGAL",RTP 3
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/p
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVI24" tvg-id="TVI24.pt" group-title="PORTUGAL",TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 
@@ -32,7 +32,7 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt" group-title="PORTUGAL",RTP MEMORIA
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt
 
 
 
@@ -40,15 +40,15 @@ http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
-http://193.124.176.120/swf/2045.m3u8?sf=d2l6aGQwMjA=&token=TrNhryQT9q8-0IuCyt26sQ|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://bro.adca.st/stream.php?id=2045&p=1&c=0&stretching=uniform&old=0
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2pt" group-title="PORTUGAL",SPORT TV 2
-http://www.bigcast.us/embed.php?v=stv2&vw=620&vh=490|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://bigsports.me/live/stv2.php
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
-http://www.bigcast.us/embed.php?v=stv3&vw=620&vh=490|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://bigsports.me/live/stv3.php
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
-http://www.bigcast.us/embed.php?v=stv3&vw=620&vh=490|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://bigsports.me/live/stv4.php
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
-http://www.bigcast.us/embed.php?v=stv5&vw=620&vh=490|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://skatv.net/sport-tv5/
+http://193.124.176.120/swf/2045.m3u8?sf=d2l6aGQwMjA=&token=TrNhryQT9q8-0IuCyt26sQ|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://bro.adca.st/stream.php?id=2045&p=1&c=0&stret
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png" tvg-id="BenficaTV.PT" group-title="PORTUGAL",BENFICA TV
 http://46.105.115.37:8000/live/iptv1790/179065287/416.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDTQAYr.png" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A BOLA TV
@@ -252,9 +252,9 @@ http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2loxLyi" tvg-id="RecordNews" group-title="PORTUGAL",RECORD NEWS
 http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" tvg-id="RTPMadeira.pt" group-title="PORTUGAL",RTP MADEIRA
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rt
 #EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" tvg-id="RTPAcores.pt" group-title="PORTUGAL",RTP ACORES
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt" group-title="PORTUGAL",AR TV
@@ -524,8 +524,8 @@ http://0.0.0.1234
 http://217.23.2.169:8081/look/band/playlist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" tvg-id="65" group-title="BRASIL",GLOBO
+http://163.172.40.163/loadbalance/redebobo/chunks.m3u8?nimblesessionid=13658690&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE3IDU6NTU6NDkgUE0maGFzaF92YWx1ZT1mZzhhNWszbE55MThVanY0RTRUR1N3PT0mdmFsaWRtaW51dGVzPTE=|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKi
 
 
 
@@ -568,10 +568,10 @@ http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Frawzcq.png" tvg-id="506" group-title="BRASIL",SPORTV
 http://91.205.174.38:8081/edge/sportv/chunks.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4dV4aQ2.png" tvg-id="527" group-title="BRASIL",SPORTV2
+http://163.172.41.33/loadbalance/spo224ha/chunks.m3u8?nimblesessionid=13293351&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE3IDU6NTg6MjUgUE0maGFzaF92YWx1ZT12UEJIaUNJZ3VMOE04MVdzcW1qdTRnPT0mdmFsaWRtaW51dGVzPTE=|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2ECJlV7.png" tvg-id="548" group-title="BRASIL",SPORTV3
+http://163.172.60.35/loadbalance/spo324ha/chunks.m3u8?nimblesessionid=5662366&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE3IDY6MDI6MzggUE0maGFzaF92YWx1ZT1Rd2hUQkxkVWlHNHlpTTlWNkR4bGVnPT0mdmFsaWRtaW51dGVzPTE=|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/
 
 
 
@@ -673,7 +673,7 @@ http://217.23.2.169:8081/look/foxsport/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png" tvg-id="1619" group-title="BRASIL",ESPORTE INTERATIVO
-http://169.57.142.110:25461/live/nNCfg87gFZ/FjyVMkDdpL/48.m3u8
+http://185.181.100.218:8081/live/brlive_0029/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE3IDY6MDc6MTkgUE0maGFzaF92YWx1ZT1oeHZnd0o2OFlEK0ZaL0wvUmp4akdRPT0mdmFsaWRtaW51dGVzPTEw|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/63/Brasil.jpg/revision/latest?cb=20131114185714" tvg-id="1640" group-title="BRASIL",CANAL BRASIL
 http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 
