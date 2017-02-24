@@ -40,7 +40,7 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" group-title="PORTUGAL",SPORT TV 1 (Copyright © 2017 by TeamBlue)
-http://worldcs.info:8080/live/ster/ster/676.m3u8
+http://46.105.115.37:8000/live/iptv1790/179065287/895.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" group-title="PORTUGAL",SPORT TV 2 (Copyright © 2017 by TeamBlue)
 http://46.105.115.37:8000/live/iptv1790/179065287/415.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" group-title="PORTUGAL",SPORT TV 3 (Copyright © 2017 by TeamBlue)
@@ -51,8 +51,8 @@ http://46.105.115.37:8000/live/iptv1790/179065287/832.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png" group-title="PORTUGAL",BENFICA TV (Copyright © 2017 by TeamBlue)
 http://46.105.115.37:8000/live/iptv1790/179065287/416.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aDTQAYr.png" group-title="PORTUGAL",A BOLA TV (Copyright © 2017 by TeamBlue)
-http://46.105.115.37:8000/live/iptv1790/179065287/440.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" group-title="PORTUGAL",EUROSPORT (Copyright © 2017 by TeamBlue)
@@ -101,8 +101,8 @@ http://46.105.115.37:8000/live/iptv1790/179065287/425.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" group-title="PORTUGAL",TVCINE 1 (Copyright © 2017 by TeamBlue)
-http://46.105.115.37:8000/live/iptv1790/179065287/421.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" group-title="PORTUGAL",TVCINE 2 (Copyright © 2017 by TeamBlue)
 http://46.105.115.37:8000/live/iptv1790/179065287/420.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" group-title="PORTUGAL",TVCINE 3 (Copyright © 2017 by TeamBlue)
@@ -169,16 +169,16 @@ http://ott2.odessa.tv:7321/index.php?channel=197&key_ott=5f7690fd0bd330afafb91f3
 
 
 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756" group-title="PORTUGAL",VOX (Copyright © 2017 by TeamBlue)
+http://stream.smcloud.net/live/vox2/stream1/VOX%20Music%20TV.m3u8
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg" group-title="PORTUGAL",DJING CLASSIC (Copyright © 2017 by TeamBlue)
+http://djing.com/tv/i-05.m3u8
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" group-title="PORTUGAL",DJING DANCE FLOOR MUSIC (Copyright © 2017 by TeamBlue)
-http://www.djing.com/tv/d-05.m3u8
-
-
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="https://teleonline.org/wp-content/uploads/2016/02/djing-ibiza-poster.png" group-title="PORTUGAL",DJING IBIZA (Copyright © 2017 by TeamBlue)
+http://djing.com/tv/ibiza.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="PORTUGAL",DISCOVERY (Copyright © 2017 by TeamBlue)
 http://46.105.115.37:8000/live/iptv1790/179065287/442.m3u8
 
@@ -265,8 +265,8 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" group-title="PORTUGAL",TV GALICIA (Copyright © 2017 by TeamBlue)
-http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" group-title="PORTUGAL",TV GALICIA (Copyright © 2017 by TeamBlue)
 http://media3.crtvg.es/live/tvga/hasbahca.m3u8
 
@@ -518,8 +518,8 @@ http://vidzi.tv/2t5zv7lxrdui-48edd68cd38957b311f1954e2e9e9617.m3u8
 http://vidzi.tv/n094yf6qnxrc-1046feee76b23baa72e9eca94f6dbc37.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k2Iy5Ig.png",BRASIL
 http://0.0.0.1234
-
-
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0d/Logo_300%2810%29.jpg/revision/latest?cb=20170219005832" group-title="BRASIL",APARECIDA (Copyright © 2017 by TeamBlue)
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
 
 
 
@@ -542,14 +542,14 @@ http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/IPTVGlobal.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="BRASIL",REDE TV (Copyright © 2017 by TeamBlue)
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2b/Redevida-logo.png/revision/latest?cb=20160422192752" group-title="BRASIL",REDE VIDA (Copyright © 2017 by TeamBlue)
+http://hls.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png" group-title="BRASIL",SBT (Copyright © 2017 by TeamBlue)
 http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cc/200px-TV_Brasil_logo.png/revision/latest?cb=20130129165234" group-title="BRASIL",TV BRASIL (Copyright © 2017 by TeamBlue)
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Tvescolalogo2014.jpg" group-title="BRASIL",TV ESCOLA (Copyright © 2017 by TeamBlue)
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
 
 
@@ -628,6 +628,20 @@ http://91.205.174.38:8081/edge/sportv/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="BRASIL",DISCOVERY (Copyright © 2017 by TeamBlue)
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+
+
+
+
+
+#N/D
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" group-title="BRASIL",H2 (Copyright © 2017 by TeamBlue)
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
 
 
 
@@ -646,22 +660,8 @@ http://91.205.174.38:8081/edge/sportv/chunks.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/band-sports.png" group-title="BRASIL",BAND SPORTS (Copyright © 2017 by TeamBlue)
+http://ev.mm.uol.com.br:1935/geobband/operadoras/live.m3u8
 
 
 
@@ -710,8 +710,8 @@ http://live-lh.daserste.de/i/daserste_de@91204/index_184_av-p.m3u8?sd=10&rebase=
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756" group-title="ALEMANHA",VOX (Copyright © 2017 by TeamBlue)
+http://stream.smcloud.net/live/vox2/stream1/VOX%20Music%20TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png" group-title="ALEMANHA",NDR (Copyright © 2017 by TeamBlue)
@@ -724,8 +724,8 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="ALEMANHA",DW (Copyright © 2017 by TeamBlue)
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_EURONEWS" group-title="ALEMANHA",EURONEWS (Copyright © 2017 by TeamBlue)
@@ -942,8 +942,8 @@ http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/34/Viajar.png/revision/latest/scale-to-width-down/220?cb=20161028211628" group-title="ESPANHA",VIAJAR (Copyright © 2017 by TeamBlue)
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 
 
 
@@ -1134,8 +1134,8 @@ http://46.105.115.37:8000/live/iptv1790/179065287/276.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" group-title="FRANCA",RCM DECOUVERTE (Copyright © 2017 by TeamBlue)
+http://streaming-hub.com/stream/rmc.m3u8
 
 
 
@@ -1308,8 +1308,8 @@ http://84.22.46.188/play/a01b
 http://84.22.46.188/play/a019
 #EXTINF:-1 tvg-logo="http://bit.ly/2lvlcOs" group-title="ITALIA",RAI 3 (Copyright © 2017 by TeamBlue)
 http://84.22.46.188/play/a01a
-
-
+#EXTINF:-1 tvg-logo="http://bit.ly/2lvsX6U" group-title="ITALIA",RAI 4 (Copyright © 2017 by TeamBlue)
+http://originstream12.rai.it/italy/smil:rai4.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/2000px-Rai_5_logo.svg.png" group-title="ITALIA",RAI 5 (Copyright © 2017 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zjcI6EQ.png" group-title="ITALIA",RETE 4 (Copyright © 2017 by TeamBlue)
@@ -1458,8 +1458,8 @@ http://37.46.192.238:10000/play/a005/index.m3u8
 http://37.46.192.238:10000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LYnoEog.png" group-title="ITALIA",PREMIUM SPORT 2 (Copyright © 2017 by TeamBlue)
 http://37.46.192.238:10000/play/a006/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Logo_Rai_Sport_1_2010.svg/570px-Logo_Rai_Sport_1_2010.svg.png" group-title="ITALIA",RAI SPORT 1 (Copyright © 2017 by TeamBlue)
+http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8?auth=daEdKa9d2cNcRdWa2cIcedUaq[BR]aTd6bWc3-bwOKEL-c0-GjsxvGw&aifp=V001
 
 
 #EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8sport.jpg" group-title="ITALIA",RETE 8 SPORT (Copyright © 2017 by TeamBlue)
