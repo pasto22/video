@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/p
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/p
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="PORTUGAL",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png" tvg-id="TVI.pt" group-title="PORTUGAL",TVI
@@ -10,7 +10,7 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="PORTUGAL",SIC NOTICIAS
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP3" tvg-id="rtpn.pt" group-title="PORTUGAL",RTP 3
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/p
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVI24" tvg-id="TVI24.pt" group-title="PORTUGAL",TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 
@@ -32,7 +32,7 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt" group-title="PORTUGAL",RTP MEMORIA
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 
 
 
@@ -40,7 +40,7 @@ http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
-http://193.124.176.120/swf/2045.m3u8?sf=d2l6aGQwMjA=&token=TrNhryQT9q8-0IuCyt26sQ|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://bro.adca.st/stream.php?id=2045&p=1&c=0&stret
+http://46.105.115.37:8000/live/iptv1790/179065287/895.m3u8
 
 
 
@@ -101,8 +101,8 @@ http://46.105.115.37:8000/live/iptv1790/179065287/425.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1
-http://46.105.115.37:8000/live/iptv1790/179065287/421.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2
 http://46.105.115.37:8000/live/iptv1790/179065287/420.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
@@ -169,16 +169,16 @@ http://ott2.odessa.tv:7321/index.php?channel=197&key_ott=5f7690fd0bd330afafb91f3
 
 
 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756" tvg-id="0" group-title="PORTUGAL",VOX
+http://stream.smcloud.net/live/vox2/stream1/VOX%20Music%20TV.m3u8
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg" tvg-id="0" group-title="PORTUGAL",DJING CLASSIC
+http://djing.com/tv/i-05.m3u8
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" tvg-id="0" group-title="PORTUGAL",DJING DANCE FLOOR MUSIC
-http://www.djing.com/tv/d-05.m3u8
-
-
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="https://teleonline.org/wp-content/uploads/2016/02/djing-ibiza-poster.png" tvg-id="0" group-title="PORTUGAL",DJING IBIZA
+http://djing.com/tv/ibiza.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id="discoverychannel.pt" group-title="PORTUGAL",DISCOVERY
 http://46.105.115.37:8000/live/iptv1790/179065287/442.m3u8
 
@@ -252,9 +252,9 @@ http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2loxLyi" tvg-id="RecordNews" group-title="PORTUGAL",RECORD NEWS
 http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" tvg-id="RTPMadeira.pt" group-title="PORTUGAL",RTP MADEIRA
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rt
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" tvg-id="RTPAcores.pt" group-title="PORTUGAL",RTP ACORES
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt" group-title="PORTUGAL",AR TV
@@ -518,14 +518,14 @@ http://vidzi.tv/2t5zv7lxrdui-48edd68cd38957b311f1954e2e9e9617.m3u8
 http://vidzi.tv/n094yf6qnxrc-1046feee76b23baa72e9eca94f6dbc37.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/k2Iy5Ig.png,BRASIL
 http://0.0.0.1234
-
-
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0d/Logo_300%2810%29.jpg/revision/latest?cb=20170219005832" tvg-id="2" group-title="PORTUGAL",APARECIDA
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png" tvg-id="23" group-title="BRASIL",BAND
 http://217.23.2.169:8081/look/band/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" tvg-id="65" group-title="BRASIL",GLOBO
-http://163.172.40.163/loadbalance/redebobo/chunks.m3u8?nimblesessionid=13658690&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE3IDU6NTU6NDkgUE0maGFzaF92YWx1ZT1mZzhhNWszbE55MThVanY0RTRUR1N3PT0mdmFsaWRtaW51dGVzPTE=|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKi
+
+
 
 
 
@@ -543,13 +543,13 @@ http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/IPTVGlobal.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" tvg-id="233" group-title="BRASIL",REDE TV
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2b/Redevida-logo.png/revision/latest?cb=20160422192752" tvg-id="254" group-title="BRASIL",REDE VIDA
-0
+http://hls.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png" tvg-id="275" group-title="BRASIL",SBT
 http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cc/200px-TV_Brasil_logo.png/revision/latest?cb=20130129165234" tvg-id="296" group-title="BRASIL",TV BRASIL
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Tvescolalogo2014.jpg" tvg-id="317" group-title="BRASIL",TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
 
 
@@ -566,12 +566,6 @@ http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Frawzcq.png" tvg-id="506" group-title="BRASIL",SPORTV
-http://91.205.174.38:8081/edge/sportv/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4dV4aQ2.png" tvg-id="527" group-title="BRASIL",SPORTV2
-http://163.172.41.33/loadbalance/spo224ha/chunks.m3u8?nimblesessionid=13293351&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE3IDU6NTg6MjUgUE0maGFzaF92YWx1ZT12UEJIaUNJZ3VMOE04MVdzcW1qdTRnPT0mdmFsaWRtaW51dGVzPTE=|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2ECJlV7.png" tvg-id="548" group-title="BRASIL",SPORTV3
-http://163.172.60.35/loadbalance/spo324ha/chunks.m3u8?nimblesessionid=5662366&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE3IDY6MDI6MzggUE0maGFzaF92YWx1ZT1Rd2hUQkxkVWlHNHlpTTlWNkR4bGVnPT0mdmFsaWRtaW51dGVzPTE=|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/
 
 
 
@@ -634,14 +628,22 @@ http://163.172.60.35/loadbalance/spo324ha/chunks.m3u8?nimblesessionid=5662366&wm
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id="1157" group-title="BRASIL",DISCOVERY
+http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 
 
 
 
 
+#N/D
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" tvg-id="1283" group-title="BRASIL",H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="1304" group-title="BRASIL",HISTORIA
+0
 
 
 
@@ -658,10 +660,8 @@ http://163.172.60.35/loadbalance/spo324ha/chunks.m3u8?nimblesessionid=5662366&wm
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/band-sports.png" tvg-id="1493" group-title="BRASIL",BAND SPORTS
+http://ev.mm.uol.com.br:1935/geobband/operadoras/live.m3u8
 
 
 
@@ -673,7 +673,7 @@ http://217.23.2.169:8081/look/foxsport/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png" tvg-id="1619" group-title="BRASIL",ESPORTE INTERATIVO
-http://185.181.100.218:8081/live/brlive_0029/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE3IDY6MDc6MTkgUE0maGFzaF92YWx1ZT1oeHZnd0o2OFlEK0ZaL0wvUmp4akdRPT0mdmFsaWRtaW51dGVzPTEw|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like
+http://185.181.100.218:8081/live/brlive_0029/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE3IDY6MDc6MTkgUE0maGFzaF92YWx1ZT1oeHZnd0o2OFlEK0ZaL0wvUmp4akdRPT0mdmFsaWRtaW51dGVzPTEw|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://tv-msn.com/EI.php
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/63/Brasil.jpg/revision/latest?cb=20131114185714" tvg-id="1640" group-title="BRASIL",CANAL BRASIL
 http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 
@@ -710,8 +710,8 @@ http://live-lh.daserste.de/i/daserste_de@91204/index_184_av-p.m3u8?sd=10&rebase=
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756" tvg-id="" group-title="ALEMANHA",VOX
+http://stream.smcloud.net/live/vox2/stream1/VOX%20Music%20TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png" tvg-id="" group-title="ALEMANHA",NDR
@@ -724,8 +724,8 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" tvg-id="" group-title="ALEMANHA",DW
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_EURONEWS" tvg-id="" group-title="ALEMANHA",EURONEWS
@@ -944,8 +944,8 @@ http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/34/Viajar.png/revision/latest/scale-to-width-down/220?cb=20161028211628" tvg-id="" group-title="ESPANHA",VIAJAR
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 
 
 
@@ -1136,8 +1136,8 @@ http://46.105.115.37:8000/live/iptv1790/179065287/276.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" tvg-id="" group-title="FRANCA",RCM DECOUVERTE
+http://streaming-hub.com/stream/rmc.m3u8
 
 
 
@@ -1460,8 +1460,8 @@ http://37.46.192.238:10000/play/a005/index.m3u8
 http://37.46.192.238:10000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LYnoEog.png" tvg-id="" group-title="ITALIA",PREMIUM SPORT 2
 http://37.46.192.238:10000/play/a006/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Logo_Rai_Sport_1_2010.svg/570px-Logo_Rai_Sport_1_2010.svg.png" tvg-id="" group-title="ITALIA",RAI SPORT 1
+http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8?auth=daEdKa9d2cNcRdWa2cIcedUaq[BR]aTd6bWc3-bwOKEL-c0-GjsxvGw&aifp=V001
 
 
 #EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8sport.jpg" tvg-id="" group-title="ITALIA",RETE 8 SPORT
