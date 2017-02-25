@@ -52,7 +52,7 @@ http://masteriptv.dnsfor.me:8000/live/ricardo/ricardo/1442.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png" tvg-id="BenficaTV.PT" group-title="PORTUGAL",BENFICA TV
 http://masteriptv.dnsfor.me:8000/live/ricardo/ricardo/1674.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDTQAYr.png" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A BOLA TV
-http://masteriptv.dnsfor.me:8000/live/ricardo/ricardo/1449.m3u8
+http://51.15.3.165:8000/live/ricardo/ricardo/1449.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV
 http://masteriptv.dnsfor.me:8000/live/ricardo/ricardo/1448.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
@@ -566,8 +566,8 @@ http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Frawzcq.png" tvg-id="506" group-title="BRASIL",SPORTV
+http://91.205.174.38:8081/edge/sportv/chunks.m3u8
 
 
 
@@ -636,7 +636,7 @@ http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 
 
-#N/D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/200px-Canal_Futura.png" tvg-id="1241" group-title="BRASIL",FUTURA
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
 
@@ -673,7 +673,7 @@ http://217.23.2.169:8081/look/foxsport/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png" tvg-id="1619" group-title="BRASIL",ESPORTE INTERATIVO
-http://185.181.100.218:8081/live/brlive_0029/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE3IDY6MDc6MTkgUE0maGFzaF92YWx1ZT1oeHZnd0o2OFlEK0ZaL0wvUmp4akdRPT0mdmFsaWRtaW51dGVzPTEw|User-Agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36&Referer=http://tv-msn.com/EI.php
+http://169.57.142.110:25461/live/nNCfg87gFZ/FjyVMkDdpL/48.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/63/Brasil.jpg/revision/latest?cb=20131114185714" tvg-id="1640" group-title="BRASIL",CANAL BRASIL
 http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 
