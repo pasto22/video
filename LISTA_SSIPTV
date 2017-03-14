@@ -1246,8 +1246,8 @@ http://streaming-hub.com/stream/rmc.m3u8
 http://86.210.15.171:9981/stream/channelid/837088861
 
 
-
-
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_EURONEWS" group-title="FRANCA",EURONEWS (Copyright © 2017 by TeamBlue)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
 
 
 
@@ -1646,8 +1646,8 @@ http://149.14.4.125:9085/best/discovs/playlist.m3u8
 http://149.14.4.125:9085/best/turbo/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" group-title="UK",H2 (Copyright © 2017 by TeamBlue)
-http://151.80.100.131:1935/uk7/h2.stream/playlist.m3u8?token=
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" group-title="UK",HISTORY (Copyright © 2017 by TeamBlue)
 http://151.80.100.131:1935/uk7/history.stream/playlist.m3u8?token=
 
@@ -1888,7 +1888,7 @@ http://192.99.66.207:9090/load/mundinegreen/40.mpegts
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/45.mpegts
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_2.png" group-title="USA",ESPN 2 USA (Copyright © 2017 by TeamBlue)
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/46.mpegts
-#N/D
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" group-title="USA",EUROSPORT 2 (Copyright © 2017 by TeamBlue)
 http://mcdn-play-358.5centscdn.net/eurosport2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
 
@@ -1954,5 +1954,65 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" group-title="USA",ASTRO SUPERSPORT 4 (Copyright © 2017 by TeamBlue)
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9nU6mFl.png",RADIOS
+http://0.0.0.1234
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS59NpbGzRg280ar7SK33x01-uUX6rLSXWH8_3qE7RfF3JPOLZi3X4f2AAKsQ" group-title="RADIOS",94FM (Copyright © 2017 by TeamBlue)
+http://195.8.58.150:35022/stream/1/
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/3e8d6f7c528de37d226685bea03997fc.jpg" group-title="RADIOS",AMALIA (Copyright © 2017 by TeamBlue)
+http://stream.radio.com.pt:9496/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQULSwdpP1bwOa1xvZBn4_-UDsB5H2NWSj9ngDAHKenAlkLIP7Fw5rfAXJH" group-title="RADIOS",ANTENA 1 (Copyright © 2017 by TeamBlue)
+http://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:-1 tvg-logo="http://img0.rtp.pt/icm/thumb/phpThumb.php?src=/icm_antena2/images/1a/1a6fdbf23920abbc1937dde2ea33e49f&w=1200&sx=419&sy=28&sw=324&sh=178&q=75&w=800&q=100" group-title="RADIOS",ANTENA 2 (Copyright © 2017 by TeamBlue)
+http://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-UGE8GMiscEaJtEw5-VUm0YJRKZBef4ceYWK1tt5iqdmvnub27qc0v9M" group-title="RADIOS",ANTENA 3 RADIO (Copyright © 2017 by TeamBlue)
+https://streaming-live.rtp.pt/liveradio/antena380a/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.antena-minho.pt/_img/cmLogo.png" group-title="RADIOS",ANTENA MINHO (Copyright © 2017 by TeamBlue)
+http://centova.radios.pt:9464
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/44/Log%C3%B3tipo_da_r%C3%A1dio_Cidade.png" group-title="RADIOS",CIDADE FM (Copyright © 2017 by TeamBlue)
+http://mcrwowza2.mcr.iol.pt/cidadefm/apple.sdp/chunklist_w1928988836.m3u8
+#EXTINF:-1 tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png" group-title="RADIOS",HIPER FM (Copyright © 2017 by TeamBlue)
+http://195.23.85.126:9500/stream/1/
+
+
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/02/marginal.jpg" group-title="RADIOS",MARGINAL (Copyright © 2017 by TeamBlue)
+http://centova.radios.pt:8499/stream/1/
+
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/radio/mm/mega_hits_pt.png" group-title="RADIOS",MEGA HITS (Copyright © 2017 by TeamBlue)
+http://19553.live.streamtheworld.com/MEGA_HITS_SC
+#EXTINF:-1 tvg-logo="http://www.radiosemportugal.com/wp-content/uploads/2015/05/radio_nostalgia.jpg" group-title="RADIOS",NOSTALGIA (Copyright © 2017 by TeamBlue)
+http://centova.radios.pt:8435
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3wnQ3sm7BQqVL3BBmkiklsSGXIh6ULR6g8upbgCavZULdQnJYQhWMlFuc" group-title="RADIOS",NOVA ERA (Copyright © 2017 by TeamBlue)
+http://centova.radios.pt:9478/stream/1/
+
+
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/Esta%C3%A7%C3%A3o-Orbital-101.9-FM-R%C3%A1dio.png" group-title="RADIOS",ORBITAL (Copyright © 2017 by TeamBlue)
+http://195.23.85.126:8401/stream/1/
+#EXTINF:-1 tvg-logo="http://www.radioplacard.pt/files/32/781.png" group-title="RADIOS",PLACARD (Copyright © 2017 by TeamBlue)
+http://213.239.218.99:7098/;?1475760096281.aac
+#EXTINF:-1 tvg-logo="http://radioportugal.net/sites/default/files/radio/logos/logo-radio-radar_0.jpg" group-title="RADIOS",RADAR (Copyright © 2017 by TeamBlue)
+http://centova.radios.pt:8497/stream/1/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_38r59q5ou-K1mBEGlkZai9W4Ux-k19fH2XBLfumAfs6jGvtrZRtb53j4" group-title="RADIOS",RADIO COMERCIAL (Copyright © 2017 by TeamBlue)
+http://mcrscast.mcr.iol.pt/comercial.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s84111q.png" group-title="RADIOS",RADIO FESTIVAL (Copyright © 2017 by TeamBlue)
+http://centova.radios.pt:9520/stream/1/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Radio_Nova_logo.png" group-title="RADIOS",RADIO NOVA (Copyright © 2017 by TeamBlue)
+http://centova.radios.pt:9528/stream/1/
+#EXTINF:-1 tvg-logo="http://cdn.sintonizate.net/r/68406.png" group-title="RADIOS",RADIO ONDA VIVA (Copyright © 2017 by TeamBlue)
+http://centova.radios.pt:9524/stream
+#EXTINF:-1 tvg-logo="http://mediaserver2.rr.pt/NEWRR/logorrredessociais6088e0e6.jpg" group-title="RADIOS",RADIO RENASCENCA (Copyright © 2017 by TeamBlue)
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4TBij23f8cnTcmbIAV5ONzTAeNURQxl_Hye7CdEyVCox431a6tXo4g4k" group-title="RADIOS",RFM (Copyright © 2017 by TeamBlue)
+http://19553.live.streamtheworld.com/RFM_SC
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" group-title="RADIOS",RFM 80 (Copyright © 2017 by TeamBlue)
+http://19573.live.streamtheworld.com/GR80SRFM_SC
+#EXTINF:-1 tvg-logo="http://rfmvi.sapo.pt/images/logoClubbingPlayer.png" group-title="RADIOS",RFM CLUBBING (Copyright © 2017 by TeamBlue)
+http://19553.live.streamtheworld.com/RFMCLUBBINGAAC_SC?TGT=TuneIn&DIST=TuneIn
+#EXTINF:-1 tvg-logo="http://smoothfm.iol.pt/images/new_pics/logo.png" group-title="RADIOS",SMOOTH FM (Copyright © 2017 by TeamBlue)
+http://centova.radios.pt:9498
+#EXTINF:-1 tvg-logo="https://www.superfm.com/wp-content/uploads/2016/05/1392050_10151744453170918_1253207366_n-300x300.jpg" group-title="RADIOS",SUPER FM (104.8) (Copyright © 2017 by TeamBlue)
+http://94.23.76.235:9956/;
+#EXTINF:-1 tvg-logo="http://www.cnb.pt/fotos/editor2/2014/noticias/tsf2.jpg" group-title="RADIOS",TSF (Copyright © 2017 by TeamBlue)
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 
 Copyright © 2017 - TeamBlue
