@@ -49,8 +49,8 @@ http://62.167.50.245:8000/play/a025
 http://62.167.50.245:8000/play/a01c
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png" group-title="PORTUGAL",BENFICA TV (Copyright © 2017 by TeamBlue)
+http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1876.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDTQAYr.png" group-title="PORTUGAL",A BOLA TV (Copyright © 2017 by TeamBlue)
 http://62.167.50.245:8000/play/a02g
 
@@ -267,8 +267,8 @@ http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tsNZEpc.png" group-title="PORTUGAL",TPA 1 (Copyright © 2017 by TeamBlue)
+http://api.new.livestream.com/accounts/1181452/events/5141181/broadcasts/152987186.m3u8?dw=100&hdnea=st=1490892427~exp=1490894227~acl=/i/1181452_5141181_lsia2utmszpdyt0m4we_1@407795/*~hmac=e73640efd9b9fe89ec21286a138d4ea4126ca3ab42c019480ceab1f4e9299709|headers|User-Agent=iPhone
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" group-title="PORTUGAL",TV GALICIA (Copyright © 2017 by TeamBlue)
@@ -1061,7 +1061,7 @@ http://62.167.57.5:8000/play/ay53
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" group-title="ESPANHA",HISTORIA ES (Copyright © 2017 by TeamBlue)
-http://62.167.57.5:8000/play/ay43
+http://62.14.178.5:8081/play/a00c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" group-title="ESPANHA",NATIONAL GEOGRAPHIC ES (Copyright © 2017 by TeamBlue)
 http://149.56.14.22/espana/iks.php/http://cdn1.elitegol.xyz/verliga/12/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" group-title="ESPANHA",NATIONAL GEOGRAPHIC WILD (Copyright © 2017 by TeamBlue)
@@ -1091,7 +1091,7 @@ http://149.56.14.22/espana/iks.php/http://cdn1.elitegol.xyz/verliga/17/chunks.m3
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" group-title="ESPANHA",FOX LIFE (Copyright © 2017 by TeamBlue)
 http://62.167.57.5:8000/play/ay17
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_HOLLYWOOD" group-title="ESPANHA",HOLLYWOOD (Copyright © 2017 by TeamBlue)
-http://62.167.57.5:8000/play/ay47
+http://62.14.178.5:8081/play/a00c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logotipo_de_Movistar.svg/2000px-Logotipo_de_Movistar.svg.png" group-title="ESPANHA",MOVISTAR+ (Copyright © 2017 by TeamBlue)
 http://149.56.14.22/espana/iks.php/http://cdn1.elitegol.xyz/verliga/1/chunks.m3u8
 
@@ -1623,27 +1623,27 @@ http://plexflixiptv.co.uk:80/hls/71.m3u8?channelId=71&uid=953&deviceMac=00:1A:79
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png" group-title="UK",TLC (Copyright © 2017 by TeamBlue)
 http://plexflixiptv.co.uk:80/hls/48.m3u8?channelId=48&uid=953&deviceMac=00:1A:79:39:1C:9B
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bgpVuQt.png" group-title="UK",ANIMAL PLANET UK (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/30.m3u8?channelId=30&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2052/play/AnimalPlanet
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="UK",CRIME & INVESTIGATION (Copyright © 2017 by TeamBlue)
 http://plexflixiptv.co.uk:80/hls/34.m3u8?channelId=34&uid=953&deviceMac=00:1A:79:39:1C:9B
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="UK",DISCOVERY CHANNEL UK (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/35.m3u8?channelId=35&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2052/play/a01n
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Discovery_History_logo.png" group-title="UK",DISCOVERY HISTORY (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/40.m3u8?channelId=40&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2052/play/DiscHistory
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" group-title="UK",DISCOVERY SCIENCE (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/37.m3u8?channelId=37&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2052/play/a01l
 
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/32/Discovery_Shed_logo_distressed_silver.png/revision/latest?cb=20100413144844" group-title="UK",DISCOVERY SHED (Copyright © 2017 by TeamBlue)
 http://plexflixiptv.co.uk:80/hls/38.m3u8?channelId=38&uid=953&deviceMac=00:1A:79:39:1C:9B
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="UK",DISCOVERY TURBO (Copyright © 2017 by TeamBlue)
+http://5.255.90.223:2052/play/a01m
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" group-title="UK",H2 (Copyright © 2017 by TeamBlue)
@@ -1661,9 +1661,9 @@ http://plexflixiptv.co.uk:80/hls/29.m3u8?channelId=29&uid=953&deviceMac=00:1A:79
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cbs_drama_eu.png" group-title="UK",CBS DRAMA (Copyright © 2017 by TeamBlue)
 http://plexflixiptv.co.uk:80/hls/28.m3u8?channelId=28&uid=953&deviceMac=00:1A:79:39:1C:9B
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png" group-title="UK",COMEDY CENTRAL (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/31.m3u8?channelId=31&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2082/play/ComedyCentral
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png" group-title="UK",COMEDY CENTRAL +1 (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/32.m3u8?channelId=32&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2082/play/ComedyCent1
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/91/Sky1_logo_2011.svg/revision/latest?cb=20110205171207" group-title="UK",SKY ONE (Copyright © 2017 by TeamBlue)
 http://plexflixiptv.co.uk:80/hls/52.m3u8?channelId=52&uid=953&deviceMac=00:1A:79:39:1C:9B
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5d/Sky_2_logo_2016.png/revision/latest?cb=20160626181053" group-title="UK",SKY TWO (Copyright © 2017 by TeamBlue)
@@ -1699,25 +1699,25 @@ http://plexflixiptv.co.uk:80/hls/89.m3u8?channelId=89&uid=953&deviceMac=00:1A:79
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" group-title="UK",CARTOON NETWORK UK (Copyright © 2017 by TeamBlue)
 http://plexflixiptv.co.uk:80/hls/88.m3u8?channelId=88&uid=953&deviceMac=00:1A:79:39:1C:9B
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" group-title="UK",DISNEY CHANNEL UK (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/85.m3u8?channelId=85&uid=953&deviceMac=00:1A:79:39:1C:9B
-
-
+http://5.255.90.223:2086/play/DisneyChnl
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g0UK661.png" group-title="UK",DISNEY CHANNEL +1 (Copyright © 2017 by TeamBlue)
+http://5.255.90.223:2086/play/a01a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" group-title="UK",DISNEY JUNIOR (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/87.m3u8?channelId=87&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2086/play/DisneyJunior
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" group-title="UK",DISNEY XD (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/86.m3u8?channelId=86&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2086/play/DisneyXD
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png" group-title="UK",NICK JR (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/94.m3u8?channelId=94&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2082/play/NickJr
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/89/Nick_Jr_Too.svg/revision/latest?cb=20141117170759" group-title="UK",NICK JR TOO (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/95.m3u8?channelId=95&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2082/play/NickJrToo
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" group-title="UK",NICKELODEON (Copyright © 2017 by TeamBlue)
 http://plexflixiptv.co.uk:80/hls/92.m3u8?channelId=92&uid=953&deviceMac=00:1A:79:39:1C:9B
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="UK",NICKTOONS (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/93.m3u8?channelId=93&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2082/play/Nicktoons
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" group-title="UK",MTV UK (Copyright © 2017 by TeamBlue)
-http://plexflixiptv.co.uk:80/hls/57.m3u8?channelId=57&uid=953&deviceMac=00:1A:79:39:1C:9B
+http://5.255.90.223:2082/play/mtv
 
 
 
