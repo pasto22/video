@@ -39,14 +39,14 @@ http://178.193.237.115:9000/play/a00l
 http://62.167.50.245:8000/play/a04a
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
 http://62.167.50.245:8000/play/a037
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2pt" group-title="PORTUGAL",SPORT TV 2 HD
 http://178.193.237.115:9000/play/a08o
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
 http://178.193.237.115:9000/play/a08b
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
+http://62.167.50.245:8000/play/a01c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
 http://178.193.237.115:9000/play/a082
 
@@ -215,8 +215,8 @@ http://62.167.50.245:8000/play/a046
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSR" group-title="PORTUGAL",CBS REALITY
+http://62.167.50.245:8000/play/a02a
 
 
 
@@ -1633,3 +1633,21 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 http://xrxs.net/video/live-p12wash-1164.m3u8
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id="" group-title="USA",ASTRO SUPERSPORT 1
+http://164.132.160.221:8888/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id="" group-title="USA",ASTRO SUPERSPORT 2
+http://164.132.160.221:8888/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id="" group-title="USA",ASTRO SUPERSPORT 3
+http://164.132.160.221:8888/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id="" group-title="USA",ASTRO SUPERSPORT 4
+http://164.132.160.221:8888/play/a00l/index.m3u8
+
+Copyright © 2017 - TeamBlue
