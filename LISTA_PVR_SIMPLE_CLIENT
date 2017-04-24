@@ -13,8 +13,8 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/a/a2/TVI24_2017.png/revision/latest/scale-to-width-down/200?cb=20170221142522" tvg-id="TVI24.pt" group-title="PORTUGAL",TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt" group-title="PORTUGAL",SIC MULHER
-http://178.193.237.115:9000/play/a07z
+
+
 
 
 
@@ -33,13 +33,13 @@ http://62.167.50.245:8000/play/a02f
 http://4.31.30.145:9040
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt" group-title="PORTUGAL",RTP MEMORIA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN
-http://178.193.237.115:9000/play/a00l
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="Canal Q" group-title="PORTUGAL",CANAL Q
 http://62.167.50.245:8000/play/a04a
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
 http://62.167.50.245:8000/play/a037
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2pt" group-title="PORTUGAL",SPORT TV 2 HD
 http://178.193.237.115:9000/play/a08o
@@ -47,14 +47,14 @@ http://178.193.237.115:9000/play/a08o
 http://178.193.237.115:9000/play/a08b
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
 http://62.167.50.245:8000/play/a01c
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
-http://178.193.237.115:9000/play/a082
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV
-http://178.193.237.115:9000/play/a07y
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
 http://62.167.50.245:8000/play/a00z
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="PORTUGAL",EUROSPORT 2
@@ -99,16 +99,16 @@ http://62.167.50.245:8000/play/a012
 http://178.193.237.115:9000/play/a08h
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM
 http://62.167.50.245:8000/play/a01d
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NDgJgRa.png" tvg-id="0" group-title="PORTUGAL",SUPER RTL
-http://188.122.70.203:5007
+
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1
 http://62.167.50.245:8000/play/a027
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2
 http://178.193.237.115:9000/play/a00t
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
 http://178.193.237.115:9000/play/a00r
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4
-http://62.167.50.245:8000/play/a01e
+
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSERIES
 http://178.193.237.115:9000/play/a00s
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_HOLLYWOOD" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD HD
@@ -171,8 +171,8 @@ http://62.167.50.245:8000/play/a01h
 http://4.31.30.145:9034
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TRACE TV" group-title="PORTUGAL",TRACE TV
 http://62.167.50.245:8000/play/a02e
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756" tvg-id="0" group-title="PORTUGAL",VOX
-http://188.122.70.203:5008
+
+
 
 
 
@@ -207,8 +207,8 @@ http://62.167.50.245:8000/play/a020
 http://178.193.237.115:9000/play/a087
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV" group-title="PORTUGAL",TRAVEL CHANNEL
-http://178.193.237.115:9000/play/a07e
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2000px-Fashion_TV_logo.svg.png" tvg-id="FTV" group-title="PORTUGAL",FTV
 http://62.167.50.245:8000/play/a046
 
@@ -239,8 +239,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 http://62.167.50.245:8000/play/a03m
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" tvg-id="0" group-title="PORTUGAL",RAI NEWS 24
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" tvg-id="TVE24h" group-title="PORTUGAL",TVE 24H
-http://88.148.69.129:9090/play/a015
+
+
 
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24I" group-title="PORTUGAL",FRANCE 24 ENG
@@ -277,8 +277,8 @@ http://media3.crtvg.es/live/tvga/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" tvg-id="0" group-title="PORTUGAL",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" tvg-id="TOROTV.pt" group-title="PORTUGAL",TOROS TV
-http://178.193.237.115:9000/play/a07w
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" tvg-id="CacaVision" group-title="PORTUGAL",CACAVISION
@@ -1104,11 +1104,11 @@ http://185.53.163.86:8888/play/a017
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/la_7_it.png" tvg-id="" group-title="ITALIA",LA 7
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RAI1" tvg-id="" group-title="ITALIA",RAI 1
-http://185.53.163.86:8888/play/a00p
+http://149.100.19.146:8000/play/a00w
 #EXTINF:-1 tvg-logo="http://bit.ly/2kXK6sh" tvg-id="" group-title="ITALIA",RAI 2
-http://185.53.163.86:8888/play/a00q
+http://149.100.19.146:8000/play/a00x
 #EXTINF:-1 tvg-logo="http://bit.ly/2lvlcOs" tvg-id="" group-title="ITALIA",RAI 3
-http://185.53.163.86:8888/play/a00r
+http://149.100.19.146:8000/play/a00y
 
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/2000px-Rai_5_logo.svg.png" tvg-id="" group-title="ITALIA",RAI 5
@@ -1253,14 +1253,14 @@ http://livecdn.bid:443/live/WbzRT4jtQO/BQnhQPOrrW/84.m3u8
 
 
 
-#N/D
-#N/D
+
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Logo_Rai_Sport_1_2010.svg/570px-Logo_Rai_Sport_1_2010.svg.png" tvg-id="" group-title="ITALIA",RAI SPORT 1
-http://185.53.163.86:8888/play/a00t
+http://149.100.19.146:8000/play/a013
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GSmMg8K.png" tvg-id="" group-title="ITALIA",RAI SPORT 2
 http://89.29.203.196:9090/play/a04g
 #EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8sport.jpg" tvg-id="" group-title="ITALIA",RETE 8 SPORT
@@ -1280,13 +1280,13 @@ http://89.29.203.196:9090/play/a00w
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png" tvg-id="" group-title="INGLATERRA",ITV
-http://5.135.139.19:1935/server7/stream19.stream/playlist.m3u8?token=
+http://46.249.60.210:15000/play/a00j
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/ITV2_logo_2015.png/revision/latest?cb=20150812102407" tvg-id="" group-title="INGLATERRA",ITV 2
-http://89.29.203.196:9090/play/a04c
+http://46.249.60.210:15000/play/a00o
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ITV3_logo_2013.svg/2000px-ITV3_logo_2013.svg.png" tvg-id="" group-title="INGLATERRA",ITV 3
 http://89.29.203.196:9090/play/a025
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITV4_logo_2013.svg/2000px-ITV4_logo_2013.svg.png" tvg-id="" group-title="INGLATERRA",ITV 4
-http://89.29.203.196:9090/play/a04d
+http://46.249.60.210:15000/play/a00p
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160105050834" tvg-id="" group-title="INGLATERRA",BBC NEWS
 http://89.29.203.196:9090/play/a02e
 
@@ -1303,10 +1303,10 @@ http://185.53.163.72:8888/play/a00v
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" tvg-id="" group-title="INGLATERRA",CHANNEL 4
+http://46.249.60.210:15000/play/a002
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_5_uk.png" tvg-id="" group-title="INGLATERRA",CHANNEL 5
-http://89.29.203.196:9090/play/a02b
+http://46.249.60.210:15000/play/a01n
 
 
 
@@ -1317,8 +1317,8 @@ http://89.29.203.196:9090/play/a02b
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png" tvg-id="" group-title="INGLATERRA",TLC
+http://46.249.60.210:15000/play/a029
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bgpVuQt.png" tvg-id="" group-title="INGLATERRA",ANIMAL PLANET UK
 http://5.255.90.223:2086/play/a02m
 
@@ -1335,8 +1335,8 @@ http://5.255.90.223:2086/play/a02q
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" tvg-id="" group-title="INGLATERRA",DISCOVERY HOME & HEALTH
 http://5.255.90.223:2086/play/a02r
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" tvg-id="" group-title="INGLATERRA",DISCOVERY SCIENCE
+http://46.249.60.210:15000/play/a022
 
 
 
