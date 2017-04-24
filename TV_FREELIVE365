@@ -1,1 +1,224 @@
+<item>
+<title>[COLOR blue]FREELIVE365: PL[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+         <title>[COLOR lime] [makelist.param2] [/COLOR]</title>
+         
+         <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=acestream +[makelist.param2]</link>
+         
+         <regex>
+         <name>hash</name>
+         <expres>\/embed\/(.*?)"</expres>
+         <page>http://freelive365.com/[makelist.param1]</page>
+         <referer>http://freelive365.com/</referer>
+         </regex>
+         <regex>
+         <name>code</name>
+         <expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+         <page></page>
+         </regex>
 
+         
+         <thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=1</page>
+</regex>
+<thumbnail>https://i.imgur.com/2qUNe81.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+</item>
+====================================================================================
+<item>
+<title>[COLOR blue]FREELIVE365: UK/USA/CA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+         <title>[COLOR lime] [makelist.param2] [/COLOR]</title>
+         
+         <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=acestream +[makelist.param2]</link>
+         
+         <regex>
+         <name>hash</name>
+         <expres>\/embed\/(.*?)"</expres>
+         <page>http://freelive365.com/[makelist.param1]</page>
+         <referer>http://freelive365.com/</referer>
+         </regex>
+         <regex>
+         <name>code</name>
+         <expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+         <page></page>
+         </regex>
+
+         
+         <thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=2</page>
+</regex>
+<thumbnail>https://i.imgur.com/2qUNe81.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+</item>
+========================================================================================
+<item>
+<title>[COLOR blue]FREELIVE365: NL/DE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+         <title>[COLOR lime] [makelist.param2] [/COLOR]</title>
+         
+         <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=acestream +[makelist.param2]</link>
+         
+         <regex>
+         <name>hash</name>
+         <expres>\/embed\/(.*?)"</expres>
+         <page>http://freelive365.com/[makelist.param1]</page>
+         <referer>http://freelive365.com/</referer>
+         </regex>
+         <regex>
+         <name>code</name>
+         <expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+         <page></page>
+         </regex>
+
+         
+         <thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=3</page>
+</regex>
+<thumbnail>https://i.imgur.com/2qUNe81.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+</item>
+========================================================================================
+<item>
+<title>[COLOR blue]FREELIVE365: FR/PT/BR[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+         <title>[COLOR lime] [makelist.param2] [/COLOR]</title>
+         
+         <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=acestream +[makelist.param2]</link>
+         
+         <regex>
+         <name>hash</name>
+         <expres>\/embed\/(.*?)"</expres>
+         <page>http://freelive365.com/[makelist.param1]</page>
+         <referer>http://freelive365.com/</referer>
+         </regex>
+         <regex>
+         <name>code</name>
+         <expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+         <page></page>
+         </regex>
+
+         
+         <thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=4</page>
+</regex>
+<thumbnail>https://i.imgur.com/2qUNe81.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+</item>
+========================================================================================
+<item>
+<title>[COLOR blue]FREELIVE365: RO/IT[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+         <title>[COLOR lime] [makelist.param2] [/COLOR]</title>
+         
+         <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=acestream +[makelist.param2]</link>
+         
+         <regex>
+         <name>hash</name>
+         <expres>\/embed\/(.*?)"</expres>
+         <page>http://freelive365.com/[makelist.param1]</page>
+         <referer>http://freelive365.com/</referer>
+         </regex>
+         <regex>
+         <name>code</name>
+         <expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+         <page></page>
+         </regex>
+
+         
+         <thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=5</page>
+</regex>
+<thumbnail>https://i.imgur.com/2qUNe81.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+</item>
+========================================================================================
+<item>
+<title>[COLOR blue]FREELIVE365: ES/MX[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+         <title>[COLOR lime] [makelist.param2] [/COLOR]</title>
+         
+         <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=acestream +[makelist.param2]</link>
+         
+         <regex>
+         <name>hash</name>
+         <expres>\/embed\/(.*?)"</expres>
+         <page>http://freelive365.com/[makelist.param1]</page>
+         <referer>http://freelive365.com/</referer>
+         </regex>
+         <regex>
+         <name>code</name>
+         <expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+         <page></page>
+         </regex>
+
+         
+         <thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=6</page>
+</regex>
+<thumbnail>https://i.imgur.com/2qUNe81.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+</item>
+========================================================================================
+<item>
+<title>[COLOR blue]FREELIVE365: SR/AR/HU/UKR/NO/DK/SE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+         <title>[COLOR lime] [makelist.param2] [/COLOR]</title>
+         
+         <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=acestream +[makelist.param2]</link>
+         
+         <regex>
+         <name>hash</name>
+         <expres>\/embed\/(.*?)"</expres>
+         <page>http://freelive365.com/[makelist.param1]</page>
+         <referer>http://freelive365.com/</referer>
+         </regex>
+         <regex>
+         <name>code</name>
+         <expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+         <page></page>
+         </regex>
+
+         
+         <thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=7</page>
+</regex>
+<thumbnail>https://i.imgur.com/2qUNe81.png</thumbnail>
+<fanart>http://i.imgur.com/x8poXy5.jpg</fanart>
+</item>
+========================================================================================
