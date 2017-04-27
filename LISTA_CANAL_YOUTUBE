@@ -63,4 +63,32 @@
 <fanart></fanart>
 </item>
 
-Copyright © 2016 - TeamBlue
+<item>
+<title>Youtube: REPORTV</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLduFOHgLE8HMT633RxKmROD9G1nAKM0ds</page>
+</regex>
+</item>
+
+<item>
+<title>Youtube: UNIVERSO PORTO:ENTREVISTAS</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLifYo0iNxMr6lgCkyUZQqJYmfIMsArVn-</page>
+</regex>
+</item>
