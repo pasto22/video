@@ -71,7 +71,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>http://www.sporttv.pt/images/2016/08/05/2906666/THUMBNAIL.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/playlist?list=PLduFOHgLE8HMT633RxKmROD9G1nAKM0ds</page>
@@ -86,7 +86,7 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>http://portocanal.sapo.pt/uploads/cursos/curso_000087_00001.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/playlist?list=PLifYo0iNxMr6lgCkyUZQqJYmfIMsArVn-</page>
