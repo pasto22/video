@@ -300,6 +300,10 @@
 <item><title>[B][COLOR red]14.05 20h00 [B][COLOR green]FUTEBOL [COLOR blue]AS MONACO • LILLE [B][COLOR green]LIGUE 1[/B][/COLOR]</title>
 <info>A Ligue 1 (até 2002 chamada Division 1) é a liga principal de futebol da França, organizada pela FFF, desde 1932.</info>
 <thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]14.05 20h00 [B][COLOR green]FUTEBOL [COLOR blue]BORDEUSMARSELHA [B][COLOR green]LIGUE 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9416.ts;streamtype=TSDOWNLOADER&amp;name=CANAL+ SPORT$$lsname=CANAL+ SPORT (F4M source #01)</link>
+<info>A Ligue 1 (até 2002 chamada Division 1) é a liga principal de futebol da França, organizada pela FFF, desde 1932.</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
 <item><title>[B][COLOR red]14.05 20h00 [B][COLOR green]FUTEBOL [COLOR blue]PALMEIRAS • VASCO DA GAMA [B][COLOR green][/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3498.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 3$$lsname=BT SPORT 3 (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7402.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 3$$lsname=BT SPORT 3 (F4M source #03)</link>
@@ -344,6 +348,18 @@
 <item><title>[B][COLOR red]14.05 23h00 [B][COLOR green]FUTEBOL [COLOR blue]GREMIO • BOTAFOGO [B][COLOR green]BRASILEIRAO SERIE A[/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 13 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av13</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 14 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av14</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]14.05 23h00 [B][COLOR green]FUTEBOL [COLOR blue]INDEPENDIENTERACING [B][COLOR green]CAMP ARGENTINO[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2186.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7757.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8471.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #06)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1657.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #07)</link>
+<link>http://85.7.107.8:8011/play/a00d$$lsname=SPORT TV 3 (HTTP #source 01)</link>
+<link>http://85.7.107.8:8011/play/a010$$lsname=SPORT TV 3 (HTTP #source 03)</link>
+<link>http://178.193.237.115:9000/play/a08b$$lsname=SPORT TV 3 (HTTP #source 04)</link>
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP #source 01)</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=merda4-rp4un</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex>$$lsname=SPORT TV 3 (RTMP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/live3-qszlx$$lsname=SPORT TV 3 (SD #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 3 (SD #source 02)</link>
 <thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
 <item><title>[B][COLOR red]15.05 10h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 15 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av15</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
