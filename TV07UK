@@ -1,2190 +1,450 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC ONE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3485.ts;streamtype=TSDOWNLOADER&amp;name=BBC ONE (by TeamBlue)$$lsname=BBC ONE (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5255.ts;streamtype=TSDOWNLOADER&amp;name=BBC ONE (by TeamBlue)$$lsname=BBC ONE (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/878.ts;streamtype=TSDOWNLOADER&amp;name=BBC ONE (by TeamBlue)$$lsname=BBC ONE (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/878.ts;streamtype=TSDOWNLOADER&amp;name=BBC ONE (by TeamBlue)$$lsname=BBC ONE (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1345.ts;streamtype=TSDOWNLOADER&amp;name=BBC ONE (by TeamBlue)$$lsname=BBC ONE (F4M source #02)</link>
 <link>http://89.29.203.196:9090/play/a00x$$lsname=BBC ONE HD (HTTP source #01)</link>
-
 <link><link>$doregex[getM3U8]$$lsname=BBC ONE HD (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/14</page><referer>http://www.filmon.com/tv/channel/export?channel_id=14&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=BBC ONE  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/IGYGsia.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC TWO[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3486.ts;streamtype=TSDOWNLOADER&amp;name=BBC TWO (by TeamBlue)$$lsname=BBC TWO (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1839.ts;streamtype=TSDOWNLOADER&amp;name=BBC TWO (by TeamBlue)$$lsname=BBC TWO (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1839.ts;streamtype=TSDOWNLOADER&amp;name=BBC TWO (by TeamBlue)$$lsname=BBC TWO (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1344.ts;streamtype=TSDOWNLOADER&amp;name=BBC TWO (by TeamBlue)$$lsname=BBC TWO (F4M source #02)</link>
 <link>http://89.29.203.196:9090/play/a00w$$lsname=BBC TWO HD (HTTP source #01)</link>
-
 <link><link>$doregex[getM3U8]$$lsname=BBC TWO (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/25</page><referer>http://www.filmon.com/tv/channel/export?channel_id=25&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=BBC TWO  (HTTP source #03)</link>
 <link><link>$doregex[getM3U8]$$lsname=BBC TWO (HTTP #source 04)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/25</page><referer>http://www.filmon.com/tv/channel/export?channel_id=25&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=BBC TWO  (HTTP source #04)</link>
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/vPlqVpp.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC THREE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3487.ts;streamtype=TSDOWNLOADER&amp;name=BBC THREE (by TeamBlue)$$lsname=BBC THREE (F4M source #01)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1343.ts;streamtype=TSDOWNLOADER&amp;name=BBC THREE (by TeamBlue)$$lsname=BBC THREE (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/XatsMnO.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC FOUR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3488.ts;streamtype=TSDOWNLOADER&amp;name=BBC FOUR (by TeamBlue)$$lsname=BBC FOUR (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5260.ts;streamtype=TSDOWNLOADER&amp;name=BBC FOUR (by TeamBlue)$$lsname=BBC FOUR (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1745.ts;streamtype=TSDOWNLOADER&amp;name=BBC FOUR (by TeamBlue)$$lsname=BBC FOUR (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1745.ts;streamtype=TSDOWNLOADER&amp;name=BBC FOUR (by TeamBlue)$$lsname=BBC FOUR (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1342.ts;streamtype=TSDOWNLOADER&amp;name=BBC FOUR (by TeamBlue)$$lsname=BBC FOUR (F4M source #02)</link>
 <link>http://185.62.86.6:8081/hls/bbcfour.m3u8$$lsname=BBC FOUR  (HTTP source #01)</link>
-
 <link><link>$doregex[getM3U8]$$lsname=BBC FOUR (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/103</page><referer>http://www.filmon.com/tv/channel/export?channel_id=103&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=BBC FOUR  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/hqHINhS.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ITV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3547.ts;streamtype=TSDOWNLOADER&amp;name=ITV (by TeamBlue)$$lsname=ITV (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5269.ts;streamtype=TSDOWNLOADER&amp;name=ITV (by TeamBlue)$$lsname=ITV (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1267.ts;streamtype=TSDOWNLOADER&amp;name=ITV (by TeamBlue)$$lsname=ITV (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1267.ts;streamtype=TSDOWNLOADER&amp;name=ITV (by TeamBlue)$$lsname=ITV (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1336.ts;streamtype=TSDOWNLOADER&amp;name=ITV (by TeamBlue)$$lsname=ITV (F4M source #02)</link>
 <link>http://185.62.86.6:8081/hls/itv.m3u8$$lsname=ITV  (HTTP source #01)</link>
-
 <link><link>$doregex[getM3U8]$$lsname=ITV (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/11</page><referer>http://www.filmon.com/tv/channel/export?channel_id=11&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=ITV  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/2000px-ITV_logo_2013.svg.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ITV 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3548.ts;streamtype=TSDOWNLOADER&amp;name=ITV 2 (by TeamBlue)$$lsname=ITV 2 (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1266.ts;streamtype=TSDOWNLOADER&amp;name=ITV 2 (by TeamBlue)$$lsname=ITV 2 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1266.ts;streamtype=TSDOWNLOADER&amp;name=ITV 2 (by TeamBlue)$$lsname=ITV 2 (F4M source #01)</link>
 <link>http://185.62.86.6:8081/hls/itv2.m3u8$$lsname=ITV 2  (HTTP source #01)</link>
-
 <link><link>$doregex[getM3U8]$$lsname=ITV 2 (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/67</page><referer>http://www.filmon.com/tv/channel/export?channel_id=67&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=ITV 2  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/8/86/ITV2_logo_2015.png/revision/latest?cb=20150812102407</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ITV 3[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3549.ts;streamtype=TSDOWNLOADER&amp;name=ITV 3 (by TeamBlue)$$lsname=ITV 3 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5271.ts;streamtype=TSDOWNLOADER&amp;name=ITV 3 (by TeamBlue)$$lsname=ITV 3 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1265.ts;streamtype=TSDOWNLOADER&amp;name=ITV 3 (by TeamBlue)$$lsname=ITV 3 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1265.ts;streamtype=TSDOWNLOADER&amp;name=ITV 3 (by TeamBlue)$$lsname=ITV 3 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1335.ts;streamtype=TSDOWNLOADER&amp;name=ITV 3 (by TeamBlue)$$lsname=ITV 3 (F4M source #02)</link>
 <link>http://185.62.86.6:8081/hls/itv3.m3u8$$lsname=ITV 3  (HTTP source #01)</link>
-
 <link><link>$doregex[getM3U8]$$lsname=ITV 3 (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/26</page><referer>http://www.filmon.com/tv/channel/export?channel_id=26&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=ITV 3  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ITV3_logo_2013.svg/2000px-ITV3_logo_2013.svg.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ITV 4[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3550.ts;streamtype=TSDOWNLOADER&amp;name=ITV 4 (by TeamBlue)$$lsname=ITV 4 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5272.ts;streamtype=TSDOWNLOADER&amp;name=ITV 4 (by TeamBlue)$$lsname=ITV 4 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1264.ts;streamtype=TSDOWNLOADER&amp;name=ITV 4 (by TeamBlue)$$lsname=ITV 4 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1264.ts;streamtype=TSDOWNLOADER&amp;name=ITV 4 (by TeamBlue)$$lsname=ITV 4 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1333.ts;streamtype=TSDOWNLOADER&amp;name=ITV 4 (by TeamBlue)$$lsname=ITV 4 (F4M source #02)</link>
 <link>http://185.62.86.6:8081/hls/itv4.m3u8$$lsname=ITV 4  (HTTP source #01)</link>
-
 <link><link>$doregex[getM3U8]$$lsname=ITV 4 (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/101</page><referer>http://www.filmon.com/tv/channel/export?channel_id=101&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=ITV 4  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITV4_logo_2013.svg/2000px-ITV4_logo_2013.svg.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BBC NEWS[/B][/COLOR]</title>
-
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1841.ts;streamtype=TSDOWNLOADER&amp;name=BBC NEWS (by TeamBlue)$$lsname=BBC NEWS (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1841.ts;streamtype=TSDOWNLOADER&amp;name=BBC NEWS (by TeamBlue)$$lsname=BBC NEWS (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1341.ts;streamtype=TSDOWNLOADER&amp;name=BBC NEWS (by TeamBlue)$$lsname=BBC NEWS (F4M source #02)</link>
 <link>http://89.29.203.196:9090/play/a02e$$lsname=BBC NEWS  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160105050834</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTE ONE[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5264.ts;streamtype=TSDOWNLOADER&amp;name=RTE ONE (by TeamBlue)$$lsname=RTE ONE (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3758.ts;streamtype=TSDOWNLOADER&amp;name=RTE ONE (by TeamBlue)$$lsname=RTE ONE (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3758.ts;streamtype=TSDOWNLOADER&amp;name=RTE ONE (by TeamBlue)$$lsname=RTE ONE (F4M source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1280px-RT%C3%89_One_2014.svg.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTE TWO[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5263.ts;streamtype=TSDOWNLOADER&amp;name=RTE TWO (by TeamBlue)$$lsname=RTE TWO (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3759.ts;streamtype=TSDOWNLOADER&amp;name=RTE TWO (by TeamBlue)$$lsname=RTE TWO (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3759.ts;streamtype=TSDOWNLOADER&amp;name=RTE TWO (by TeamBlue)$$lsname=RTE TWO (F4M source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BLOOMBERG[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2410.ts;streamtype=TSDOWNLOADER&amp;name=BLOOMBERG (by TeamBlue)$$lsname=BLOOMBERG (F4M source #01)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://i.imgur.com/ix40Cv6.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EURONEWS[/B][/COLOR]</title>
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1337.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS (by TeamBlue)$$lsname=EURONEWS (F4M source #02)</link>
 <link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8$$lsname=EURONEWS  (HTTP source #01)</link>
-
 <link>http://iptvdini.zapto.org:8000/live/latifkujtimi131/latifkujtimi131/1718.m3u8$$lsname=EURONEWS  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://bit.ly/IMG_EURONEWS</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CNN[/B][/COLOR]</title>
-
-
-
-
-
-
-
-
 <link>http://178.193.237.115:9000/play/a01f$$lsname=CNN  (HTTP source #01)</link>
-
 <link>http://183.88.212.205:8010/play/a00l$$lsname=CNN  (HTTP source #03)</link>
 <link>http://85.7.107.8:8010/play/a049$$lsname=CNN  (HTTP source #04)</link>
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/9cnjX88.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY NEWS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1829.ts;streamtype=TSDOWNLOADER&amp;name=SKY NEWS (by TeamBlue)$$lsname=SKY NEWS (F4M source #01)</link>
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1348.ts;streamtype=TSDOWNLOADER&amp;name=SKY NEWS (by TeamBlue)$$lsname=SKY NEWS (F4M source #02)</link>
 <link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8$$lsname=SKY NEWS  (HTTP source #01)</link>
-
 <link>http://85.7.107.8:8010/play/a04d$$lsname=SKY NEWS  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS REALITY[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3510.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)$$lsname=CBS REALITY (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5323.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)$$lsname=CBS REALITY (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1275.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)$$lsname=CBS REALITY (F4M source #03)</link>
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1275.ts;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (by TeamBlue)$$lsname=CBS REALITY (F4M source #01)</link>
 <link><link>$doregex[getM3U8]</link>$$lsname=CBS REALITY (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/1808</page><referer>http://www.filmon.com/tv/channel/export?channel_id=1808&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=CBS REALITY  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/X0YowUz.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CHANNEL 4[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3511.ts;streamtype=TSDOWNLOADER&amp;name=CHANNEL 4 (by TeamBlue)$$lsname=CHANNEL 4 (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1820.ts;streamtype=TSDOWNLOADER&amp;name=CHANNEL 4 (by TeamBlue)$$lsname=CHANNEL 4 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1820.ts;streamtype=TSDOWNLOADER&amp;name=CHANNEL 4 (by TeamBlue)$$lsname=CHANNEL 4 (F4M source #01)</link>
 <link>http://185.62.86.6:8081/hls/channel4.m3u8$$lsname=CHANNEL 4  (HTTP source #01)</link>
-
 <link><link>$doregex[getM3U8]$$lsname=CHANNEL 4 (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/2</page><referer>http://www.filmon.com/tv/channel/export?channel_id=2&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=CHANNEL 4  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CHANNEL 5[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3512.ts;streamtype=TSDOWNLOADER&amp;name=CHANNEL 5 (by TeamBlue)$$lsname=CHANNEL 5 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5262.ts;streamtype=TSDOWNLOADER&amp;name=CHANNEL 5 (by TeamBlue)$$lsname=CHANNEL 5 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1742.ts;streamtype=TSDOWNLOADER&amp;name=CHANNEL 5 (by TeamBlue)$$lsname=CHANNEL 5 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1742.ts;streamtype=TSDOWNLOADER&amp;name=CHANNEL 5 (by TeamBlue)$$lsname=CHANNEL 5 (F4M source #01)</link>
 <link>http://185.62.86.6:8081/hls/channel5.m3u8$$lsname=CHANNEL 5  (HTTP source #01)</link>
-
 <link><link>$doregex[getM3U8]</link>$$lsname=CHANNEL 5 (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/22</page><referer>http://www.filmon.com/tv/channel/export?channel_id=22&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=CHANNEL 5  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel_5_uk.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] DMAX[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3528.ts;streamtype=TSDOWNLOADER&amp;name=DMAX (by TeamBlue)$$lsname=DMAX (F4M source #01)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/dmax_de.png</thumbnail></item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] E![/B][/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5267.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)$$lsname=E! (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3779.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)$$lsname=E! (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3779.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)$$lsname=E! (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1339.ts;streamtype=TSDOWNLOADER&amp;name=E! (by TeamBlue)$$lsname=E! (F4M source #02)</link>
 #N/D
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOOD NETWORK[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3542.ts;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK (by TeamBlue)$$lsname=FOOD NETWORK (F4M source #01)</link>
-
-
-
-
-
-
-
 <link>http://185.62.86.6:8081/hls/foodnetwork.m3u8$$lsname=FOOD NETWORK  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/n2CzI8b.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TRAVEL CHANNEL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3610.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL (by TeamBlue)$$lsname=TRAVEL CHANNEL (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1802.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL (by TeamBlue)$$lsname=TRAVEL CHANNEL (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1802.ts;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL (by TeamBlue)$$lsname=TRAVEL CHANNEL (F4M source #01)</link>
 <link>http://5.255.90.223:2086/play/a02w$$lsname=TRAVEL CHANNEL  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/xgqZgC6.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TLC[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3608.ts;streamtype=TSDOWNLOADER&amp;name=TLC (by TeamBlue)$$lsname=TLC (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1803.ts;streamtype=TSDOWNLOADER&amp;name=TLC (by TeamBlue)$$lsname=TLC (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1803.ts;streamtype=TSDOWNLOADER&amp;name=TLC (by TeamBlue)$$lsname=TLC (F4M source #01)</link>
 <link>http://46.249.60.210:15000/play/a029$$lsname=TLC  (HTTP source #01)</link>
-
 <link>http://5.255.90.223:2086/play/a02o$$lsname=TLC  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ANIMAL PLANET UK[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3482.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET UK (by TeamBlue)$$lsname=ANIMAL PLANET UK (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1822.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET UK (by TeamBlue)$$lsname=ANIMAL PLANET UK (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1822.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET UK (by TeamBlue)$$lsname=ANIMAL PLANET UK (F4M source #01)</link>
 <link>http://5.255.90.223:2086/play/a02m$$lsname=ANIMAL PLANET UK  (HTTP source #01)</link>
-
 <link>http://46.249.60.210:15000/play/a01z$$lsname=ANIMAL PLANET UK  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/bgpVuQt.png</thumbnail></item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CRIME & INVESTIGATION[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3517.ts;streamtype=TSDOWNLOADER&amp;name=CRIME & INVESTIGATION (by TeamBlue)$$lsname=CRIME & INVESTIGATION (F4M source #01)</link>
-
-
-
-
-
-
-
 <link>http://5.255.90.223:2086/play/a02p$$lsname=CRIME & INVESTIGATION  (HTTP source #01)</link>
-
 <link>http://88.148.69.129:9090/play/a00m$$lsname=CRIME & INVESTIGATION  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY CHANNEL UK[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3519.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL UK (by TeamBlue)$$lsname=DISCOVERY CHANNEL UK (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5356.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL UK (by TeamBlue)$$lsname=DISCOVERY CHANNEL UK (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1818.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL UK (by TeamBlue)$$lsname=DISCOVERY CHANNEL UK (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1818.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL UK (by TeamBlue)$$lsname=DISCOVERY CHANNEL UK (F4M source #01)</link>
 <link>http://5.255.90.223:2086/play/a02l$$lsname=DISCOVERY CHANNEL UK  (HTTP source #01)</link>
-
 <link>http://46.249.60.210:15000/play/a01y$$lsname=DISCOVERY CHANNEL UK  (HTTP source #03)</link>
 <link>http://5.255.90.223:2086/play/a02t$$lsname=DISCOVERY CHANNEL UK  (HTTP source #04)</link>
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY CHANNEL +1[/B][/COLOR]</title>
-
-
-
-
-
-
-
-
 <link>http://5.255.90.223:2086/play/a02n$$lsname=DISCOVERY CHANNEL +1  (HTTP source #01)</link>
-
 <link>http://46.249.60.210:15000/play/a020$$lsname=DISCOVERY CHANNEL +1  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY HISTORY[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3520.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HISTORY (by TeamBlue)$$lsname=DISCOVERY HISTORY (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5361.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HISTORY (by TeamBlue)$$lsname=DISCOVERY HISTORY (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1274.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HISTORY (by TeamBlue)$$lsname=DISCOVERY HISTORY (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1274.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HISTORY (by TeamBlue)$$lsname=DISCOVERY HISTORY (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1324.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HISTORY (by TeamBlue)$$lsname=DISCOVERY HISTORY (F4M source #02)</link>
 <link>http://5.255.90.223:2086/play/a02q$$lsname=DISCOVERY HISTORY  (HTTP source #01)</link>
-
 <link>http://46.249.60.210:15000/play/a023$$lsname=DISCOVERY HISTORY  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d8/Discovery_History_logo.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY HISTORY +1[/B][/COLOR]</title>
-
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7468.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HISTORY +1 (by TeamBlue)$$lsname=DISCOVERY HISTORY +1 (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7468.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HISTORY +1 (by TeamBlue)$$lsname=DISCOVERY HISTORY +1 (F4M source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d8/Discovery_History_logo.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY HOME & HEALTH[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3546.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HOME & HEALTH (by TeamBlue)$$lsname=DISCOVERY HOME & HEALTH (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1817.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HOME & HEALTH (by TeamBlue)$$lsname=DISCOVERY HOME & HEALTH (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1817.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HOME & HEALTH (by TeamBlue)$$lsname=DISCOVERY HOME & HEALTH (F4M source #01)</link>
 <link>http://5.255.90.223:2086/play/a02r$$lsname=DISCOVERY HOME & HEALTH  (HTTP source #01)</link>
-
 <link>http://46.249.60.210:15000/play/a024$$lsname=DISCOVERY HOME & HEALTH  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY SCIENCE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3521.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE (by TeamBlue)$$lsname=DISCOVERY SCIENCE (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1816.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE (by TeamBlue)$$lsname=DISCOVERY SCIENCE (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1816.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE (by TeamBlue)$$lsname=DISCOVERY SCIENCE (F4M source #01)</link>
 <link>http://46.249.60.210:15000/play/a022$$lsname=DISCOVERY SCIENCE  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG</thumbnail></item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY SHED[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3522.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHED (by TeamBlue)$$lsname=DISCOVERY SHED (F4M source #01)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1322.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHED (by TeamBlue)$$lsname=DISCOVERY SHED (F4M source #02)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/3/32/Discovery_Shed_logo_distressed_silver.png/revision/latest?cb=20100413144844</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY TURBO[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3523.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY TURBO (by TeamBlue)$$lsname=DISCOVERY TURBO (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1815.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY TURBO (by TeamBlue)$$lsname=DISCOVERY TURBO (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1815.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY TURBO (by TeamBlue)$$lsname=DISCOVERY TURBO (F4M source #01)</link>
 <link>http://5.255.90.223:2086/play/a02s$$lsname=DISCOVERY TURBO  (HTTP source #01)</link>
-
 <link>http://46.249.60.210:15000/play/a025$$lsname=DISCOVERY TURBO  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png</thumbnail></item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] H2[/B][/COLOR]</title>
-
-
-
-
-
-
-
-
 <link>http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8$$lsname=H2  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HISTORY[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3545.ts;streamtype=TSDOWNLOADER&amp;name=HISTORY (by TeamBlue)$$lsname=HISTORY (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5362.ts;streamtype=TSDOWNLOADER&amp;name=HISTORY (by TeamBlue)$$lsname=HISTORY (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1268.ts;streamtype=TSDOWNLOADER&amp;name=HISTORY (by TeamBlue)$$lsname=HISTORY (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1268.ts;streamtype=TSDOWNLOADER&amp;name=HISTORY (by TeamBlue)$$lsname=HISTORY (F4M source #01)</link>
 <thumbnail>http://i.imgur.com/g5uYzpc.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] INVESTIGATION DISCOVERY[/B][/COLOR]</title>
-
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8957.ts;streamtype=TSDOWNLOADER&amp;name=INVESTIGATION DISCOVERY (by TeamBlue)$$lsname=INVESTIGATION DISCOVERY (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8957.ts;streamtype=TSDOWNLOADER&amp;name=INVESTIGATION DISCOVERY (by TeamBlue)$$lsname=INVESTIGATION DISCOVERY (F4M source #01)</link>
 <link>http://5.255.90.223:2086/play/a02v$$lsname=INVESTIGATION DISCOVERY  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NATIONAL GEOGRAPHIC CHANNEL UK[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3563.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC CHANNEL UK (by TeamBlue)$$lsname=NATIONAL GEOGRAPHIC CHANNEL UK (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5359.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC CHANNEL UK (by TeamBlue)$$lsname=NATIONAL GEOGRAPHIC CHANNEL UK (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1322.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC CHANNEL UK (by TeamBlue)$$lsname=NATIONAL GEOGRAPHIC CHANNEL UK (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1322.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC CHANNEL UK (by TeamBlue)$$lsname=NATIONAL GEOGRAPHIC CHANNEL UK (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1315.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC CHANNEL UK (by TeamBlue)$$lsname=NATIONAL GEOGRAPHIC CHANNEL UK (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/UPqfbBu.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NATIONAL GEOGRAPHIC WILD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3564.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC WILD (by TeamBlue)$$lsname=NATIONAL GEOGRAPHIC WILD (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5357.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC WILD (by TeamBlue)$$lsname=NATIONAL GEOGRAPHIC WILD (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1262.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC WILD (by TeamBlue)$$lsname=NATIONAL GEOGRAPHIC WILD (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1262.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC WILD (by TeamBlue)$$lsname=NATIONAL GEOGRAPHIC WILD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1316.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC WILD (by TeamBlue)$$lsname=NATIONAL GEOGRAPHIC WILD (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/mNhHiku.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS ACTION[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3508.ts;streamtype=TSDOWNLOADER&amp;name=CBS ACTION (by TeamBlue)$$lsname=CBS ACTION (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5321.ts;streamtype=TSDOWNLOADER&amp;name=CBS ACTION (by TeamBlue)$$lsname=CBS ACTION (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1277.ts;streamtype=TSDOWNLOADER&amp;name=CBS ACTION (by TeamBlue)$$lsname=CBS ACTION (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1277.ts;streamtype=TSDOWNLOADER&amp;name=CBS ACTION (by TeamBlue)$$lsname=CBS ACTION (F4M source #01)</link>
 <link>http://185.62.86.6:8081/hls/cbsaction.m3u8$$lsname=CBS ACTION  (HTTP source #01)</link>
-
 <link><link>$doregex[getM3U8]</link>$$lsname=CBS ACTION (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/1952</page><referer>http://www.filmon.com/tv/channel/export?channel_id=1952&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=CBS ACTION  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs_action_uk.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CBS DRAMA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3509.ts;streamtype=TSDOWNLOADER&amp;name=CBS DRAMA (by TeamBlue)$$lsname=CBS DRAMA (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5322.ts;streamtype=TSDOWNLOADER&amp;name=CBS DRAMA (by TeamBlue)$$lsname=CBS DRAMA (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1276.ts;streamtype=TSDOWNLOADER&amp;name=CBS DRAMA (by TeamBlue)$$lsname=CBS DRAMA (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1276.ts;streamtype=TSDOWNLOADER&amp;name=CBS DRAMA (by TeamBlue)$$lsname=CBS DRAMA (F4M source #01)</link>
 <link>http://185.62.86.6:8081/hls/cbsdrama.m3u8$$lsname=CBS DRAMA  (HTTP source #01)</link>
-
 <link><link>$doregex[getM3U8]</link>$$lsname=CBS DRAMA (HTTP #source 03)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/1805</page><referer>http://www.filmon.com/tv/channel/export?channel_id=1805&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=CBS DRAMA  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs_drama_eu.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] COMEDY CENTRAL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3515.ts;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL (by TeamBlue)$$lsname=COMEDY CENTRAL (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5283.ts;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL (by TeamBlue)$$lsname=COMEDY CENTRAL (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2709.ts;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL (by TeamBlue)$$lsname=COMEDY CENTRAL (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2709.ts;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL (by TeamBlue)$$lsname=COMEDY CENTRAL (F4M source #01)</link>
 <link>http://5.255.90.223:2082/play/ComedyCentral$$lsname=COMEDY CENTRAL  (HTTP source #01)</link>
-
 <link>http://5.255.90.223:2086/play/a02a$$lsname=COMEDY CENTRAL  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] COMEDY CENTRAL +1[/B][/COLOR]</title>
-
-
-
-
-
-
-
-
 <link>http://5.255.90.223:2082/play/ComedyCent1$$lsname=COMEDY CENTRAL +1  (HTTP source #01)</link>
-
 <link>http://5.255.90.223:2086/play/a029$$lsname=COMEDY CENTRAL +1  (HTTP source #03)</link>
 <link>http://5.255.90.223:2086/play/a02b$$lsname=COMEDY CENTRAL +1  (HTTP source #04)</link>
-
-
-
-
-
-
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] COMEDY XTRA[/B][/COLOR]</title>
-
-
-
-
-
-
-
-
 <link>http://5.255.90.223:2082/play/ComedyXtra$$lsname=COMEDY XTRA  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/2/21/ComedyCentralExtra.png/revision/latest?cb=20130630133824</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] COMEDY XTRA +1[/B][/COLOR]</title>
-
-
-
-
-
-
-
-
 <link>http://5.255.90.223:2086/play/a02d$$lsname=COMEDY XTRA +1  (HTTP source #01)</link>
-
 <link>http://5.255.90.223:2082/play/ComedyXtra1$$lsname=COMEDY XTRA +1  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/2/21/ComedyCentralExtra.png/revision/latest?cb=20130630133824</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY ONE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3589.ts;streamtype=TSDOWNLOADER&amp;name=SKY ONE (by TeamBlue)$$lsname=SKY ONE (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5284.ts;streamtype=TSDOWNLOADER&amp;name=SKY ONE (by TeamBlue)$$lsname=SKY ONE (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1833.ts;streamtype=TSDOWNLOADER&amp;name=SKY ONE (by TeamBlue)$$lsname=SKY ONE (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1833.ts;streamtype=TSDOWNLOADER&amp;name=SKY ONE (by TeamBlue)$$lsname=SKY ONE (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1331.ts;streamtype=TSDOWNLOADER&amp;name=SKY ONE (by TeamBlue)$$lsname=SKY ONE (F4M source #02)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/9/91/Sky1_logo_2011.svg/revision/latest?cb=20110205171207</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY TWO[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3603.ts;streamtype=TSDOWNLOADER&amp;name=SKY TWO (by TeamBlue)$$lsname=SKY TWO (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5285.ts;streamtype=TSDOWNLOADER&amp;name=SKY TWO (by TeamBlue)$$lsname=SKY TWO (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1259.ts;streamtype=TSDOWNLOADER&amp;name=SKY TWO (by TeamBlue)$$lsname=SKY TWO (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1259.ts;streamtype=TSDOWNLOADER&amp;name=SKY TWO (by TeamBlue)$$lsname=SKY TWO (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1330.ts;streamtype=TSDOWNLOADER&amp;name=SKY TWO (by TeamBlue)$$lsname=SKY TWO (F4M source #02)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/5/5d/Sky_2_logo_2016.png/revision/latest?cb=20160626181053</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY ATLANTIC[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3576.ts;streamtype=TSDOWNLOADER&amp;name=SKY ATLANTIC (by TeamBlue)$$lsname=SKY ATLANTIC (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5286.ts;streamtype=TSDOWNLOADER&amp;name=SKY ATLANTIC (by TeamBlue)$$lsname=SKY ATLANTIC (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1258.ts;streamtype=TSDOWNLOADER&amp;name=SKY ATLANTIC (by TeamBlue)$$lsname=SKY ATLANTIC (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1258.ts;streamtype=TSDOWNLOADER&amp;name=SKY ATLANTIC (by TeamBlue)$$lsname=SKY ATLANTIC (F4M source #01)</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/d/d3/Sky_Atlantic.svg/revision/latest/scale-to-width-down/300?cb=20111101112901</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY ARTS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5329.ts;streamtype=TSDOWNLOADER&amp;name=SKY ARTS (by TeamBlue)$$lsname=SKY ARTS (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1782.ts;streamtype=TSDOWNLOADER&amp;name=SKY ARTS (by TeamBlue)$$lsname=SKY ARTS (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1782.ts;streamtype=TSDOWNLOADER&amp;name=SKY ARTS (by TeamBlue)$$lsname=SKY ARTS (F4M source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Arts_logo.svg/1280px-Sky_Arts_logo.svg.png</thumbnail></item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY MOVIES ACTION[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3578.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES ACTION (by TeamBlue)$$lsname=SKY MOVIES ACTION (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5292.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES ACTION (by TeamBlue)$$lsname=SKY MOVIES ACTION (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1747.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES ACTION (by TeamBlue)$$lsname=SKY MOVIES ACTION (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1747.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES ACTION (by TeamBlue)$$lsname=SKY MOVIES ACTION (F4M source #01)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/0/07/Sky-Movies-ActionAdventure.png/revision/latest/scale-to-width-down/298?cb=20111118190047</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY MOVIES COMEDY[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3579.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES COMEDY (by TeamBlue)$$lsname=SKY MOVIES COMEDY (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5294.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES COMEDY (by TeamBlue)$$lsname=SKY MOVIES COMEDY (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1096.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES COMEDY (by TeamBlue)$$lsname=SKY MOVIES COMEDY (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1096.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES COMEDY (by TeamBlue)$$lsname=SKY MOVIES COMEDY (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1305.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES COMEDY (by TeamBlue)$$lsname=SKY MOVIES COMEDY (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/oByD3KB.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY MOVIES CRIME & THRILLER[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3587.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES CRIME & THRILLER (by TeamBlue)$$lsname=SKY MOVIES CRIME & THRILLER (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5297.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES CRIME & THRILLER (by TeamBlue)$$lsname=SKY MOVIES CRIME & THRILLER (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1251.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES CRIME & THRILLER (by TeamBlue)$$lsname=SKY MOVIES CRIME & THRILLER (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1251.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES CRIME & THRILLER (by TeamBlue)$$lsname=SKY MOVIES CRIME & THRILLER (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1299.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES CRIME & THRILLER (by TeamBlue)$$lsname=SKY MOVIES CRIME & THRILLER (F4M source #02)</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/9/96/Sky-Movies-CrimeThriller.png/revision/latest/scale-to-width-down/250?cb=20111118190758</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY MOVIES DRAMA & ROMANCE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3580.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES DRAMA & ROMANCE (by TeamBlue)$$lsname=SKY MOVIES DRAMA & ROMANCE (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5295.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES DRAMA & ROMANCE (by TeamBlue)$$lsname=SKY MOVIES DRAMA & ROMANCE (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1694.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES DRAMA & ROMANCE (by TeamBlue)$$lsname=SKY MOVIES DRAMA & ROMANCE (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1694.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES DRAMA & ROMANCE (by TeamBlue)$$lsname=SKY MOVIES DRAMA & ROMANCE (F4M source #01)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/4/46/Sky-Movies-DramaRomance.png/revision/latest/scale-to-width-down/250?cb=20111118190215</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY MOVIES FAMILY[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3581.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES FAMILY (by TeamBlue)$$lsname=SKY MOVIES FAMILY (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5293.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES FAMILY (by TeamBlue)$$lsname=SKY MOVIES FAMILY (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2708.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES FAMILY (by TeamBlue)$$lsname=SKY MOVIES FAMILY (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2708.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES FAMILY (by TeamBlue)$$lsname=SKY MOVIES FAMILY (F4M source #01)</link>
 <thumbnail>http://i.imgur.com/3dDwnfB.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY MOVIES SYFY & HORROR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3584.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES SYFY & HORROR (by TeamBlue)$$lsname=SKY MOVIES SYFY & HORROR (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5299.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES SYFY & HORROR (by TeamBlue)$$lsname=SKY MOVIES SYFY & HORROR (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1252.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES SYFY & HORROR (by TeamBlue)$$lsname=SKY MOVIES SYFY & HORROR (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1252.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES SYFY & HORROR (by TeamBlue)$$lsname=SKY MOVIES SYFY & HORROR (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1302.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES SYFY & HORROR (by TeamBlue)$$lsname=SKY MOVIES SYFY & HORROR (F4M source #02)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Sky-Movies-Sci-Fi.png/revision/latest/scale-to-width-down/250?cb=20111118191753</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY MOVIES SELECT[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3585.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES SELECT (by TeamBlue)$$lsname=SKY MOVIES SELECT (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5301.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES SELECT (by TeamBlue)$$lsname=SKY MOVIES SELECT (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1099.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES SELECT (by TeamBlue)$$lsname=SKY MOVIES SELECT (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1099.ts;streamtype=TSDOWNLOADER&amp;name=SKY MOVIES SELECT (by TeamBlue)$$lsname=SKY MOVIES SELECT (F4M source #01)</link>
 <thumbnail>http://i.imgur.com/Kcj5M1Q.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TCM[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3609.ts;streamtype=TSDOWNLOADER&amp;name=TCM (by TeamBlue)$$lsname=TCM (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5281.ts;streamtype=TSDOWNLOADER&amp;name=TCM (by TeamBlue)$$lsname=TCM (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3757.ts;streamtype=TSDOWNLOADER&amp;name=TCM (by TeamBlue)$$lsname=TCM (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3757.ts;streamtype=TSDOWNLOADER&amp;name=TCM (by TeamBlue)$$lsname=TCM (F4M source #01)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TCM_Latin_America.png/revision/latest?cb=20151209165240</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3539.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1783.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1783.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1317.ts;streamtype=TSDOWNLOADER&amp;name=FOX (by TeamBlue)$$lsname=FOX (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SYFY[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3605.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)$$lsname=SYFY (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5278.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)$$lsname=SYFY (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3770.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)$$lsname=SYFY (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3770.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)$$lsname=SYFY (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1298.ts;streamtype=TSDOWNLOADER&amp;name=SYFY (by TeamBlue)$$lsname=SYFY (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/F1nf2YL.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BABY TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3484.ts;streamtype=TSDOWNLOADER&amp;name=BABY TV (by TeamBlue)$$lsname=BABY TV (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5317.ts;streamtype=TSDOWNLOADER&amp;name=BABY TV (by TeamBlue)$$lsname=BABY TV (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2927.ts;streamtype=TSDOWNLOADER&amp;name=BABY TV (by TeamBlue)$$lsname=BABY TV (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2927.ts;streamtype=TSDOWNLOADER&amp;name=BABY TV (by TeamBlue)$$lsname=BABY TV (F4M source #01)</link>
 <link>http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token= $$lsname=BABY TV  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/xTAptxu.png</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] BOOMERANG[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3492.ts;streamtype=TSDOWNLOADER&amp;name=BOOMERANG (by TeamBlue)$$lsname=BOOMERANG (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5315.ts;streamtype=TSDOWNLOADER&amp;name=BOOMERANG (by TeamBlue)$$lsname=BOOMERANG (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/891.ts;streamtype=TSDOWNLOADER&amp;name=BOOMERANG (by TeamBlue)$$lsname=BOOMERANG (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://vignette2.wikia.nocookie.net/mixels/images/4/41/Boomerang_tv_logo.png/revision/latest?cb=20150307200807</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CARTOON NETWORK UK[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3506.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK UK (by TeamBlue)$$lsname=CARTOON NETWORK UK (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5309.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK UK (by TeamBlue)$$lsname=CARTOON NETWORK UK (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2378.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK UK (by TeamBlue)$$lsname=CARTOON NETWORK UK (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2378.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK UK (by TeamBlue)$$lsname=CARTOON NETWORK UK (F4M source #01)</link>
 <thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY CHANNEL UK[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3524.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL UK (by TeamBlue)$$lsname=DISNEY CHANNEL UK (F4M source #01)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1320.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL UK (by TeamBlue)$$lsname=DISNEY CHANNEL UK (F4M source #02)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959</thumbnail></item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY JUNIOR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3525.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)$$lsname=DISNEY JUNIOR (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5308.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)$$lsname=DISNEY JUNIOR (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1271.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)$$lsname=DISNEY JUNIOR (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1271.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)$$lsname=DISNEY JUNIOR (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1319.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR (by TeamBlue)$$lsname=DISNEY JUNIOR (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY XD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3526.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY XD (by TeamBlue)$$lsname=DISNEY XD (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1832.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY XD (by TeamBlue)$$lsname=DISNEY XD (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1832.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY XD (by TeamBlue)$$lsname=DISNEY XD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1318.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY XD (by TeamBlue)$$lsname=DISNEY XD (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NICK JR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3566.ts;streamtype=TSDOWNLOADER&amp;name=NICK JR (by TeamBlue)$$lsname=NICK JR (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5310.ts;streamtype=TSDOWNLOADER&amp;name=NICK JR (by TeamBlue)$$lsname=NICK JR (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1672.ts;streamtype=TSDOWNLOADER&amp;name=NICK JR (by TeamBlue)$$lsname=NICK JR (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1672.ts;streamtype=TSDOWNLOADER&amp;name=NICK JR (by TeamBlue)$$lsname=NICK JR (F4M source #01)</link>
 <link>http://5.255.90.223:2082/play/NickJr$$lsname=NICK JR  (HTTP source #01)</link>
-
 <link>http://5.255.90.223:2086/play/a02e$$lsname=NICK JR  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NICK JR +1[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5313.ts;streamtype=TSDOWNLOADER&amp;name=NICK JR +1 (by TeamBlue)$$lsname=NICK JR +1 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3750.ts;streamtype=TSDOWNLOADER&amp;name=NICK JR +1 (by TeamBlue)$$lsname=NICK JR +1 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3750.ts;streamtype=TSDOWNLOADER&amp;name=NICK JR +1 (by TeamBlue)$$lsname=NICK JR +1 (F4M source #01)</link>
 <link>http://5.255.90.223:2082/play/NickJr1$$lsname=NICK JR +1  (HTTP source #01)</link>
-
 <link>http://5.255.90.223:2086/play/a02g$$lsname=NICK JR +1  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NICK JR TOO[/B][/COLOR]</title>
-
-
-
-
-
-
-
-
 <link>http://5.255.90.223:2082/play/NickJrToo$$lsname=NICK JR TOO  (HTTP source #01)</link>
-
 <link>http://5.255.90.223:2086/play/a02f$$lsname=NICK JR TOO  (HTTP source #03)</link>
 <link>http://5.255.90.223:2086/play/a02i$$lsname=NICK JR TOO  (HTTP source #04)</link>
-
-
-
-
-
-
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/8/89/Nick_Jr_Too.svg/revision/latest?cb=20141117170759</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NICKELODEON[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3565.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (by TeamBlue)$$lsname=NICKELODEON (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5311.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (by TeamBlue)$$lsname=NICKELODEON (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1261.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (by TeamBlue)$$lsname=NICKELODEON (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1261.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (by TeamBlue)$$lsname=NICKELODEON (F4M source #01)</link>
 <link>http://5.255.90.223:2082/play/Nickelodeon$$lsname=NICKELODEON  (HTTP source #01)</link>
-
 <link>http://5.255.90.223:2086/play/a02h$$lsname=NICKELODEON  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NICKTOONS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3567.ts;streamtype=TSDOWNLOADER&amp;name=NICKTOONS (by TeamBlue)$$lsname=NICKTOONS (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5312.ts;streamtype=TSDOWNLOADER&amp;name=NICKTOONS (by TeamBlue)$$lsname=NICKTOONS (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3748.ts;streamtype=TSDOWNLOADER&amp;name=NICKTOONS (by TeamBlue)$$lsname=NICKTOONS (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3748.ts;streamtype=TSDOWNLOADER&amp;name=NICKTOONS (by TeamBlue)$$lsname=NICKTOONS (F4M source #01)</link>
 <link>http://5.255.90.223:2082/play/Nicktoons$$lsname=NICKTOONS  (HTTP source #01)</link>
-
 <link>http://5.255.90.223:2086/play/a028$$lsname=NICKTOONS  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV UK[/B][/COLOR]</title>
-
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7311.ts;streamtype=TSDOWNLOADER&amp;name=MTV UK (by TeamBlue)$$lsname=MTV UK (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7311.ts;streamtype=TSDOWNLOADER&amp;name=MTV UK (by TeamBlue)$$lsname=MTV UK (F4M source #01)</link>
 <link>http://5.255.90.223:2082/play/mtv$$lsname=MTV UK  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/5u1u9oO.png?1</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV BASE[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5341.ts;streamtype=TSDOWNLOADER&amp;name=MTV BASE (by TeamBlue)$$lsname=MTV BASE (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3752.ts;streamtype=TSDOWNLOADER&amp;name=MTV BASE (by TeamBlue)$$lsname=MTV BASE (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3752.ts;streamtype=TSDOWNLOADER&amp;name=MTV BASE (by TeamBlue)$$lsname=MTV BASE (F4M source #01)</link>
 <thumbnail>http://i.imgur.com/6agMcKm.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV CLASSIC[/B][/COLOR]</title>
-
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7312.ts;streamtype=TSDOWNLOADER&amp;name=MTV CLASSIC (by TeamBlue)$$lsname=MTV CLASSIC (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7312.ts;streamtype=TSDOWNLOADER&amp;name=MTV CLASSIC (by TeamBlue)$$lsname=MTV CLASSIC (F4M source #01)</link>
 <link>http://212.231.80.4:3002/play/a007$$lsname=MTV CLASSIC  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_classic_au.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV DANCE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3753.ts;streamtype=TSDOWNLOADER&amp;name=MTV DANCE (by TeamBlue)$$lsname=MTV DANCE (F4M source #01)</link>
-
-
-
-
-
-
-
 <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_dance_1/10257/0/tv-ss/live.isml/playlist.m3u8$$lsname=MTV DANCE  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/WCZQdTA.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV HITS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3754.ts;streamtype=TSDOWNLOADER&amp;name=MTV HITS (by TeamBlue)$$lsname=MTV HITS (F4M source #01)</link>
-
-
-
-
-
-
-
 <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_hits_1/10256/0/tv-ss/live.isml/playlist.m3u8$$lsname=MTV HITS  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/iyi7pTK.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV LIVE[/B][/COLOR]</title>
-
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/6085.ts;streamtype=TSDOWNLOADER&amp;name=MTV LIVE (by TeamBlue)$$lsname=MTV LIVE (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/6085.ts;streamtype=TSDOWNLOADER&amp;name=MTV LIVE (by TeamBlue)$$lsname=MTV LIVE (F4M source #01)</link>
 <link>http://89.29.203.196:9090/play/a01h$$lsname=MTV LIVE  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/1/14/MTV_Live_Logo.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV MUSIC[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3561.ts;streamtype=TSDOWNLOADER&amp;name=MTV MUSIC (by TeamBlue)$$lsname=MTV MUSIC (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5338.ts;streamtype=TSDOWNLOADER&amp;name=MTV MUSIC (by TeamBlue)$$lsname=MTV MUSIC (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3755.ts;streamtype=TSDOWNLOADER&amp;name=MTV MUSIC (by TeamBlue)$$lsname=MTV MUSIC (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3755.ts;streamtype=TSDOWNLOADER&amp;name=MTV MUSIC (by TeamBlue)$$lsname=MTV MUSIC (F4M source #01)</link>
 <link>http://212.231.80.4:3002/play/a009$$lsname=MTV MUSIC  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/9khFNCi.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV ROCKS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3756.ts;streamtype=TSDOWNLOADER&amp;name=MTV ROCKS (by TeamBlue)$$lsname=MTV ROCKS (F4M source #01)</link>
-
-
-
-
-
-
-
 <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml/playlist.m3u8$$lsname=MTV ROCKS  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/ptZeCgt.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] VH1 EUROPE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3019.ts;streamtype=TSDOWNLOADER&amp;name=VH1 EUROPE (by TeamBlue)$$lsname=VH1 EUROPE (F4M source #01)</link>
-
-
-
-
-
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7591.ts;streamtype=TSDOWNLOADER&amp;name=VH1 EUROPE (by TeamBlue)$$lsname=VH1 EUROPE (F4M source #08)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7591.ts;streamtype=TSDOWNLOADER&amp;name=VH1 EUROPE (by TeamBlue)$$lsname=VH1 EUROPE (F4M source #06)</link>
 <link>http://85.7.107.8:8010/play/a04h $$lsname=VH1 EUROPE  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BOXNATION[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3493.ts;streamtype=TSDOWNLOADER&amp;name=BOXNATION (by TeamBlue)$$lsname=BOXNATION (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/4696.ts;streamtype=TSDOWNLOADER&amp;name=BOXNATION (by TeamBlue)$$lsname=BOXNATION (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/4696.ts;streamtype=TSDOWNLOADER&amp;name=BOXNATION (by TeamBlue)$$lsname=BOXNATION (F4M source #01)</link>
 <link>http://5.255.90.223:2082/play/a01x$$lsname=BOXNATION  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/box_nation_uk.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BT SPORT 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3494.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 1 (by TeamBlue)$$lsname=BT SPORT 1 (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7400.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 1 (by TeamBlue)$$lsname=BT SPORT 1 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7400.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 1 (by TeamBlue)$$lsname=BT SPORT 1 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1328.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 1 (by TeamBlue)$$lsname=BT SPORT 1 (F4M source #02)</link>
 <link>http://www.osltv.com/sniffs-s/sports.m3u8?id=btsport1-hq$$lsname=BT SPORT 1 HD (HTTP source #01)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=eead93f88a11a0e136157441ce93a0b3bb63e01e&.mp4$$lsname=BT SPORT 1 HD (HTTP source #02)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=e502c197dde3921551957ef2ec08fc6bbdc663ae&.mp4$$lsname=BT SPORT 1  (HTTP source #03)</link>
 <link>http://user:asdqwe@e.european-iptv.com:81/8374$$lsname=BT SPORT 1  (HTTP source #04)</link>
 <link><link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0$$lsname=BT SPORT 1 (RTMP #source 01)</link><regex><name>getLink</name><expres>videoLink = '(.*?)'</expres><page>http://www.livesport.pw/BTSport1.html</page><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent><cookieJar></cookieJar></regex>$$lsname=BT SPORT 1 (RTMP source #01)</link>
-
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesport.pw/BTSport1.html$$lsname=BT SPORT 1 (SD source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://93.174.93.84:8081/live/btsport1-hq/playlist.m3u8$$lsname=BT SPORT 1 (SD source #02)</link>
 <link>plugin://program.plexus/?url=acestream://eead93f88a11a0e136157441ce93a0b3bb63e01e&amp;mode=1&amp;name=acestream+BT SPORT 1$$lsname=BT SPORT 1 (PLEXUS source #01)</link>
 <link>plugin://program.plexus/?url=acestream://e502c197dde3921551957ef2ec08fc6bbdc663ae&amp;mode=1&amp;name=acestream+BT SPORT 1$$lsname=BT SPORT 1 (PLEXUS source #02)</link>
 <thumbnail>http://i.imgur.com/F2R303x.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BT SPORT 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3495.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 2 (by TeamBlue)$$lsname=BT SPORT 2 (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7401.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 2 (by TeamBlue)$$lsname=BT SPORT 2 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7401.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 2 (by TeamBlue)$$lsname=BT SPORT 2 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1327.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 2 (by TeamBlue)$$lsname=BT SPORT 2 (F4M source #02)</link>
 <link>http://www.osltv.com/sniffs-s/sports.m3u8?id=btsport2-hq$$lsname=BT SPORT 2 HD (HTTP source #01)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=02200cafaf713242bc75b8e67bddf93eca66c9d7&.mp4$$lsname=BT SPORT 2 HD (HTTP source #02)</link>
 <link>http://5.255.90.223:2082/play/a01t$$lsname=BT SPORT 2  (HTTP source #03)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=4195d2c248b262e92aab43f6426736c4a3d14e86&.mp4$$lsname=BT SPORT 2  (HTTP source #04)</link>
 <link><link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0$$lsname=BT SPORT 2 (RTMP #source 01)</link><regex><name>getLink</name><expres>videoLink = '(.*?)'</expres><page>http://www.livesport.pw/BTSport2.html</page><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent><cookieJar></cookieJar></regex>$$lsname=BT SPORT 2 (RTMP source #01)</link>
-
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://wizhdsports.is/live/stream5.php$$lsname=BT SPORT 2 (SD source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://bro.adca.st/stream.php?id=138 $$lsname=BT SPORT 2 (SD source #02)</link>
 <link>plugin://program.plexus/?url=acestream://02200cafaf713242bc75b8e67bddf93eca66c9d7&amp;mode=1&amp;name=acestream+BT SPORT 2$$lsname=BT SPORT 2 (PLEXUS source #01)</link>
 <link>plugin://program.plexus/?url=acestream://04b38c71065be18d799edf8c37d63e738030b84d&amp;mode=1&amp;name=acestream+BT SPORT 2$$lsname=BT SPORT 2 (PLEXUS source #02)</link>
 <thumbnail>http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BT SPORT 3[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3498.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 3 (by TeamBlue)$$lsname=BT SPORT 3 (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7402.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 3 (by TeamBlue)$$lsname=BT SPORT 3 (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7402.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 3 (by TeamBlue)$$lsname=BT SPORT 3 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1326.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT 3 (by TeamBlue)$$lsname=BT SPORT 3 (F4M source #02)</link>
 <thumbnail>http://sport.bt.com/s/assets/ucl/images/btsport3.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BT SPORT ESPN[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5369.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT ESPN (by TeamBlue)$$lsname=BT SPORT ESPN (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7404.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT ESPN (by TeamBlue)$$lsname=BT SPORT ESPN (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7404.ts;streamtype=TSDOWNLOADER&amp;name=BT SPORT ESPN (by TeamBlue)$$lsname=BT SPORT ESPN (F4M source #01)</link>
 <link>http://www.osltv.com/sniffs-s/sports.m3u8?id=espnuk-hq$$lsname=BT SPORT ESPN  (HTTP source #01)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=f4e2ade22f407fe567728923cbbe1ccb5b43a9df&.mp4$$lsname=BT SPORT ESPN  (HTTP source #02)</link>
 <link>http://5.255.90.223:2082/play/a01w$$lsname=BT SPORT ESPN  (HTTP source #03)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=f4e2ade22f407fe567728923cbbe1ccb5b43a9df&.mp4$$lsname=BT SPORT ESPN  (HTTP source #04)</link>
-
-
-
-
 <link>plugin://program.plexus/?url=acestream://f4e2ade22f407fe567728923cbbe1ccb5b43a9df&amp;mode=1&amp;name=acestream+BT SPORT ESPN$$lsname=BT SPORT ESPN (PLEXUS source #01)</link>
-
 <thumbnail>http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png</thumbnail></item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT UK[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3534.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT UK (by TeamBlue)$$lsname=EUROSPORT UK (F4M source #01)</link>
-
-
-
-
-
-
-
 <link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8$$lsname=EUROSPORT UK  (HTTP source #01)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=b29973bf8dba37730312e1e4f3cb655f0791ef3f&.mp4$$lsname=EUROSPORT UK  (HTTP source #02)</link>
-
 <link>http://127.0.0.1:6878/ace/getstream?id=49eb2ad303cbaca213cf7426ca8fc06fc620cb6a&.mp4$$lsname=EUROSPORT UK  (HTTP source #04)</link>
-
-
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.shadow-net.org/channels/British-Eurosport-1.html$$lsname=EUROSPORT UK (SD source #01)</link>
-
 <link>plugin://program.plexus/?url=acestream://b29973bf8dba37730312e1e4f3cb655f0791ef3f&amp;mode=1&amp;name=acestream+EUROSPORT UK$$lsname=EUROSPORT UK (PLEXUS source #01)</link>
 <link>plugin://program.plexus/?url=acestream://204d5a2373fd9f224c67cc25919dbf2da96bd539&amp;mode=1&amp;name=acestream+EUROSPORT UK$$lsname=EUROSPORT UK (PLEXUS source #02)</link>
 <thumbnail>http://i.imgur.com/8KXbjyH.jpg</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 2 UK[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3535.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 UK (by TeamBlue)$$lsname=EUROSPORT 2 UK (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5371.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 UK (by TeamBlue)$$lsname=EUROSPORT 2 UK (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/921.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 UK (by TeamBlue)$$lsname=EUROSPORT 2 UK (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/921.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 UK (by TeamBlue)$$lsname=EUROSPORT 2 UK (F4M source #01)</link>
 <link>http://iptvdini.zapto.org:8000/live/latifkujtimi131/latifkujtimi131/1719.m3u8$$lsname=EUROSPORT 2 UK  (HTTP source #01)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=7b71db60a66f4126fef1820746d084117dcfe2b0&.mp4$$lsname=EUROSPORT 2 UK  (HTTP source #02)</link>
-
 <link>http://127.0.0.1:6878/ace/getstream?id=d62f7be906b4666e65b1def4f6b18e9af041eda3&.mp4$$lsname=EUROSPORT 2 UK  (HTTP source #04)</link>
-
-
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.shadow-net.org/channels/British-Eurosport-2.html$$lsname=EUROSPORT 2 UK (SD source #01)</link>
-
 <link>plugin://program.plexus/?url=acestream://7b71db60a66f4126fef1820746d084117dcfe2b0&amp;mode=1&amp;name=acestream+EUROSPORT 2 UK$$lsname=EUROSPORT 2 UK (PLEXUS source #01)</link>
 <link>plugin://program.plexus/?url=acestream://d5084c1860732733fa44fda6ab58fe326d71de26&amp;mode=1&amp;name=acestream+EUROSPORT 2 UK$$lsname=EUROSPORT 2 UK (PLEXUS source #02)</link>
 <thumbnail>http://i.imgur.com/fhg3V6Q.jpg</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOTORSPORT.TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3558.ts;streamtype=TSDOWNLOADER&amp;name=MOTORSPORT.TV (by TeamBlue)$$lsname=MOTORSPORT.TV (F4M source #01)</link>
-
-
-
-
-
-
-
 <link>http://5.255.90.223:2082/play/a01s$$lsname=MOTORSPORT.TV  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>https://kampanja3.dna.fi/sportmix/assets/images/logos/logo_motorsport_tv.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIER SPORTS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3569.ts;streamtype=TSDOWNLOADER&amp;name=PREMIER SPORTS (by TeamBlue)$$lsname=PREMIER SPORTS (F4M source #01)</link>
-
-
-
-
-
-
-
-
-
 <link>http://plexflixiptv.co.uk:80/hls/146.m3u8?channelId=146&uid=953&deviceMac=00:1A:79:39:1C:9B$$lsname=PREMIER SPORTS  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/premier_sports.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SETANTA SPORTS[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5370.ts;streamtype=TSDOWNLOADER&amp;name=SETANTA SPORTS (by TeamBlue)$$lsname=SETANTA SPORTS (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2745.ts;streamtype=TSDOWNLOADER&amp;name=SETANTA SPORTS (by TeamBlue)$$lsname=SETANTA SPORTS (F4M source #03)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2745.ts;streamtype=TSDOWNLOADER&amp;name=SETANTA SPORTS (by TeamBlue)$$lsname=SETANTA SPORTS (F4M source #01)</link>
 <thumbnail>http://i.imgur.com/0pwoujZ.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY SPORTS 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3590.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 1 (by TeamBlue)$$lsname=SKY SPORTS 1 (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1109.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 1 (by TeamBlue)$$lsname=SKY SPORTS 1 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1109.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 1 (by TeamBlue)$$lsname=SKY SPORTS 1 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1312.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 1 (by TeamBlue)$$lsname=SKY SPORTS 1 (F4M source #02)</link>
 <link>http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports1-hq$$lsname=SKY SPORTS 1  (HTTP source #01)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=93393ff5e41273fb43c104d639e3f0d36f8742e3&.mp4$$lsname=SKY SPORTS 1  (HTTP source #02)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=aa7c6b5f1fd8fbae6c4b1e4e2df6659e7179aca1&.mp4$$lsname=SKY SPORTS 1  (HTTP source #03)</link>
-
 <link><link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0$$lsname=SKY SPORTS 1 (RTMP #source 01)</link><regex><name>getLink</name><expres>videoLink = '(.*?)'</expres><page>http://www.livesport.pw/SkySports1.html</page><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent><cookieJar></cookieJar></regex>$$lsname=SKY SPORTS 1 (RTMP source #01)</link>
-
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesport.pw//SkySports1.html$$lsname=SKY SPORTS 1 (SD source #01)</link>
-
 <link>plugin://program.plexus/?url=acestream://93393ff5e41273fb43c104d639e3f0d36f8742e3&amp;mode=1&amp;name=acestream+SKY SPORTS 1$$lsname=SKY SPORTS 1 (PLEXUS source #01)</link>
 <link>plugin://program.plexus/?url=acestream://aa7c6b5f1fd8fbae6c4b1e4e2df6659e7179aca1&amp;mode=1&amp;name=acestream+SKY SPORTS 1$$lsname=SKY SPORTS 1 (PLEXUS source #02)</link>
 <thumbnail>http://i.imgur.com/GM9BhHH.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY SPORTS 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3592.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 2 (by TeamBlue)$$lsname=SKY SPORTS 2 (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1113.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 2 (by TeamBlue)$$lsname=SKY SPORTS 2 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1113.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 2 (by TeamBlue)$$lsname=SKY SPORTS 2 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1311.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 2 (by TeamBlue)$$lsname=SKY SPORTS 2 (F4M source #02)</link>
 <link>http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports2-hq$$lsname=SKY SPORTS 2  (HTTP source #01)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=6b2fb9a9e67aaabd63004059147dfdc46e882aba&.mp4$$lsname=SKY SPORTS 2  (HTTP source #02)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=6b2fb9a9e67aaabd63004059147dfdc46e882aba&.mp4$$lsname=SKY SPORTS 2  (HTTP source #03)</link>
-
 <link><link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0$$lsname=SKY SPORTS 2 (RTMP #source 01)</link><regex><name>getLink</name><expres>videoLink = '(.*?)'</expres><page>http://www.livesport.pw/SkySports2.html</page><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent><cookieJar></cookieJar></regex>$$lsname=SKY SPORTS 2 (RTMP source #01)</link>
-
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://bro.adca.st/stream.php?id=58$$lsname=SKY SPORTS 2 (SD source #01)</link>
-
 <link>plugin://program.plexus/?url=acestream://6b2fb9a9e67aaabd63004059147dfdc46e882aba&amp;mode=1&amp;name=acestream+SKY SPORTS 2$$lsname=SKY SPORTS 2 (PLEXUS source #01)</link>
-
 <thumbnail>http://i.imgur.com/JM9osWD.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY SPORTS 3[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3594.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 3 (by TeamBlue)$$lsname=SKY SPORTS 3 (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1116.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 3 (by TeamBlue)$$lsname=SKY SPORTS 3 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1116.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 3 (by TeamBlue)$$lsname=SKY SPORTS 3 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1310.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 3 (by TeamBlue)$$lsname=SKY SPORTS 3 (F4M source #02)</link>
 <link>http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports3-hq$$lsname=SKY SPORTS 3  (HTTP source #01)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=e6f513db2736a413d021ebc1e16c815897120129&.mp4$$lsname=SKY SPORTS 3  (HTTP source #02)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=e6f513db2736a413d021ebc1e16c815897120129&.mp4$$lsname=SKY SPORTS 3  (HTTP source #03)</link>
-
 <link><link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0$$lsname=SKY SPORTS 3 (RTMP #source 01)</link><regex><name>getLink</name><expres>videoLink = '(.*?)'</expres><page>http://www.livesport.pw/SkySports3.html</page><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent><cookieJar></cookieJar></regex>$$lsname=SKY SPORTS 3 (RTMP source #01)</link>
-
-
-
 <link>plugin://program.plexus/?url=acestream://e6f513db2736a413d021ebc1e16c815897120129&amp;mode=1&amp;name=acestream+SKY SPORTS 3$$lsname=SKY SPORTS 3 (PLEXUS source #01)</link>
-
 <thumbnail>http://i.imgur.com/CfwpEyD.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY SPORTS 4[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3596.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 4 (by TeamBlue)$$lsname=SKY SPORTS 4 (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1388.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 4 (by TeamBlue)$$lsname=SKY SPORTS 4 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1388.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 4 (by TeamBlue)$$lsname=SKY SPORTS 4 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1309.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 4 (by TeamBlue)$$lsname=SKY SPORTS 4 (F4M source #02)</link>
 <link>http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports4-hq$$lsname=SKY SPORTS 4  (HTTP source #01)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=969a42388e101e6c6d9574a311e4b387a6ff1413&.mp4$$lsname=SKY SPORTS 4  (HTTP source #02)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=969a42388e101e6c6d9574a311e4b387a6ff1413&.mp4$$lsname=SKY SPORTS 4  (HTTP source #03)</link>
-
 <link><link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0$$lsname=SKY SPORTS 4 (RTMP #source 01)</link><regex><name>getLink</name><expres>videoLink = '(.*?)'</expres><page>http://www.livesport.pw/SkySports4.html</page><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent><cookieJar></cookieJar></regex>$$lsname=SKY SPORTS 4 (RTMP source #01)</link>
-
-
-
 <link>plugin://program.plexus/?url=acestream://969a42388e101e6c6d9574a311e4b387a6ff1413&amp;mode=1&amp;name=acestream+SKY SPORTS 4$$lsname=SKY SPORTS 4 (PLEXUS source #01)</link>
-
 <thumbnail>http://i.imgur.com/3ha97Ea.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY SPORTS 5[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3598.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 5 (by TeamBlue)$$lsname=SKY SPORTS 5 (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1119.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 5 (by TeamBlue)$$lsname=SKY SPORTS 5 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1119.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 5 (by TeamBlue)$$lsname=SKY SPORTS 5 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1308.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 5 (by TeamBlue)$$lsname=SKY SPORTS 5 (F4M source #02)</link>
 <link>http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports5-hq$$lsname=SKY SPORTS 5  (HTTP source #01)</link>
-
-
-
 <link><link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0$$lsname=SKY SPORTS 5 (RTMP #source 01)</link><regex><name>getLink</name><expres>videoLink = '(.*?)'</expres><page>http://www.livesport.pw/SkySports5.html</page><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent><cookieJar></cookieJar></regex>$$lsname=SKY SPORTS 5 (RTMP source #01)</link>
-
-
-
-
-
 <thumbnail>http://i.imgur.com/0xHzWmL.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY SPORTS F1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3600.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS F1 (by TeamBlue)$$lsname=SKY SPORTS F1 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5368.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS F1 (by TeamBlue)$$lsname=SKY SPORTS F1 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1120.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS F1 (by TeamBlue)$$lsname=SKY SPORTS F1 (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1120.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS F1 (by TeamBlue)$$lsname=SKY SPORTS F1 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1307.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS F1 (by TeamBlue)$$lsname=SKY SPORTS F1 (F4M source #02)</link>
 <link>http://www.osltv.com/sniffs-s/sports.m3u8?id=skysportsf1-hq$$lsname=SKY SPORTS F1  (HTTP source #01)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=53793f3854af450d1c62dc9c3f659e60e7b99400&.mp4$$lsname=SKY SPORTS F1  (HTTP source #02)</link>
-
-
-
-
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.shadow-net.org/channels/Sky-Sports-F1.html$$lsname=SKY SPORTS F1 (SD source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.cast4u.tv/embedplayer/skysf1/1/640/360$$lsname=SKY SPORTS F1 (SD source #02)</link>
 <link>plugin://program.plexus/?url=acestream://53793f3854af450d1c62dc9c3f659e60e7b99400&amp;mode=1&amp;name=acestream+SKY SPORTS F1$$lsname=SKY SPORTS F1 (PLEXUS source #01)</link>
 <link>plugin://program.plexus/?url=acestream://969dbafa76bbd0ca37d73629f392c83fcf9cc295&amp;mode=1&amp;name=acestream+SKY SPORTS F1$$lsname=SKY SPORTS F1 (PLEXUS source #02)</link>
 <thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SKY SPORTS NEWS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/3602.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS NEWS (by TeamBlue)$$lsname=SKY SPORTS NEWS (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/andreas/andreas/5367.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS NEWS (by TeamBlue)$$lsname=SKY SPORTS NEWS (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1675.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS NEWS (by TeamBlue)$$lsname=SKY SPORTS NEWS (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1675.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS NEWS (by TeamBlue)$$lsname=SKY SPORTS NEWS (F4M source #01)</link>
 <link>http://www.osltv.com/sniffs-s/sports.m3u8?id=skysportsnews-hq$$lsname=SKY SPORTS NEWS  (HTTP source #01)</link>
-
-
-
-
-
-
-
-
-
 <thumbnail>http://i.imgur.com/dQMc5EO.png</thumbnail></item>
-
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CHELSEA TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2984.ts;streamtype=TSDOWNLOADER&amp;name=CHELSEA TV (by TeamBlue)$$lsname=CHELSEA TV (F4M source #01)</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/5069.ts;streamtype=TSDOWNLOADER&amp;name=CHELSEA TV (by TeamBlue)$$lsname=CHELSEA TV (F4M source #03)</link>
-
-
-
-
-
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/5069.ts;streamtype=TSDOWNLOADER&amp;name=CHELSEA TV (by TeamBlue)$$lsname=CHELSEA TV (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1340.ts;streamtype=TSDOWNLOADER&amp;name=CHELSEA TV (by TeamBlue)$$lsname=CHELSEA TV (F4M source #02)</link>
 <link>http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8$$lsname=CHELSEA TV  (HTTP source #01)</link>
-
 <link>http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8$$lsname=CHELSEA TV  (HTTP source #03)</link>
-
-
-
-
-
-
-
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058</thumbnail></item>
-
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MUTV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/5071.ts;streamtype=TSDOWNLOADER&amp;name=MUTV (by TeamBlue)$$lsname=MUTV (F4M source #01)</link>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056</thumbnail></item>
-
 Copyright © 2017 - TeamBlue
-
-
-
-
