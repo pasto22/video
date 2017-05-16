@@ -5,7 +5,7 @@
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
- <title>[COLOR deepskyblue][B]PORTUGAL[/COLOR][/B][makelist2.param1]</title>
+ <title>[COLOR deepskyblue][B]LISTA[/COLOR][/B][makelist2.param1]</title>
  <link>$doregex[makelist]</link>
  <thumbnail>http://i.imgur.com/gvIgYwd.png</thumbnail>
  <fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
@@ -3238,5 +3238,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://i.imgur.com/IpdLuL6.png</thumbnail></item>
 
 Copyright © 2017 - TeamBlue
-
 
