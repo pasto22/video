@@ -117,7 +117,6 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8471.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #06)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1657.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #08)</link>
 <link>http://178.193.237.115:9000/play/a08b$$lsname=SPORT TV 3 (HTTP #source 01)</link>
-<link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP #source 01)</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=merda4-rp4un</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex>$$lsname=SPORT TV 3 (RTMP #source 01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/live3-qszlx$$lsname=SPORT TV 3 (SD #source 01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 3 (SD #source 02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1199.ts;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 1$$lsname=SFR SPORT 1 (F4M source #02)</link>
@@ -188,7 +187,9 @@
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/287.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #03)</link>
 <link>http://149.202.205.91:8081/live/tvsat/youtube/2139.m3u8$$lsname=SPORT TV 5 (HTTP #source 01)</link>
+<link>http://178.193.237.115:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 03)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (SD #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (SD #source 02)</link>
 <info>A National Hockey League (em português: Liga Nacional de Hóquei no Gelo; abreviação oficial: NHL) é uma organização profissional esportiva composta por times de hóquei no gelo dos Estados Unidos e do Canadá, onde também é conhecida pelo nome francês Ligue Nationale de Hockey (LNH).</info>
 <thumbnail>http://i.imgur.com/w0tyTIT.png</thumbnail></item>
 <item><title>[B][COLOR red]17.05 01h15 [B][COLOR green]FUTEBOL [COLOR blue]CEARA • BOA ESPORTE [B][COLOR green]BRASILEIRAO SERIE B[/B][/COLOR]</title>
@@ -203,12 +204,13 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7758.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #03)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8469.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #06)</link>
 <link>http://149.202.205.91:8081/live/tvsat/youtube/1721.m3u8$$lsname=SPORT TV 1 (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv1-em-direto-gratis-sport-tv1-portugal-live-stream-online/$$lsname=SPORT TV 1 (SD #source 01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/live1-rbi6c$$lsname=SPORT TV 1 (SD #source 02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1456.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA 1$$lsname=MOVISTAR DEPORTES 1 (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15434.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA 1$$lsname=MOVISTAR DEPORTES 1 (F4M source #03)</link>
 <link>http://185.53.161.147:8888/play/a013$$lsname=MOVISTAR DEPORTES 1 (HTTP #source 01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254$$lsname=MOVISTAR DEPORTES 1 (SD #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 5 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av5</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 6 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av6</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
 <info>A National Basketball Association (em português: Associação Nacional de Basquetebol; abreviação oficial: NBA) é a principal liga de basquetebol profissional da América do Norte. Com 30 franquias sendo membros da mesma (29 nos Estados Unidos e 1 no Canadá), a NBA também é considerada a principal liga de basquete do mundo. É um membro ativo da USA Basketball (USAB), que é reconhecida pela FIBA (a Federação Internacional de Basquetebol) como a entidade máxima e organizadora do basquetebol nos Estados Unidos. A NBA é uma das 4 'major leagues' do desporto profissional na América do Norte. Os jogadores da NBA são os mais bem pagos desportistas do mundo, por salário médio anual.</info>
 <thumbnail>http://i.imgur.com/Vp79zzI.png</thumbnail></item>
 <item><title>[B][COLOR red]17.05 03h15 [B][COLOR green]FUTEBOL [COLOR blue]IND. MEDELLIN • EMELEC [B][COLOR green]TACA LIBERTADORES DA AMERICA[/B][/COLOR]</title>
@@ -225,6 +227,8 @@
 <link>http://185.53.161.147:8888/play/a023$$lsname=beiN SPORTS N (HTTP #source 01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacasadeltikitaka.me/directo/canal1.php$$lsname=beiN SPORTS N (SD #source 01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105711&width=650&height=400&autostart=true$$lsname=beiN SPORTS N (SD #source 02)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 13 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av13</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 14 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av14</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
 <info>A Copa Libertadores da América ou Taça Libertadores da América (Copa Libertadores de América em espanhol), cujo nome oficial atual é CONMEBOL Libertadores Bridgestone por motivos de patrocínio, é a principal competição de futebol entre clubes profissionais da América do Sul, organizada pela Confederação Sul-Americana de Futebol (CONMEBOL). Em 1998 começou a ser patrocinada pela montadora japonesa Toyota, quando em 2013 o patrocinador oficial da competição passou a ser a fabricante de pneus também japonesa Bridgestone.</info>
 <thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
 <item><title>[B][COLOR red]17.05 11h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
@@ -235,6 +239,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1455.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA 2$$lsname=MOVISTAR DEPORTES 2 (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12545.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA 2$$lsname=MOVISTAR DEPORTES 2 (F4M source #03)</link>
 <link>http://185.53.161.147:8888/play/a02g$$lsname=MOVISTAR DEPORTES 2 (HTTP #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 15 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av15</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 16 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av16</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
 <info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
 <thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
 <item><title>[B][COLOR red]17.05 12h15 [B][COLOR green]CICLISMO [COLOR blue]GIRO DE ITALIA • ETAPA 11 [B][COLOR green][/B][/COLOR]</title>
@@ -242,6 +248,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/860.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7743.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #03)</link>
 <link>http://149.202.205.91:8081/live/tvsat/youtube/1667.m3u8$$lsname=EUROSPORT (HTTP #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 7 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av7</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
 <info>O Giro d'Italia é uma corrida de longa distância para ciclistas profissionais. A corrida tem a duração de três semanas e é realizada na Itália durante o mês de maio, podendo avançar até o início de junho. O Giro d'Italia é considerado a segunda mais importante competição por etapas do ciclismo mundial, atrás apenas do Tour de France. O Giro, Tour de France [1] e a Vuelta a España compõem as três grandes voltas ciclísticas.</info>
 <thumbnail>http://i.imgur.com/jcfSvb1.png</thumbnail></item>
 <item><title>[B][COLOR red]17.05 12h30 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO JORNAL [B][COLOR green][/B][/COLOR]</title>
