@@ -1,146 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item><title>[B][COLOR red]15.05 10h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
+<item><title>[B][COLOR red]16.05 10h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/167.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1724.m3u8$$lsname=SPORT TV 4 (HTTP #source 01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1455.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA 2$$lsname=MOVISTAR DEPORTES 2 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12545.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA 2$$lsname=MOVISTAR DEPORTES 2 (F4M source #03)</link>
+<link>http://185.53.161.147:8888/play/a02g$$lsname=MOVISTAR DEPORTES 2 (HTTP #source 01)</link>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 15 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av15</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 16 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av16</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
 <info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
 <thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 12h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
+<item><title>[B][COLOR red]16.05 12h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/167.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
-<link>http://85.7.107.8:8011/play/a011$$lsname=SPORT TV 4 (HTTP #source 01)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1724.m3u8$$lsname=SPORT TV 4 (HTTP #source 01)</link>
 <info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
 <thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 12h30 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO JORNAL [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3016.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #03)</link>
-<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
-<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
-<info>O Universo Porto - Jornal é um programa de informação desportiva, sobre conteúdos do FC Porto. Trata-se de um programa diário, de segunda a sexta-feira, com todas as informações do FC Porto, um olhar atento sobre o dia-a-dia do clube, com síntese sobre todas as modalidades.</info>
-<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 14h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
-<link>http://85.7.107.8:8011/play/a011$$lsname=SPORT TV 4 (HTTP #source 01)</link>
-<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
-<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 16h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
-<link>http://85.7.107.8:8011/play/a011$$lsname=SPORT TV 4 (HTTP #source 01)</link>
-<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
-<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 17h30 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
-<link>http://85.7.107.8:8011/play/a011$$lsname=SPORT TV 4 (HTTP #source 01)</link>
-<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
-<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 18h15 [B][COLOR green]NOTICIAS [COLOR blue]MAIS BASTIDORES TARDE [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2176.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7752.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #03)</link>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8$$lsname=TVI24 (HTTP #source 01)</link>
-<info>De segunda a sexta, um olhar sobre todas as jogadas dos bastidores do futebol português! Tudo o que se passa, dia a dia, dentro dos balneários dos clubes – das palavras dos treinadores às reações dos jogadores. Na TVI24, acompanhamos o arranque da nova época também nos bastidores.</info>
-<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 18h30 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO JORNAL [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3016.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #03)</link>
-<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
-<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
-<info>O Universo Porto - Jornal é um programa de informação desportiva, sobre conteúdos do FC Porto. Trata-se de um programa diário, de segunda a sexta-feira, com todas as informações do FC Porto, um olhar atento sobre o dia-a-dia do clube, com síntese sobre todas as modalidades.</info>
-<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 19h00 [B][COLOR green]NOTICIAS [COLOR blue]JORNAL DE DESPORTO [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3016.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #03)</link>
-<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
-<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
-<info>Espaço de Informação atualizada sobre todas as modalidades desportivas.</info>
-<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 19h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
-<link>http://85.7.107.8:8011/play/a011$$lsname=SPORT TV 4 (HTTP #source 01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8303.ts;streamtype=TSDOWNLOADER&amp;name=beIN Sports 3 FR$$lsname=beIN Sports 3 FR (F4M source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.bigcast.us/embedhd.php?v=bein2fr&vw=650&vh=390&vh=390$$lsname=beIN Sports 3 FR (SD #source 01)</link>
-<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
-<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 20h00 [B][COLOR green]FUTEBOL [COLOR blue]CHELSEA • WATFORD [B][COLOR green]PREMIER LEAGUE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2186.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7757.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #03)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8471.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #06)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1657.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #07)</link>
-<link>http://85.7.107.8:8011/play/a00d$$lsname=SPORT TV 3 (HTTP #source 01)</link>
-<link>http://85.7.107.8:8011/play/a010$$lsname=SPORT TV 3 (HTTP #source 03)</link>
-<link>http://178.193.237.115:9000/play/a08b$$lsname=SPORT TV 3 (HTTP #source 04)</link>
-<link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP #source 01)</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=merda4-rp4un</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex>$$lsname=SPORT TV 3 (RTMP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/live3-qszlx$$lsname=SPORT TV 3 (SD #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 3 (SD #source 02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13053.ts;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 1$$lsname=SFR SPORT 1 (F4M source #01)</link>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 3 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av3</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 4 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av4</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 27 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av27</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 28 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av28</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<info>Premier League é uma liga profissional de futebol da Inglaterra e está no topo do sistema de ligas do futebol inglês, sendo a principal competição de futebol do país. Ela era patrocinada pelo Barclays Bank até 2016, motivo pelo qual era oficialmente chamada de Barclays Premier League. É disputada por vinte clubes no sistema de pontos corridos, em que no final de cada temporada os quatro melhores colocados participam da Liga dos Campeões da UEFA, e os três piores são rebaixados para a Football League Championship, dando lugar aos três melhores desta competição. Cada temporada decorre entre agosto e maio, tendo 38 rodadas com dez partidas cada, totalizando 380 partidas em toda a temporada. A maioria dos jogos são disputados durante o período da tarde nos sábados e domingos e algumas vezes durante a noite no meio da semana.</info>
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 20h00 [B][COLOR green]FUTEBOL [COLOR blue]V. SETUBAL • BOAVISTA FC [B][COLOR green]LIGA NOS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2184.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7758.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #03)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8469.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #06)</link>
-<link>http://85.7.107.8:8011/play/a00b$$lsname=SPORT TV 1 (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv1-em-direto-gratis-sport-tv1-portugal-live-stream-online/$$lsname=SPORT TV 1 (SD #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/live1-rbi6c$$lsname=SPORT TV 1 (SD #source 02)</link>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 17 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av17</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<info>A Liga NOS é o escalão principal do sistema de ligas de futebol de Portugal. As equipas que terminam em 17º e 18º lugar são despromovidas à Segunda Liga, enquanto as equipas mais bem classificadas se qualificam para as competições da UEFA, nomeadamente, a Liga dos Campeões (1º e 2º lugar com acesso direto à fase de grupos e o 3º ao playoff) e a Liga Europa (4º e 5º classificados têm acesso ao "play-off" e 3ª eliminatória, respetivamente; o 6º classificado também pode ter acesso à 3ª eliminatória caso o vencedor da Taça de Portugal termine no top 5 no campeonato). Adicionalmente, as equpas da Primeira Liga participam na Taça da Liga e na Taça de Portugal, entrando na segunda e terceira eliminatórias destas competições, respetivamente. Até 2018, a Primeira Liga terá a designação comercial de Liga NOS, devido ao patrocínio com a NOS.</info>
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 22h30 [B][COLOR green]CICLISMO [COLOR blue]VOLTA A CALIFORNIA [B][COLOR green][/B][/COLOR]</title>
+<item><title>[B][COLOR red]16.05 12h15 [B][COLOR green]CICLISMO [COLOR blue]GIRO DE ITALIA • ETAPA 10 [B][COLOR green][/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2988.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/860.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7743.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #03)</link>
-<link>http://85.7.107.8:8012/play/a004$$lsname=EUROSPORT (HTTP #source 01)</link>
-<link>http://85.7.107.8:8011/play/a015$$lsname=EUROSPORT (HTTP #source 03)</link>
-<link>http://85.7.107.8:8010/play/a03a$$lsname=EUROSPORT (HTTP #source 04)</link>
-<info>A Volta à California (oficialmente: Amgen Tour of California) é uma prova por etapas que se disputa na California (Estados Unidos) desde o ano de 2006. Tem uma duração de 8 etapas e inicialmente disputou-se no mês de Fevereiro e a partir de 2010 foi mudada para o mês de Maio.</info>
-<thumbnail>http://i.imgur.com/jcfSvb1.png</thumbnail></item>
-<item><title>[B][COLOR red]15.05 23h00 [B][COLOR green]FUTEBOL [COLOR blue]CORITIBA • ATLETICO GO [B][COLOR green]BRASILEIRAO SERIE A[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2963.ts;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7764.ts;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #03)</link>
-<info>Brasileirão - Série A, é a liga brasileira de futebol profissional entre clubes do Brasil, sendo a principal competição futebolística no país. É por meio dela que são indicados os representantes brasileiros para a Copa Libertadores da América (juntamente com o campeão da Copa do Brasil). Atualmente é também chamada oficialmente de Brasileirão Chevrolet, por motivos de patrocínio.</info>
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]16.05 01h00 [B][COLOR green]BASQUETEBOL [COLOR blue]BOSTON • WASHINGTON [B][COLOR green]NBA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2184.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7758.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #03)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8469.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #06)</link>
-<link>http://85.7.107.8:8011/play/a00b$$lsname=SPORT TV 1 (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv1-em-direto-gratis-sport-tv1-portugal-live-stream-online/$$lsname=SPORT TV 1 (SD #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/live1-rbi6c$$lsname=SPORT TV 1 (SD #source 02)</link>
-<info>A National Basketball Association (em português: Associação Nacional de Basquetebol; abreviação oficial: NBA) é a principal liga de basquetebol profissional da América do Norte. Com 30 franquias sendo membros da mesma (29 nos Estados Unidos e 1 no Canadá), a NBA também é considerada a principal liga de basquete do mundo. É um membro ativo da USA Basketball (USAB), que é reconhecida pela FIBA (a Federação Internacional de Basquetebol) como a entidade máxima e organizadora do basquetebol nos Estados Unidos. A NBA é uma das 4 'major leagues' do desporto profissional na América do Norte. Os jogadores da NBA são os mais bem pagos desportistas do mundo, por salário médio anual.</info>
-<thumbnail>http://i.imgur.com/Vp79zzI.png</thumbnail></item>
-<item><title>[B][COLOR red]16.05 01h00 [B][COLOR green]NHL [COLOR blue]PITTSBURGH • OTTAWA [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
-<link>http://85.7.107.8:8011/play/a011$$lsname=SPORT TV 4 (HTTP #source 01)</link>
-<info>A National Hockey League (em português: Liga Nacional de Hóquei no Gelo; abreviação oficial: NHL) é uma organização profissional esportiva composta por times de hóquei no gelo dos Estados Unidos e do Canadá, onde também é conhecida pelo nome francês Ligue Nationale de Hockey (LNH).</info>
-<thumbnail>http://i.imgur.com/w0tyTIT.png</thumbnail></item>
-<item><title>[B][COLOR red]16.05 10h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
-<link>http://85.7.107.8:8011/play/a011$$lsname=SPORT TV 4 (HTTP #source 01)</link>
-<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
-<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
-<item><title>[B][COLOR red]16.05 12h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA •  [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
-<link>http://85.7.107.8:8011/play/a011$$lsname=SPORT TV 4 (HTTP #source 01)</link>
-<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
-<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
-#REF!
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2988.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7743.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #03)</link>
-<link>http://85.7.107.8:8012/play/a004$$lsname=EUROSPORT (HTTP #source 01)</link>
-<link>http://85.7.107.8:8011/play/a015$$lsname=EUROSPORT (HTTP #source 03)</link>
-<link>http://85.7.107.8:8010/play/a03a$$lsname=EUROSPORT (HTTP #source 04)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1667.m3u8$$lsname=EUROSPORT (HTTP #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 7 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av7</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
 <info>O Giro d'Italia é uma corrida de longa distância para ciclistas profissionais. A corrida tem a duração de três semanas e é realizada na Itália durante o mês de maio, podendo avançar até o início de junho. O Giro d'Italia é considerado a segunda mais importante competição por etapas do ciclismo mundial, atrás apenas do Tour de France. O Giro, Tour de France [1] e a Vuelta a España compõem as três grandes voltas ciclísticas.</info>
 <thumbnail>http://i.imgur.com/jcfSvb1.png</thumbnail></item>
 <item><title>[B][COLOR red]16.05 12h30 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO JORNAL [B][COLOR green][/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3016.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/875.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #03)</link>
 <link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
@@ -148,8 +36,234 @@
 <thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
 <item><title>[B][COLOR red]16.05 14h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/167.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
-<link>http://85.7.107.8:8011/play/a011$$lsname=SPORT TV 4 (HTTP #source 01)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1724.m3u8$$lsname=SPORT TV 4 (HTTP #source 01)</link>
+<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
+<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 16h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/167.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1724.m3u8$$lsname=SPORT TV 4 (HTTP #source 01)</link>
+<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
+<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 16h30 [B][COLOR green]FUTEBOL [COLOR blue]TURQUIA • INGLATERRA [B][COLOR green]UEFA SUB17[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2988.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/860.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7743.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1667.m3u8$$lsname=EUROSPORT (HTTP #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 7 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av7</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 18h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/167.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1724.m3u8$$lsname=SPORT TV 4 (HTTP #source 01)</link>
+<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
+<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 18h15 [B][COLOR green]NOTICIAS [COLOR blue]MAIS BASTIDORES TARDE [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2176.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/884.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7752.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #03)</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8$$lsname=TVI24 (HTTP #source 01)</link>
+<info>De segunda a sexta, um olhar sobre todas as jogadas dos bastidores do futebol português! Tudo o que se passa, dia a dia, dentro dos balneários dos clubes – das palavras dos treinadores às reações dos jogadores. Na TVI24, acompanhamos o arranque da nova época também nos bastidores.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 18h30 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO JORNAL [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3016.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/875.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #03)</link>
+<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
+<info>O Universo Porto - Jornal é um programa de informação desportiva, sobre conteúdos do FC Porto. Trata-se de um programa diário, de segunda a sexta-feira, com todas as informações do FC Porto, um olhar atento sobre o dia-a-dia do clube, com síntese sobre todas as modalidades.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 19h00 [B][COLOR green]NOTICIAS [COLOR blue]JORNAL DE DESPORTO [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3016.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/875.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #03)</link>
+<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
+<info>Espaço de Informação atualizada sobre todas as modalidades desportivas.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 19h15 [B][COLOR green]FUTEBOL [COLOR blue]ESPANHA • ALEMANHA [B][COLOR green]UEFA SUB17[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2988.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/860.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7743.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1667.m3u8$$lsname=EUROSPORT (HTTP #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 7 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av7</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 19h15 [B][COLOR green]FUTEBOL [COLOR blue]ESPANHOL • VALENCIA [B][COLOR green]LA LIGA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1221.ts;streamtype=TSDOWNLOADER&amp;name=beIN Sports 2 FR$$lsname=beIN Sports 2 FR (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8302.ts;streamtype=TSDOWNLOADER&amp;name=beIN Sports 2 FR$$lsname=beIN Sports 2 FR (F4M source #03)</link>
+<info>A Primera División do Campeonato Espanhol, conhecido como La Liga, é patrocinada pelo Banco Santander. Também conhecida como Liga das Estrelas, é disputada por vinte clubes, sob o sistema de disputa de pontos corridos, onde os clubes jogam entre si no sistema de turno e returno.Segundo o ranking anual da Federação Internacional de História e Estatísticas do Futebol (IFFHF), La Liga é a melhor liga de futebol do mundo, também é tida como a segunda liga mais forte da ultima década na Europa sendo superada apenas pela liga inglesa (Premier League)</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 19h40 [B][COLOR green]FUTEBOL [COLOR blue]READING • FULHAM [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3006.ts;streamtype=TSDOWNLOADER&amp;name=beIN Sports 1 FR$$lsname=beIN Sports 1 FR (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1222.ts;streamtype=TSDOWNLOADER&amp;name=beIN Sports 1 FR$$lsname=beIN Sports 1 FR (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8301.ts;streamtype=TSDOWNLOADER&amp;name=beIN Sports 1 FR$$lsname=beIN Sports 1 FR (F4M source #03)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://bro.adca.st/stream.php?id=140$$lsname=beIN Sports 1 FR (SD #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 21 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av21</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<info></info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 19h45 [B][COLOR green]FUTEBOL [COLOR blue]ARSENALSUNDERLAND [B][COLOR green]PREMIER LEAGUE[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 8 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av8</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 9 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av9</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<info>Premier League é uma liga profissional de futebol da Inglaterra e está no topo do sistema de ligas do futebol inglês, sendo a principal competição de futebol do país. Ela era patrocinada pelo Barclays Bank até 2016, motivo pelo qual era oficialmente chamada de Barclays Premier League. É disputada por vinte clubes no sistema de pontos corridos, em que no final de cada temporada os quatro melhores colocados participam da Liga dos Campeões da UEFA, e os três piores são rebaixados para a Football League Championship, dando lugar aos três melhores desta competição. Cada temporada decorre entre agosto e maio, tendo 38 rodadas com dez partidas cada, totalizando 380 partidas em toda a temporada. A maioria dos jogos são disputados durante o período da tarde nos sábados e domingos e algumas vezes durante a noite no meio da semana.</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 20h00 [B][COLOR green]FUTEBOL [COLOR blue]MAN. CITY • WEST BROMWICH [B][COLOR green]PREMIER LEAGUE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2186.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/168.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7757.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8471.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #06)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1657.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #08)</link>
+<link>http://178.193.237.115:9000/play/a08b$$lsname=SPORT TV 3 (HTTP #source 01)</link>
+<link><link>$doregex[m3u8]$$lsname=SPORT TV 3 (RTMP #source 01)</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres><page>http://sharecast.eu/embed.php?ch=merda4-rp4un</page><referer></referer><agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent></regex>$$lsname=SPORT TV 3 (RTMP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/live3-qszlx$$lsname=SPORT TV 3 (SD #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn2.zuuk.org/sporttv4.php$$lsname=SPORT TV 3 (SD #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1199.ts;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 1$$lsname=SFR SPORT 1 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13053.ts;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 1$$lsname=SFR SPORT 1 (F4M source #03)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 3 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av3</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 4 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av4</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 27 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av27</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 28 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av28</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<info>Premier League é uma liga profissional de futebol da Inglaterra e está no topo do sistema de ligas do futebol inglês, sendo a principal competição de futebol do país. Ela era patrocinada pelo Barclays Bank até 2016, motivo pelo qual era oficialmente chamada de Barclays Premier League. É disputada por vinte clubes no sistema de pontos corridos, em que no final de cada temporada os quatro melhores colocados participam da Liga dos Campeões da UEFA, e os três piores são rebaixados para a Football League Championship, dando lugar aos três melhores desta competição. Cada temporada decorre entre agosto e maio, tendo 38 rodadas com dez partidas cada, totalizando 380 partidas em toda a temporada. A maioria dos jogos são disputados durante o período da tarde nos sábados e domingos e algumas vezes durante a noite no meio da semana.</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 20h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/167.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1724.m3u8$$lsname=SPORT TV 4 (HTTP #source 01)</link>
+<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
+<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 20h55 [B][COLOR green]NOTICIAS [COLOR blue]DUELOS COM COMENTARIOPEDRO HENRIQUES [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1146.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV+$$lsname=SPORT TV+ (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15368.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV+$$lsname=SPORT TV+ (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7816.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV+$$lsname=SPORT TV+ (F4M source #06)</link>
+<info>Novo espaço de debate com notáveis dos 3 grandes.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 21h00 [B][COLOR green]NOTICIAS [COLOR blue]MAIS BASTIDORES NOITE [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2176.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/884.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7752.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #03)</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8$$lsname=TVI24 (HTTP #source 01)</link>
+<info>De segunda a sexta, um olhar sobre todas as jogadas dos bastidores do futebol português! Tudo o que se passa, dia a dia, dentro dos balneários dos clubes – das palavras dos treinadores às reações dos jogadores. Na TVI24, acompanhamos o arranque da nova época também nos bastidores.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 22h00 [B][COLOR green]CICLISMO [COLOR blue]VOLTA A CALIFORNIA [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2988.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/860.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7743.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1667.m3u8$$lsname=EUROSPORT (HTTP #source 01)</link>
+<info>A Volta à California (oficialmente: Amgen Tour of California) é uma prova por etapas que se disputa na California (Estados Unidos) desde o ano de 2006. Tem uma duração de 8 etapas e inicialmente disputou-se no mês de Fevereiro e a partir de 2010 foi mudada para o mês de Maio.</info>
+<thumbnail>http://i.imgur.com/jcfSvb1.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 22h30 [B][COLOR green]NOTICIAS [COLOR blue]MAIS BASTIDORES NOITE [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2176.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/884.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7752.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #03)</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8$$lsname=TVI24 (HTTP #source 01)</link>
+<info>De segunda a sexta, um olhar sobre todas as jogadas dos bastidores do futebol português! Tudo o que se passa, dia a dia, dentro dos balneários dos clubes – das palavras dos treinadores às reações dos jogadores. Na TVI24, acompanhamos o arranque da nova época também nos bastidores.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 22h30 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO DA BANCADA [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3016.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/875.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #03)</link>
+<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
+<info>Espaço de debate dos temas 'quentes' que marcam a atualidade do FC Porto. Durante 55 minutos vamos debater a verdade sobre o que se passa dentro e fora das quatro linhas.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 22h45 [B][COLOR green]FUTEBOL [COLOR blue]BRASIL DE PELOTAS • LONDRINA [B][COLOR green]BRASILEIRAO SERIE B[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2963.ts;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7764.ts;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1686.m3u8$$lsname=PFC (HTTP #source 01)</link>
+<info>O Campeonato Brasileiro da Série B ou o Brasileirão Chevrolet, como também é chamado por questões de patrocínio (igualmente a Série A) é a Segunda Divisão do Campeonato Brasileiro de Futebol. O campeonato já teve inúmeros formatos, incluindo fases eliminatórias e pontos corridos. Na competição, que é organizada pela Confederação Brasileira de Futebol (CBF), os quatro primeiros colocados são promovidos para a Série A. Os quatro últimos colocados são rebaixados à Série C.</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]16.05 23h00 [B][COLOR green]NOTICIAS [COLOR blue]TEMPO EXTRA [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2174.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS$$lsname=SIC NOTICIAS (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/886.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS$$lsname=SIC NOTICIAS (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7820.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS$$lsname=SIC NOTICIAS (F4M source #03)</link>
+<link>http://live.impresa.pt/live/sicnot/sicnot.m3u8$$lsname=SIC NOTICIAS (HTTP #source 01)</link>
+<info>O Tempo Extra combate as fórmulas convencionais e coloca o foco no futebol: com total independência e frontalidade. RANKING DOS TREINADORES. A criação deste ranking tem o objectivo de estimular e promover o futebol positivo. Quantas vezes nos queixamos de ver equipas a não arriscar quando jogam na condição de visitantes? Quantas vezes ouvimos os treinadores acusar os seus próprios colegas de profissão de falta de ambição, de jogar para o pontinho sem sairem da sua defesa? LIGA REAL. Jornada a jornada, Rui Santos analisa a arbitragem e os principais lances dos jogos do Benfica, Braga, Porto e Sporting. E esta seria a verdadeira classificação no campeonato.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]17.05 01h00 [B][COLOR green]NHL [COLOR blue]NASHVILLE • ANAHEIM [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1696.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/287.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/2139.m3u8$$lsname=SPORT TV 5 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (SD #source 01)</link>
+<info>A National Hockey League (em português: Liga Nacional de Hóquei no Gelo; abreviação oficial: NHL) é uma organização profissional esportiva composta por times de hóquei no gelo dos Estados Unidos e do Canadá, onde também é conhecida pelo nome francês Ligue Nationale de Hockey (LNH).</info>
+<thumbnail>http://i.imgur.com/w0tyTIT.png</thumbnail></item>
+<item><title>[B][COLOR red]17.05 01h15 [B][COLOR green]FUTEBOL [COLOR blue]CEARA • BOA ESPORTE [B][COLOR green]BRASILEIRAO SERIE B[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2963.ts;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7764.ts;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1686.m3u8$$lsname=PFC (HTTP #source 01)</link>
+<info>O Campeonato Brasileiro da Série B ou o Brasileirão Chevrolet, como também é chamado por questões de patrocínio (igualmente a Série A) é a Segunda Divisão do Campeonato Brasileiro de Futebol. O campeonato já teve inúmeros formatos, incluindo fases eliminatórias e pontos corridos. Na competição, que é organizada pela Confederação Brasileira de Futebol (CBF), os quatro primeiros colocados são promovidos para a Série A. Os quatro últimos colocados são rebaixados à Série C.</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]17.05 02h00 [B][COLOR green]BASQUETEBOL [COLOR blue]GOLDEN STATE • SAN ANTONIO [B][COLOR green]NBA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2184.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/170.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7758.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8469.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #06)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1721.m3u8$$lsname=SPORT TV 1 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv1-em-direto-gratis-sport-tv1-portugal-live-stream-online/$$lsname=SPORT TV 1 (SD #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/live1-rbi6c$$lsname=SPORT TV 1 (SD #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1456.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA 1$$lsname=MOVISTAR DEPORTES 1 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15434.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA 1$$lsname=MOVISTAR DEPORTES 1 (F4M source #03)</link>
+<link>http://185.53.161.147:8888/play/a013$$lsname=MOVISTAR DEPORTES 1 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254$$lsname=MOVISTAR DEPORTES 1 (SD #source 01)</link>
+<info>A National Basketball Association (em português: Associação Nacional de Basquetebol; abreviação oficial: NBA) é a principal liga de basquetebol profissional da América do Norte. Com 30 franquias sendo membros da mesma (29 nos Estados Unidos e 1 no Canadá), a NBA também é considerada a principal liga de basquete do mundo. É um membro ativo da USA Basketball (USAB), que é reconhecida pela FIBA (a Federação Internacional de Basquetebol) como a entidade máxima e organizadora do basquetebol nos Estados Unidos. A NBA é uma das 4 'major leagues' do desporto profissional na América do Norte. Os jogadores da NBA são os mais bem pagos desportistas do mundo, por salário médio anual.</info>
+<thumbnail>http://i.imgur.com/Vp79zzI.png</thumbnail></item>
+<item><title>[B][COLOR red]17.05 03h15 [B][COLOR green]FUTEBOL [COLOR blue]IND. MEDELLIN • EMELEC [B][COLOR green]TACA LIBERTADORES DA AMERICA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2185.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2$$lsname=SPORT TV 2 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/169.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2$$lsname=SPORT TV 2 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7746.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2$$lsname=SPORT TV 2 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8470.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2$$lsname=SPORT TV 2 (F4M source #06)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1656.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2$$lsname=SPORT TV 2 (F4M source #08)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1722.m3u8$$lsname=SPORT TV 2 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv2-em-direto-gratis-sport-tv2-portugal-live-stream-online/$$lsname=SPORT TV 2 (SD #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/live2-bipmr$$lsname=SPORT TV 2 (SD #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1478.ts;streamtype=TSDOWNLOADER&amp;name=GOL$$lsname=beiN SPORTS N (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15440.ts;streamtype=TSDOWNLOADER&amp;name=GOL$$lsname=beiN SPORTS N (F4M source #03)</link>
+<link>http://185.53.161.147:8888/play/a023$$lsname=beiN SPORTS N (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacasadeltikitaka.me/directo/canal1.php$$lsname=beiN SPORTS N (SD #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105711&width=650&height=400&autostart=true$$lsname=beiN SPORTS N (SD #source 02)</link>
+<info>A Copa Libertadores da América ou Taça Libertadores da América (Copa Libertadores de América em espanhol), cujo nome oficial atual é CONMEBOL Libertadores Bridgestone por motivos de patrocínio, é a principal competição de futebol entre clubes profissionais da América do Sul, organizada pela Confederação Sul-Americana de Futebol (CONMEBOL). Em 1998 começou a ser patrocinada pela montadora japonesa Toyota, quando em 2013 o patrocinador oficial da competição passou a ser a fabricante de pneus também japonesa Bridgestone.</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]17.05 11h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/167.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1724.m3u8$$lsname=SPORT TV 4 (HTTP #source 01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1455.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA 2$$lsname=MOVISTAR DEPORTES 2 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12545.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA 2$$lsname=MOVISTAR DEPORTES 2 (F4M source #03)</link>
+<link>http://185.53.161.147:8888/play/a02g$$lsname=MOVISTAR DEPORTES 2 (HTTP #source 01)</link>
+<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
+<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
+<item><title>[B][COLOR red]17.05 12h15 [B][COLOR green]CICLISMO [COLOR blue]GIRO DE ITALIA • ETAPA 11 [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2988.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/860.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7743.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1667.m3u8$$lsname=EUROSPORT (HTTP #source 01)</link>
+<info>O Giro d'Italia é uma corrida de longa distância para ciclistas profissionais. A corrida tem a duração de três semanas e é realizada na Itália durante o mês de maio, podendo avançar até o início de junho. O Giro d'Italia é considerado a segunda mais importante competição por etapas do ciclismo mundial, atrás apenas do Tour de France. O Giro, Tour de France [1] e a Vuelta a España compõem as três grandes voltas ciclísticas.</info>
+<thumbnail>http://i.imgur.com/jcfSvb1.png</thumbnail></item>
+<item><title>[B][COLOR red]17.05 12h30 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO JORNAL [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3016.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/875.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #03)</link>
+<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
+<info>O Universo Porto - Jornal é um programa de informação desportiva, sobre conteúdos do FC Porto. Trata-se de um programa diário, de segunda a sexta-feira, com todas as informações do FC Porto, um olhar atento sobre o dia-a-dia do clube, com síntese sobre todas as modalidades.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]17.05 13h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/167.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1724.m3u8$$lsname=SPORT TV 4 (HTTP #source 01)</link>
+<info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
+<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
+<item><title>[B][COLOR red]17.05 15h00 [B][COLOR green]TENIS [COLOR blue]MASTERS 1000 ROMA [B][COLOR green]ATP WORLD TOUR 1000[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1695.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/167.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7756.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4$$lsname=SPORT TV 4 (F4M source #03)</link>
+<link>http://149.202.205.91:8081/live/tvsat/youtube/1724.m3u8$$lsname=SPORT TV 4 (HTTP #source 01)</link>
 <info>ATP World Tour Masters 1000 é uma série de nove torneios de ténis que fazem parte do circuito da Associação de Tenistas Profissionais (ATP) e que são disputados todos os anos na Europa, na América do Norte e Ásia. Os torneios são obrigatórios para os jogadores mais bem classificados do circuito profissional.</info>
 <thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
 
