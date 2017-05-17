@@ -1,4 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+"<item>
+<title>[COLOR deepskyblue][B]LISTAS IPTV[/B][/COLOR]</title>
+<link>$doregex[makelist2]</link
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR deepskyblue][B]LISTA[/COLOR][/B][makelist2.param1]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://i.imgur.com/gvIgYwd.png</thumbnail>
+ <fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+ ]]></listrepeat>
+<expres>LISTA"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://pastebin.com/raw/KcBZY3Sz</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+ <regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR deepskyblue]TeamBlue[/COLOR] [makelist.param1]</link>
+ <thumbnail>http://i.imgur.com/gvIgYwd.png</thumbnail>
+ <fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://i.imgur.com/gvIgYwd.png</thumbnail>
+ <fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
+</item>"
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ANDALUCIA TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7640.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=ANDALUCIA TV (F4M source #01)</link>
 <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8$$lsname=ANDALUCIA TV  (HTTP source #01)</link>
@@ -54,18 +84,17 @@
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RT ESPAÑOL[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1435.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=RT ESPAÑOL (F4M source #01)</link>
 <link>http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8$$lsname=RT ESPAÑOL  (HTTP source #01)</link>
-<link>http://127.0.0.1:6878/ace/getstream?id=1ea53dc766260d14d466ad5e0022a8626c0e48f3&.mp4$$lsname=RT ESPAÑOL  (HTTP source #02)</link>
 <link>http://127.0.0.1:6878/ace/getstream?id=1ea53dc766260d14d466ad5e0022a8626c0e48f3&.mp4$$lsname=RT ESPAÑOL  (HTTP source #04)</link>
 <link>plugin://program.plexus/?url=acestream://1ea53dc766260d14d466ad5e0022a8626c0e48f3&amp;mode=1&amp;name=acestream+RT ESPAÑOL$$lsname=RT ESPAÑOL (PLEXUS source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] A&E[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3007.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=A&E (F4M source #01)</link>
 <link>http://88.148.69.129:9090/play/a00o$$lsname=A&E  (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacasadeltikitaka.me/directo/canal2.php$$lsname=A&E (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacasadeltikitaka.me/directo/canal2.php$$lsname=A&E (Sports Devil source #01)</link>
 <thumbnail>http://i.imgur.com/W4mLcJh.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL DECASA[/B][/COLOR]</title>
 <link>http://185.53.161.147:8888/play/a015$$lsname=CANAL DECASA  (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.p3gpublish.com:1935/loadbalancer$$lsname=CANAL DECASA (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.p3gpublish.com:1935/loadbalancer$$lsname=CANAL DECASA (Sports Devil source #01)</link>
 <thumbnail>http://decasa.tv/minisites/especial-homeopatia/imagenes/logo_decasa.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DW LATINO[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1468.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=DW LATINO (F4M source #01)</link>
@@ -106,7 +135,7 @@
 <thumbnail>http://bit.ly/IMG_ODISSEIA</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] #0[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12532.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=#0 (F4M source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesports.pw/embed.php?file=pluscero&width=650&height=397$$lsname=#0 (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesports.pw/embed.php?file=pluscero&width=650&height=397$$lsname=#0 (Sports Devil source #01)</link>
 <thumbnail>http://logos.wikia.com/wiki/File:Blue.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] A3SERIES[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1465.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=A3SERIES (F4M source #01)</link>
@@ -166,7 +195,7 @@
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR COMEDIA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15416.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR COMEDIA (F4M source #01)</link>
 <link>http://cdn2.shurs.xyz/verliga/1/chunks.m3u8$$lsname=MOVISTAR COMEDIA  (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tumarcador.xyz/ver/1.php$$lsname=MOVISTAR COMEDIA (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tumarcador.xyz/ver/1.php$$lsname=MOVISTAR COMEDIA (Sports Devil source #01)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DCINE[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1457.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR DCINE (F4M source #01)</link>
@@ -193,7 +222,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2992.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=SYFY (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7666.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=SYFY (F4M source #01)</link>
 <link>http://185.53.161.147:8888/play/a016$$lsname=SYFY  (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesports.pw/embedn.php?file=sysfesp&width=650&height=397,$$lsname=SYFY (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesports.pw/embedn.php?file=sysfesp&width=650&height=397,$$lsname=SYFY (Sports Devil source #01)</link>
 <thumbnail>http://i.imgur.com/F1nf2YL.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TCM[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7665.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=TCM (F4M source #01)</link>
@@ -248,26 +277,28 @@
 <link>http://185.53.161.147:8888/play/a00t$$lsname=MTV  (HTTP source #01)</link>
 <thumbnail>http://i.imgur.com/5u1u9oO.png?1</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] VH1 EUROPE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7000.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=VH1 EUROPE (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7591.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=VH1 EUROPE (F4M source #01)</link>
-<link>http://85.7.107.8:8010/play/a04h $$lsname=VH1 EUROPE  (HTTP source #01)</link>
+<link>http://178.193.237.115:9000/play/a01a$$lsname=VH1 EUROPE  (HTTP source #01)</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/564x/a7/69/83/a769833ac4d790e08ebb1ad35c877b0c.jpg</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] beiN SPORTS N[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1478.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=beiN SPORTS N (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15440.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=beiN SPORTS N (F4M source #01)</link>
 <link>http://185.53.161.147:8888/play/a023$$lsname=beiN SPORTS N  (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacasadeltikitaka.me/directo/canal1.php$$lsname=beiN SPORTS N (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105711&width=650&height=400&autostart=true$$lsname=beiN SPORTS N (SD source #02)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacasadeltikitaka.me/directo/canal1.php$$lsname=beiN SPORTS N (Sports Devil source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105711&width=650&height=400&autostart=true$$lsname=beiN SPORTS N (Sports Devil source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1000px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] beiN SPORTS LA LIGA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1479.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=beiN SPORTS LA LIGA (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12497.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=beiN SPORTS LA LIGA (F4M source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.playerhd1.pw/channel.php?file=111&width=650&height=400&autostart=true$$lsname=beiN SPORTS LA LIGA (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=104884&width=650&height=400&autostart=true$$lsname=beiN SPORTS LA LIGA (SD source #02)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.playerhd1.pw/channel.php?file=111&width=650&height=400&autostart=true$$lsname=beiN SPORTS LA LIGA (Sports Devil source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=104884&width=650&height=400&autostart=true$$lsname=beiN SPORTS LA LIGA (Sports Devil source #02)</link>
 <thumbnail>https://static.beinsportsconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TOROS TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1438.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=TOROS TV (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15424.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=TOROS TV (F4M source #01)</link>
 <link>http://185.53.161.147:8888/play/a01t$$lsname=TOROS TV  (HTTP source #01)</link>
+<link>http://178.193.237.115:9000/play/a07w$$lsname=TOROS TV  (HTTP source #03)</link>
 <thumbnail>http://i.imgur.com/KXZE1Qb.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT ES[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7680.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=EUROSPORT ES (F4M source #01)</link>
@@ -283,7 +314,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1456.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR DEPORTES 1 (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15434.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR DEPORTES 1 (F4M source #01)</link>
 <link>http://185.53.161.147:8888/play/a013$$lsname=MOVISTAR DEPORTES 1  (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254$$lsname=MOVISTAR DEPORTES 1 (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254$$lsname=MOVISTAR DEPORTES 1 (Sports Devil source #01)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR DEPORTES 2[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1455.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR DEPORTES 2 (F4M source #01)</link>
@@ -302,15 +333,15 @@
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR F1[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1477.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR F1 (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7617.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR F1 (F4M source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105716&width=650&height=400&autostart=true$$lsname=MOVISTAR F1 (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://playstream.pro/embeditored.php?id=240244&p=0&c=0&stretching=$$lsname=MOVISTAR F1 (SD source #02)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105716&width=650&height=400&autostart=true$$lsname=MOVISTAR F1 (Sports Devil source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://playstream.pro/embeditored.php?id=240244&p=0&c=0&stretching=$$lsname=MOVISTAR F1 (Sports Devil source #02)</link>
 <thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR MOTOGP[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1473.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
 <link>http://185.53.161.147:8888/play/a021$$lsname=MOVISTAR MOTOGP  (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (SD source #02)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (Sports Devil source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (Sports Devil source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/800px-Movistar_Moto_GP.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BARCA TV[/B][/COLOR]</title>
 <link>http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8$$lsname=BARCA TV  (HTTP source #01)</link>
@@ -319,17 +350,17 @@
 <link>http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8$$lsname=REAL MADRID TV  (HTTP source #01)</link>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8$$lsname=REAL MADRID TV  (HTTP source #03)</link>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8$$lsname=REAL MADRID TV  (HTTP source #04)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cinestrenostv.tv/canales/deportes/realmadridtv.php$$lsname=REAL MADRID TV (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cinestrenostv.tv/canales/deportes/realmadridtv.php$$lsname=REAL MADRID TV (Sports Devil source #01)</link>
 <link>plugin://program.plexus/?url=acestream://677b613d289b71812cbee35c6948a27161a50b7f&amp;mode=1&amp;name=acestream+REAL MADRID TV$$lsname=REAL MADRID TV (PLEXUS source #01)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] GOL[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.playerhd1.pw/channel.php?file=119&width=650&height=400&autostart=true$$lsname=GOL (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105770&width=650&height=400&autostart=true$$lsname=GOL (SD source #02)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.playerhd1.pw/channel.php?file=119&width=650&height=400&autostart=true$$lsname=GOL (Sports Devil source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105770&width=650&height=400&autostart=true$$lsname=GOL (Sports Devil source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/75/GOLTV_Two.png/200px-GOLTV_Two.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TELEDEPORTE[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7658.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=TELEDEPORTE (F4M source #01)</link>
 <link>http://185.53.161.147:8888/play/a01p$$lsname=TELEDEPORTE  (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397$$lsname=TELEDEPORTE (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397$$lsname=TELEDEPORTE (SD source #02)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397$$lsname=TELEDEPORTE (Sports Devil source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397$$lsname=TELEDEPORTE (Sports Devil source #02)</link>
 <thumbnail>http://i.imgur.com/unT3Jrz.png</thumbnail></item>
 Copyright © 2017 - TeamBlue
