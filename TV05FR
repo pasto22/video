@@ -1,410 +1,314 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-"<item>
-<title>[COLOR deepskyblue][B]LISTAS IPTV[/B][/COLOR]</title>
-<link>$doregex[makelist2]</link
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLOR deepskyblue][B]LISTA[/COLOR][/B][makelist2.param1]</title>
- <link>$doregex[makelist]</link>
- <thumbnail>http://i.imgur.com/gvIgYwd.png</thumbnail>
- <fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
- ]]></listrepeat>
-<expres>LISTA"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
-<page>https://pastebin.com/raw/zhxtaC7W</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
- <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[makelist.param1]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR deepskyblue]TeamBlue[/COLOR] [makelist.param1]</link>
- <thumbnail>http://i.imgur.com/gvIgYwd.png</thumbnail>
- <fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
- ]]></listrepeat>
-<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
-<page>[makelist2.param2]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>http://i.imgur.com/gvIgYwd.png</thumbnail>
- <fanart>http://i.imgur.com/lj5nslZ.jpg</fanart>
-</item>"
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TF1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1270.ts;streamtype=TSDOWNLOADER&amp;name=TF1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TF1 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8644.ts;streamtype=TSDOWNLOADER&amp;name=TF1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TF1 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2277.ts;streamtype=TSDOWNLOADER&amp;name=TF1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TF1 (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/tf1$$lsname=TF1  (HTTP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5c/TF1_logo_1990.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1269.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 2 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8261.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 2 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2269.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 2 (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/france_2$$lsname=FRANCE 2  (HTTP source #01)</link>
 <link><link>$doregex[getM3U8]$$lsname=FRANCE 2 (HTTP #source 04)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/1717</page><referer>http://www.filmon.com/tv/channel/export?channel_id=1717&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=FRANCE 2 (HTTP source #04)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/b/b4/France_2_logo_2008.svg/revision/latest?cb=20100804204126</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 3[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1268.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 3 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8260.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 3 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2270.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 3 (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/france3$$lsname=FRANCE 3  (HTTP source #01)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/France_3_logo_2008.svg/revision/latest/scale-to-width-down/140?cb=20100804082512</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL+[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9444.ts;streamtype=TSDOWNLOADER&amp;name=CANAL+ [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CANAL+ (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/1947.ts;streamtype=TSDOWNLOADER&amp;name=CANAL+ [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CANAL+ (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/4bHO5AX.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ARTE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1264.ts;streamtype=TSDOWNLOADER&amp;name=ARTE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ARTE (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8593.ts;streamtype=TSDOWNLOADER&amp;name=ARTE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ARTE (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4942.ts;streamtype=TSDOWNLOADER&amp;name=ARTE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ARTE (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/arte_HD$$lsname=ARTE  (HTTP source #01)</link>
 <thumbnail>http://bit.ly/IMG_ARTE</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] M6[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1265.ts;streamtype=TSDOWNLOADER&amp;name=M6 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=M6 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2816.ts;streamtype=TSDOWNLOADER&amp;name=M6 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=M6 (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/m6$$lsname=M6  (HTTP source #01)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/create-logopedia/images/a/a8/M6-tv-logo.png/revision/latest?cb=20150611172753</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 5[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1266.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 5 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 5 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8591.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 5 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 5 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2279.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 5 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 5 (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/france5$$lsname=FRANCE 5  (HTTP source #01)</link>
 <thumbnail>http://bit.ly/IMG_FRANCE5</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] D8[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1263.ts;streamtype=TSDOWNLOADER&amp;name=D8 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=D8 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8660.ts;streamtype=TSDOWNLOADER&amp;name=D8 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=D8 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2842.ts;streamtype=TSDOWNLOADER&amp;name=D8 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=D8 (F4M source #02)</link>
 <thumbnail>http://www.logotypes101.com/logos/258/C649BC70C796FB7E5D59A58A533F983F/d8_logo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTL9[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1236.ts;streamtype=TSDOWNLOADER&amp;name=RTL9 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTL9 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8647.ts;streamtype=TSDOWNLOADER&amp;name=RTL9 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTL9 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2826.ts;streamtype=TSDOWNLOADER&amp;name=RTL9 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTL9 (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTS UN[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1201.ts;streamtype=TSDOWNLOADER&amp;name=RTS UN [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTS UN (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13073.ts;streamtype=TSDOWNLOADER&amp;name=RTS UN [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTS UN (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/5573.ts;streamtype=TSDOWNLOADER&amp;name=RTS UN [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTS UN (F4M source #02)</link>
 <link>http://185.53.161.148:8888/play/a02a$$lsname=RTS UN  (HTTP source #01)</link>
 <link>http://188.60.202.208:8080/play/rts1$$lsname=RTS UN  (HTTP source #03)</link>
 <link><link>$doregex[getM3U8]$$lsname=RTS UN (HTTP #source 04)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/3911</page><referer>http://www.filmon.com/tv/channel/export?channel_id=3911&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=RTS UN (HTTP source #04)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RTS_un.svg/310px-RTS_un.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTS DEUX[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1202.ts;streamtype=TSDOWNLOADER&amp;name=RTS DEUX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTS DEUX (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13074.ts;streamtype=TSDOWNLOADER&amp;name=RTS DEUX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTS DEUX (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/5578.ts;streamtype=TSDOWNLOADER&amp;name=RTS DEUX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTS DEUX (F4M source #02)</link>
 <link>http://185.53.161.148:8888/play/a02b$$lsname=RTS DEUX  (HTTP source #01)</link>
 <link>http://188.60.202.208:8080/play/rts2$$lsname=RTS DEUX  (HTTP source #03)</link>
 <link><link>$doregex[getM3U8]$$lsname=RTS DEUX (HTTP #source 04)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/3914</page><referer>http://www.filmon.com/tv/channel/export?channel_id=3914&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=RTS DEUX (HTTP source #04)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RTS_deux.svg/2000px-RTS_deux.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] W9[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1262.ts;streamtype=TSDOWNLOADER&amp;name=W9 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=W9 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8645.ts;streamtype=TSDOWNLOADER&amp;name=W9 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=W9 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2273.ts;streamtype=TSDOWNLOADER&amp;name=W9 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=W9 (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/w9$$lsname=W9  (HTTP source #01)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/8/86/W9_2010.png/revision/latest?cb=20110904184902</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TMC[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8666.ts;streamtype=TSDOWNLOADER&amp;name=TMC [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TMC (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2298.ts;streamtype=TSDOWNLOADER&amp;name=TMC [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TMC (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/tmc$$lsname=TMC  (HTTP source #01)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/7/71/TMC_logo_2009.png/revision/latest?cb=20100205080730</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NT1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8650.ts;streamtype=TSDOWNLOADER&amp;name=NT1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NT1 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2840.ts;streamtype=TSDOWNLOADER&amp;name=NT1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NT1 (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/nt1$$lsname=NT1  (HTTP source #01)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nt1_fr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NRJ12[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1261.ts;streamtype=TSDOWNLOADER&amp;name=NRJ12 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NRJ12 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8651.ts;streamtype=TSDOWNLOADER&amp;name=NRJ12 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NRJ12 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2284.ts;streamtype=TSDOWNLOADER&amp;name=NRJ12 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NRJ12 (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/nrj12$$lsname=NRJ12  (HTTP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 4[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1259.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 4 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 4 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8590.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 4 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 4 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2278.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 4 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 4 (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/france4$$lsname=FRANCE 4  (HTTP source #01)</link>
 <thumbnail>http://bit.ly/IMG_FRANCE4</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BFM TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1258.ts;streamtype=TSDOWNLOADER&amp;name=BFM TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BFM TV (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9438.ts;streamtype=TSDOWNLOADER&amp;name=BFM TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BFM TV (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2281.ts;streamtype=TSDOWNLOADER&amp;name=BFM TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BFM TV (F4M source #02)</link>
 <link>http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8$$lsname=BFM TV  (HTTP source #01)</link>
 <link><link>$doregex[getM3U8]$$lsname=BFM TV (HTTP #source 04)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/2765</page><referer>http://www.filmon.com/tv/channel/export?channel_id=2765&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=BFM TV (HTTP source #04)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bfm_fr_tv.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RTL9[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1236.ts;streamtype=TSDOWNLOADER&amp;name=RTL9 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTL9 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8647.ts;streamtype=TSDOWNLOADER&amp;name=RTL9 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTL9 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2826.ts;streamtype=TSDOWNLOADER&amp;name=RTL9 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTL9 (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] C8[/B][/COLOR]</title>
 <link>http://188.60.202.208:8080/play/c8$$lsname=C8  (HTTP source #01)</link>
 <thumbnail>http://img.over-blog-kiwi.com/1/49/54/19/20160818/ob_dad82f_nouveau-logo-chaine-tnt-c8-logo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] D17[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8661.ts;streamtype=TSDOWNLOADER&amp;name=D17 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=D17 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4932.ts;streamtype=TSDOWNLOADER&amp;name=D17 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=D17 (F4M source #02)</link>
 <thumbnail>http://image.noelshack.com/fichiers/2015/18/1430411321-d17logo.jpg</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] GULLI[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1209.ts;streamtype=TSDOWNLOADER&amp;name=GULLI [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GULLI (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9433.ts;streamtype=TSDOWNLOADER&amp;name=GULLI [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GULLI (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2847.ts;streamtype=TSDOWNLOADER&amp;name=GULLI [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GULLI (F4M source #02)</link>
 <link>http://cdnworld.magictvbox.eu/live/live-sd/id_76_svga/index.m3u8$$lsname=GULLI  (HTTP source #01)</link>
 <link>http://188.60.202.208:8080/play/gulli$$lsname=GULLI  (HTTP source #03)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/gulli_fr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE O[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1255.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE O [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE O (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8592.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE O [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE O (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3620.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE O [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE O (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/franceo$$lsname=FRANCE O  (HTTP source #01)</link>
 <link><link>$doregex[getM3U8]$$lsname=FRANCE O (HTTP #source 04)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/3884</page><referer>http://www.filmon.com/tv/channel/export?channel_id=3884&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=FRANCE O (HTTP source #04)</link>
 <thumbnail>http://bit.ly/IMG_FRANCEO</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HD1 [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1254.ts;streamtype=TSDOWNLOADER&amp;name=HD1  [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HD1  (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8648.ts;streamtype=TSDOWNLOADER&amp;name=HD1  [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HD1  (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4941.ts;streamtype=TSDOWNLOADER&amp;name=HD1  [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HD1  (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/hd1$$lsname=HD1   (HTTP source #01)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/hd1_fr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] L'EQUIPE 21[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1207.ts;streamtype=TSDOWNLOADER&amp;name=L'EQUIPE 21 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=L'EQUIPE 21 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9465.ts;streamtype=TSDOWNLOADER&amp;name=L'EQUIPE 21 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=L'EQUIPE 21 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4935.ts;streamtype=TSDOWNLOADER&amp;name=L'EQUIPE 21 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=L'EQUIPE 21 (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ll/l_equipe_fr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] 6TER[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1253.ts;streamtype=TSDOWNLOADER&amp;name=6TER [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=6TER (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8649.ts;streamtype=TSDOWNLOADER&amp;name=6TER [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=6TER (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4961.ts;streamtype=TSDOWNLOADER&amp;name=6TER [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=6TER (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/6ter_HD$$lsname=6TER  (HTTP source #01)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/num/6ter_fr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NUMERO 23[/B][/COLOR]</title>
 <link>http://188.60.202.208:8080/play/num23$$lsname=NUMERO 23  (HTTP source #01)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/numero_23_fr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RMC DECOUVERTE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9440.ts;streamtype=TSDOWNLOADER&amp;name=RMC DECOUVERTE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RMC DECOUVERTE (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/5579.ts;streamtype=TSDOWNLOADER&amp;name=RMC DECOUVERTE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RMC DECOUVERTE (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/rmc$$lsname=RMC DECOUVERTE  (HTTP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] LCI[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1260.ts;streamtype=TSDOWNLOADER&amp;name=LCI [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=LCI (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9439.ts;streamtype=TSDOWNLOADER&amp;name=LCI [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=LCI (F4M source #03)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ll/lci_fr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EURONEWS[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2177.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EURONEWS (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9408.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EURONEWS (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4960.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EURONEWS (F4M source #02)</link>
 <link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8$$lsname=EURONEWS  (HTTP source #01)</link>
 <link><link>$doregex[getM3U8]$$lsname=EURONEWS (HTTP #source 04)</link><regex><name>getM3U8</name><expres>"url":"(.*?)"</expres><page>http://www.filmon.com/api-v2/channel/2900</page><referer>http://www.filmon.com/tv/channel/export?channel_id=2900&</referer><agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent><cookieJar></cookieJar></regex>$$lsname=EURONEWS (HTTP source #04)</link>
 <thumbnail>http://bit.ly/IMG_EURONEWS</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SCIENCES & VIE TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9394.ts;streamtype=TSDOWNLOADER&amp;name=SCIENCES & VIE TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SCIENCES & VIE TV (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3632.ts;streamtype=TSDOWNLOADER&amp;name=SCIENCES & VIE TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SCIENCES & VIE TV (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/71/Science_et_Vie_TV_logo_2015.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1205.ts;streamtype=TSDOWNLOADER&amp;name=MTV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MTV (F4M source #02)</link>
-<thumbnail>http://i.imgur.com/5u1u9oO.png?1</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PARAMOUNT CHANNEL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8664.ts;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PARAMOUNT CHANNEL (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4949.ts;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PARAMOUNT CHANNEL (F4M source #02)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL J[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/1957.ts;streamtype=TSDOWNLOADER&amp;name=CANAL J [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CANAL J (F4M source #02)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal_j_fr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TIJI[/B][/COLOR]</title>
 <link>http://cdnworld.magictvbox.eu/live/live-sd/id_77_svga/index.m3u8$$lsname=TIJI  (HTTP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/2/2e/Tiji_logo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TV5 MONDE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1194.ts;streamtype=TSDOWNLOADER&amp;name=TV5 MONDE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TV5 MONDE (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2841.ts;streamtype=TSDOWNLOADER&amp;name=TV5 MONDE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TV5 MONDE (F4M source #02)</link>
 <link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8$$lsname=TV5 MONDE  (HTTP source #01)</link>
 <link>http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8$$lsname=TV5 MONDE  (HTTP source #03)</link>
 <thumbnail>http://bit.ly/IMG_TV5MONDE</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FRANCE 24 FR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1210.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 24 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 24 FR (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2935.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 24 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FRANCE 24 FR (F4M source #02)</link>
 <link>http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8$$lsname=FRANCE 24 FR  (HTTP source #01)</link>
 <link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8$$lsname=FRANCE 24 FR  (HTTP source #03)</link>
 <link>http://148.255.153.153:8081/play/a007$$lsname=FRANCE 24 FR (HTTP source #04)</link>
 <thumbnail>http://bit.ly/IMG_FRANCE24</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] 13E RUE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1234.ts;streamtype=TSDOWNLOADER&amp;name=13E RUE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=13E RUE (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8652.ts;streamtype=TSDOWNLOADER&amp;name=13E RUE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=13E RUE (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2844.ts;streamtype=TSDOWNLOADER&amp;name=13E RUE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=13E RUE (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/13th_Street_2015_logo.png/200px-13th_Street_2015_logo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SYFY[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2992.ts;streamtype=TSDOWNLOADER&amp;name=SYFY [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SYFY (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1233.ts;streamtype=TSDOWNLOADER&amp;name=SYFY [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SYFY (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8646.ts;streamtype=TSDOWNLOADER&amp;name=SYFY [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SYFY (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2319.ts;streamtype=TSDOWNLOADER&amp;name=SYFY [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SYFY (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/F1nf2YL.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT FR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1192.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EUROSPORT FR (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9407.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EUROSPORT FR (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2296.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EUROSPORT FR (F4M source #02)</link>
 <link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8$$lsname=EUROSPORT FR  (HTTP source #01)</link>
 <thumbnail>http://i.imgur.com/8KXbjyH.jpg</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 2 FR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9406.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EUROSPORT 2 FR (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4947.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EUROSPORT 2 FR (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/fhg3V6Q.jpg</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] CINE FX[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1216.ts;streamtype=TSDOWNLOADER&amp;name=CINE FX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CINE FX (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9412.ts;streamtype=TSDOWNLOADER&amp;name=CINE FX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CINE FX (F4M source #03)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cine_fx.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ANIMAUX[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1223.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAUX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ANIMAUX (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9420.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAUX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ANIMAUX (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2310.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAUX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ANIMAUX (F4M source #02)</link>
 <link>http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8$$lsname=ANIMAUX  (HTTP source #01)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/4/48/Animaux_logo_2011.png/revision/latest/scale-to-width-down/250?cb=20111120001830</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CHASSE & PECHE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9452.ts;streamtype=TSDOWNLOADER&amp;name=CHASSE & PECHE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CHASSE & PECHE (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2938.ts;streamtype=TSDOWNLOADER&amp;name=CHASSE & PECHE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CHASSE & PECHE (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/X0YowUz.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EQUIDIA LIVE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13703.ts;streamtype=TSDOWNLOADER&amp;name=EQUIDIA LIVE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EQUIDIA LIVE (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2835.ts;streamtype=TSDOWNLOADER&amp;name=EQUIDIA LIVE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EQUIDIA LIVE (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/equidia_live.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] beiN SPORTS 1 FR[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3006.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 1 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=beiN SPORTS 1 FR (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1222.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 1 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=beiN SPORTS 1 FR (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8301.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 1 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=beiN SPORTS 1 FR (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/340.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 1 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=beiN SPORTS 1 FR (F4M source #02)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://bro.adca.st/stream.php?id=140$$lsname=beiN SPORTS 1 FR (Sports Devil source #01)</link>
 <thumbnail>http://i.imgur.com/UNGRg6Q.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] beiN SPORTS 2 FR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1221.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 2 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=beiN SPORTS 2 FR (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8302.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 2 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=beiN SPORTS 2 FR (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2809.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 2 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=beiN SPORTS 2 FR (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/AZSqeFo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] beiN SPORTS 3 FR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1220.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 3 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=beiN SPORTS 3 FR (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8303.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 3 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=beiN SPORTS 3 FR (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/692.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 3 FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=beiN SPORTS 3 FR (F4M source #02)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.bigcast.us/embedhd.php?v=bein2fr&vw=650&vh=390&vh=390$$lsname=beiN SPORTS 3 FR (Sports Devil source #01)</link>
 <thumbnail>http://i.imgur.com/ouI3hiP.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BFM SPORT[/B][/COLOR]</title>
 <link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-2.m3u8$$lsname=BFM SPORT  (HTTP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/BFM_Sport.svg/langfr-320px-BFM_Sport.svg.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] SFR SPORT 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1199.ts;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SFR SPORT 1 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13053.ts;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SFR SPORT 1 (F4M source #03)</link>
-<thumbnail>http://www.sfr.com/sites/default/files/sfr_sfr_sport.jpg</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] SFR SPORT 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1198.ts;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SFR SPORT 2 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13054.ts;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SFR SPORT 2 (F4M source #03)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/9/95/SFR_Sport_2_logo_2016.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] SFR SPORT 3[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1197.ts;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SFR SPORT 3 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13719.ts;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SFR SPORT 3 (F4M source #03)</link>
-<thumbnail>http://img.static.myt.mu/assets/img/pl/logo_SFR_SPORT3.jpg</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TOUTE L'HISTOIRE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1195.ts;streamtype=TSDOWNLOADER&amp;name=TOUTE L'HISTOIRE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TOUTE L'HISTOIRE (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9427.ts;streamtype=TSDOWNLOADER&amp;name=TOUTE L'HISTOIRE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TOUTE L'HISTOIRE (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/5574.ts;streamtype=TSDOWNLOADER&amp;name=TOUTE L'HISTOIRE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TOUTE L'HISTOIRE (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/toute_histoire_fr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Action[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1237.ts;streamtype=TSDOWNLOADER&amp;name=Action [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Action (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8667.ts;streamtype=TSDOWNLOADER&amp;name=Action [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Action (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2283.ts;streamtype=TSDOWNLOADER&amp;name=Action [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Action (F4M source #02)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/c2/Action_2014.png/revision/latest/scale-to-width-down/255?cb=20141101162929</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Canal+ Cinema[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1250.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ Cinema [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ Cinema (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9419.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ Cinema [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ Cinema (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3638.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ Cinema [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ Cinema (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cinema.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Canal+ Series[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9417.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ Series [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ Series (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2929.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ Series [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ Series (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_series.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Canal+ Family[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1248.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ Family [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ Family (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9418.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ Family [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ Family (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2930.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ Family [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ Family (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_family.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Canal+ Decale[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1247.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ Decale [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ Decale (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9454.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ Decale [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ Decale (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4967.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ Decale [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ Decale (F4M source #02)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/f/f9/Canal_D%C3%A9cal%C3%A9_2013.svg.png/revision/latest?cb=20130731190733</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] GONG[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2846.ts;streamtype=TSDOWNLOADER&amp;name=GONG [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GONG (F4M source #02)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] OCS Geants[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9451.ts;streamtype=TSDOWNLOADER&amp;name=OCS Geants [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=OCS Geants (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2288.ts;streamtype=TSDOWNLOADER&amp;name=OCS Geants [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=OCS Geants (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/ocs_geants.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] OCS Choc[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1240.ts;streamtype=TSDOWNLOADER&amp;name=OCS Choc [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=OCS Choc (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9398.ts;streamtype=TSDOWNLOADER&amp;name=OCS Choc [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=OCS Choc (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3618.ts;streamtype=TSDOWNLOADER&amp;name=OCS Choc [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=OCS Choc (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/ocs_choc.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] OCS Max[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1241.ts;streamtype=TSDOWNLOADER&amp;name=OCS Max [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=OCS Max (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9397.ts;streamtype=TSDOWNLOADER&amp;name=OCS Max [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=OCS Max (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2287.ts;streamtype=TSDOWNLOADER&amp;name=OCS Max [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=OCS Max (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/ocs_max.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] OCS City[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1239.ts;streamtype=TSDOWNLOADER&amp;name=OCS City [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=OCS City (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9450.ts;streamtype=TSDOWNLOADER&amp;name=OCS City [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=OCS City (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2289.ts;streamtype=TSDOWNLOADER&amp;name=OCS City [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=OCS City (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/ocs_city.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Cine+ Premier[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1245.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Premier [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Premier (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9413.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Premier [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Premier (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3635.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Premier [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Premier (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_premier.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Cine+ Famiz[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9448.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Famiz [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Famiz (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2086.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Famiz [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Famiz (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_famiz.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Cine+ Classic[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1242.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Classic [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Classic (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9414.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Classic [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Classic (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/1952.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Classic [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Classic (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_classic.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Cine+ Emotion[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1243.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Emotion [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Emotion (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9449.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Emotion [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Emotion (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2822.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Emotion [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Emotion (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_emotion.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Cine+ Frisson[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1244.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Frisson [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Frisson (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9446.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Frisson [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Frisson (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2821.ts;streamtype=TSDOWNLOADER&amp;name=Cine+ Frisson [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cine+ Frisson (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_frisson.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Comedie+[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1235.ts;streamtype=TSDOWNLOADER&amp;name=Comedie+ [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Comedie+ (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9447.ts;streamtype=TSDOWNLOADER&amp;name=Comedie+ [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Comedie+ (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2301.ts;streamtype=TSDOWNLOADER&amp;name=Comedie+ [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Comedie+ (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_comedie_plus.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] AB 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1224.ts;streamtype=TSDOWNLOADER&amp;name=AB 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=AB 1 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8658.ts;streamtype=TSDOWNLOADER&amp;name=AB 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=AB 1 (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2300.ts;streamtype=TSDOWNLOADER&amp;name=AB 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=AB 1 (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Canal+ sport[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1249.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ sport [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ sport (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9416.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ sport [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ sport (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2267.ts;streamtype=TSDOWNLOADER&amp;name=Canal+ sport [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Canal+ sport (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_sport.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Nat Geo Wild[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9400.ts;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Nat Geo Wild (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/1944.ts;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Nat Geo Wild (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/mNhHiku.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] National Geographic[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2196.ts;streamtype=TSDOWNLOADER&amp;name=National Geographic [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=National Geographic (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1204.ts;streamtype=TSDOWNLOADER&amp;name=National Geographic [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=National Geographic (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9399.ts;streamtype=TSDOWNLOADER&amp;name=National Geographic [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=National Geographic (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2314.ts;streamtype=TSDOWNLOADER&amp;name=National Geographic [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=National Geographic (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/UPqfbBu.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Discovery Channel FR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9411.ts;streamtype=TSDOWNLOADER&amp;name=Discovery Channel FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Discovery Channel FR (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2318.ts;streamtype=TSDOWNLOADER&amp;name=Discovery Channel FR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Discovery Channel FR (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Discovery Science[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1231.ts;streamtype=TSDOWNLOADER&amp;name=Discovery Science [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Discovery Science (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9410.ts;streamtype=TSDOWNLOADER&amp;name=Discovery Science [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Discovery Science (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3621.ts;streamtype=TSDOWNLOADER&amp;name=Discovery Science [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Discovery Science (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Planete+[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2313.ts;streamtype=TSDOWNLOADER&amp;name=Planete+ [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Planete+ (F4M source #02)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/planete_plus.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Planete+ A&E[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3640.ts;streamtype=TSDOWNLOADER&amp;name=Planete+ A&E [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Planete+ A&E (F4M source #02)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/planete_plus_action_experience.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Planete+ CI[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1232.ts;streamtype=TSDOWNLOADER&amp;name=Planete+ CI [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Planete+ CI (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/1945.ts;streamtype=TSDOWNLOADER&amp;name=Planete+ CI [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Planete+ CI (F4M source #02)</link>
 <thumbnail>http://bit.ly/IMG_PLANETECI</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Histoire[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9426.ts;streamtype=TSDOWNLOADER&amp;name=Histoire [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Histoire (F4M source #03)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/hh/histoire_fr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Voyage[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1193.ts;streamtype=TSDOWNLOADER&amp;name=Voyage [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Voyage (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2829.ts;streamtype=TSDOWNLOADER&amp;name=Voyage [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Voyage (F4M source #02)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/Voyage_2016.png/revision/latest?cb=20161016194601</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SCIENCES & VIE TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9394.ts;streamtype=TSDOWNLOADER&amp;name=SCIENCES & VIE TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SCIENCES & VIE TV (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3632.ts;streamtype=TSDOWNLOADER&amp;name=SCIENCES & VIE TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SCIENCES & VIE TV (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/71/Science_et_Vie_TV_logo_2015.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Chasse & Peche[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9452.ts;streamtype=TSDOWNLOADER&amp;name=Chasse & Peche [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Chasse & Peche (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2938.ts;streamtype=TSDOWNLOADER&amp;name=Chasse & Peche [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Chasse & Peche (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/X0YowUz.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] E! ENTERTAINMENT[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2991.ts;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=E! ENTERTAINMENT (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9453.ts;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=E! ENTERTAINMENT (F4M source #03)</link>
 <thumbnail>http://i.imgur.com/zGAy6qU.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BOING[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1219.ts;streamtype=TSDOWNLOADER&amp;name=BOING [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BOING (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2306.ts;streamtype=TSDOWNLOADER&amp;name=BOING [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BOING (F4M source #02)</link>
 <link>http://185.53.161.148:8888/play/a01t$$lsname=BOING  (HTTP source #01)</link>
 <thumbnail>http://bit.ly/IMG_BOING</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney Cinema[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1238.ts;streamtype=TSDOWNLOADER&amp;name=Disney Cinema [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney Cinema (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9430.ts;streamtype=TSDOWNLOADER&amp;name=Disney Cinema [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney Cinema (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4944.ts;streamtype=TSDOWNLOADER&amp;name=Disney Cinema [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney Cinema (F4M source #02)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_cinema_fr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney Channel[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1215.ts;streamtype=TSDOWNLOADER&amp;name=Disney Channel [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney Channel (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9435.ts;streamtype=TSDOWNLOADER&amp;name=Disney Channel [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney Channel (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2304.ts;streamtype=TSDOWNLOADER&amp;name=Disney Channel [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney Channel (F4M source #02)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Cartoon Network[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2999.ts;streamtype=TSDOWNLOADER&amp;name=Cartoon Network [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cartoon Network (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1217.ts;streamtype=TSDOWNLOADER&amp;name=Cartoon Network [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cartoon Network (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9415.ts;streamtype=TSDOWNLOADER&amp;name=Cartoon Network [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cartoon Network (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4962.ts;streamtype=TSDOWNLOADER&amp;name=Cartoon Network [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Cartoon Network (F4M source #02)</link>
 <link>http://188.60.202.208:8080/play/cnetw$$lsname=Cartoon Network  (HTTP source #01)</link>
 <thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Boomerang[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1218.ts;streamtype=TSDOWNLOADER&amp;name=Boomerang [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Boomerang (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9437.ts;streamtype=TSDOWNLOADER&amp;name=Boomerang [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Boomerang (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2104.ts;streamtype=TSDOWNLOADER&amp;name=Boomerang [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Boomerang (F4M source #02)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/mixels/images/4/41/Boomerang_tv_logo.png/revision/latest?cb=20150307200807</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney XD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1213.ts;streamtype=TSDOWNLOADER&amp;name=Disney XD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney XD (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2303.ts;streamtype=TSDOWNLOADER&amp;name=Disney XD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney XD (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Piwi+[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9432.ts;streamtype=TSDOWNLOADER&amp;name=Piwi+ [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Piwi+ (F4M source #03)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_piwi_plus.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Nickelodeon Junior[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1203.ts;streamtype=TSDOWNLOADER&amp;name=Nickelodeon Junior [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Nickelodeon Junior (F4M source #02)</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TeleToon+[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9431.ts;streamtype=TSDOWNLOADER&amp;name=TeleToon+ [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TeleToon+ (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4958.ts;streamtype=TSDOWNLOADER&amp;name=TeleToon+ [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TeleToon+ (F4M source #02)</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/atomicbetty/images/7/7d/Teletoon_Logo.png/revision/latest?cb=20110730053415</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney Junior[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3713.ts;streamtype=TSDOWNLOADER&amp;name=Disney Junior [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney Junior (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1214.ts;streamtype=TSDOWNLOADER&amp;name=Disney Junior [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney Junior (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/9409.ts;streamtype=TSDOWNLOADER&amp;name=Disney Junior [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney Junior (F4M source #03)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3619.ts;streamtype=TSDOWNLOADER&amp;name=Disney Junior [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Disney Junior (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Nickelodeon[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2198.ts;streamtype=TSDOWNLOADER&amp;name=Nickelodeon [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Nickelodeon (F4M source #01)</link>
 <thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV Rocks[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7056.ts;streamtype=TSDOWNLOADER&amp;name=MTV Rocks [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MTV Rocks (F4M source #03)</link>
 <link>http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml/playlist.m3u8$$lsname=MTV Rocks  (HTTP source #01)</link>
 <thumbnail>http://i.imgur.com/ptZeCgt.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] M6 MUSIQUE[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1188.ts;streamtype=TSDOWNLOADER&amp;name=M6 MUSIQUE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=M6 MUSIQUE (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2843.ts;streamtype=TSDOWNLOADER&amp;name=M6 MUSIQUE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=M6 MUSIQUE (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/UUjLsQg.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NRJ Hits[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/5581.ts;streamtype=TSDOWNLOADER&amp;name=NRJ Hits [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NRJ Hits (F4M source #02)</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Trace TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2972.ts;streamtype=TSDOWNLOADER&amp;name=Trace TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Trace TV (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2103.ts;streamtype=TSDOWNLOADER&amp;name=Trace TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=Trace TV (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/VBaL5gr.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Mezzo[/B][/COLOR]</title>
 <link>http://185.53.161.147:8888/play/a02i$$lsname=Mezzo  (HTTP source #01)</link>
