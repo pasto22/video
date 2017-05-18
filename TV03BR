@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] APARECIDA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3125.ts;streamtype=TSDOWNLOADER&amp;name=APARECIDA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=APARECIDA (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1862.ts;streamtype=TSDOWNLOADER&amp;name=APARECIDA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=APARECIDA (F4M source #02)</link>
 <link>http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8$$lsname=APARECIDA  (HTTP source #01)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/0/0d/Logo_300%2810%29.jpg/revision/latest?cb=20170219005832</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BAND[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1858.ts;streamtype=TSDOWNLOADER&amp;name=BAND [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BAND (F4M source #02)</link>
 <link>http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8$$lsname=BAND  (HTTP source #01)</link>
 "<link><link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[getLink]$$lsname=BAND (HTTP #source 03)</link>
 <regex>
@@ -25,6 +27,7 @@ def GetLSProData(page_data,Cookie_Jar,m ):
 <thumbnail>http://i.imgur.com/o1qPwNa.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CANCAO NOVA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3880.ts;streamtype=TSDOWNLOADER&amp;name=CANCAO NOVA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CANCAO NOVA (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1848.ts;streamtype=TSDOWNLOADER&amp;name=CANCAO NOVA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CANCAO NOVA (F4M source #02)</link>
 <link>http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8$$lsname=CANCAO NOVA  (HTTP source #01)</link>
 <thumbnail>http://i.imgur.com/VRnat0c.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] GLOBO[/B][/COLOR]</title>
@@ -40,34 +43,39 @@ def GetLSProData(page_data,Cookie_Jar,m ):
 <link>http://95.211.149.215:8081/look/globo/playlist.m3u8$$lsname=GLOBO RJ  (HTTP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] GLOBO SP[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1810.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO SP [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GLOBO SP (F4M source #02)</link>
 <link><link>http://91.212.150.128:8081/edge/sptv/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=GLOBO SP (HTTP #source 03)</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://www.freelivestream.tv/embedPlayer.php?file=sptv&width=480&height=370</page><referer>http://celulartv.net/online-no-android-ou-iphone/rede-globo-hdtv-ao-vivo-gratis/</referer></regex>$$lsname=GLOBO SP  (HTTP source #03)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://onlinenatv.com/canal/globo02.html$$lsname=GLOBO SP (Sports Devil source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RECORD NEWS[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/5028.ts;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RECORD NEWS (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1753.ts;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RECORD NEWS (F4M source #02)</link>
 <link>http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8$$lsname=RECORD NEWS  (HTTP source #01)</link>
 <link>http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8$$lsname=RECORD NEWS  (HTTP source #03)</link>
 <link>http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8$$lsname=RECORD NEWS  (HTTP source #04)</link>
 <thumbnail>http://bit.ly/2loxLyi</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] REDE BRASIL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1751.ts;streamtype=TSDOWNLOADER&amp;name=REDE BRASIL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=REDE BRASIL (F4M source #02)</link>
 <link>http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8$$lsname=REDE BRASIL  (HTTP source #01)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/d/db/Rede_Brasil.png/revision/latest/scale-to-width-down/250?cb=20151004204643</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] RECORD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8151.ts;streamtype=TSDOWNLOADER&amp;name=RECORD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RECORD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1752.ts;streamtype=TSDOWNLOADER&amp;name=RECORD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RECORD (F4M source #02)</link>
 <link>http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/IPTVGlobal.m3u8$$lsname=RECORD  (HTTP source #01)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=RECORD (HTTP #source 04)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed.php?file=record&referrer=http://tvaovivobr.com/minhatv/aberto.php?subaction=showfull&id=1309149059&width=100%&height=100%&jwplayer=seven</page><referer>http://ekostreams.co/ch/record.php?width=600&height=384</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvaovivobr.com/minhatv/aberto.php</page></regex>$$lsname=RECORD  (HTTP source #04)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/record.php$$lsname=RECORD (Sports Devil source #01)</link>
 <thumbnail>http://bit.ly/2lsP3Gh</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] REDE TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/5027.ts;streamtype=TSDOWNLOADER&amp;name=REDE TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=REDE TV (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2149.ts;streamtype=TSDOWNLOADER&amp;name=REDE TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=REDE TV (F4M source #02)</link>
 <link>http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8$$lsname=REDE TV  (HTTP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] REDE VIDA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1749.ts;streamtype=TSDOWNLOADER&amp;name=REDE VIDA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=REDE VIDA (F4M source #02)</link>
 <link>http://hls.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8$$lsname=REDE VIDA  (HTTP source #01)</link>
 <link>$$lsname=REDE VIDA  (HTTP source #03)</link>
 <link>$$lsname=REDE VIDA  (HTTP source #04)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/2/2b/Redevida-logo.png/revision/latest?cb=20160422192752</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SBT[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1747.ts;streamtype=TSDOWNLOADER&amp;name=SBT [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SBT (F4M source #02)</link>
 <link>http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8$$lsname=SBT  (HTTP source #01)</link>
 <link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8$$lsname=SBT  (HTTP source #03)</link>
 "<link><link>$doregex[getUrl]$$lsname=SBT (HTTP #source 04)</link>
@@ -101,6 +109,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8229.ts;streamtype=TSDOWNLOADER&amp;name=TV JUSTICA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TV JUSTICA (F4M source #01)</link>
 <thumbnail>http://ghdadvogados.com.br/wp-content/uploads/2014/11/logo-TV-Justi%C3%A7a.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL RURAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1850.ts;streamtype=TSDOWNLOADER&amp;name=CANAL RURAL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CANAL RURAL (F4M source #02)</link>
 <link>http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8$$lsname=CANAL RURAL  (HTTP source #01)</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/8/8f/Canal_Rural_logo.svg/revision/latest/scale-to-width-down/200?cb=20151110021151</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TV CULTURA[/B][/COLOR]</title>
@@ -109,6 +118,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/2000px-TV_Cultura.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] GLOBO NEWS[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8211.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO NEWS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GLOBO NEWS (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1809.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO NEWS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GLOBO NEWS (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/227.ts;streamtype=TSDOWNLOADER&amp;name=GLOBO NEWS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GLOBO NEWS (F4M source #08)</link>
 <link>http://5.79.68.138:8081/look/globonews/playlist.m3u8$$lsname=GLOBO NEWS  (HTTP source #01)</link>
 "<link><link>$doregex[getUrl]$$lsname=GLOBO NEWS (HTTP #source 03)</link>
@@ -129,6 +139,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>$$lsname=GLOBO NEWS  (HTTP source #03)</link>"
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/globo_news.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] GNT[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2118.ts;streamtype=TSDOWNLOADER&amp;name=GNT [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GNT (F4M source #02)</link>
 "<link><link>$doregex[getUrl]$$lsname=GNT (HTTP #source 03)</link>
 <regex>
 <name>getUrl</name>
@@ -148,8 +159,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MULTISHOW[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8220.ts;streamtype=TSDOWNLOADER&amp;name=MULTISHOW [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MULTISHOW (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2123.ts;streamtype=TSDOWNLOADER&amp;name=MULTISHOW [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MULTISHOW (F4M source #02)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/3/34/Multishow_logo_red_2012.svg/revision/latest/scale-to-width-down/200?cb=20121216184410</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1738.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORTV (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1739.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORTV (F4M source #07)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/109.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORTV (F4M source #08)</link>
 "<link><link>$doregex[getUrl]$$lsname=SPORTV (HTTP #source 03)</link>
 <regex>
@@ -171,6 +185,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/sportvhd.php$$lsname=SPORTV (Sports Devil source #02)</link>
 <thumbnail>http://i.imgur.com/Frawzcq.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORTV2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1737.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORTV2 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1741.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORTV2 (F4M source #07)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/402.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORTV2 (F4M source #08)</link>
 "<link><link>$doregex[getUrl]$$lsname=SPORTV2 (HTTP #source 03)</link>
 <regex>
@@ -192,6 +208,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=%68%74%74%70%3A%2F%2F%65%6B%6F%73%74%72%65%61%6D%73%2E%63%6F%2F%63%68%2F%73%70%6F%72%74%76%32%2E%70%68%70%0D%0A$$lsname=SPORTV2 (Sports Devil source #02)</link>
 <thumbnail>http://i.imgur.com/4dV4aQ2.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORTV3[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1735.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORTV3 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1740.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORTV3 (F4M source #07)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/366.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORTV3 (F4M source #08)</link>
 "<link><link>$doregex[getUrl]$$lsname=SPORTV3 (HTTP #source 03)</link>
 <regex>
@@ -214,60 +232,101 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ALL SPORTS[/B][/COLOR]</title>
 <link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8$$lsname=ALL SPORTS  (HTTP source #01)</link>
 <thumbnail>http://i.imgur.com/WDDYvsC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] VIVA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2145.ts;streamtype=TSDOWNLOADER&amp;name=VIVA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=VIVA (F4M source #02)</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/d1/VIVA_logo_2011.png/revision/latest/scale-to-width-down/250?cb=20101129220058</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8214.ts;streamtype=TSDOWNLOADER&amp;name=HBO [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HBO (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1802.ts;streamtype=TSDOWNLOADER&amp;name=HBO [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HBO (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=HBO (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=55&referrer=http://tudotv.tv/canal.php?id=55&width=100%&height=100%&jwplayer=seven</page><referer>http://tudotv.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tudotv.com/novos.php</page></regex>$$lsname=HBO  (HTTP source #03)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=HBO (HTTP #source 04)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=52&referrer=http://tvonlinegratis1.com/assistir-history-2-online-gratis-ao-vivo/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=HBO  (HTTP source #04)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo_asia.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO FAMILY[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8215.ts;streamtype=TSDOWNLOADER&amp;name=HBO FAMILY [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HBO FAMILY (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2155.ts;streamtype=TSDOWNLOADER&amp;name=HBO FAMILY [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HBO FAMILY (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=HBO FAMILY (HTTP #source 04)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=54&referrer=http://tudotv.tv/canal.php?id=54&width=100%&height=100%&jwplayer=seven</page><referer>http://tudotv.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tudotv.com/novos.php</page></regex>$$lsname=HBO FAMILY  (HTTP source #04)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO PLUS[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8216.ts;streamtype=TSDOWNLOADER&amp;name=HBO PLUS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HBO PLUS (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2154.ts;streamtype=TSDOWNLOADER&amp;name=HBO PLUS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HBO PLUS (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=HBO PLUS (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=57&referrer=http://tudotv.tv/canal.php?id=57&width=100%&height=100%&jwplayer=seven</page><referer>http://tudotv.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tudotv.com/novos.php</page></regex>$$lsname=HBO PLUS  (HTTP source #03)</link>
 <thumbnail>http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO PLUS*E[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1800.ts;streamtype=TSDOWNLOADER&amp;name=HBO PLUS*E [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HBO PLUS*E (F4M source #02)</link>
+<thumbnail>http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO SIGNATURE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2153.ts;streamtype=TSDOWNLOADER&amp;name=HBO SIGNATURE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HBO SIGNATURE (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=HBO SIGNATURE (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=58&referrer=http://tudotv.tv/canal.php?id=58&width=100%&height=100%&jwplayer=seven</page><referer>http://tudotv.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tudotv.com/novos.php</page></regex>$$lsname=HBO SIGNATURE  (HTTP source #03)</link>
 <thumbnail>http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HBO2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1804.ts;streamtype=TSDOWNLOADER&amp;name=HBO2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HBO2 (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=HBO2 (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=53&referrer=http://tudotv.tv/canal.php?id=53&width=100%&height=100%&jwplayer=seven</page><referer>http://tudotv.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tudotv.com/novos.php</page></regex>$$lsname=HBO2  (HTTP source #03)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo2_ce.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MAX[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1791.ts;streamtype=TSDOWNLOADER&amp;name=MAX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MAX (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=MAX (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=58&referrer=http://tudotv.tv/canal.php?id=58&width=100%&height=100%&jwplayer=seven</page><referer>http://tudotv.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tudotv.com/novos.php</page></regex>$$lsname=MAX  (HTTP source #03)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MAX PRIME[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1790.ts;streamtype=TSDOWNLOADER&amp;name=MAX PRIME [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MAX PRIME (F4M source #02)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MAX UP[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1788.ts;streamtype=TSDOWNLOADER&amp;name=MAX UP [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MAX UP (F4M source #02)</link>
 <link><link>$doregex[get-stream] playpath=maxhd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/ token=$doregex[get-token]$$lsname=MAX UP (HTTP #source 03)</link><regex><name>get-stream</name><expres><![CDATA[streamer=(.*)&auto]]></expres><page>http://tv-msn.com/master.php</page><referer>http://tv-msn.com/</referer></regex><regex><name>get-token</name><expres>(.*)</expres><agent>Googlebot/2.1 (+http://www.googlebot.com/bot.html)</agent><page>http://pastebin.com/raw/96M4SCK7</page></regex>$$lsname=MAX UP  (HTTP source #03)</link>
 <thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/maxup.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] COMBATE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1844.ts;streamtype=TSDOWNLOADER&amp;name=COMBATE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=COMBATE (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1845.ts;streamtype=TSDOWNLOADER&amp;name=COMBATE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=COMBATE (F4M source #08)</link>
 <link>http://5.79.68.138:8081/look/combate/playlist.m3u8$$lsname=COMBATE  (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://vizer.tv/assistir-Combate$$lsname=COMBATE (Sports Devil source #01)</link>
 <thumbnail>http://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIERE CLUBES[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1758.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE CLUBES [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE CLUBES (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1771.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE CLUBES [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE CLUBES (F4M source #07)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1705.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE CLUBES [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE CLUBES (F4M source #08)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=PREMIERE CLUBES (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed.php?file=0b0a675100b68f6f3-pfc0964&referrer=http://tvonlinegratis1.com/assistir-premiere-online-pfc-ao-vivo/&width=100%&height=100%&jwplayer=seven</page><referer>http://ekostreams.co/ch/pfc.php</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/assistir-premiere-online-pfc-ao-vivo/</page></regex>$$lsname=PREMIERE CLUBES  (HTTP source #03)</link>
 <thumbnail>http://i.imgur.com/hFOEDRM.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIERE 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1769.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 2 (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/259.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 2 (F4M source #08)</link>
 <thumbnail>http://i.imgur.com/hFOEDRM.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIERE 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1767.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 3 (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/269.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 3 (F4M source #08)</link>
 <thumbnail>http://i.imgur.com/hFOEDRM.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIERE 4[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1765.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 4 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 4 (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/270.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 4 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 4 (F4M source #08)</link>
 <thumbnail>http://i.imgur.com/hFOEDRM.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIERE 5[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1763.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 5 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 5 (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1660.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 5 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 5 (F4M source #08)</link>
 <thumbnail>http://i.imgur.com/hFOEDRM.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIERE 6[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1762.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 6 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 6 (F4M source #02)</link>
+<thumbnail>http://i.imgur.com/hFOEDRM.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIERE 7[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1761.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 7 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 7 (F4M source #02)</link>
+<thumbnail>http://i.imgur.com/hFOEDRM.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIERE 8[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1760.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 8 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 8 (F4M source #02)</link>
+<thumbnail>http://i.imgur.com/hFOEDRM.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIERE 9[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1759.ts;streamtype=TSDOWNLOADER&amp;name=PREMIERE 9 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PREMIERE 9 (F4M source #02)</link>
+<thumbnail>http://i.imgur.com/hFOEDRM.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TELECINE ACTION[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1730.ts;streamtype=TSDOWNLOADER&amp;name=TELECINE ACTION [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TELECINE ACTION (F4M source #02)</link>
 <link>http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8$$lsname=TELECINE ACTION  (HTTP source #01)</link>
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=TELECINE ACTION (HTTP #source 03)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.p3gpublish.com:1935/loadbalancer?23270&</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.p3g.tv/membedplayer/tcacionaovivo2/1/640/360</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://aovivonatv.com/assistir-telecine-action-ao-vivo-em-hd-gratis/</referer></regex>$$lsname=TELECINE ACTION  (HTTP source #03)</link>
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=TELECINE ACTION (HTTP #source 04)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.p3gpublish.com:1935/loadbalancer?23270&</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.p3g.tv/membedplayer/tcacionaovivo2/1/640/360</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://aovivonatv.com/assistir-telecine-action-ao-vivo-em-hd-gratis/</referer>$$lsname=TELECINE ACTION  (HTTP source #04)</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/d/d2/Telecine_Action_2005.png/revision/latest?cb=20151109191132</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TELECINE CULT[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1724.ts;streamtype=TSDOWNLOADER&amp;name=TELECINE CULT [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TELECINE CULT (F4M source #02)</link>
+<thumbnail>http://files.servidorcs1.webnode.com/200001032-9fdbaa0d3f/Telecine_Cult_Gato.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TELECINE FUN[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1729.ts;streamtype=TSDOWNLOADER&amp;name=TELECINE FUN [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TELECINE FUN (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=TELECINE FUN (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=117&referrer=http://tvonlinegratis1.com/assistir-telecine-fun-online-gratis-24h/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=TELECINE FUN  (HTTP source #03)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TELECINE PIPOCA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1728.ts;streamtype=TSDOWNLOADER&amp;name=TELECINE PIPOCA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TELECINE PIPOCA (F4M source #02)</link>
 "<link><link>$doregex[getUrl]$$lsname=TELECINE PIPOCA (HTTP #source 03)</link>
 <regex>
 <name>getUrl</name>
@@ -286,6 +345,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>$$lsname=TELECINE PIPOCA  (HTTP source #03)</link>"
 <thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TELECINE PREMIUM[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1727.ts;streamtype=TSDOWNLOADER&amp;name=TELECINE PREMIUM [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TELECINE PREMIUM (F4M source #02)</link>
 "<link><link>$doregex[getUrl]$$lsname=TELECINE PREMIUM (HTTP #source 03)</link>
 <regex>
 <name>getUrl</name>
@@ -304,51 +364,79 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>$$lsname=TELECINE PREMIUM  (HTTP source #03)</link>"
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=TELECINE PREMIUM (HTTP #source 04)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.p3gpublish.com:1935/loadbalancer?</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.p3g.tv/membedplayer/tvtcpremumaovivo/1/640/360</page><referer>http://www.p3g.tv/</referer></regex>$$lsname=TELECINE PREMIUM  (HTTP source #04)</link>
 <thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TELECINE TOUCH[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2148.ts;streamtype=TSDOWNLOADER&amp;name=TELECINE TOUCH [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TELECINE TOUCH (F4M source #02)</link>
+<thumbnail>https://edhyghellen.files.wordpress.com/2010/10/tctouch.gif</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ANIMAL PLANET[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1863.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ANIMAL PLANET (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=ANIMAL PLANET (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=70&referrer=http://tvonlinegratis1.com/assistir-animal-planet-online-gratis-24-horas/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=ANIMAL PLANET  (HTTP source #03)</link>
 <thumbnail>http://i.imgur.com/bgpVuQt.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8198.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISCOVERY (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1840.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISCOVERY (F4M source #02)</link>
 <link>http://208.86.19.13:8080/live/31.stream/index.m3u8$$lsname=DISCOVERY  (HTTP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY CIVILIZATION[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8199.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CIVILIZATION [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISCOVERY CIVILIZATION (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1839.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CIVILIZATION [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISCOVERY CIVILIZATION (F4M source #02)</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/5/5f/Discovery_Civilisation.png/revision/latest?cb=20091127174912</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY SCIENCE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1835.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISCOVERY SCIENCE (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=DISCOVERY SCIENCE (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=23&referrer=http://tvonlinegratis1.com/discovery-science-online-gratis-ao-vivo/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=DISCOVERY SCIENCE  (HTTP source #03)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY TURBO[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8203.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY TURBO [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISCOVERY TURBO (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1833.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY TURBO [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISCOVERY TURBO (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FUTURA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8230.ts;streamtype=TSDOWNLOADER&amp;name=FUTURA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FUTURA (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1813.ts;streamtype=TSDOWNLOADER&amp;name=FUTURA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FUTURA (F4M source #02)</link>
 <link>http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8$$lsname=FUTURA  (HTTP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/200px-Canal_Futura.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NATIONAL GEOGRAPHIC WILD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1783.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC WILD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NATIONAL GEOGRAPHIC WILD (F4M source #02)</link>
 <link><link>$doregex[get-stream] playpath=animal swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/ token=$doregex[get-token]$$lsname=NATIONAL GEOGRAPHIC WILD (HTTP #source 03)</link><regex><name>get-stream</name><expres><![CDATA[streamer=(.*)&auto]]></expres><page>http://tv-msn.com/master.php</page><referer>http://tv-msn.com/</referer></regex><regex><name>get-token</name><expres>(.*)</expres><agent>Googlebot/2.1 (+http://www.googlebot.com/bot.html)</agent><page>http://pastebin.com/raw/96M4SCK7</page></regex>$$lsname=NATIONAL GEOGRAPHIC WILD  (HTTP source #03)</link>
 <thumbnail>http://i.imgur.com/mNhHiku.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] H2[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8212.ts;streamtype=TSDOWNLOADER&amp;name=H2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=H2 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2156.ts;streamtype=TSDOWNLOADER&amp;name=H2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=H2 (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] HISTORIA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8218.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HISTORIA (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1797.ts;streamtype=TSDOWNLOADER&amp;name=HISTORIA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=HISTORIA (F4M source #02)</link>
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=HISTORIA (HTTP #source 04)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.p3gpublish.com:1935/loadbalancer?22592&</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.p3g.tv/membedplayer/tvhistoryaovivo/1/640/360</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://aovivonatv.com/assistir-history-channel-ao-vivo/</referer></regex>$$lsname=HISTORIA  (HTTP source #04)</link>
 <thumbnail>http://i.imgur.com/g5uYzpc.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NATIONAL GEOGRAPHIC[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8221.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NATIONAL GEOGRAPHIC (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1782.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NATIONAL GEOGRAPHIC (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=NATIONAL GEOGRAPHIC (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=74&referrer=http://tvonlinegratis1.com/assistir-national-geographic-online/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=NATIONAL GEOGRAPHIC  (HTTP source #03)</link>
 <thumbnail>http://i.imgur.com/UPqfbBu.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] INVESTIGATION DISCOVERY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1795.ts;streamtype=TSDOWNLOADER&amp;name=INVESTIGATION DISCOVERY [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=INVESTIGATION DISCOVERY (F4M source #02)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BIS[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2120.ts;streamtype=TSDOWNLOADER&amp;name=BIS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BIS (F4M source #02)</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/5e/Logo_of_Bis.svg.png/revision/latest/scale-to-width-down/219?cb=20130305011337</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1786.ts;streamtype=TSDOWNLOADER&amp;name=MTV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MTV (F4M source #02)</link>
 <link>http://wow01.105.net/live/rmc1/playlist.m3u8$$lsname=MTV  (HTTP source #01)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=MTV (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=62&referrer=http://tvonlinegratis1.com/assistir-mtv-ao-vivo-hd/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=MTV  (HTTP source #03)</link>
 <thumbnail>http://i.imgur.com/5u1u9oO.png?1</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MUSIC BOX BRASIL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1784.ts;streamtype=TSDOWNLOADER&amp;name=MUSIC BOX BRASIL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MUSIC BOX BRASIL (F4M source #02)</link>
+<thumbnail>http://tudotv.tv/fotos/c80c2cbdd39021dc0d0af2134cdb88fd.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BAND NEWS[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1857.ts;streamtype=TSDOWNLOADER&amp;name=BAND NEWS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BAND NEWS (F4M source #02)</link>
 <link>rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=?ChannelsON$$lsname=BAND NEWS (RTMP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/27/BandNews_TV_logo_2010.svg</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BAND SPORTS[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2119.ts;streamtype=TSDOWNLOADER&amp;name=BAND SPORTS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BAND SPORTS (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1856.ts;streamtype=TSDOWNLOADER&amp;name=BAND SPORTS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BAND SPORTS (F4M source #07)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/370.ts;streamtype=TSDOWNLOADER&amp;name=BAND SPORTS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BAND SPORTS (F4M source #08)</link>
 <thumbnail>http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/band-sports.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPN[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2162.ts;streamtype=TSDOWNLOADER&amp;name=ESPN [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ESPN (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1824.ts;streamtype=TSDOWNLOADER&amp;name=ESPN [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ESPN (F4M source #07)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=ESPN (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=36&referrer=http://tvonlinegratis1.com/assistir-espn-online-ao-vivo-gratis/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=ESPN  (HTTP source #03)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/espn.php$$lsname=ESPN (Sports Devil source #02)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/ESPNUK.png/revision/latest?cb=20130806171811</thumbnail></item>
@@ -372,6 +460,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://aovivonatv.com/player/flappr.php?canal=espnmais$$lsname=ESPN+ (Sports Devil source #01)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/cf/Espn_LA.png/revision/latest?cb=20160308190123</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] ESPN BRASIL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1823.ts;streamtype=TSDOWNLOADER&amp;name=ESPN BRASIL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ESPN BRASIL (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1866.ts;streamtype=TSDOWNLOADER&amp;name=ESPN BRASIL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ESPN BRASIL (F4M source #07)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1690.ts;streamtype=TSDOWNLOADER&amp;name=ESPN BRASIL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ESPN BRASIL (F4M source #08)</link>
 <link>http://95.211.149.215:8081/look/espnbr/playlist.m3u8$$lsname=ESPN BRASIL  (HTTP source #01)</link>
 "<link><link>$doregex[getUrl]$$lsname=ESPN BRASIL (HTTP #source 03)</link>
@@ -393,9 +483,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://aovivonatv.com/player/flappr.php?canal=espn$$lsname=ESPN BRASIL (Sports Devil source #01)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://aovivonatv.com/player.php?id=3086$$lsname=ESPN BRASIL (Sports Devil source #02)</link>
 <thumbnail>http://i.imgur.com/RDEG8LP.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX SPORTS 1 BR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/367.ts;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS 1 BR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FOX SPORTS 1 BR (F4M source #08)</link>
-"<link><link>$doregex[getUrl]$$lsname=FOX SPORTS 1 BR (HTTP #source 03)</link>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX SPORTS BR[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1816.ts;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS BR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FOX SPORTS BR (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1815.ts;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS BR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FOX SPORTS BR (F4M source #07)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/367.ts;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS BR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FOX SPORTS BR (F4M source #08)</link>
+"<link><link>$doregex[getUrl]$$lsname=FOX SPORTS BR (HTTP #source 03)</link>
 <regex>
 <name>getUrl</name>
 <expres><![CDATA[#$pyFunction
@@ -410,11 +502,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>http://ekostreams.co/ch/foxsports.php</page>
 <referer>http://ekostreams.co/</referer>
 <cookieJar></cookieJar>
-</regex>$$lsname=FOX SPORTS 1 BR  (HTTP source #03)</link>"
-<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=FOX SPORTS 1 BR (HTTP #source 04)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.p3gpublish.com:1935/loadbalancer?22568&</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.p3g.tv/membedplayer/foxsportsaovivo/1/640/360</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://aovivonatv.com/fox-sports-ao-vivo/</referer>$$lsname=FOX SPORTS 1 BR  (HTTP source #04)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/foxsports.php$$lsname=FOX SPORTS 1 BR (Sports Devil source #01)</link>
+</regex>$$lsname=FOX SPORTS BR  (HTTP source #03)</link>"
+<link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=FOX SPORTS BR (HTTP #source 04)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.p3gpublish.com:1935/loadbalancer?22568&</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.p3g.tv/membedplayer/foxsportsaovivo/1/640/360</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://aovivonatv.com/fox-sports-ao-vivo/</referer>$$lsname=FOX SPORTS BR  (HTTP source #04)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/foxsports.php$$lsname=FOX SPORTS BR (Sports Devil source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX SPORTS 2 BR[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1814.ts;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS 2 BR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FOX SPORTS 2 BR (F4M source #02)</link>
 "<link><link>$doregex[getUrl]$$lsname=FOX SPORTS 2 BR (HTTP #source 03)</link>
 <regex>
 <name>getUrl</name>
@@ -435,44 +528,65 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/foxsports2.php$$lsname=FOX SPORTS 2 BR (Sports Devil source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CANAL BRASIL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1851.ts;streamtype=TSDOWNLOADER&amp;name=CANAL BRASIL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CANAL BRASIL (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=CANAL BRASIL (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=8&referrer=http://tvonlinegratis1.com/assistir-canal-brasil-online-hd/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=CANAL BRASIL  (HTTP source #03)</link>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/63/Brasil.jpg/revision/latest?cb=20131114185714</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CINEMAX[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1846.ts;streamtype=TSDOWNLOADER&amp;name=CINEMAX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CINEMAX (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=CINEMAX (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=11&referrer=http://tvonlinegratis1.com/assistir-cinemax-online-hd/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=CINEMAX  (HTTP source #03)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2000px-Cinemax.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MEGAPIX[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1787.ts;streamtype=TSDOWNLOADER&amp;name=MEGAPIX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=MEGAPIX (F4M source #02)</link>
 <link>http://5.79.68.138:8081/look/megapix/chunks.m3u8$$lsname=MEGAPIX  (HTTP source #01)</link>
 <link>http://5.79.68.138:8081/look/megapix/playlist.m3u8$$lsname=MEGAPIX  (HTTP source #03)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest/scale-to-width-down/250?cb=20151120222118</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] PARAMOUNT CHANNEL[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8224.ts;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PARAMOUNT CHANNEL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2117.ts;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PARAMOUNT CHANNEL (F4M source #02)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] STUDIO UNIVERSAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1733.ts;streamtype=TSDOWNLOADER&amp;name=STUDIO UNIVERSAL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=STUDIO UNIVERSAL (F4M source #02)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TCM[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1726.ts;streamtype=TSDOWNLOADER&amp;name=TCM [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TCM (F4M source #02)</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TCM_Latin_America.png/revision/latest?cb=20151209165240</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] TNT[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1715.ts;streamtype=TSDOWNLOADER&amp;name=TNT [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TNT (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=TNT (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=108&referrer=http://tvonlinegratis1.com/assistir-tnt-online-gratis-24-horas/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=TNT  (HTTP source #03)</link>
 <thumbnail>https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/t/55dc67d3e4b025d475d026d7/1440507859238/tnt-fpb-channel-lineup</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TNT SERIE[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2116.ts;streamtype=TSDOWNLOADER&amp;name=TNT SERIE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TNT SERIE (F4M source #02)</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Serie.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] BOOMERANG[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8196.ts;streamtype=TSDOWNLOADER&amp;name=BOOMERANG [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BOOMERANG (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1852.ts;streamtype=TSDOWNLOADER&amp;name=BOOMERANG [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BOOMERANG (F4M source #02)</link>
 <link><link>$doregex[getLink]|User-Agent=iPad$$lsname=BOOMERANG (HTTP #source 03)</link><regex><name>getLink</name><expres>file: '(.*?)',</expres><page>http://pxstream.tv/embed_novos.php?file=7&amp;width=640&amp;height=470&amp;jwplayer=flash</page><referer>http://aovivonatv.com/player.php?id=93&width=640&height=360</referer><cookieJar></cookiejar><agent>iPad</agent></regex>$$lsname=BOOMERANG  (HTTP source #03)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/mixels/images/4/41/Boomerang_tv_logo.png/revision/latest?cb=20150307200807</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] CARTOON NETWORK[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8197.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CARTOON NETWORK (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1847.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CARTOON NETWORK (F4M source #02)</link>
 <link>http://95.211.149.215:8081/look/cartoon/playlist.m3u8$$lsname=CARTOON NETWORK  (HTTP source #01)</link>
 <thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY KIDS[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1836.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY KIDS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISCOVERY KIDS (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=DISCOVERY KIDS (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=22&referrer=http://tvonlinegratis1.com/assistir-discovery-kids-online-hd/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=DISCOVERY KIDS  (HTTP source #03)</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logos/images/3/3c/Discovery_Kids_logo_2016_2D.png/revision/latest?cb=20161005160027&path-prefix=pt-br</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY CHANNEL[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8204.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISNEY CHANNEL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1832.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISNEY CHANNEL (F4M source #02)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY JUNIOR[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1831.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISNEY JUNIOR (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=DISNEY JUNIOR (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=28&referrer=http://tvonlinegratis1.com/disney-junior-online-gratis-desenho-infantil/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=DISNEY JUNIOR  (HTTP source #03)</link>
 <thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISNEY XD[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8205.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY XD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISNEY XD (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1830.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY XD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISNEY XD (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=DISNEY XD (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=29&referrer=http://tvonlinegratis1.com/assistir-disney-xd-online-24h/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=DISNEY XD  (HTTP source #03)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] GLOOB[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3118.ts;streamtype=TSDOWNLOADER&amp;name=GLOOB [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GLOOB (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1808.ts;streamtype=TSDOWNLOADER&amp;name=GLOOB [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GLOOB (F4M source #02)</link>
 "<link><link>$doregex[getUrl]$$lsname=GLOOB (HTTP #source 03)</link>
 <regex>
 <name>getUrl</name>
@@ -497,12 +611,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NICK JR[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8223.ts;streamtype=TSDOWNLOADER&amp;name=NICK JR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NICK JR (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1778.ts;streamtype=TSDOWNLOADER&amp;name=NICK JR [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NICK JR (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=NICK JR (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=75&referrer=http://tvonlinegratis1.com/assistir-nick-junior-online/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=NICK JR  (HTTP source #03)</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] NICKELODEON[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1777.ts;streamtype=TSDOWNLOADER&amp;name=NICKELODEON [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=NICKELODEON (F4M source #02)</link>
+<thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] NICKTOONS[/B][/COLOR]</title>
 <link>http://208.86.19.13:8080/live/15.stream/index.m3u8$$lsname=NICKTOONS  (HTTP source #01)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EI MAXX[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1828.ts;streamtype=TSDOWNLOADER&amp;name=EI MAXX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EI MAXX (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1825.ts;streamtype=TSDOWNLOADER&amp;name=EI MAXX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EI MAXX (F4M source #07)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/365.ts;streamtype=TSDOWNLOADER&amp;name=EI MAXX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EI MAXX (F4M source #08)</link>
 <link>http://5.79.68.138:8081/look/eimax/playlist.m3u8$$lsname=EI MAXX  (HTTP source #01)</link>
 "<link><link>$doregex[getUrl]$$lsname=EI MAXX (HTTP #source 03)</link>
@@ -524,6 +644,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/eimax.php$$lsname=EI MAXX (Sports Devil source #01)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/b/b1/EI_Maxx.png/revision/20160125133423</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] EI MAXX 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1827.ts;streamtype=TSDOWNLOADER&amp;name=EI MAXX 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EI MAXX 2 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1826.ts;streamtype=TSDOWNLOADER&amp;name=EI MAXX 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EI MAXX 2 (F4M source #07)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/364.ts;streamtype=TSDOWNLOADER&amp;name=EI MAXX 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EI MAXX 2 (F4M source #08)</link>
 <link>http://enlsso9vfh.singularcdn.net.br/live/canal_11/playlist-720p.m3u8$$lsname=EI MAXX 2  (HTTP source #01)</link>
 "<link><link>$doregex[getUrl]$$lsname=EI MAXX 2 (HTTP #source 03)</link>
@@ -549,32 +671,65 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] A&E[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8195.ts;streamtype=TSDOWNLOADER&amp;name=A&E [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=A&E (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2720.ts;streamtype=TSDOWNLOADER&amp;name=A&E [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=A&E (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=A&E (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=0&referrer=http://tvonlinegratis1.com/assistir-ae-online-ao-vivo/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres>$$lsname=A&E  (HTTP source #03)</link>
 <thumbnail>http://i.imgur.com/W4mLcJh.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] AXN[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2165.ts;streamtype=TSDOWNLOADER&amp;name=AXN [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=AXN (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=AXN (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=1&referrer=http://tvonlinegratis1.com/assistir-axn-online-ao-vivo/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=AXN  (HTTP source #03)</link>
 <thumbnail>http://i.imgur.com/aDkAm6p.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] COMEDY CENTRAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1843.ts;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=COMEDY CENTRAL (F4M source #02)</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8208.ts;streamtype=TSDOWNLOADER&amp;name=FOX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FOX (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2160.ts;streamtype=TSDOWNLOADER&amp;name=FOX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FOX (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=FOX (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=38&referrer=http://tudotv.tv/canal.php?id=38&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=FOX  (HTTP source #03)</link>
 <thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FX[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8210.ts;streamtype=TSDOWNLOADER&amp;name=FX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FX (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2157.ts;streamtype=TSDOWNLOADER&amp;name=FX [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FX (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/PP4wOet.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] LIFETIME[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1793.ts;streamtype=TSDOWNLOADER&amp;name=LIFETIME [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=LIFETIME (F4M source #02)</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/a/a3/Lifetime_2017.svg/revision/latest/scale-to-width-down/200?cb=20170209200248</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SONY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1849.ts;streamtype=TSDOWNLOADER&amp;name=SONY [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SONY (F4M source #02)</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png/revision/latest?cb=20140413032426</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] SYFY[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1732.ts;streamtype=TSDOWNLOADER&amp;name=SYFY [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SYFY (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=SYFY (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=104&referrer=http://tvonlinegratis1.com/assistir-syfy-online/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=SYFY  (HTTP source #03)</link>
 <thumbnail>http://i.imgur.com/F1nf2YL.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] UNIVERSAL CHANNEL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2112.ts;streamtype=TSDOWNLOADER&amp;name=UNIVERSAL CHANNEL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=UNIVERSAL CHANNEL (F4M source #02)</link>
 <link><link>$doregex[file]|User-Agent: Mozilla/5.0$$lsname=UNIVERSAL CHANNEL (HTTP #source 03)</link><regex><name>file</name><expres>(http.*m3u[^\']+)</expres><page>http://pxstream.tv/embed_novos.php?file=123&referrer=http://tvonlinegratis1.com/assistir-universal-channel-online-gratis/&width=100%&height=100%&jwplayer=seven</page><referer>http://tvonlinegratis1.com/</referer></regex><regex><name>getid</name><expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres><page>http://tvonlinegratis1.com/novos.php</page></regex>$$lsname=UNIVERSAL CHANNEL  (HTTP source #03)</link>
 <link><link>$doregex[get-stream] playpath=master20 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/ token=$doregex[get-token]$$lsname=UNIVERSAL CHANNEL (HTTP #source 04)</link><regex><name>get-stream</name><expres><![CDATA[streamer=(.*)&auto]]></expres><page>http://tv-msn.com/mestre.php?MWINFO</page><referer>http://tv-msn.com/</referer></regex><regex><name>get-token</name><expres>(.*)</expres><agent>Googlebot/2.1 (+http://www.googlebot.com/bot.html)</agent><page>http://pastebin.com/raw/96M4SCK7</page>$$lsname=UNIVERSAL CHANNEL  (HTTP source #04)</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/e6/Universal_Int_2013.png/revision/latest/scale-to-width-down/250?cb=20130505201440</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] WARNER CHANNEL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2146.ts;streamtype=TSDOWNLOADER&amp;name=WARNER CHANNEL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=WARNER CHANNEL (F4M source #02)</link>
 <link><link>http://$doregex[ip]$doregex[m3u8]$$lsname=WARNER CHANNEL (HTTP #source 03)</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.p3gpublish.com:1935/loadbalancer?23271&</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.p3g.tv/membedplayer/warneraovivo2/1/640/360</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://tudotv.tv/assistir-warner-channel-hd-ao-vivo-gratis-online/</referer></regex>$$lsname=WARNER CHANNEL  (HTTP source #03)</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/c/c2/Warner-azul.png/revision/latest?cb=20160425222208</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ARTE 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1861.ts;streamtype=TSDOWNLOADER&amp;name=ARTE 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ARTE 1 (F4M source #02)</link>
+<thumbnail>http://bit.ly/IMG_ARTE</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] DISCOVERY HOME & HEALTH[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8200.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HOME & HEALTH [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISCOVERY HOME & HEALTH (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1838.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HOME & HEALTH [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=DISCOVERY HOME & HEALTH (F4M source #02)</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] E! ENTERTAINMENT[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1829.ts;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=E! ENTERTAINMENT (F4M source #02)</link>
+<thumbnail>http://i.imgur.com/zGAy6qU.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] FOX LIFE[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8209.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FOX LIFE (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1817.ts;streamtype=TSDOWNLOADER&amp;name=FOX LIFE [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FOX LIFE (F4M source #02)</link>
 <thumbnail>http://i.imgur.com/giiQxbn.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TLC[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1717.ts;streamtype=TSDOWNLOADER&amp;name=TLC [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TLC (F4M source #02)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] WOOHOO[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1703.ts;streamtype=TSDOWNLOADER&amp;name=WOOHOO [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=WOOHOO (F4M source #02)</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052011/woohoo_logo_bw.png?itok=G1GPsuGV</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] FOOD NETWORK[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/1821.ts;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=FOOD NETWORK (F4M source #02)</link>
+<thumbnail>http://i.imgur.com/n2CzI8b.png</thumbnail></item>
 Copyright © 2017 - TeamBlue
