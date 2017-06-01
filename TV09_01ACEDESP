@@ -1,1 +1,211 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+"<item>
+<title>UK: [COLOR deepskyblue]BT SPORT 1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://i.imgur.com/F2R303x.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/302-bt-sport-1.html</page>
+</regex>
+</item>"
+"<item>
+<title>UK: [COLOR deepskyblue]BT SPORT 2[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/303-bt-sport-2.html</page>
+</regex>
+</item>"
+"<item>
+<title>UK: [COLOR deepskyblue]BT SPORT ESPN[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/426-bt-sport-espn.html</page>
+</regex>
+</item>"
+"<item>
+<title>UK: [COLOR deepskyblue]SKY SPORTS F1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/322-sky-sports-f1.html</page>
+</regex>
+</item>"
+"<item>
+<title>UK: [COLOR deepskyblue]SKY SPORTS 1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://i.imgur.com/GM9BhHH.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/294-sky-sports-1.html</page>
+</regex>
+</item>"
+"<item>
+<title>UK: [COLOR deepskyblue]SKY SPORTS 2[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://i.imgur.com/JM9osWD.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/295-sky-sports-2.html</page>
+</regex>
+</item>"
+"<item>
+<title>UK: [COLOR deepskyblue]SKY SPORTS 3[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://i.imgur.com/CfwpEyD.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/296-sky-sports-3.html</page>
+</regex>
+</item>"
+"<item>
+<title>UK: [COLOR deepskyblue]SKY SPORTS 4[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://i.imgur.com/3ha97Ea.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/297-sky-sports-4.html</page>
+</regex>
+</item>"
+"<item>
+<title>UK: [COLOR deepskyblue]SKY SPORTS 5[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://i.imgur.com/0xHzWmL.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/402-sky-sports-5.html</page>
+</regex>
+</item>"
+"<item>
+<title>UK: [COLOR deepskyblue]PREMIER SPORTS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/premier_sports.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/310-premier-sports.html</page>
+</regex>
+</item>"
+"<item>
+<title>UK: [COLOR deepskyblue]MOTORSPORT.TV[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://kampanja3.dna.fi/sportmix/assets/images/logos/logo_motorsport_tv.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/310-premier-sports.html</page>
+</regex>
+</item>"
+"<item>
+<title>US: [COLOR deepskyblue]NBA TV[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/195-nba-tv.html</page>
+</regex>
+</item>"
+"<item>
+<title>ES: [COLOR deepskyblue]MOVISTAR F1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/429-movistar-f1.html</page>
+</regex>
+</item>"
+"<item>
+<title>ES: [COLOR deepskyblue]MOVISTAR MOTOGP[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/800px-Movistar_Moto_GP.svg.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/430-movistar-motogp.html</page>
+</regex>
+</item>"
+"<item>
+<title>PT: [COLOR deepskyblue]SPORT TV 1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/451-sport-tv-1.html</page>
+</regex>
+</item>"
