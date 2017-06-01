@@ -1,1 +1,29 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+"<item>
+<title>US: [COLOR deepskyblue]CNN[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://i.imgur.com/9cnjX88.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/222-cnn-international.html</page>
+</regex>
+</item>"
+"<item>
+<title>UK: [COLOR deepskyblue]BBC WORLD NEWS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>Link [makelist.param2]</title>
+   <link>plugin://program.plexus/?mode=1&amp;url=[makelist.param1]&amp;name=Link[makelist.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[player\.php\?id=([^"]*)">[^\d]*(.*?)<]]></expres>
+<page>http://tuchkatv.ru/214-bbc-world-news.html</page>
+</regex>
+</item>"
