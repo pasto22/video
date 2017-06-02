@@ -1,209 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item><title>[B][COLOR red]01.06 16h00 [B][COLOR green]TORNEIO DE TOULON [COLOR blue]ANGOLA • JAPAO [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 27 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av27</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 28 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av28</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-"<info>O Torneio Internacional de Toulon é um de futebol de seleções de base, disputada na cidade francesa de Toulon, situada no departamento do Var, na região Provença-Alpes-Costa Azul (Provence-Alpes-Côte d'Azur).
-Conhecido inicialmente como Torneo Esperanzas de Toulon, é disputado desde 1967, e a participação é feita por convite.
-As partidas do Torneio de Toulon são disputadas em dois tempos de 40 minutos cada, desafiando a mentalidade dos jovens jogadores com tempo limitado.</info>"
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]01.06 18h15 [B][COLOR green]NOTICIAS [COLOR blue]MAIS TRANSFERENCIAS [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7752.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #04)</link>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8$$lsname=TVI24 (HTTP #source 01)</link>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8$$lsname=TVI24 (HTTP #source 03)</link>
-"<info>Negociações e mudanças marcam, nesta altura, os diferentes clubes de futebol.
-Por isso, o programa “Mais transferências” está de volta à TVI24, para trazer diariamente todas as novidades sobre as contratações do futebol para a nova época.
-De segunda a sexta, um jornal sobre as transferências, os jogadores e os planteis de cada clube, na TVI24.</info>"
-<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
-<item><title>[B][COLOR red]01.06 18h30 [B][COLOR green]TORNEIO DE TOULON [COLOR blue]INGLATERRA • CUBA [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 27 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av27</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 28 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av28</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-"<info>O Torneio Internacional de Toulon é um de futebol de seleções de base, disputada na cidade francesa de Toulon, situada no departamento do Var, na região Provença-Alpes-Costa Azul (Provence-Alpes-Côte d'Azur).
-Conhecido inicialmente como Torneo Esperanzas de Toulon, é disputado desde 1967, e a participação é feita por convite.
-As partidas do Torneio de Toulon são disputadas em dois tempos de 40 minutos cada, desafiando a mentalidade dos jovens jogadores com tempo limitado.</info>"
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]01.06 18h30 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO JORNAL [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/9006.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #04)</link>
-<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
-<link>http://213.13.26.41:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 03)</link>
-<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
-<info>O Universo Porto - Jornal é um programa de informação desportiva, sobre conteúdos do FC Porto. Trata-se de um programa diário, de segunda a sexta-feira, com todas as informações do FC Porto, um olhar atento sobre o dia-a-dia do clube, com síntese sobre todas as modalidades.</info>
-<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
-<item><title>[B][COLOR red]01.06 19h00 [B][COLOR green]NOTICIAS [COLOR blue]JORNAL DE DESPORTO [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/9006.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #04)</link>
-<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
-<link>http://213.13.26.41:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 03)</link>
-<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
-<info>Espaço de Informação atualizada sobre todas as modalidades desportivas.</info>
-<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
-<item><title>[B][COLOR red]01.06 19h45 [B][COLOR green]MUNDIAL 2018 (PREP) [COLOR blue]SUICA • BIELORRUSIA [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 3 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av3</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 4 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av4</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<info>Jogos de preparação rumo ao Mundial de 2018</info>
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]01.06 20h55 [B][COLOR green]NOTICIAS [COLOR blue]DUELOS COM COMENTARIO • ANTONIO SIMOES [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15368.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV+$$lsname=SPORT TV+ (F4M source #01)</link>
-<info>Novo espaço de debate com notáveis dos 3 grandes.</info>
-<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
-<item><title>[B][COLOR red]01.06 21h00 [B][COLOR green]NOTICIAS [COLOR blue]MAIS TRANSFERENCIAS [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7752.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #04)</link>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8$$lsname=TVI24 (HTTP #source 01)</link>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8$$lsname=TVI24 (HTTP #source 03)</link>
-"<info>Negociações e mudanças marcam, nesta altura, os diferentes clubes de futebol.
-Por isso, o programa “Mais transferências” está de volta à TVI24, para trazer diariamente todas as novidades sobre as contratações do futebol para a nova época.
-De segunda a sexta, um jornal sobre as transferências, os jogadores e os planteis de cada clube, na TVI24.</info>"
-<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
-<item><title>[B][COLOR red]01.06 21h00 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO ENTREVISTA [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/9006.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #04)</link>
-<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
-<link>http://213.13.26.41:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 03)</link>
-<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
-<info>Entrevistas aos principais intervenientes no Universo do Futebol Clube do Porto.</info>
-<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
-<item><title>[B][COLOR red]01.06 23h10 [B][COLOR green]COPA SUL AMERICANA [COLOR blue]COM. UNIDOS (PER) • BOSTON RIVER (URU) [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8243.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV2$$lsname=SPORTV2 (F4M source #04)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1741.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV2$$lsname=SPORTV2 (F4M source #08)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/sportv2.php$$lsname=SPORTV2 (Sports Devil #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=%68%74%74%70%3A%2F%2F%65%6B%6F%73%74%72%65%61%6D%73%2E%63%6F%2F%63%68%2F%73%70%6F%72%74%76%32%2E%70%68%70%0D%0A$$lsname=SPORTV2 (Sports Devil #source 02)</link>
-<info>A Copa Sul-Americana (Copa Sudamericana em espanhol), cujo nome oficial atual é CONMEBOL Sul-Americana, é uma competição internacional de clubes de futebol da América do Sul, organizada pela Confederação Sul-Americana de Futebol (CONMEBOL). Substituiu, em 2002, as copas Mercosul e Merconorte, que por sua vez substituíram, em 1998 e 1999, a Copa Conmebol e a Supercopa Sul-Americana. Disputada no segundo semestre, é a segunda competição mais importante entre clubes no continente sul-americano, inferior apenas à Copa Libertadores da América. A Copa Sul-Americana resultou da tentativa frustrada de se disputar uma Copa Pan-Americana de clubes, incluindo competidores das Américas Central e do Norte entre 2002 e 2008. É considerada uma continuação da Copa Conmebol, disputada entre 1992 e 1999, que seria a sua precursora pelas formas muito similares de classificação para as competições, tendo mais clubes participantes do que os 16 da antiga competição, com 54 participantes na edição de 2017.</info>
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]01.06 23h15 [B][COLOR green]COPA SUL AMERICANA [COLOR blue]BOLIVAR • DEPORTES TOLIMA [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8244.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #04)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1739.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #08)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://widestream.io/embed-9646$$lsname=SPORTV (Sports Devil #source 01)</link>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 23 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av23</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<info>A Copa Sul-Americana (Copa Sudamericana em espanhol), cujo nome oficial atual é CONMEBOL Sul-Americana, é uma competição internacional de clubes de futebol da América do Sul, organizada pela Confederação Sul-Americana de Futebol (CONMEBOL). Substituiu, em 2002, as copas Mercosul e Merconorte, que por sua vez substituíram, em 1998 e 1999, a Copa Conmebol e a Supercopa Sul-Americana. Disputada no segundo semestre, é a segunda competição mais importante entre clubes no continente sul-americano, inferior apenas à Copa Libertadores da América. A Copa Sul-Americana resultou da tentativa frustrada de se disputar uma Copa Pan-Americana de clubes, incluindo competidores das Américas Central e do Norte entre 2002 e 2008. É considerada uma continuação da Copa Conmebol, disputada entre 1992 e 1999, que seria a sua precursora pelas formas muito similares de classificação para as competições, tendo mais clubes participantes do que os 16 da antiga competição, com 54 participantes na edição de 2017.</info>
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]01.06 23h15 [B][COLOR green]NOTICIAS [COLOR blue]MAIS TRANSFERENCIAS [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7752.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #04)</link>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8$$lsname=TVI24 (HTTP #source 01)</link>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8$$lsname=TVI24 (HTTP #source 03)</link>
-"<info>Negociações e mudanças marcam, nesta altura, os diferentes clubes de futebol.
-Por isso, o programa “Mais transferências” está de volta à TVI24, para trazer diariamente todas as novidades sobre as contratações do futebol para a nova época.
-De segunda a sexta, um jornal sobre as transferências, os jogadores e os planteis de cada clube, na TVI24.</info>"
-<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
-<item><title>[B][COLOR red]02.06 01h00 [B][COLOR green]MUNDIAL 2018 (PREP) [COLOR blue]MEXICO • IRLANDA [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 21 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av21</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 27 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av27</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 28 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av28</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<info>Jogos de preparação rumo ao Mundial de 2018</info>
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]02.06 01h15 [B][COLOR green]COPA DO BRASIL [COLOR blue]CHAPECOENSE • CRUZEIRO [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7764.ts;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #04)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8244.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #04)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1739.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #08)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://widestream.io/embed-9646$$lsname=SPORTV (Sports Devil #source 01)</link>
-<info>A Copa do Brasil é uma competição nacional de futebol do Brasil. É jogada nos moldes da Copa da Inglaterra, Taça de Portugal, Copa do Rei, Copa da Escócia, entre outras. Inicialmente a Copa do Brasil foi disputada por 32 clubes, passou a 40 em 1996, o número foi crescendo até chegar em 69 no ano de 2000, vindo a se estabilizar em 64 após 2001, número que se manteve até 2012, disputada pelos 26 estados brasileiros e pelo Distrito Federal. A partir de 2013, passou a ser disputada por 86 equipes, seis delas já classificadas para as oitavas de final, a partir de 2017 será disputada por 91 equipes e em 2016 o principal patrocinador da competição passou a ser a Continental Pneus, fazendo com que a competição passasse a ser chamada de Copa Continental Pneus do Brasil.</info>
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]02.06 01h45 [B][COLOR green]COPA SUL AMERICANA [COLOR blue]DEP. CUENCA (EQU) • ORIENTE PETROLERO (BOL) [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8242.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #04)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1740.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #08)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/sportv3.php$$lsname=SPORTV3 (Sports Devil #source 01)</link>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 23 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av23</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<info>A Copa Sul-Americana (Copa Sudamericana em espanhol), cujo nome oficial atual é CONMEBOL Sul-Americana, é uma competição internacional de clubes de futebol da América do Sul, organizada pela Confederação Sul-Americana de Futebol (CONMEBOL). Substituiu, em 2002, as copas Mercosul e Merconorte, que por sua vez substituíram, em 1998 e 1999, a Copa Conmebol e a Supercopa Sul-Americana. Disputada no segundo semestre, é a segunda competição mais importante entre clubes no continente sul-americano, inferior apenas à Copa Libertadores da América. A Copa Sul-Americana resultou da tentativa frustrada de se disputar uma Copa Pan-Americana de clubes, incluindo competidores das Américas Central e do Norte entre 2002 e 2008. É considerada uma continuação da Copa Conmebol, disputada entre 1992 e 1999, que seria a sua precursora pelas formas muito similares de classificação para as competições, tendo mais clubes participantes do que os 16 da antiga competição, com 54 participantes na edição de 2017.</info>
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]02.06 01h45 [B][COLOR green]COPA SUL AMERICANA [COLOR blue]RIONEGRO AGUILAS • RACING CLUB [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7746.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2$$lsname=SPORT TV 2 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/7266.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2$$lsname=SPORT TV 2 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2$$lsname=SPORT TV 2 (F4M source #04)</link>
-<link>http://178.192.242.14:9000/play/a08o$$lsname=SPORT TV 2 (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed.php?ch=live2-bipmr$$lsname=SPORT TV 2 (Sports Devil #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sportstvstream.me/sport-tv2-hd-live-stream/$$lsname=SPORT TV 2 (Sports Devil #source 02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13279.ts;streamtype=TSDOWNLOADER&amp;name=GOL$$lsname=beiN SPORTS N (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/12512.ts;streamtype=TSDOWNLOADER&amp;name=GOL$$lsname=beiN SPORTS N (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2143.ts;streamtype=TSDOWNLOADER&amp;name=GOL$$lsname=beiN SPORTS N (F4M source #04)</link>
-<link>http://185.53.161.147:8888/play/a023$$lsname=beiN SPORTS N (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://lacasadeltikitaka.me/directo/canal1.php$$lsname=beiN SPORTS N (Sports Devil #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105711&width=650&height=400&autostart=true$$lsname=beiN SPORTS N (Sports Devil #source 02)</link>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 17 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av17</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 18 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av18</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 13 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av13</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 14 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av14</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<info>A Copa Sul-Americana (Copa Sudamericana em espanhol), cujo nome oficial atual é CONMEBOL Sul-Americana, é uma competição internacional de clubes de futebol da América do Sul, organizada pela Confederação Sul-Americana de Futebol (CONMEBOL). Substituiu, em 2002, as copas Mercosul e Merconorte, que por sua vez substituíram, em 1998 e 1999, a Copa Conmebol e a Supercopa Sul-Americana. Disputada no segundo semestre, é a segunda competição mais importante entre clubes no continente sul-americano, inferior apenas à Copa Libertadores da América. A Copa Sul-Americana resultou da tentativa frustrada de se disputar uma Copa Pan-Americana de clubes, incluindo competidores das Américas Central e do Norte entre 2002 e 2008. É considerada uma continuação da Copa Conmebol, disputada entre 1992 e 1999, que seria a sua precursora pelas formas muito similares de classificação para as competições, tendo mais clubes participantes do que os 16 da antiga competição, com 54 participantes na edição de 2017.</info>
-<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
-<item><title>[B][COLOR red]02.06 02h00 [B][COLOR green]NBA [COLOR blue]GOLDEN STATE • CLEVELAND [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7758.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/7267.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #04)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed.php?ch=live1-rbi6c$$lsname=SPORT TV 1 (Sports Devil #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv1-em-direto-gratis-sport-tv1-portugal-live-stream-online/$$lsname=SPORT TV 1 (Sports Devil #source 02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/12516.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA 1$$lsname=MOVISTAR DEPORTES 1 (F4M source #02)</link>
-<link>http://185.53.161.147:8888/play/a013$$lsname=MOVISTAR DEPORTES 1 (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254$$lsname=MOVISTAR DEPORTES 1 (Sports Devil #source 01)</link>
-<link>plugin://program.plexus/?url=acestream://7195758feb71a234a1da996af6822f739f38d13d&amp;mode=1&amp;name=acestream+MOVISTAR DEPORTES 1$$lsname=MOVISTAR DEPORTES 1 (PLEXUS source #01)</link>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 17 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av17</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 18 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av18</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 5 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av5</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 6 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av6</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<info>A National Basketball Association (em português: Associação Nacional de Basquetebol; abreviação oficial: NBA) é a principal liga de basquetebol profissional da América do Norte. Com 30 franquias sendo membros da mesma (29 nos Estados Unidos e 1 no Canadá), a NBA também é considerada a principal liga de basquete do mundo. É um membro ativo da USA Basketball (USAB), que é reconhecida pela FIBA (a Federação Internacional de Basquetebol) como a entidade máxima e organizadora do basquetebol nos Estados Unidos. A NBA é uma das 4 'major leagues' do desporto profissional na América do Norte. Os jogadores da NBA são os mais bem pagos desportistas do mundo, por salário médio anual.</info>
-<thumbnail>http://i.imgur.com/Vp79zzI.png</thumbnail></item>
-<item><title>[B][COLOR red]02.06 08h00 [B][COLOR green]MOTO3 [COLOR blue]GP ITALIA • TREINOS LIVRES 1 [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4915.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #04)</link>
-<link>http://178.192.242.14:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (Sports Devil #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (Sports Devil #source 02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4799.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3680.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #04)</link>
-<link>http://185.53.161.147:8888/play/a021$$lsname=MOVISTAR MOTOGP (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (Sports Devil #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (Sports Devil #source 02)</link>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 10 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av10</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 11 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av11</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-"<info>A classe de 125cc foi substituída, em 2012, pela classe Moto3. Esta classe é restrita a motores monocilíndricos quatro tempos de 250cc com um furo máximo de 81 mm (3,2 polegadas).
-O peso mínimo para todas as motos e pilotos é de 148 kg.
-Pilotos na classe Moto3 não podem ter mais de 28 anos, ou 25 anos para novos pilotos contratados que participam pela primeira vez e wild-cards.</info>"
-<thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
-<item><title>[B][COLOR red]02.06 08h55 [B][COLOR green]MOTOGP [COLOR blue]GP ITALIA • TREINOS LIVRES 1 [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4915.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #04)</link>
-<link>http://178.192.242.14:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (Sports Devil #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (Sports Devil #source 02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4799.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3680.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #04)</link>
-<link>http://185.53.161.147:8888/play/a021$$lsname=MOVISTAR MOTOGP (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (Sports Devil #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (Sports Devil #source 02)</link>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 10 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av10</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 11 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av11</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-"<info>É a principal categoria do campeonato, onde competem as motocicletas de maiores cilindradas.
-Desde meados dos anos 70 até o ano de 2002, a categoria permitia uma cilindrada de 500cc independentemente do fato de o motor ter dois ou quatro tempos. Devido a isto, todos os motores eram de dois tempos graças à sua maior entrega de potência para um mesmo deslocamento.
-Em 2002 mudaram as regras para facilitar o salto para as de quatro tempos, provavelmente influenciados pela baixa participação de mercado de rua das motos de dois tempos. As novas regras permitiram aos construtores escolher entre motocicletas de dois tempos (500cc ou menos) e motocicletas de quatro tempos (990cc ou menos).
-Apesar do aumento significativo dos custos que significava essa mudança, devido ao aumento de cilindradas poderiam dominar os rivais que ainda utilizavam motores de dois tempos. O resultado foi que a partir de 2003 não havia mais motos de dois tempos na categoria principal, conhecida desde então como "MotoGP". Mais tarde, em 2007, a Federação Internacional reduziria a 800cc a cilindrada máxima; no entanto, a partir de 2012 foi aumentada para 1000cc.</info>"
-<thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
-<item><title>[B][COLOR red]02.06 09h55 [B][COLOR green]MOTO2 [COLOR blue]GP ITALIA • TREINOS LIVRES 1 [B][COLOR green][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4915.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #04)</link>
-<link>http://178.192.242.14:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (Sports Devil #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (Sports Devil #source 02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4799.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #02)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3680.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #04)</link>
-<link>http://185.53.161.147:8888/play/a021$$lsname=MOVISTAR MOTOGP (HTTP #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (Sports Devil #source 01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (Sports Devil #source 02)</link>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 10 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av10</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 11 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av11</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
-"<info>A Moto2 é a classe de quatro tempos de 600cc, lançada em 2010 para substituir a tradicional classe de 250cc de dois tempos.
-Os motores são fornecidos exclusivamente pela Honda (semelhante a IndyCar Series quando a Honda fornecia os motores IndyCar Series V8 máquinas entre 2006–2011), pneus Dunlop e eletrónica são limitados e fornecidos apenas pela FIM sancionado com um custo máximo definido em 650 euros. Freios de fibra de carbono são proibidos e apenas os freios de aço são permitidos. No entanto, não existem limitações chassi.
-A partir de 2010, apenas motocicletas de 600cc de quatro tempos foram autorizados na Moto2</info>"
-<thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
 <item><title>[B][COLOR red]02.06 10h00 [B][COLOR green]GRAND SLAM [COLOR blue]ROLAND GARROS • SEXTO DIA [B][COLOR green][/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7743.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2988.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #04)</link>
@@ -239,6 +34,7 @@ Pilotos na classe Moto3 não podem ter mais de 28 anos, ou 25 anos para novos pi
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/9006.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
 <link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/1077.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #08)</link>
 <link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
 <link>http://213.13.26.41:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 03)</link>
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
@@ -282,5 +78,321 @@ Apesar do aumento significativo dos custos que significava essa mudança, devido
 "<info>A Moto2 é a classe de quatro tempos de 600cc, lançada em 2010 para substituir a tradicional classe de 250cc de dois tempos.
 Os motores são fornecidos exclusivamente pela Honda (semelhante a IndyCar Series quando a Honda fornecia os motores IndyCar Series V8 máquinas entre 2006–2011), pneus Dunlop e eletrónica são limitados e fornecidos apenas pela FIM sancionado com um custo máximo definido em 650 euros. Freios de fibra de carbono são proibidos e apenas os freios de aço são permitidos. No entanto, não existem limitações chassi.
 A partir de 2010, apenas motocicletas de 600cc de quatro tempos foram autorizados na Moto2</info>"
+<thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 16h00 [B][COLOR green]TORNEIO DE TOULON [COLOR blue]BAHRAIN • WALES [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 27 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av27</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 28 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av28</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+"<info>O Torneio Internacional de Toulon é um de futebol de seleções de base, disputada na cidade francesa de Toulon, situada no departamento do Var, na região Provença-Alpes-Costa Azul (Provence-Alpes-Côte d'Azur).
+Conhecido inicialmente como Torneo Esperanzas de Toulon, é disputado desde 1967, e a participação é feita por convite.
+As partidas do Torneio de Toulon são disputadas em dois tempos de 40 minutos cada, desafiando a mentalidade dos jovens jogadores com tempo limitado.</info>"
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 18h00 [B][COLOR green]TACA AMERICA [COLOR blue]LOUIS VUITTON • QUALIFICACAO [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7757.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/7265.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3$$lsname=SPORT TV 3 (F4M source #04)</link>
+<link>http://178.192.242.14:9000/play/a08b$$lsname=SPORT TV 3 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/live3-qszlx$$lsname=SPORT TV 3 (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sportstvstream.me/sport-tv3-hd-live-stream/$$lsname=SPORT TV 3 (Sports Devil #source 02)</link>
+<info>A America’s Cup (Taça América) é a mais famosa e prestigiada regata do iatismo, e o mais antigo troféu do desporto internacional depois do jeu de paume, antecedendo os Jogos Olímpicos modernos. Este desporto atrai os principais navegadores e projetistas de iates do mundo por causa da sua longa história e prestígio como o "cálice sagrado" do iatismo.</info>
+<thumbnail>http://i.imgur.com/INpOzN0.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 18h15 [B][COLOR green]NOTICIAS [COLOR blue]MAIS TRANSFERENCIAS [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7752.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/1113.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #08)</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8$$lsname=TVI24 (HTTP #source 01)</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8$$lsname=TVI24 (HTTP #source 03)</link>
+"<info>Negociações e mudanças marcam, nesta altura, os diferentes clubes de futebol.
+Por isso, o programa “Mais transferências” está de volta à TVI24, para trazer diariamente todas as novidades sobre as contratações do futebol para a nova época.
+De segunda a sexta, um jornal sobre as transferências, os jogadores e os planteis de cada clube, na TVI24.</info>"
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 18h30 [B][COLOR green]TORNEIO DE TOULON [COLOR blue]FRANCA • IVORY COAST [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 27 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av27</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 28 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av28</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+"<info>O Torneio Internacional de Toulon é um de futebol de seleções de base, disputada na cidade francesa de Toulon, situada no departamento do Var, na região Provença-Alpes-Costa Azul (Provence-Alpes-Côte d'Azur).
+Conhecido inicialmente como Torneo Esperanzas de Toulon, é disputado desde 1967, e a participação é feita por convite.
+As partidas do Torneio de Toulon são disputadas em dois tempos de 40 minutos cada, desafiando a mentalidade dos jovens jogadores com tempo limitado.</info>"
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 18h30 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO JORNAL [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/9006.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/1077.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #08)</link>
+<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
+<link>http://213.13.26.41:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 03)</link>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
+<info>O Universo Porto - Jornal é um programa de informação desportiva, sobre conteúdos do FC Porto. Trata-se de um programa diário, de segunda a sexta-feira, com todas as informações do FC Porto, um olhar atento sobre o dia-a-dia do clube, com síntese sobre todas as modalidades.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 19h00 [B][COLOR green]NOTICIAS [COLOR blue]JORNAL DE DESPORTO [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/9006.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/1077.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #08)</link>
+<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
+<link>http://213.13.26.41:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 03)</link>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
+<info>Espaço de Informação atualizada sobre todas as modalidades desportivas.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 19h45 [B][COLOR green]MUNDIAL 2018 (PREP) [COLOR blue]NORTHERN IRELAND • NEW ZEALAND [B][COLOR green][/B][/COLOR]</title>
+<info>Jogos de preparação rumo ao Mundial de 2018</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 20h00 [B][COLOR green]MUNDIAL 2018 (PREP) [COLOR blue]FRANCA • PARAGUAI [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7758.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/7267.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1$$lsname=SPORT TV 1 (F4M source #04)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed.php?ch=live1-rbi6c$$lsname=SPORT TV 1 (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv1-em-direto-gratis-sport-tv1-portugal-live-stream-online/$$lsname=SPORT TV 1 (Sports Devil #source 02)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 17 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av17</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 18 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av18</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<info>Jogos de preparação rumo ao Mundial de 2018</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 20h30 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/9006.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/1077.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #08)</link>
+<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
+<link>http://213.13.26.41:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 03)</link>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
+<info>Programa diário sobre toda a atualidade, das diferentes modalidades do FC Porto.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 20h45 [B][COLOR green]NOTICIAS [COLOR blue]APOSTA TRIPLA [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15368.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV+$$lsname=SPORT TV+ (F4M source #01)</link>
+<info>O futebol que aí vem e os temas da actualidade. Vai tudo a jogo no Aposta Tripla.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 21h00 [B][COLOR green]NOTICIAS [COLOR blue]MAIS TRANSFERENCIAS [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7752.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/1113.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #08)</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8$$lsname=TVI24 (HTTP #source 01)</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8$$lsname=TVI24 (HTTP #source 03)</link>
+"<info>Negociações e mudanças marcam, nesta altura, os diferentes clubes de futebol.
+Por isso, o programa “Mais transferências” está de volta à TVI24, para trazer diariamente todas as novidades sobre as contratações do futebol para a nova época.
+De segunda a sexta, um jornal sobre as transferências, os jogadores e os planteis de cada clube, na TVI24.</info>"
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 21h00 [B][COLOR green]NOTICIAS [COLOR blue]UNIVERSO PORTO [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7763.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/9006.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/1077.ts;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL$$lsname=PORTO CANAL (F4M source #08)</link>
+<link>http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 01)</link>
+<link>http://213.13.26.41:1935/live/portocanal/TeamBlue.m3u8$$lsname=PORTO CANAL (HTTP #source 03)</link>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP #source 01)</link>
+<info>Programa diário sobre toda a atualidade, das diferentes modalidades do FC Porto.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 22h30 [B][COLOR green]NASCAR CAMPING WORLD TRUCK SERIES [COLOR blue]DOVER 200 [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4915.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #04)</link>
+<link>http://178.192.242.14:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (Sports Devil #source 02)</link>
+"<info>A Camping World Truck Series é uma divisão da NASCAR que utiliza caminhões pick-ups.
+foi oficialmente criada em 1995 mas no ano anterior já houve várias corridas de exibições realizadas durante os eventos das outras divisões.
+Chamado originalmente de SuperTruck Series, trocando seu nome para Craftsman Truck Series em 1996, e modificando-o para o atual desde 2009, foi criada com um diferencial em relação à Sprint Cup e a Nationwide Series nos carros que são modelos de pick-ups e nas regras.</info>"
+<thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 22h30 [B][COLOR green]NOTICIAS [COLOR blue]MAIS FUTEBOL [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7752.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/1113.ts;streamtype=TSDOWNLOADER&amp;name=TVI24$$lsname=TVI24 (F4M source #08)</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8$$lsname=TVI24 (HTTP #source 01)</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8$$lsname=TVI24 (HTTP #source 03)</link>
+<info>Este é um programa de desporto irreverente! Irreverente e premiado! Foi eleito pelo CNID em 2010, e pela Liga de Clubes em 2011, como o Melhor Programa de Desporto do Ano. O Mais Futebol é um programa conjunto do jornal online maisfutebol.iol.pt e da editoria de Desporto da TVI.</info>
+<thumbnail>http://i.imgur.com/LddowCc.png</thumbnail></item>
+<item><title>[B][COLOR red]02.06 23h15 [B][COLOR green]BRASILEIRAO SERIE B [COLOR blue]AMERICA MG • PAYSANDU [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7764.ts;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8244.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1739.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #07)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/31.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #08)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://widestream.io/embed-9646$$lsname=SPORTV (Sports Devil #source 01)</link>
+<info>O Campeonato Brasileiro da Série B ou o Brasileirão Chevrolet, como também é chamado por questões de patrocínio (igualmente a Série A) é a Segunda Divisão do Campeonato Brasileiro de Futebol. O campeonato já teve inúmeros formatos, incluindo fases eliminatórias e pontos corridos. Na competição, que é organizada pela Confederação Brasileira de Futebol (CBF), os quatro primeiros colocados são promovidos para a Série A. Os quatro últimos colocados são rebaixados à Série C.</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]03.06 01h15 [B][COLOR green]BRASILEIRAO SERIE B [COLOR blue]CEARA • LONDRINA [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7764.ts;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=PFC$$lsname=PFC (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8244.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1739.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #07)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/31.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #08)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://widestream.io/embed-9646$$lsname=SPORTV (Sports Devil #source 01)</link>
+<info>O Campeonato Brasileiro da Série B ou o Brasileirão Chevrolet, como também é chamado por questões de patrocínio (igualmente a Série A) é a Segunda Divisão do Campeonato Brasileiro de Futebol. O campeonato já teve inúmeros formatos, incluindo fases eliminatórias e pontos corridos. Na competição, que é organizada pela Confederação Brasileira de Futebol (CBF), os quatro primeiros colocados são promovidos para a Série A. Os quatro últimos colocados são rebaixados à Série C.</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]03.06 01h30 [B][COLOR green]MUNDIAL 2018 (PREP) [COLOR blue]CHILE • BURKINA FASO [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 27 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av27</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 28 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av28</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<info>Jogos de preparação rumo ao Mundial de 2018</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]03.06 07h40 [B][COLOR green]MOTO3 [COLOR blue]GP ITALIA • WARM UP [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4915.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #04)</link>
+<link>http://178.192.242.14:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4799.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3680.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #04)</link>
+<link>http://185.53.161.147:8888/play/a021$$lsname=MOVISTAR MOTOGP (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8242.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1740.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #07)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/28.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #08)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/sportv3.php$$lsname=SPORTV3 (Sports Devil #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 10 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av10</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 11 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av11</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+"<info>A classe de 125cc foi substituída, em 2012, pela classe Moto3. Esta classe é restrita a motores monocilíndricos quatro tempos de 250cc com um furo máximo de 81 mm (3,2 polegadas).
+O peso mínimo para todas as motos e pilotos é de 148 kg.
+Pilotos na classe Moto3 não podem ter mais de 28 anos, ou 25 anos para novos pilotos contratados que participam pela primeira vez e wild-cards.</info>"
+<thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
+<item><title>[B][COLOR red]03.06 08h00 [B][COLOR green]MOTO3 [COLOR blue]GP ITALIA • TREINOS LIVRES 3 [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4915.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #04)</link>
+<link>http://178.192.242.14:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4799.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3680.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #04)</link>
+<link>http://185.53.161.147:8888/play/a021$$lsname=MOVISTAR MOTOGP (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8242.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1740.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #07)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/28.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #08)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/sportv3.php$$lsname=SPORTV3 (Sports Devil #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 10 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av10</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 11 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av11</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+"<info>A classe de 125cc foi substituída, em 2012, pela classe Moto3. Esta classe é restrita a motores monocilíndricos quatro tempos de 250cc com um furo máximo de 81 mm (3,2 polegadas).
+O peso mínimo para todas as motos e pilotos é de 148 kg.
+Pilotos na classe Moto3 não podem ter mais de 28 anos, ou 25 anos para novos pilotos contratados que participam pela primeira vez e wild-cards.</info>"
+<thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
+<item><title>[B][COLOR red]03.06 08h10 [B][COLOR green]MOTO2 [COLOR blue]GP ITALIA • WARM UP [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4915.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #04)</link>
+<link>http://178.192.242.14:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4799.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3680.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #04)</link>
+<link>http://185.53.161.147:8888/play/a021$$lsname=MOVISTAR MOTOGP (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8242.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1740.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #07)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/28.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #08)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/sportv3.php$$lsname=SPORTV3 (Sports Devil #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 10 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av10</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 11 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av11</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+"<info>A Moto2 é a classe de quatro tempos de 600cc, lançada em 2010 para substituir a tradicional classe de 250cc de dois tempos.
+Os motores são fornecidos exclusivamente pela Honda (semelhante a IndyCar Series quando a Honda fornecia os motores IndyCar Series V8 máquinas entre 2006–2011), pneus Dunlop e eletrónica são limitados e fornecidos apenas pela FIM sancionado com um custo máximo definido em 650 euros. Freios de fibra de carbono são proibidos e apenas os freios de aço são permitidos. No entanto, não existem limitações chassi.
+A partir de 2010, apenas motocicletas de 600cc de quatro tempos foram autorizados na Moto2</info>"
+<thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
+<item><title>[B][COLOR red]03.06 08h55 [B][COLOR green]MOTOGP [COLOR blue]GP ITALIA • TREINOS LIVRES 3 [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4915.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #04)</link>
+<link>http://178.192.242.14:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4799.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3680.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #04)</link>
+<link>http://185.53.161.147:8888/play/a021$$lsname=MOVISTAR MOTOGP (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8242.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1740.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #07)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/28.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #08)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/sportv3.php$$lsname=SPORTV3 (Sports Devil #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 10 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av10</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 11 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av11</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+"<info>É a principal categoria do campeonato, onde competem as motocicletas de maiores cilindradas.
+Desde meados dos anos 70 até o ano de 2002, a categoria permitia uma cilindrada de 500cc independentemente do fato de o motor ter dois ou quatro tempos. Devido a isto, todos os motores eram de dois tempos graças à sua maior entrega de potência para um mesmo deslocamento.
+Em 2002 mudaram as regras para facilitar o salto para as de quatro tempos, provavelmente influenciados pela baixa participação de mercado de rua das motos de dois tempos. As novas regras permitiram aos construtores escolher entre motocicletas de dois tempos (500cc ou menos) e motocicletas de quatro tempos (990cc ou menos).
+Apesar do aumento significativo dos custos que significava essa mudança, devido ao aumento de cilindradas poderiam dominar os rivais que ainda utilizavam motores de dois tempos. O resultado foi que a partir de 2003 não havia mais motos de dois tempos na categoria principal, conhecida desde então como "MotoGP". Mais tarde, em 2007, a Federação Internacional reduziria a 800cc a cilindrada máxima; no entanto, a partir de 2012 foi aumentada para 1000cc.</info>"
+<thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
+<item><title>[B][COLOR red]03.06 09h55 [B][COLOR green]MOTO2 [COLOR blue]GP ITALIA • TREINOS LIVRES 3 [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4915.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #04)</link>
+<link>http://178.192.242.14:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4799.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3680.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #04)</link>
+<link>http://185.53.161.147:8888/play/a021$$lsname=MOVISTAR MOTOGP (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8242.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1740.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #07)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/28.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV3$$lsname=SPORTV3 (F4M source #08)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ekostreams.co/ch/sportv3.php$$lsname=SPORTV3 (Sports Devil #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 10 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av10</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 11 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av11</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+"<info>A Moto2 é a classe de quatro tempos de 600cc, lançada em 2010 para substituir a tradicional classe de 250cc de dois tempos.
+Os motores são fornecidos exclusivamente pela Honda (semelhante a IndyCar Series quando a Honda fornecia os motores IndyCar Series V8 máquinas entre 2006–2011), pneus Dunlop e eletrónica são limitados e fornecidos apenas pela FIM sancionado com um custo máximo definido em 650 euros. Freios de fibra de carbono são proibidos e apenas os freios de aço são permitidos. No entanto, não existem limitações chassi.
+A partir de 2010, apenas motocicletas de 600cc de quatro tempos foram autorizados na Moto2</info>"
+<thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
+<item><title>[B][COLOR red]03.06 10h00 [B][COLOR green]GRAND SLAM [COLOR blue]ROLAND GARROS • SETIMO DIA [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7743.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2988.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT$$lsname=EUROSPORT (F4M source #04)</link>
+<link>http://178.192.242.14:9000/play/a00p$$lsname=EUROSPORT (HTTP #source 01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7739.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2$$lsname=EUROSPORT 2 (F4M source #01)</link>
+<link>http://178.192.242.14:9000/play/a079$$lsname=EUROSPORT 2 (HTTP #source 01)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 7 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av7</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 8 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av8</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 9 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av9</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+"<info>O termo Grand Slam é usado, em ténis, para denominar o feito notável de ganhar todos os quatro torneios de ténis no mesmo ano: Australian Open, Roland Garros, Wimbledon e US Open.
+Esses torneios são, por isso, conhecidos como os Torneios do Grand Slam. Os títulos nestes torneios são chamados de Títulos de Grand Slam.</info>"
+<thumbnail>http://i.imgur.com/6Bo2zOa.png</thumbnail></item>
+<item><title>[B][COLOR red]03.06 11h35 [B][COLOR green]MOTO3 [COLOR blue]GP ITALIA • QUALIFICACAO [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4915.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #04)</link>
+<link>http://178.192.242.14:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4799.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3680.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #04)</link>
+<link>http://185.53.161.147:8888/play/a021$$lsname=MOVISTAR MOTOGP (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (Sports Devil #source 02)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 10 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av10</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 11 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av11</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+"<info>A classe de 125cc foi substituída, em 2012, pela classe Moto3. Esta classe é restrita a motores monocilíndricos quatro tempos de 250cc com um furo máximo de 81 mm (3,2 polegadas).
+O peso mínimo para todas as motos e pilotos é de 148 kg.
+Pilotos na classe Moto3 não podem ter mais de 28 anos, ou 25 anos para novos pilotos contratados que participam pela primeira vez e wild-cards.</info>"
+<thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
+<item><title>[B][COLOR red]03.06 12h00 [B][COLOR green]BRASILEIRAO SERIE B [COLOR blue]VILA NOVA • GUARANI [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8244.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #04)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://149.56.16.58:25461/live/cineiptv1247/1247/1739.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #07)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/31.ts;streamtype=TSDOWNLOADER&amp;name=SPORTV$$lsname=SPORTV (F4M source #08)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://widestream.io/embed-9646$$lsname=SPORTV (Sports Devil #source 01)</link>
+<info>O Campeonato Brasileiro da Série B ou o Brasileirão Chevrolet, como também é chamado por questões de patrocínio (igualmente a Série A) é a Segunda Divisão do Campeonato Brasileiro de Futebol. O campeonato já teve inúmeros formatos, incluindo fases eliminatórias e pontos corridos. Na competição, que é organizada pela Confederação Brasileira de Futebol (CBF), os quatro primeiros colocados são promovidos para a Série A. Os quatro últimos colocados são rebaixados à Série C.</info>
+<thumbnail>http://i.imgur.com/lXUoVkk.png</thumbnail></item>
+<item><title>[B][COLOR red]03.06 12h30 [B][COLOR green]MOTOGP [COLOR blue]GP ITALIA • TREINOS LIVRES 4 [B][COLOR green][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7745.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4915.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5$$lsname=SPORT TV 5 (F4M source #04)</link>
+<link>http://178.192.242.14:9000/play/a082$$lsname=SPORT TV 5 (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.co/sport-tv5-em-direto-gratis-sport-tv-5-portugal-live-online/$$lsname=SPORT TV 5 (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.cc/channel-tab-frame/sporttv5hd-1.php$$lsname=SPORT TV 5 (Sports Devil #source 02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/4799.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #02)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3680.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS LA LIGA$$lsname=MOVISTAR MOTOGP (F4M source #04)</link>
+<link>http://185.53.161.147:8888/play/a021$$lsname=MOVISTAR MOTOGP (HTTP #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://schedule.racing/fiveembed.php?id=wiz6&p=0&c=0&stretching=uniform$$lsname=MOVISTAR MOTOGP (Sports Devil #source 01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.dinostream.pw/channel.php?file=105717&width=650&height=400&autostart=true$$lsname=MOVISTAR MOTOGP (Sports Devil #source 02)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 10 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av10</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(Acestreams)$$lsname=ARENAVISION 11 [PLEXUS]</link><regex><name>hash</name><expres>this.loadPlayer\("(.*?)"</expres><page>http://www.arenavision.ru/av11</page><referer>http://www.arenavision.ru</referer><setcookie>beget=begetok</setcookie></regex>
+"<info>É a principal categoria do campeonato, onde competem as motocicletas de maiores cilindradas.
+Desde meados dos anos 70 até o ano de 2002, a categoria permitia uma cilindrada de 500cc independentemente do fato de o motor ter dois ou quatro tempos. Devido a isto, todos os motores eram de dois tempos graças à sua maior entrega de potência para um mesmo deslocamento.
+Em 2002 mudaram as regras para facilitar o salto para as de quatro tempos, provavelmente influenciados pela baixa participação de mercado de rua das motos de dois tempos. As novas regras permitiram aos construtores escolher entre motocicletas de dois tempos (500cc ou menos) e motocicletas de quatro tempos (990cc ou menos).
+Apesar do aumento significativo dos custos que significava essa mudança, devido ao aumento de cilindradas poderiam dominar os rivais que ainda utilizavam motores de dois tempos. O resultado foi que a partir de 2003 não havia mais motos de dois tempos na categoria principal, conhecida desde então como "MotoGP". Mais tarde, em 2007, a Federação Internacional reduziria a 800cc a cilindrada máxima; no entanto, a partir de 2012 foi aumentada para 1000cc.</info>"
 <thumbnail>http://i.imgur.com/EMH3XL9.png</thumbnail></item>
 Copyright © 2017 - TeamBlue
