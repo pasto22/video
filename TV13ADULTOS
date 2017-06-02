@@ -1,4 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+"<item>
+<title>[COLOR lime]•[/COLOR] [COLOR deepskyblue][B]Acestreams - PORN 01[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+ <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Acestreams</link>
+ <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.porn.player.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+</item>"
+<parentalblock>true</parentalblock>
+github
+"<item>
+<title>[COLOR lime]•[/COLOR] [COLOR deepskyblue][B]Acestreams - PORN 02[/B][/COLOR]</title>
+<link>fui.me</link>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTAS/master/TV13_01ADULTOSACE</externallink>
+<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
+</item>"
+<item><title>[COLOR deepskyblue]VARIOS CLIPES[/COLOR]</title><link>fui.me</link><externallink>https://pastebin.com/raw/jwAVEsAV</externallink><thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail><fanart></fanart></item>
+<parentalblock>true</parentalblock>
 <item><title>BIZARRE TV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/7282.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=(F4M source #)</link>
 <thumbnail>http://3.bp.blogspot.com/-KnkBgb6Ti6M/V09wLP59phI/AAAAAAAABQ8/tqnnVfB7AXAhCrDGuGcWf6mP94YONVU7ACK4B/s1600/NEW%2BSWIRL%2BBTV%2B%2B920.png</thumbnail></item>
@@ -66,8 +92,6 @@
 <link>http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8$$lsname= (HTTP source #01)</link>
 <parentalblock>true</parentalblock>
 <thumbnail>http://logowow.net/logos/arrBxv31v.png</thumbnail></item>
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/1204.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=(F4M source #01)</link>
-<parentalblock>true</parentalblock>
 <link>http://178.192.242.14:9000/play/a083$$lsname= (HTTP source #01)</link>
 <parentalblock>true</parentalblock>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesports.pw/embed_p.php?file=hotplus&width=650&height=397$$lsname= (SD source #01)</link>
@@ -142,10 +166,6 @@
 <parentalblock>true</parentalblock>
 <link>plugin://plugin.video.f4mTester/?url=http://s1.miip.tv:8000/live/stalker/stalker/592.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=(F4M source #02)</link>
 <parentalblock>true</parentalblock>
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/1203.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=(F4M source #03)</link>
-<parentalblock>true</parentalblock>
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/55.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=(F4M source #08)</link>
-<parentalblock>true</parentalblock>
 <link>http://178.192.242.14:9000/play/a078$$lsname= (HTTP source #01)</link>
 <parentalblock>true</parentalblock>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://livesports.pw/embed.php?file=playboyxxx&width=650&height=397$$lsname= (SD source #01)</link>
@@ -193,14 +213,6 @@
 <link>plugin://program.plexus/?url=acestream://858494e80929eced151cfb63edc0771b7268760damp;mode=1&amp;name=acestream+SEXTO SENSO$$lsname= (PLEXUS source #02)</link>
 <parentalblock>true</parentalblock>
 <thumbnail>http://savepic.net/7824814.png</thumbnail></item>
-<item><title>SEXTREME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/35.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=(F4M source #08)</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://i.imgur.com/O4KZF6o.png</thumbnail></item>
-<item><title>SEXY HOT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/34.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=(F4M source #08)</link>
-<parentalblock>true</parentalblock>
-<thumbnail>http://www.adulttvlive.net/wp-content/uploads/2017/02/Sexy-Hot-TV.png</thumbnail></item>
 <item><title>STARS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7395.ts ;streamtype=TSDOWNLOADER&amp;name=$$lsname=(F4M source #01)</link>
 <parentalblock>true</parentalblock>
@@ -211,8 +223,6 @@
 <link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Nasser/Nasser/19624.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=(F4M source #02)</link>
 <parentalblock>true</parentalblock>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3477.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=(F4M source #04)</link>
-<parentalblock>true</parentalblock>
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.55.98:25461/live/Rodrigo2Reginaldo/Senh@1234/1200.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=(F4M source #08)</link>
 <parentalblock>true</parentalblock>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://vertelevisor.com/live/venus.php$$lsname= (SD source #01)</link>
 <parentalblock>true</parentalblock>
@@ -351,28 +361,4 @@
 <parentalblock>true</parentalblock>
 <link>http://VIDEOs.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4$$lsname=22714</link>
 <parentalblock>true</parentalblock>
-"<item>
-<title>[COLOR lime]•[/COLOR] [COLOR deepskyblue][B]Acestreams - PORN 01[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
- <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Acestreams</link>
- <thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-]]></listrepeat>
-<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
-<page>http://super-pomoyka.us.to/trash/ttv-list/ttv.porn.player.m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-</item>"
-<parentalblock>true</parentalblock>
-github
-"<item>
-<title>[COLOR lime]•[/COLOR] [COLOR deepskyblue][B]Acestreams - PORN 02[/B][/COLOR]</title>
-<link>fui.me</link>
-<externallink>https://raw.githubusercontent.com/teamblue65/LISTAS/master/TV13_01ADULTOSACE</externallink>
-<thumbnail>https://s22.postimg.org/9vk2rbqep/ace.png</thumbnail>
-</item>"
 Copyright © 2017 - TeamBlue
