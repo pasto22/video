@@ -4,11 +4,11 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" group-title="PORTUGAL",RTP 2 (Copyright © 2017 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" group-title="PORTUGAL",SIC (Copyright © 2017 by TeamBlue)
-http://188.250.214.28:8889/play/a02a
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/20/TVI_2017.png/revision/latest/scale-to-width-down/175?cb=20170221143126" group-title="PORTUGAL",TVI (Copyright © 2017 by TeamBlue)
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" group-title="PORTUGAL",SIC NOTICIAS (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1861930225?ticket=339C104602BDDDB7B04F89172C46EBF805214093&profile=pass
+http://188.250.214.28:8889/play/a02b
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP3" group-title="PORTUGAL",RTP 3 (Copyright © 2017 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/a/a2/TVI24_2017.png/revision/latest/scale-to-width-down/200?cb=20170221142522" group-title="PORTUGAL",TVI24 (Copyright © 2017 by TeamBlue)
@@ -22,7 +22,7 @@ http://4.31.30.145:9202
 #EXTINF:-1 tvg-logo="http://www.azuloubranco.pt/img/logo.png" group-title="PORTUGAL",PORTO CANAL (Copyright © 2017 by TeamBlue)
 http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="PORTUGAL",CM TV (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1698041919?ticket=F5927582973D1B9C285E8C1549F2865AD0272E59&profile=pass
+http://188.250.214.28:8889/play/a04l
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" group-title="PORTUGAL",SIC RADICAL (Copyright © 2017 by TeamBlue)
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/6e/TVI_Fic%C3%A7%C3%A3o_2017.png/revision/latest/scale-to-width-down/200?cb=20170221142657" group-title="PORTUGAL",TVI FICCAO (Copyright © 2017 by TeamBlue)
@@ -34,31 +34,33 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" group-title="PORTUGAL",CANAL Q (Copyright © 2017 by TeamBlue)
 http://188.250.214.28:8889/play/a05a
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",SPORT TV 1 (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1083711500?ticket=7199723AF6DE52EBC1D903B036383A2F90F18263&profile=pass
+http://85.138.201.130:9981/stream/channelid/667502640?ticket=88428CBEB2012B2D709D262414F8686A63E6176D&profile=pass
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="PORTUGAL",SPORT TV 2 (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/724297958?ticket=0F20B02D25088A2D62F74074FA741116F72868DD&profile=pass
+http://85.138.201.130:9981/stream/channelid/539142098?ticket=705953C761B50862272D87F884FEF05414B1E563&profile=pass
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" group-title="PORTUGAL",SPORT TV 3 (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1046502479?ticket=E2B36E466A724C621FBB99601BAAF6F93CEB15B5&profile=pass
+http://85.138.201.130:9981/stream/channelid/1512752488?ticket=14E418DD6D722853ECEC8F1BE4748DD2EAD690E3&profile=pass
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png" group-title="PORTUGAL",SPORT TV 4 (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/455311731?ticket=A9248C58F614A138EA127177DB7446E84829F30B&profile=pass
+http://80.90.41.118:6600/play/a00t
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" group-title="PORTUGAL",SPORT TV 5 (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/618861365?ticket=B7388D14881A7574241445090CFE8474239FD075&profile=pass
+http://85.138.201.130:9981/stream/channelid/1499577050?ticket=26BE3C19B20BA773F7BD01A2C6D80C64EAF25F0E&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="PORTUGAL",BENFICA TV (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1623604066?ticket=C2D5605063FF69B79DD07335FEB0603911DDB271&profile=pass
+http://85.138.201.130:9981/stream/channelid/1623604066?ticket=6B5D754CCC7FB076DF58916B46FE820DA0BFC2A8&profile=pass
 #EXTINF:-1 tvg-logo="https://www.abola.pt/abolatv/ficheiros/logo.png" group-title="PORTUGAL",A BOLA TV (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1173676555?ticket=13F0E5E6DD628DB48691017A3080B1BF1841FFC2&profile=pass
+http://188.250.214.28:8889/play/a059
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" group-title="PORTUGAL",SPORTING TV (Copyright © 2017 by TeamBlue)
-http://178.192.242.14:9000/play/a07y
+http://188.250.214.28:8889/play/a055
 #EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" group-title="PORTUGAL",EUROSPORT (Copyright © 2017 by TeamBlue)
 http://80.90.41.118:6600/play/a007
 #EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" group-title="PORTUGAL",EUROSPORT 2 (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/858430878?ticket=821FC5FE94F316F2B017A841B1C4626FE651AC4C&profile=pass
+http://85.138.201.130:9981/stream/channelid/652268615?ticket=D3BB339BEE8778DBDD673F204170C623ACDE1350&profile=pass
 #EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_news.jpg" group-title="PORTUGAL",EUROSPORT NEWS (Copyright © 2017 by TeamBlue)
 http://188.250.214.28:8889/play/a05h
 #EXTINF:-1 tvg-logo="https://www.motorstv.com/sites/default/files/motorsporttv_logo.png" group-title="PORTUGAL",MOTORSPORT.TV (Copyright © 2017 by TeamBlue)
 http://85.138.201.130:9981/stream/channelid/1689224367?ticket=C21C57459F4D1CB854963950F3515B0AB81DF5CF&profile=pass
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="PORTUGAL",PFC (Copyright © 2017 by TeamBlue)
 http://85.138.201.130:9981/stream/channelid/853859864?ticket=8B5C552266348BE7DE1CD0EE59B2CD4FD8A5A7A6&profile=pass
+#EXTINF:-1 tvg-logo="http://i.imgur.com/udcCfFP.png" group-title="PORTUGAL",FUEL TV (Copyright © 2017 by TeamBlue)
+http://85.138.201.130:9981/stream/channelid/1664005100?ticket=B0A1BCE17955CE6667D557138C084BF0722C51D2&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="PORTUGAL",BARCA TV (Copyright © 2017 by TeamBlue)
 http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058" group-title="PORTUGAL",CHELSEA TV (Copyright © 2017 by TeamBlue)
@@ -68,47 +70,55 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" group-title="PORTUGAL",NBA (Copyright © 2017 by TeamBlue)
 http://85.138.201.130:9981/stream/channelid/1155281510?ticket=F633F483F38457852DED82F012FA4D68599B180E&profile=pass
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" group-title="PORTUGAL",DISNEY CHANNEL (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/110105544?ticket=627FF6821685593B2C53F544EA77A60CEF74E17F&profile=pass
+http://188.250.214.28:8889/play/a05i
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" group-title="PORTUGAL",DISNEY JUNIOR (Copyright © 2017 by TeamBlue)
 http://188.250.214.28:8889/play/a02s
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" group-title="PORTUGAL",CARTOON NETWORK (Copyright © 2017 by TeamBlue)
 http://85.138.201.130:9981/stream/channelid/693502558?ticket=10E724B611C03AF7DB674D2EC99E220951CA3A94&profile=pass
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/b/bb/Canal_Panda_2015_Stacked.png/revision/latest?cb=20150708105237" group-title="PORTUGAL",PANDA (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/282014593?ticket=886BC5BEF01ECE713CB7B83A9B5422FADA987B55&profile=pass
+http://188.250.214.28:8889/play/a02u
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tMwl5FD7x8E/TeO_NY9w6mI/AAAAAAAAATg/anq2z80XqXc/s1600/Panda+Biggs+logo.png" group-title="PORTUGAL",PANDA BIGGS (Copyright © 2017 by TeamBlue)
 http://188.250.214.28:8889/play/a05j
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CO31Je4.png" group-title="PORTUGAL",BABY FIRST (Copyright © 2017 by TeamBlue)
+http://85.138.201.130:9981/stream/channelid/825229612?ticket=F7D1E42DCFC45859D93948F7E76C8168AE763925&profile=pass
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" group-title="PORTUGAL",BABY TV (Copyright © 2017 by TeamBlue)
 http://80.90.41.118:6600/play/a00a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" group-title="PORTUGAL",SIC K (Copyright © 2017 by TeamBlue)
 http://80.90.41.118:6600/play/a00r
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" group-title="PORTUGAL",JIMJAM (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/2013575562?ticket=98D619787DADE53070B1BAB9BD0E052FA5D10DF4&profile=pass
+http://80.90.41.118:6600/play/a00u
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" group-title="PORTUGAL",TVCINE 1 (Copyright © 2017 by TeamBlue)
 http://85.138.201.130:9981/stream/channelid/799880926?ticket=4D6D6BBA92C01A291FE57452760F156E8701B550&profile=pass
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png/revision/latest?cb=20140404133649" group-title="PORTUGAL",TVCINE 2 (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1221536904?ticket=80E36CF2BADF15CE0BB77B50F8AD97D2BA91C640&profile=pass
+http://80.90.41.118:6600/play/a00q
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" group-title="PORTUGAL",TVCINE 3 (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/457105324?ticket=E13E8388FA05BBD3D165A0E55212E5599DA38905&profile=pass
+http://85.138.201.130:9981/stream/channelid/606042878?ticket=2D23BC8AD446C8CBB19E8A522A6A0F0FDCF128B2&profile=pass
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" group-title="PORTUGAL",TVCINE 4 (Copyright © 2017 by TeamBlue)
 http://80.90.41.118:6600/play/a00v
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/4/4f/TVS%C3%A9ries.png/revision/latest?cb=20140404133444" group-title="PORTUGAL",TVSERIES (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1962986766?ticket=303BBD84173A1BAB7AB98C718FD614E4444740A9&profile=pass
+http://85.138.201.130:9981/stream/channelid/1955292281?ticket=7441AEFA7A9568B836F2D97308EFB806C9C43EC0&profile=pass
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-plaCHZpDDBk/V3WHl3nq9wI/AAAAAAAADMg/HG3bo7asrl4XugELDbh5Lhkj9RNuvk_DwCLcB/s1600/CANAL%2BHOLLYWOOD.png" group-title="PORTUGAL",HOLLYWOOD (Copyright © 2017 by TeamBlue)
 http://80.90.41.118:6600/play/a00b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" group-title="PORTUGAL",AMC (Copyright © 2017 by TeamBlue)
-http://178.192.242.14:9000/play/a08g
+http://85.138.201.130:9981/stream/channelid/1667875891?ticket=CD3CA3B6DD72BB8E24BA0895A5886B70B677181F&profile=pass
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" group-title="PORTUGAL",CINEMUNDO (Copyright © 2017 by TeamBlue)
 http://80.90.41.118:6600/play/a008
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" group-title="PORTUGAL",FOX MOVIES (Copyright © 2017 by TeamBlue)
+http://85.138.201.130:9981/stream/channelid/22240132?ticket=B9ED83FA9035EBA0A29D3BD04558675DB4C4C2DE&profile=pass
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" group-title="PORTUGAL",FOX HD (Copyright © 2017 by TeamBlue)
+http://85.138.201.130:9981/stream/channelid/1992624617?ticket=A96CF193F901274ADEC198837EFFEA4E2A224F2E&profile=pass
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" group-title="PORTUGAL",AXN (Copyright © 2017 by TeamBlue)
-http://188.250.214.28:8889/play/a05b
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" group-title="PORTUGAL",FOX CRIME (Copyright © 2017 by TeamBlue)
-http://178.192.242.14:9000/play/a00m
+http://85.138.201.130:9981/stream/channelid/902696004?ticket=A4DEC20E1A1C16257142BA3CAB91D6BEE1EC504B&profile=pass
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" group-title="PORTUGAL",FOX COMEDY (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/96868765?ticket=0E708A511A846C4B794ACB21C10480441753F159&profile=pass
+http://85.138.201.130:9981/stream/channelid/57911548?ticket=CFE6F22B411D94AF16A3D593253708F1B5042A16&profile=pass
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QDCk6tH.png" group-title="PORTUGAL",AXN WHITE HD (Copyright © 2017 by TeamBlue)
+http://85.138.201.130:9981/stream/channelid/1852089447?ticket=36CCEB2631D3825536E346BFE98A5FD9F43F81F0&profile=pass
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kSJMp6w.png" group-title="PORTUGAL",AXN BLACK (Copyright © 2017 by TeamBlue)
+http://85.138.201.130:9981/stream/channelid/1323632741?ticket=CB1E4467661716AC25BD9E87BB05BB66549E4136&profile=pass
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" group-title="PORTUGAL",SYFY (Copyright © 2017 by TeamBlue)
 http://4.31.30.145:9206
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" group-title="PORTUGAL",MTV PORTUGAL (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/188955721?ticket=31FEDBA2DCE6A9832F6D1BC2FD2086A7021BDCD5&profile=pass
+http://80.90.41.118:6600/play/a00s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="PORTUGAL",MTV DANCE (Copyright © 2017 by TeamBlue)
 http://213.59.140.181:9999/play/MTV_Dance
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MTV_Hits_2017_logo.svg/1024px-MTV_Hits_2017_logo.svg.png" group-title="PORTUGAL",MTV HITS (Copyright © 2017 by TeamBlue)
@@ -118,17 +128,15 @@ http://213.59.140.181:9999/play/MTV_Rocks
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/2000px-VH1_logonew.svg.png" group-title="PORTUGAL",VH1 EUROPE (Copyright © 2017 by TeamBlue)
 http://178.192.242.14:9000/play/a01a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" group-title="PORTUGAL",MCM POP (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/575781219?ticket=E9BF14805C1713195430BD69FBEE9BA0350D6726&profile=pass
+http://188.250.214.28:8889/play/a04y
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" group-title="PORTUGAL",C MUSIC (Copyright © 2017 by TeamBlue)
 http://188.250.214.28:8889/play/a051
 #EXTINF:-1 tvg-logo="http://savepic.net/8124090.png" group-title="PORTUGAL",MEZZO (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1038525106?ticket=CD711A8285791645B32B508039C0E68F6A2EE1C1&profile=pass
+http://185.53.161.147:8888/play/a02i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="PORTUGAL",MEZZO LIVE (Copyright © 2017 by TeamBlue)
 http://213.59.140.181:9999/play/Mezzo_Live_HD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" group-title="PORTUGAL",AFRO MUSIC (Copyright © 2017 by TeamBlue)
 http://4.31.30.145:9034
-#EXTINF:-1 tvg-logo="http://savepic.net/7868090.png" group-title="PORTUGAL",TRACE TV (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/665731785?ticket=423A7A50158DE86FF0878218945512641CC9354C&profile=pass
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg" group-title="PORTUGAL",DJING CLASSIC (Copyright © 2017 by TeamBlue)
 http://www.djing.com/tv/01.m3u8
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" group-title="PORTUGAL",DJING DANCE FLOOR MUSIC (Copyright © 2017 by TeamBlue)
@@ -144,29 +152,27 @@ http://85.138.201.130:9981/stream/channelid/1923680913?ticket=57DE293571CB257D71
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" group-title="PORTUGAL",HISTORIA (Copyright © 2017 by TeamBlue)
 http://80.90.41.118:6600/play/a009
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" group-title="PORTUGAL",A&E (Copyright © 2017 by TeamBlue)
-http://178.192.242.14:9000/play/a019
+http://85.138.201.130:9981/stream/channelid/279817479?ticket=A727646CD55510E25374547B216FF480E4A03564&profile=pass
 #EXTINF:-1 tvg-logo="http://savepic.net/8122892.png" group-title="PORTUGAL",TLC (Copyright © 2017 by TeamBlue)
 http://4.31.30.145:9043
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" group-title="PORTUGAL",E! ENTERTAINMENT (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/737005338?ticket=26741CDBD2B97A1DFAC983188D7796FFA88F76F5&profile=pass
+http://85.138.201.130:9981/stream/channelid/1936493418?ticket=3B7214D4E4C9DCF37912A4F25D10A47B8FDB2566&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MCS-Extreme.png" group-title="PORTUGAL",MCS EXTREME (Copyright © 2017 by TeamBlue)
 http://188.250.214.28:8889/play/a04v
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" group-title="PORTUGAL",MCS LIFESTYLE (Copyright © 2017 by TeamBlue)
-http://178.192.242.14:9000/play/a087
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Travel_Channel_Logo.png" group-title="PORTUGAL",TRAVEL CHANNEL (Copyright © 2017 by TeamBlue)
-http://178.192.242.14:9000/play/a07e
+http://85.138.201.130:9981/stream/channelid/731165410?ticket=69E8E417FB0312B84892000804D5616D5C4A641C&profile=pass
 #EXTINF:-1 tvg-logo="http://www.asiatvforum.com/__novaimages/1861289?v=636160865394130000" group-title="PORTUGAL",FTV (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1687101776?ticket=9DD3461AF9C8C9A1CACD502AC1F3A9BE2485F61F&profile=pass
+http://178.132.218.202:3025
 #EXTINF:-1 tvg-logo="http://www.sundancetvglobal.com/images/logo.png" group-title="PORTUGAL",SUNDANCE TV (Copyright © 2017 by TeamBlue)
 http://93.158.220.133:5000/play/a046
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/2000px-Food_Network_Logo.svg.png" group-title="PORTUGAL",FOOD NETWORK (Copyright © 2017 by TeamBlue)
+http://85.138.201.130:9981/stream/channelid/1920884080?ticket=70716CF04F0ECD324353810B9976C11E2347A5D1&profile=pass
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/600x315/46/08/ec/4608ec8613bc216f5ccc608ca7c7a0d5.jpg" group-title="PORTUGAL",BBC ENTERTAINMENT (Copyright © 2017 by TeamBlue)
 http://188.250.214.28:8889/play/a02w
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/600x315/46/08/ec/4608ec8613bc216f5ccc608ca7c7a0d5.jpg" group-title="PORTUGAL",BBC ENTERTAINMENT (Copyright © 2017 by TeamBlue)
 http://188.250.214.28:8889/play/a02w
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" group-title="PORTUGAL",GLOBO PREMIUM (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/605980004?ticket=83572E9B828B9C6E3B853F5BE0D737DACCD75357&profile=pass
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" group-title="PORTUGAL",TV RECORD (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/54879271?ticket=6C7AF5617EC611384A331E0E9B8793338EA9FDAE&profile=pass
+http://80.90.41.118:6600/play/a004
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" group-title="PORTUGAL",CNN (Copyright © 2017 by TeamBlue)
 http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" group-title="PORTUGAL",EURONEWS (Copyright © 2017 by TeamBlue)
@@ -196,25 +202,27 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" group-title="PORTUGAL",RTP ACORES (Copyright © 2017 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VRnat0c.png" group-title="PORTUGAL",CANCAO NOVA (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/2552762?ticket=E3B1E37992E06E2E734C3CB2AF2CD0956678588E&profile=pass
+http://85.138.201.130:9981/stream/channelid/888336800?ticket=4A033D501DC733C4513F544418C42D906365E241&profile=pass
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/qypyvv1437950573.png" group-title="PORTUGAL",AR TV (Copyright © 2017 by TeamBlue)
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2kXKGGs" group-title="PORTUGAL",RTP AFRICA (Copyright © 2017 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tsNZEpc.png" group-title="PORTUGAL",TPA (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/914165597?ticket=87B0FEE82818BA160184EDE3F205B78A2638552B&profile=pass
+http://188.250.214.28:8889/play/a04x
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" group-title="PORTUGAL",TV GALICIA (Copyright © 2017 by TeamBlue)
 http://85.138.201.130:9981/stream/channelid/1547784250?ticket=87232E7B3C29CD93F0852B6A198DA2D7DDDBA489&profile=pass
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3SiROJO.png" group-title="PORTUGAL",TVEi (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1607388726?ticket=12DB9FDFA0B5F2B45DB1487FC1FB716008994E7A&profile=pass
+http://188.250.214.28:8889/play/a02v
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" group-title="PORTUGAL",TV5 MONDE (Copyright © 2017 by TeamBlue)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="PORTUGAL",TOROS TV (Copyright © 2017 by TeamBlue)
 http://178.192.242.14:9000/play/a07w
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" group-title="PORTUGAL",CACAVISION (Copyright © 2017 by TeamBlue)
-http://178.192.242.14:9000/play/a08l
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cQ4UFEO.png" group-title="PORTUGAL",FIGHT NETWORK (Copyright © 2017 by TeamBlue)
+http://85.138.201.130:9981/stream/channelid/320427693?ticket=4D7D006AFA3C14C8BCCD66B3194D1F0EFE077B18&profile=pass
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" group-title="PORTUGAL",KOMBAT SPORT (Copyright © 2017 by TeamBlue)
 http://188.250.214.28:8889/play/a04w
+#EXTINF:-1 tvg-logo="http://savepic.net/8100452.png" group-title="PORTUGAL",FINE LIVING NETWORK (Copyright © 2017 by TeamBlue)
+http://85.138.201.130:9981/stream/channelid/659347561?ticket=AD14156ED7FC6D12E99E6CB3C948E51A5120976D&profile=pass
 #EXTINF:-1 tvg-logo="http://www.jfarroios.pt/2016/wp-content/uploads/2015/10/logo-tv1.jpg" group-title="PORTUGAL",ARROIOS TV (Copyright © 2017 by TeamBlue)
 http://213.13.26.11:1935/live/luis/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="PORTUGAL",REDE TV (Copyright © 2017 by TeamBlue)
@@ -480,7 +488,7 @@ http://213.59.140.181:9999/play/MTV_Rocks
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333" group-title="FRANCA",NRJ Hits (Copyright © 2017 by TeamBlue)
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 #EXTINF:-1 tvg-logo="http://savepic.net/8124090.png" group-title="FRANCA",Mezzo (Copyright © 2017 by TeamBlue)
-http://85.138.201.130:9981/stream/channelid/1038525106?ticket=CD711A8285791645B32B508039C0E68F6A2EE1C1&profile=pass
+http://185.53.161.147:8888/play/a02i
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p4uCFIG.png",ITALIA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_canale5.png" group-title="ITALIA",CANALE 5 (Copyright © 2017 by TeamBlue)
