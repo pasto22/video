@@ -206,7 +206,7 @@ http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5891.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="PORTUGAL",RECORD NEWS (Copyright © 2017 by TeamBlue)
 http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RAI1" group-title="PORTUGAL",RAI 1 (Copyright © 2017 by TeamBlue)
-http://149.100.19.146:8000/play/a00w
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6173.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" group-title="PORTUGAL",RTP MADEIRA (Copyright © 2017 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" group-title="PORTUGAL",RTP ACORES (Copyright © 2017 by TeamBlue)
@@ -838,15 +838,21 @@ http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/la_7_it.png" group-title="ITALIA",LA 7 (Copyright © 2017 by TeamBlue)
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RAI1" group-title="ITALIA",RAI 1 (Copyright © 2017 by TeamBlue)
-http://149.100.19.146:8000/play/a00w
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6173.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2kXK6sh" group-title="ITALIA",RAI 2 (Copyright © 2017 by TeamBlue)
-http://149.100.19.146:8000/play/a00x
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6172.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2lvlcOs" group-title="ITALIA",RAI 3 (Copyright © 2017 by TeamBlue)
-http://149.100.19.146:8000/play/a00y
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6171.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2lvsX6U" group-title="ITALIA",RAI 4 (Copyright © 2017 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/2000px-Rai_5_logo.svg.png" group-title="ITALIA",RAI 5 (Copyright © 2017 by TeamBlue)
 http://stream12.rai.it/live/rai5.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zjcI6EQ.png" group-title="ITALIA",RETE 4 (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6164.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4xM3oJ4.png" group-title="ITALIA",RSI LA1 (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6163.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HYRbu3N.png" group-title="ITALIA",RSI LA2 (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6162.m3u8
 #EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" group-title="ITALIA",EURONEWS (Copyright © 2017 by TeamBlue)
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/18-live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" group-title="ITALIA",RAI NEWS 24 (Copyright © 2017 by TeamBlue)
@@ -855,14 +861,38 @@ http://b2.stream8.rai.it/live/smil%3arnews1_android.smil/playlist.m3u8?auth=daEb
 http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/o4ca5xo.png" group-title="ITALIA",SKY TG24 (Copyright © 2017 by TeamBlue)
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cc/Italia_1_logo.svg/revision/latest?cb=20100308164118" group-title="ITALIA",ITALIA1 (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6189.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/RAI_Premium_2010_neu_Logo.svg/2000px-RAI_Premium_2010_neu_Logo.svg.png" group-title="ITALIA",RAI PREMIUM (Copyright © 2017 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" group-title="ITALIA",FOX (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6191.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vP0vLFh.png" group-title="ITALIA",PREMIUM ACTION (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6182.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/63ViXvw.png" group-title="ITALIA",PREMIUM CINEMA (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6179.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W5rqigb.png" group-title="ITALIA",PREMIUM CINEMA 2 +24 (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6184.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LQUpJYB.png" group-title="ITALIA",PREMIUM CINEMA COMEDY (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6181.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hvhMPUA.png" group-title="ITALIA",PREMIUM CINEMA CRIME (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6176.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8LdlWXR.png" group-title="ITALIA",PREMIUM CINEMA ENERGY (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6180.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hvhMPUA.png" group-title="ITALIA",PREMIUM CINEMA CRIME +24 (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6177.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139" group-title="ITALIA",PREMIUM JOI (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6174.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" group-title="ITALIA",RAI MOVIE (Copyright © 2017 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/grFgBdy.png" group-title="ITALIA",SKY CINEMA COMEDY (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6158.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rai_Gulp_2010.svg/2000px-Rai_Gulp_2010.svg.png" group-title="ITALIA",RAI GULP (Copyright © 2017 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/2000px-RAI_YoYo_2010_Logo.svg.png" group-title="ITALIA",RAI YOYO (Copyright © 2017 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" group-title="ITALIA",EUROSPORT (Copyright © 2017 by TeamBlue)
+http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6195.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Logo_Rai_Sport_1_2010.svg/570px-Logo_Rai_Sport_1_2010.svg.png" group-title="ITALIA",RAI SPORT 1 (Copyright © 2017 by TeamBlue)
 http://149.100.19.146:8000/play/a013
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GSmMg8K.png" group-title="ITALIA",RAI SPORT 2 (Copyright © 2017 by TeamBlue)
