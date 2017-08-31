@@ -197,6 +197,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" tvg-id="0" group-title="PORTUGAL",RAI NEWS 24
 http://b2.stream8.rai.it/live/smil%3arnews1_android.smil/playlist.m3u8?auth=daEbCcLd2aZdEaLbHcVcBbhaQdjb7cqc7a8-bwOLFE-c0-IlyxvEo&aifp=V001
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" tvg-id="TVE24h" group-title="PORTUGAL",TVE 24H
+http://212.178.96.210:3145/play/a027
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" tvg-id="0" group-title="PORTUGAL",DW (ENGLISH)
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24I" group-title="PORTUGAL",FRANCE 24 ENG
@@ -221,12 +223,10 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tsNZEpc.png" tvg-id="0" group-title="PORTUGAL",TPA
 http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4286.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" tvg-id="0" group-title="PORTUGAL",TV GALICIA
-http://185.117.46.1:9090/play/a023
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" tvg-id="0" group-title="PORTUGAL",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" tvg-id="TOROTV.pt" group-title="PORTUGAL",TOROS TV
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5979.m3u8
+http://212.178.96.210:3145/play/a00k
 #EXTINF:-1 tvg-logo="http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg" tvg-id="CacaePesca" group-title="PORTUGAL",CACA & PESCA
 http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4351.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" tvg-id="CacaVision" group-title="PORTUGAL",CACAVISION
@@ -251,6 +251,8 @@ http://0.0.0.1234
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png" tvg-id="23" group-title="BRASIL",BAND
 http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VRnat0c.png" tvg-id="44" group-title="BRASIL",CANCAO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" tvg-id="65" group-title="BRASIL",GLOBO
 http://187.49.86.238:10000/bysid/94
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" tvg-id="149" group-title="BRASIL",GLOBO SP
@@ -295,6 +297,8 @@ http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6105.m3u8
 http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6108.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" tvg-id="653" group-title="BRASIL",MAX
 http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6104.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" tvg-id="674" group-title="BRASIL",MAX PRIME
+http://hls.fearfulale.xyz/s/ch0011986/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Frawzcq.png" tvg-id="716" group-title="BRASIL",SPORTV
 http://hls.fearfulale.xyz/s/ch0005276/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4dV4aQ2.png" tvg-id="737" group-title="BRASIL",SPORTV2
@@ -304,6 +308,7 @@ http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6139.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WDDYvsC.png" tvg-id="779" group-title="BRASIL",ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="821" group-title="BRASIL",PREMIERE
+http://hls.fearfulale.xyz/s/fod4572/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="842" group-title="BRASIL",PREMIERE 2
 http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6102.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="863" group-title="BRASIL",PREMIERE 3
@@ -362,6 +367,8 @@ http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6128.m3u8
 http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6126.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="2060" group-title="BRASIL",DISNEY JUNIOR
 http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/6145.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" tvg-id="2081" group-title="BRASIL",DISNEY XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="2123" group-title="BRASIL",NICK
 http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png" tvg-id="2144" group-title="BRASIL",NICK JR
@@ -538,38 +545,37 @@ http://185.26.174.67:44444/play/a01s
 http://185.26.174.67:44444/play/a01v
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png" tvg-id="128" group-title="ESPANHA",TELECINCO
 http://185.26.174.67:44444/play/a01l
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" tvg-id="149" group-title="ESPANHA",TV GALICIA
-http://185.117.46.1:9090/play/a023
 #EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" tvg-id="170" group-title="ESPANHA",EURONEWS
 http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_es.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" tvg-id="191" group-title="ESPANHA",TVE 24H
+http://212.178.96.210:3145/play/a027
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" tvg-id="212" group-title="ESPANHA",RT ESPAÑOL
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="233" group-title="ESPANHA",A&E
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5995.m3u8
-#EXTINF:-1 tvg-logo="http://decasa.tv/minisites/especial-homeopatia/imagenes/logo_decasa.png" tvg-id="254" group-title="ESPANHA",CANAL DECASA
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5978.m3u8
+http://212.178.96.210:3145/play/a021
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" tvg-id="275" group-title="ESPANHA",DW LATINO
 http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_2_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/34/Viajar.png/revision/latest/scale-to-width-down/220?cb=20161028211628" tvg-id="317" group-title="ESPANHA",VIAJAR
+http://212.178.96.210:3145/play/a01b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5E0UuoZ.png" tvg-id="338" group-title="ESPANHA",COCINA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id="401" group-title="ESPANHA",DISCOVERY CHANNEL
 http://185.26.174.67:44444/play/a01h
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="464" group-title="ESPANHA",HISTORIA ES
-http://185.117.46.1:9090/play/a02r
+http://212.178.96.210:3145/play/a024
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="485" group-title="ESPANHA",NATIONAL GEOGRAPHIC ES
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5969.m3u8
+http://212.178.96.210:3145/play/a00j
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" tvg-id="506" group-title="ESPANHA",NATIONAL GEOGRAPHIC WILD
 http://185.26.174.67:44444/play/a01p
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="527" group-title="ESPANHA",ODISEA
-http://185.117.46.1:9090/play/a02p
 #EXTINF:-1 tvg-logo="http://imagenes.lainformacion.com/2015/11/10/television/Logo-atresseries_860924294_41319407_626x472.jpg" tvg-id="569" group-title="ESPANHA",A3SERIES
 http://a3live-lh.akamaihd.net:80/i/a3s/geoa3series_1@122775/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" tvg-id="590" group-title="ESPANHA",AMC
-http://185.117.46.1:9090/play/a02f
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="611" group-title="ESPANHA",AXN
 http://185.26.174.67:44444/play/a00x
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QDCk6tH.png" tvg-id="632" group-title="ESPANHA",AXN WHITE
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5993.m3u8
+http://212.178.96.210:3145/play/a01f
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cQpNN8V.png" tvg-id="653" group-title="ESPANHA",CALLE 13
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5990.m3u8
+http://212.178.96.210:3145/play/a00g
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png" tvg-id="695" group-title="ESPANHA",COMEDY CENTRAL
+http://212.178.96.210:3145/play/a00w
 #EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" tvg-id="716" group-title="ESPANHA",FOX ES
 http://185.26.174.67:44444/play/a010
 #EXTINF:-1 tvg-logo="http://savepic.net/8100386.png" tvg-id="758" group-title="ESPANHA",FOX LIFE
@@ -582,42 +588,62 @@ http://185.26.174.67:44444/play/a01o
 http://185.26.174.67:44444/play/a00r
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637" tvg-id="863" group-title="ESPANHA",MOVISTAR COMEDIA
 http://185.26.174.67:44444/play/a00s
+#EXTINF:-1 tvg-logo="http://movistar.i.lithium.com/t5/image/serverpage/image-id/111652i5C6AECD1888E0BFE/image-size/original?v=v2&px=-1" tvg-id="905" group-title="ESPANHA",MOVISTAR DCINE N
+http://212.178.96.210:3145/play/a026
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104" tvg-id="926" group-title="ESPANHA",MOVISTAR DCINE
 http://185.26.174.67:44444/play/a00t
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png/revision/latest?cb=20160707185129" tvg-id="947" group-title="ESPANHA",MOVISTAR ESTRENOS
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5981.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/mm/movistar_es_series.png" tvg-id="968" group-title="ESPANHA",MOVISTAR SERIES
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5786.m3u8
+http://212.178.96.210:3145/play/a01c
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/mm/movistar_es_series_xtra.png" tvg-id="989" group-title="ESPANHA",MOVISTAR SERIES XTRA
+http://212.178.96.210:3145/play/a00t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" tvg-id="1010" group-title="ESPANHA",NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" tvg-id="1031" group-title="ESPANHA",PARAMOUNT CHANNEL
+http://212.178.96.210:3145/play/a01h
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="1052" group-title="ESPANHA",SYFY
-http://cdn.opencable.es/hls/live/syfy/index.m3u8
+http://212.178.96.210:3145/play/a01a
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/t/55dc67d3e4b025d475d026d7/1440507859238/tnt-fpb-channel-lineup" tvg-id="1094" group-title="ESPANHA",TNT ES
 http://185.26.174.67:44444/play/a01t
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" tvg-id="1220" group-title="ESPANHA",DISNEY CHANNEL
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5977.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="1115" group-title="ESPANHA",BABY TV
+http://212.178.96.210:3145/play/a02n
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_BOING" tvg-id="1136" group-title="ESPANHA",BOING
+http://212.178.96.210:3145/play/a02p
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/b/bb/Canal_Panda_2015_Stacked.png/revision/latest?cb=20150708105237" tvg-id="1178" group-title="ESPANHA",CANAL PANDA
+http://212.178.96.210:3145/play/a01l
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="1262" group-title="ESPANHA",DISNEY JUNIOR ES
 http://185.26.174.67:44444/play/a00q
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" tvg-id="1283" group-title="ESPANHA",DISNEY XD
+http://212.178.96.210:3145/play/a01z
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="1367" group-title="ESPANHA",MTV
+http://212.178.96.210:3145/play/a02s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1000px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="1451" group-title="ESPANHA",beiN SPORTS N
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5991.m3u8
+http://212.178.96.210:3145/play/a00r
+#EXTINF:-1 tvg-logo="http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg" tvg-id="1535" group-title="ESPANHA",CAZA & PESCA
+http://212.178.96.210:3145/play/a020
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" tvg-id="1556" group-title="ESPANHA",TOROS TV
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5979.m3u8
+http://212.178.96.210:3145/play/a00k
 #EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" tvg-id="1577" group-title="ESPANHA",EUROSPORT ES
 http://185.26.174.67:44444/play/a01d
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" tvg-id="1598" group-title="ESPANHA",EUROSPORT 2 ES
+http://212.178.96.210:3145/play/a01q
 #EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png" tvg-id="1619" group-title="ESPANHA",LALIGA TV
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5980.m3u8
+http://212.178.96.210:3145/play/a02v
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" tvg-id="1640" group-title="ESPANHA",MOVISTAR DEPORTES 1
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5989.m3u8
+http://212.178.96.210:3145/play/a00i
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png/revision/latest?cb=20160818140550" tvg-id="1661" group-title="ESPANHA",MOVISTAR DEPORTES 2
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5982.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png" tvg-id="1682" group-title="ESPANHA",MOVISTAR FUTBOL
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5988.m3u8
+http://212.178.96.210:3145/play/a01d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/800px-Movistar_Golf.svg.png" tvg-id="1703" group-title="ESPANHA",MOVISTAR GOLF
+http://212.178.96.210:3145/play/a00u
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg" tvg-id="1724" group-title="ESPANHA",MOVISTAR F1
+http://212.178.96.210:3145/play/a004
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/800px-Movistar_Moto_GP.svg.png" tvg-id="1745" group-title="ESPANHA",MOVISTAR MOTOGP
-http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/5970.m3u8
+http://212.178.96.210:3145/play/a005
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" tvg-id="1766" group-title="ESPANHA",BARCA TV
 http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="1787" group-title="ESPANHA",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/GOLTV_Two.png/200px-GOLTV_Two.png" tvg-id="1808" group-title="ESPANHA",GOL
+http://212.178.96.210:3145/play/a02t
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5xWUqQt.png",FRANCA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TF1_logo_1990.png" tvg-id=" group-title="FRANCA",TF1
@@ -898,10 +924,12 @@ http://185.22.78.72:9004/play/a039
 http://www.painelpro.net:8000/live/4ceb0xtv-4dd0n/SIAfM3qbBQ/4288.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/bb/box_nation_uk.png" tvg-id=" group-title="INGLATERRA",BOXNATION
 http://185.22.78.72:9002/play/a032
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F2R303x.png" tvg-id=" group-title="INGLATERRA",BT SPORT 1
+http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png" tvg-id=" group-title="INGLATERRA",BT SPORT 2
-http://185.22.78.72:9002/play/a02y
+http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png" tvg-id=" group-title="INGLATERRA",BT SPORT ESPN
-http://185.142.239.164:3135/BT/Espn/index.m3u8
+http://185.22.78.72:9002/play/a02x
 #EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" tvg-id=" group-title="INGLATERRA",EUROSPORT UK
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" tvg-id=" group-title="INGLATERRA",EUROSPORT 2 UK
