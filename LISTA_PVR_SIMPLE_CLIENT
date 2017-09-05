@@ -74,7 +74,7 @@ http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/4158.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="RMTV.pt" group-title="PORTUGAL",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" tvg-id="0" group-title="PORTUGAL",NBA
-http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10428.m3u8
+http://185.73.239.38:25461/live/thflix/Aa444444/91.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" tvg-id="disneychannel.pt" group-title="PORTUGAL",DISNEY CHANNEL
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/990.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR
@@ -133,6 +133,12 @@ http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/100.m3u8
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/93.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="0" group-title="PORTUGAL",MTV PORTUGAL
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/1095.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" tvg-id="0" group-title="PORTUGAL",MTV DANCE
+http://212.34.244.28:7003/play/a00a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MTV_Hits_2017_logo.svg/1024px-MTV_Hits_2017_logo.svg.png" tvg-id="0" group-title="PORTUGAL",MTV HITS
+http://212.34.244.28:7003/play/a00b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
+http://212.34.244.28:7003/play/a00c
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/90/MCM_TOP_2008.png/revision/latest?cb=20150313180515" tvg-id="MCMTOP" group-title="PORTUGAL",MCM TOP
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/5773.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" tvg-id="MCMPOP" group-title="PORTUGAL",MCM POP
@@ -524,6 +530,12 @@ http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kZgo2Dd.png" tvg-id="1535" group-title="ALEMANHA",SPORTDIGITAL
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8290.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="1619" group-title="ALEMANHA",E! ENTERTAINMENT DE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" tvg-id="1661" group-title="ALEMANHA",MTV DANCE
+http://212.34.244.28:7003/play/a00a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MTV_Hits_2017_logo.svg/1024px-MTV_Hits_2017_logo.svg.png" tvg-id="1682" group-title="ALEMANHA",MTV HITS
+http://212.34.244.28:7003/play/a00b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" tvg-id="1703" group-title="ALEMANHA",MTV ROCKS
+http://212.34.244.28:7003/play/a00c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jW67mvr.png" tvg-id="1766" group-title="ALEMANHA",PROSIEBEN MAXX
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8250.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL_living_Logo_2015.png" tvg-id="1808" group-title="ALEMANHA",RTL LIVING
@@ -706,562 +718,564 @@ http://212.178.96.210:3145/play/a02t
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8053.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5xWUqQt.png",FRANCA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TF1_logo_1990.png" tvg-id=" group-title="FRANCA",TF1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TF1_logo_1990.png" tvg-id="" group-title="FRANCA",TF1
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8203.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b4/France_2_logo_2008.svg/revision/latest?cb=20100804204126" tvg-id=" group-title="FRANCA",FRANCE 2
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b4/France_2_logo_2008.svg/revision/latest?cb=20100804204126" tvg-id="" group-title="FRANCA",FRANCE 2
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8179.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/France_3_logo_2008.svg/revision/latest/scale-to-width-down/140?cb=20100804082512" tvg-id=" group-title="FRANCA",FRANCE 3
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/France_3_logo_2008.svg/revision/latest/scale-to-width-down/140?cb=20100804082512" tvg-id="" group-title="FRANCA",FRANCE 3
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8178.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4bHO5AX.png" tvg-id=" group-title="FRANCA",CANAL+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4bHO5AX.png" tvg-id="" group-title="FRANCA",CANAL+
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8153.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/create-logopedia/images/a/a8/M6-tv-logo.png/revision/latest?cb=20150611172753" tvg-id=" group-title="FRANCA",M6
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/create-logopedia/images/a/a8/M6-tv-logo.png/revision/latest?cb=20150611172753" tvg-id="" group-title="FRANCA",M6
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8185.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE5" tvg-id=" group-title="FRANCA",FRANCE 5
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE5" tvg-id="" group-title="FRANCA",FRANCE 5
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8176.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" tvg-id=" group-title="FRANCA",RTL9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" tvg-id="" group-title="FRANCA",RTL9
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8199.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RTS_un.svg/310px-RTS_un.svg.png" tvg-id=" group-title="FRANCA",RTS UN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RTS_un.svg/310px-RTS_un.svg.png" tvg-id="" group-title="FRANCA",RTS UN
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9842.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RTS_deux.svg/2000px-RTS_deux.svg.png" tvg-id=" group-title="FRANCA",RTS DEUX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RTS_deux.svg/2000px-RTS_deux.svg.png" tvg-id="" group-title="FRANCA",RTS DEUX
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8183.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/W9_2010.png/revision/latest?cb=20110904184902" tvg-id=" group-title="FRANCA",W9
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/W9_2010.png/revision/latest?cb=20110904184902" tvg-id="" group-title="FRANCA",W9
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8207.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/71/TMC_logo_2009.png/revision/latest?cb=20100205080730" tvg-id=" group-title="FRANCA",TMC
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/71/TMC_logo_2009.png/revision/latest?cb=20100205080730" tvg-id="" group-title="FRANCA",TMC
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8204.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nt1_fr.png" tvg-id=" group-title="FRANCA",NT1
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nt1_fr.png" tvg-id="" group-title="FRANCA",NT1
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8192.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" tvg-id=" group-title="FRANCA",NRJ12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" tvg-id="" group-title="FRANCA",NRJ12
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8191.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE4" tvg-id=" group-title="FRANCA",FRANCE 4
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE4" tvg-id="" group-title="FRANCA",FRANCE 4
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8177.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/bb/bfm_fr_tv.png" tvg-id=" group-title="FRANCA",BFM TV
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/bb/bfm_fr_tv.png" tvg-id="" group-title="FRANCA",BFM TV
 http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" tvg-id=" group-title="FRANCA",RTL9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" tvg-id="" group-title="FRANCA",RTL9
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8199.m3u8
-#EXTINF:-1 tvg-logo="http://img.over-blog-kiwi.com/1/49/54/19/20160818/ob_dad82f_nouveau-logo-chaine-tnt-c8-logo.png" tvg-id=" group-title="FRANCA",C8
+#EXTINF:-1 tvg-logo="http://img.over-blog-kiwi.com/1/49/54/19/20160818/ob_dad82f_nouveau-logo-chaine-tnt-c8-logo.png" tvg-id="" group-title="FRANCA",C8
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8170.m3u8
-#EXTINF:-1 tvg-logo="http://image.noelshack.com/fichiers/2015/18/1430411321-d17logo.jpg" tvg-id=" group-title="FRANCA",D17
+#EXTINF:-1 tvg-logo="http://image.noelshack.com/fichiers/2015/18/1430411321-d17logo.jpg" tvg-id="" group-title="FRANCA",D17
 http://144.2.100.111:8000/play/a003
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/gg/gulli_fr.png" tvg-id=" group-title="FRANCA",GULLI
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/gg/gulli_fr.png" tvg-id="" group-title="FRANCA",GULLI
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8181.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCEO" tvg-id=" group-title="FRANCA",FRANCE O
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCEO" tvg-id="" group-title="FRANCA",FRANCE O
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8180.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hd1_fr.png" tvg-id=" group-title="FRANCA",HD1 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hd1_fr.png" tvg-id="" group-title="FRANCA",HD1 
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9827.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/l_equipe_fr.png" tvg-id=" group-title="FRANCA",L'EQUIPE 21
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/l_equipe_fr.png" tvg-id="" group-title="FRANCA",L'EQUIPE 21
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9829.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/num/6ter_fr.png" tvg-id=" group-title="FRANCA",6TER
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/num/6ter_fr.png" tvg-id="" group-title="FRANCA",6TER
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8146.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" tvg-id=" group-title="FRANCA",RMC DECOUVERTE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" tvg-id="" group-title="FRANCA",RMC DECOUVERTE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9851.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/lci_fr.png" tvg-id=" group-title="FRANCA",LCI
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/lci_fr.png" tvg-id="" group-title="FRANCA",LCI
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9848.m3u8
-#EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" tvg-id=" group-title="FRANCA",EURONEWS
+#EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" tvg-id="" group-title="FRANCA",EURONEWS
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Science_et_Vie_TV_logo_2015.png" tvg-id=" group-title="FRANCA",SCIENCES & VIE TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Science_et_Vie_TV_logo_2015.png" tvg-id="" group-title="FRANCA",SCIENCES & VIE TV
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8200.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id=" group-title="FRANCA",MTV
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" tvg-id=" group-title="FRANCA",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="" group-title="FRANCA",MTV
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" tvg-id="" group-title="FRANCA",PARAMOUNT CHANNEL
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9850.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal_j_fr.png" tvg-id=" group-title="FRANCA",CANAL J
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal_j_fr.png" tvg-id="" group-title="FRANCA",CANAL J
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8219.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/Tiji_logo.png" tvg-id=" group-title="FRANCA",TIJI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/Tiji_logo.png" tvg-id="" group-title="FRANCA",TIJI
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8229.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" tvg-id=" group-title="FRANCA",TV5 MONDE
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" tvg-id="" group-title="FRANCA",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id=" group-title="FRANCA",FRANCE 24 FR
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="" group-title="FRANCA",FRANCE 24 FR
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/13th_Street_2015_logo.png/200px-13th_Street_2015_logo.png" tvg-id=" group-title="FRANCA",13E RUE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/13th_Street_2015_logo.png/200px-13th_Street_2015_logo.png" tvg-id="" group-title="FRANCA",13E RUE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8145.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id=" group-title="FRANCA",SYFY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="" group-title="FRANCA",SYFY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8202.m3u8
-#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" tvg-id=" group-title="FRANCA",EUROSPORT FR
+#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" tvg-id="" group-title="FRANCA",EUROSPORT FR
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" tvg-id=" group-title="FRANCA",EUROSPORT 2 FR
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" tvg-id="" group-title="FRANCA",EUROSPORT 2 FR
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8175.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cine_fx.png" tvg-id=" group-title="FRANCA",CINE FX
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cine_fx.png" tvg-id="" group-title="FRANCA",CINE FX
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8163.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/48/Animaux_logo_2011.png/revision/latest/scale-to-width-down/250?cb=20111120001830" tvg-id=" group-title="FRANCA",ANIMAUX
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/48/Animaux_logo_2011.png/revision/latest/scale-to-width-down/250?cb=20111120001830" tvg-id="" group-title="FRANCA",ANIMAUX
 http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id=" group-title="FRANCA",CHASSE & PECHE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="" group-title="FRANCA",CHASSE & PECHE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8162.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UNGRg6Q.png" tvg-id=" group-title="FRANCA",beiN SPORTS 1 FR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UNGRg6Q.png" tvg-id="" group-title="FRANCA",beiN SPORTS 1 FR
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8149.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AZSqeFo.png" tvg-id=" group-title="FRANCA",beiN SPORTS 2 FR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AZSqeFo.png" tvg-id="" group-title="FRANCA",beiN SPORTS 2 FR
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8150.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png" tvg-id=" group-title="FRANCA",beiN SPORTS 3 FR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png" tvg-id="" group-title="FRANCA",beiN SPORTS 3 FR
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8151.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/BFM_Sport.svg/langfr-320px-BFM_Sport.svg.png" tvg-id=" group-title="FRANCA",BFM SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/BFM_Sport.svg/langfr-320px-BFM_Sport.svg.png" tvg-id="" group-title="FRANCA",BFM SPORT
 http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-2.m3u8
-#EXTINF:-1 tvg-logo="http://www.sfr.com/sites/default/files/sfr_sfr_sport.jpg" tvg-id=" group-title="FRANCA",SFR SPORT 1
+#EXTINF:-1 tvg-logo="http://www.sfr.com/sites/default/files/sfr_sfr_sport.jpg" tvg-id="" group-title="FRANCA",SFR SPORT 1
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8159.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/SFR_Sport_2_logo_2016.png" tvg-id=" group-title="FRANCA",SFR SPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/SFR_Sport_2_logo_2016.png" tvg-id="" group-title="FRANCA",SFR SPORT 2
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8158.m3u8
-#EXTINF:-1 tvg-logo="http://img.static.myt.mu/assets/img/pl/logo_SFR_SPORT3.jpg" tvg-id=" group-title="FRANCA",SFR SPORT 3
+#EXTINF:-1 tvg-logo="http://img.static.myt.mu/assets/img/pl/logo_SFR_SPORT3.jpg" tvg-id="" group-title="FRANCA",SFR SPORT 3
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9825.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/tt/toute_histoire_fr.png" tvg-id=" group-title="FRANCA",TOUTE L'HISTOIRE
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/tt/toute_histoire_fr.png" tvg-id="" group-title="FRANCA",TOUTE L'HISTOIRE
 http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c2/Action_2014.png/revision/latest/scale-to-width-down/255?cb=20141101162929" tvg-id=" group-title="FRANCA",Action
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c2/Action_2014.png/revision/latest/scale-to-width-down/255?cb=20141101162929" tvg-id="" group-title="FRANCA",Action
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8147.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cinema.png" tvg-id=" group-title="FRANCA",Canal+ Cinema
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cinema.png" tvg-id="" group-title="FRANCA",Canal+ Cinema
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8154.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_series.png" tvg-id=" group-title="FRANCA",Canal+ Series
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_series.png" tvg-id="" group-title="FRANCA",Canal+ Series
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8157.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_family.png" tvg-id=" group-title="FRANCA",Canal+ Family
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_family.png" tvg-id="" group-title="FRANCA",Canal+ Family
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8156.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/f9/Canal_D%C3%A9cal%C3%A9_2013.svg.png/revision/latest?cb=20130731190733" tvg-id=" group-title="FRANCA",Canal+ Decale
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/f9/Canal_D%C3%A9cal%C3%A9_2013.svg.png/revision/latest?cb=20130731190733" tvg-id="" group-title="FRANCA",Canal+ Decale
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8155.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png" tvg-id=" group-title="FRANCA",GONG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png" tvg-id="" group-title="FRANCA",GONG
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_geants.png" tvg-id=" group-title="FRANCA",OCS Geants
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_geants.png" tvg-id="" group-title="FRANCA",OCS Geants
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8225.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_choc.png" tvg-id=" group-title="FRANCA",OCS Choc
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_choc.png" tvg-id="" group-title="FRANCA",OCS Choc
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8193.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_max.png" tvg-id=" group-title="FRANCA",OCS Max
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_max.png" tvg-id="" group-title="FRANCA",OCS Max
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8226.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_city.png" tvg-id=" group-title="FRANCA",OCS City
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_city.png" tvg-id="" group-title="FRANCA",OCS City
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8194.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_famiz.png" tvg-id=" group-title="FRANCA",Cine+ Famiz
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_famiz.png" tvg-id="" group-title="FRANCA",Cine+ Famiz
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8166.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_classic.png" tvg-id=" group-title="FRANCA",Cine+ Classic
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_classic.png" tvg-id="" group-title="FRANCA",Cine+ Classic
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8164.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_emotion.png" tvg-id=" group-title="FRANCA",Cine+ Emotion
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_emotion.png" tvg-id="" group-title="FRANCA",Cine+ Emotion
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8165.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_frisson.png" tvg-id=" group-title="FRANCA",Cine+ Frisson
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_frisson.png" tvg-id="" group-title="FRANCA",Cine+ Frisson
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8167.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_comedie_plus.png" tvg-id=" group-title="FRANCA",Comedie+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_comedie_plus.png" tvg-id="" group-title="FRANCA",Comedie+
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8168.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" tvg-id=" group-title="FRANCA",AB 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" tvg-id="" group-title="FRANCA",AB 1
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8211.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.ru/11658500.png" tvg-id=" group-title="FRANCA",Canal+ sport
+#EXTINF:-1 tvg-logo="http://savepic.ru/11658500.png" tvg-id="" group-title="FRANCA",Canal+ sport
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8160.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/AB_MOTEURS_HD_2015.jpg/revision/latest?cb=20140706174957" tvg-id=" group-title="FRANCA",AB Moteurs
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/AB_MOTEURS_HD_2015.jpg/revision/latest?cb=20140706174957" tvg-id="" group-title="FRANCA",AB Moteurs
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8218.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" tvg-id=" group-title="FRANCA",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" tvg-id="" group-title="FRANCA",Nat Geo Wild
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9849.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id=" group-title="FRANCA",National Geographic
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="" group-title="FRANCA",National Geographic
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8190.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id=" group-title="FRANCA",Discovery Channel FR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id="" group-title="FRANCA",Discovery Channel FR
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8171.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" tvg-id=" group-title="FRANCA",Discovery Science
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" tvg-id="" group-title="FRANCA",Discovery Science
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9843.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/planete_plus_action_experience.png" tvg-id=" group-title="FRANCA",Planete+ A&E
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/planete_plus_action_experience.png" tvg-id="" group-title="FRANCA",Planete+ A&E
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8210.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_PLANETECI" tvg-id=" group-title="FRANCA",Planete+ CI
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_PLANETECI" tvg-id="" group-title="FRANCA",Planete+ CI
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8197.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/histoire_fr.png" tvg-id=" group-title="FRANCA",Histoire
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/histoire_fr.png" tvg-id="" group-title="FRANCA",Histoire
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9828.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Science_et_Vie_TV_logo_2015.png" tvg-id=" group-title="FRANCA",SCIENCES & VIE TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Science_et_Vie_TV_logo_2015.png" tvg-id="" group-title="FRANCA",SCIENCES & VIE TV
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8200.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id=" group-title="FRANCA",Chasse & Peche
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="" group-title="FRANCA",Chasse & Peche
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8162.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id=" group-title="FRANCA",E! ENTERTAINMENT
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="" group-title="FRANCA",E! ENTERTAINMENT
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8173.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_cinema_fr.png" tvg-id=" group-title="FRANCA",Disney Cinema
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_cinema_fr.png" tvg-id="" group-title="FRANCA",Disney Cinema
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8221.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" tvg-id=" group-title="FRANCA",Disney Channel
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" tvg-id="" group-title="FRANCA",Disney Channel
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8172.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id=" group-title="FRANCA",Cartoon Network
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="" group-title="FRANCA",Cartoon Network
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8161.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" tvg-id=" group-title="FRANCA",Disney XD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" tvg-id="" group-title="FRANCA",Disney XD
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8222.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_piwi_plus.png" tvg-id=" group-title="FRANCA",Piwi+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_piwi_plus.png" tvg-id="" group-title="FRANCA",Piwi+
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8227.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/atomicbetty/images/7/7d/Teletoon_Logo.png/revision/latest?cb=20110730053415" tvg-id=" group-title="FRANCA",TeleToon+
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/atomicbetty/images/7/7d/Teletoon_Logo.png/revision/latest?cb=20110730053415" tvg-id="" group-title="FRANCA",TeleToon+
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8214.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id=" group-title="FRANCA",Disney Junior
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="" group-title="FRANCA",Disney Junior
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8187.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-E3-InnOxiBQ/VRolXQDpTNI/AAAAAAAAAVQ/kan59AVfeDY/s1600/Weo-Tv-Direct.png" tvg-id=" group-title="FRANCA",WEO
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-E3-InnOxiBQ/VRolXQDpTNI/AAAAAAAAAVQ/kan59AVfeDY/s1600/Weo-Tv-Direct.png" tvg-id="" group-title="FRANCA",WEO
 http://str81.creacast.com/weo/high/live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" tvg-id=" group-title="FRANCA",M6 MUSIQUE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" tvg-id="" group-title="FRANCA",MTV Rocks
+http://212.34.244.28:7003/play/a00c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" tvg-id="" group-title="FRANCA",M6 MUSIQUE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8186.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333" tvg-id=" group-title="FRANCA",NRJ Hits
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333" tvg-id="" group-title="FRANCA",NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8124090.png" tvg-id=" group-title="FRANCA",Mezzo
+#EXTINF:-1 tvg-logo="http://savepic.net/8124090.png" tvg-id="" group-title="FRANCA",Mezzo
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/2832.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p4uCFIG.png",ITALIA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_canale5.png" tvg-id=" group-title="ITALIA",CANALE 5
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_canale5.png" tvg-id="" group-title="ITALIA",CANALE 5
 http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8?type=live-cupertino
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/canal_7_ar.png" tvg-id=" group-title="ITALIA",CANALE 7
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/canal_7_ar.png" tvg-id="" group-title="ITALIA",CANALE 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/la_7_it.png" tvg-id=" group-title="ITALIA",LA 7
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/la_7_it.png" tvg-id="" group-title="ITALIA",LA 7
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RAI1" tvg-id=" group-title="ITALIA",RAI 1
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RAI1" tvg-id="" group-title="ITALIA",RAI 1
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10688.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/2kXK6sh" tvg-id=" group-title="ITALIA",RAI 2
+#EXTINF:-1 tvg-logo="http://bit.ly/2kXK6sh" tvg-id="" group-title="ITALIA",RAI 2
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10687.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/2lvlcOs" tvg-id=" group-title="ITALIA",RAI 3
+#EXTINF:-1 tvg-logo="http://bit.ly/2lvlcOs" tvg-id="" group-title="ITALIA",RAI 3
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10686.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/2lvsX6U" tvg-id=" group-title="ITALIA",RAI 4
+#EXTINF:-1 tvg-logo="http://bit.ly/2lvsX6U" tvg-id="" group-title="ITALIA",RAI 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/2000px-Rai_5_logo.svg.png" tvg-id=" group-title="ITALIA",RAI 5
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/2000px-Rai_5_logo.svg.png" tvg-id="" group-title="ITALIA",RAI 5
 http://stream12.rai.it/live/rai5.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4xM3oJ4.png" tvg-id=" group-title="ITALIA",RSI LA1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4xM3oJ4.png" tvg-id="" group-title="ITALIA",RSI LA1
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10685.m3u8
-#EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" tvg-id=" group-title="ITALIA",EURONEWS
+#EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" tvg-id="" group-title="ITALIA",EURONEWS
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/18-live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" tvg-id=" group-title="ITALIA",RAI NEWS 24
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" tvg-id="" group-title="ITALIA",RAI NEWS 24
 http://b2.stream8.rai.it/live/smil%3arnews1_android.smil/playlist.m3u8?auth=daEbCcLd2aZdEaLbHcVcBbhaQdjb7cqc7a8-bwOLFE-c0-IlyxvEo&aifp=V001
-#EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/webtv/logo_senatoTV.jpg" tvg-id=" group-title="ITALIA",SENATO TV
+#EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/webtv/logo_senatoTV.jpg" tvg-id="" group-title="ITALIA",SENATO TV
 http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/o4ca5xo.png" tvg-id=" group-title="ITALIA",SKY TG24
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o4ca5xo.png" tvg-id="" group-title="ITALIA",SKY TG24
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/RAI_Premium_2010_neu_Logo.svg/2000px-RAI_Premium_2010_neu_Logo.svg.png" tvg-id=" group-title="ITALIA",RAI PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/RAI_Premium_2010_neu_Logo.svg/2000px-RAI_Premium_2010_neu_Logo.svg.png" tvg-id="" group-title="ITALIA",RAI PREMIUM
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id=" group-title="ITALIA",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id="" group-title="ITALIA",DISCOVERY CHANNEL
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10719.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8106596.png" tvg-id=" group-title="ITALIA",HISTORY
+#EXTINF:-1 tvg-logo="http://savepic.net/8106596.png" tvg-id="" group-title="ITALIA",HISTORY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10708.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id=" group-title="ITALIA",NATIONAL GEOGRAPHIC CHANNEL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="" group-title="ITALIA",NATIONAL GEOGRAPHIC CHANNEL
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10610.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" tvg-id=" group-title="ITALIA",NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" tvg-id="" group-title="ITALIA",NAT GEO WILD
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10706.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id=" group-title="ITALIA",AXN
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="" group-title="ITALIA",AXN
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10631.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" tvg-id=" group-title="ITALIA",FOX
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" tvg-id="" group-title="ITALIA",FOX
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10614.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id=" group-title="ITALIA",FOX COMEDY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="" group-title="ITALIA",FOX COMEDY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10716.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id=" group-title="ITALIA",FOX CRIME
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="" group-title="ITALIA",FOX CRIME
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10715.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8100386.png" tvg-id=" group-title="ITALIA",FOX LIFE
+#EXTINF:-1 tvg-logo="http://savepic.net/8100386.png" tvg-id="" group-title="ITALIA",FOX LIFE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10712.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/vP0vLFh.png" tvg-id=" group-title="ITALIA",PREMIUM ACTION +24
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vP0vLFh.png" tvg-id="" group-title="ITALIA",PREMIUM ACTION +24
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10703.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/63ViXvw.png" tvg-id=" group-title="ITALIA",PREMIUM CINEMA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/63ViXvw.png" tvg-id="" group-title="ITALIA",PREMIUM CINEMA
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10700.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W5rqigb.png" tvg-id=" group-title="ITALIA",PREMIUM CINEMA 2 +24
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W5rqigb.png" tvg-id="" group-title="ITALIA",PREMIUM CINEMA 2 +24
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10698.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/63ViXvw.png" tvg-id=" group-title="ITALIA",PREMIUM CINEMA +24
+#EXTINF:-1 tvg-logo="http://i.imgur.com/63ViXvw.png" tvg-id="" group-title="ITALIA",PREMIUM CINEMA +24
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10699.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LQUpJYB.png" tvg-id=" group-title="ITALIA",PREMIUM CINEMA COMEDY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LQUpJYB.png" tvg-id="" group-title="ITALIA",PREMIUM CINEMA COMEDY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10697.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/czn3088.png" tvg-id=" group-title="ITALIA",PREMIUM CINEMA EMOTION
+#EXTINF:-1 tvg-logo="http://i.imgur.com/czn3088.png" tvg-id="" group-title="ITALIA",PREMIUM CINEMA EMOTION
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10693.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8LdlWXR.png" tvg-id=" group-title="ITALIA",PREMIUM CINEMA ENERGY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8LdlWXR.png" tvg-id="" group-title="ITALIA",PREMIUM CINEMA ENERGY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10692.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hvhMPUA.png" tvg-id=" group-title="ITALIA",PREMIUM CINEMA CRIME +24
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hvhMPUA.png" tvg-id="" group-title="ITALIA",PREMIUM CINEMA CRIME +24
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10696.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139" tvg-id=" group-title="ITALIA",PREMIUM JOI
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139" tvg-id="" group-title="ITALIA",PREMIUM JOI
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10691.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MyZGKeG.png" tvg-id=" group-title="ITALIA",PREMIUM STORIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MyZGKeG.png" tvg-id="" group-title="ITALIA",PREMIUM STORIES
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10690.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KKvkqg3.png" tvg-id=" group-title="ITALIA",PREMIUM STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KKvkqg3.png" tvg-id="" group-title="ITALIA",PREMIUM STUDIO UNIVERSAL
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10689.m3u8
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" tvg-id=" group-title="ITALIA",RAI MOVIE
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" tvg-id="" group-title="ITALIA",RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9voxbPV.png" tvg-id=" group-title="ITALIA",SKY CINEMA +24
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9voxbPV.png" tvg-id="" group-title="ITALIA",SKY CINEMA +24
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10681.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/grFgBdy.png" tvg-id=" group-title="ITALIA",SKY CINEMA COMEDY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/grFgBdy.png" tvg-id="" group-title="ITALIA",SKY CINEMA COMEDY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10676.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/STsN8Mj.png" tvg-id=" group-title="ITALIA",SKY CINEMA FAMILY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/STsN8Mj.png" tvg-id="" group-title="ITALIA",SKY CINEMA FAMILY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10673.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WyavUpz.png" tvg-id=" group-title="ITALIA",SKY UNO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WyavUpz.png" tvg-id="" group-title="ITALIA",SKY UNO
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10634.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id=" group-title="ITALIA",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="" group-title="ITALIA",CARTOON NETWORK
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10701.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" tvg-id=" group-title="ITALIA",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" tvg-id="" group-title="ITALIA",DISNEY CHANNEL
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10705.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id=" group-title="ITALIA",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="" group-title="ITALIA",DISNEY JUNIOR
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10694.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/92/20th_Century_FOX_Animation_2009_Final0637.png/revision/latest?cb=20130912155311" tvg-id=" group-title="ITALIA",FOX ANIMATION
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/92/20th_Century_FOX_Animation_2009_Final0637.png/revision/latest?cb=20130912155311" tvg-id="" group-title="ITALIA",FOX ANIMATION
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10717.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rai_Gulp_2010.svg/2000px-Rai_Gulp_2010.svg.png" tvg-id=" group-title="ITALIA",RAI GULP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rai_Gulp_2010.svg/2000px-Rai_Gulp_2010.svg.png" tvg-id="" group-title="ITALIA",RAI GULP
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/2000px-RAI_YoYo_2010_Logo.svg.png" tvg-id=" group-title="ITALIA",RAI YOYO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/2000px-RAI_YoYo_2010_Logo.svg.png" tvg-id="" group-title="ITALIA",RAI YOYO
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id=" group-title="ITALIA",MTV
-#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" tvg-id=" group-title="ITALIA",EUROSPORT
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="" group-title="ITALIA",MTV
+#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" tvg-id="" group-title="ITALIA",EUROSPORT
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10618.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xXisgHi.png" tvg-id=" group-title="ITALIA",FOX SPORT 1 IT
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xXisgHi.png" tvg-id="" group-title="ITALIA",FOX SPORT 1 IT
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10710.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GSmMg8K.png" tvg-id=" group-title="ITALIA",RAI SPORT 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GSmMg8K.png" tvg-id="" group-title="ITALIA",RAI SPORT 2
 http://144.2.100.111:8000/play/a007
-#EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8sport.jpg" tvg-id=" group-title="ITALIA",RETE 8 SPORT
+#EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8sport.jpg" tvg-id="" group-title="ITALIA",RETE 8 SPORT
 http://flash2.streaming.xdevel.com/rete8sport/rete8sport/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" tvg-id=" group-title="ITALIA",SKY SPORT 1 IT
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" tvg-id="" group-title="ITALIA",SKY SPORT 1 IT
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10645.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id=" group-title="ITALIA",SKY SPORT 2 IT
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ITALIA",SKY SPORT 2 IT
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10644.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tgoApnl.png",INGLATERRA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IGYGsia.png" tvg-id=" group-title="INGLATERRA",BBC ONE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IGYGsia.png" tvg-id="" group-title="INGLATERRA",BBC ONE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8062.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/vPlqVpp.png" tvg-id=" group-title="INGLATERRA",BBC TWO
-http://46.249.60.210:15099/play/a00x
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XatsMnO.png" tvg-id=" group-title="INGLATERRA",BBC THREE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vPlqVpp.png" tvg-id="" group-title="INGLATERRA",BBC TWO
+http://86.155.243.227:9981/stream/channelid/1325187567
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XatsMnO.png" tvg-id="" group-title="INGLATERRA",BBC THREE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8064.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hqHINhS.png" tvg-id=" group-title="INGLATERRA",BBC FOUR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hqHINhS.png" tvg-id="" group-title="INGLATERRA",BBC FOUR
 http://185.62.86.6:8081/hls/bbcfour.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" tvg-id=" group-title="INGLATERRA",ITV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" tvg-id="" group-title="INGLATERRA",ITV
 http://185.62.86.6:8081/hls/itv.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/ITV2_logo_2015.png/revision/latest?cb=20150812102407" tvg-id=" group-title="INGLATERRA",ITV 2
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/ITV2_logo_2015.png/revision/latest?cb=20150812102407" tvg-id="" group-title="INGLATERRA",ITV 2
 http://185.62.86.6:8081/hls/itv2.m3u8
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235" tvg-id=" group-title="INGLATERRA",ITV 3
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235" tvg-id="" group-title="INGLATERRA",ITV 3
 http://185.62.86.6:8081/hls/itv3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITV4_logo_2013.svg/2000px-ITV4_logo_2013.svg.png" tvg-id=" group-title="INGLATERRA",ITV 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITV4_logo_2013.svg/2000px-ITV4_logo_2013.svg.png" tvg-id="" group-title="INGLATERRA",ITV 4
 http://185.62.86.6:8081/hls/itv4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1280px-RT%C3%89_One_2014.svg.png" tvg-id=" group-title="INGLATERRA",RTE ONE
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160105050834" tvg-id="" group-title="INGLATERRA",BBC NEWS
+http://86.155.243.227:9981/stream/channelid/234237004
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1280px-RT%C3%89_One_2014.svg.png" tvg-id="" group-title="INGLATERRA",RTE ONE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8116.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png" tvg-id=" group-title="INGLATERRA",RTE TWO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png" tvg-id="" group-title="INGLATERRA",RTE TWO
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8117.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" tvg-id=" group-title="INGLATERRA",BLOOMBERG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" tvg-id="" group-title="INGLATERRA",BLOOMBERG
 http://mediaeuwest.akamaized.net/eu/EU700kb_live.m3u8
-#EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" tvg-id=" group-title="INGLATERRA",EURONEWS
+#EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" tvg-id="" group-title="INGLATERRA",EURONEWS
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" tvg-id=" group-title="INGLATERRA",CNN
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" tvg-id="" group-title="INGLATERRA",CNN
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/867.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" tvg-id=" group-title="INGLATERRA",SKY NEWS
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" tvg-id="" group-title="INGLATERRA",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qO4kj9RlQ2A/WPIT3mAjrXI/AAAAAAAAFGY/E8sbiyA0_DEb3IV6wDcHfIUbBtyA6hEPwCLcB/s1600/cbs_reality_za.png" tvg-id=" group-title="INGLATERRA",CBS REALITY
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qO4kj9RlQ2A/WPIT3mAjrXI/AAAAAAAAFGY/E8sbiyA0_DEb3IV6wDcHfIUbBtyA6hEPwCLcB/s1600/cbs_reality_za.png" tvg-id="" group-title="INGLATERRA",CBS REALITY
 http://185.62.86.6:8081/hls/cbsreality.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" tvg-id=" group-title="INGLATERRA",CHANNEL 4
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" tvg-id="" group-title="INGLATERRA",CHANNEL 4
 http://185.62.86.6:8081/hls/channel4.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_5_uk.png" tvg-id=" group-title="INGLATERRA",CHANNEL 5
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_5_uk.png" tvg-id="" group-title="INGLATERRA",CHANNEL 5
 http://185.62.86.6:8081/hls/channel5.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/dmax_de.png" tvg-id=" group-title="INGLATERRA",DMAX
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/dmax_de.png" tvg-id="" group-title="INGLATERRA",DMAX
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8089.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id=" group-title="INGLATERRA",E!
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="" group-title="INGLATERRA",E!
 http://185.22.78.72:9004/play/a03a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/2000px-Food_Network_Logo.svg.png" tvg-id=" group-title="INGLATERRA",FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/2000px-Food_Network_Logo.svg.png" tvg-id="" group-title="INGLATERRA",FOOD NETWORK
 http://185.62.86.6:8081/hls/foodnetwork.m3u8
-#N/D
-#N/D
-#EXTINF:-1 tvg-logo="http://savepic.net/8122892.png" tvg-id=" group-title="INGLATERRA",TLC
+#EXTINF:-1 tvg-logo="http://savepic.net/8122892.png" tvg-id="" group-title="INGLATERRA",TLC
 http://185.22.78.72:9001/play/a00m
-#EXTINF:-1 tvg-logo="http://savepic.net/8171921.png" tvg-id=" group-title="INGLATERRA",ANIMAL PLANET UK
+#EXTINF:-1 tvg-logo="http://savepic.net/8171921.png" tvg-id="" group-title="INGLATERRA",ANIMAL PLANET UK
 http://185.22.78.72:9001/play/a00i
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id=" group-title="INGLATERRA",DISCOVERY CHANNEL UK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id="" group-title="INGLATERRA",DISCOVERY CHANNEL UK
 http://185.22.78.72:9001/play/a00h
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Discovery_History_logo.png" tvg-id=" group-title="INGLATERRA",DISCOVERY HISTORY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Discovery_History_logo.png" tvg-id="" group-title="INGLATERRA",DISCOVERY HISTORY
 http://185.22.78.72:9001/play/a00l
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" tvg-id=" group-title="INGLATERRA",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" tvg-id="" group-title="INGLATERRA",DISCOVERY SCIENCE
 http://185.22.78.72:9001/play/a00k
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/32/Discovery_Shed_logo_distressed_silver.png/revision/latest?cb=20100413144844" tvg-id=" group-title="INGLATERRA",DISCOVERY SHED
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/32/Discovery_Shed_logo_distressed_silver.png/revision/latest?cb=20100413144844" tvg-id="" group-title="INGLATERRA",DISCOVERY SHED
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8083.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id=" group-title="INGLATERRA",DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="" group-title="INGLATERRA",DISCOVERY TURBO
 http://185.22.78.72:9001/play/a00n
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" tvg-id=" group-title="INGLATERRA",H2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" tvg-id="" group-title="INGLATERRA",H2
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8098.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8106596.png" tvg-id=" group-title="INGLATERRA",HISTORY
+#EXTINF:-1 tvg-logo="http://savepic.net/8106596.png" tvg-id="" group-title="INGLATERRA",HISTORY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8099.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" tvg-id=" group-title="INGLATERRA",INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" tvg-id="" group-title="INGLATERRA",INVESTIGATION DISCOVERY
 http://185.22.78.72:9001/play/a00p
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id=" group-title="INGLATERRA",NATIONAL GEOGRAPHIC CHANNEL UK
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="" group-title="INGLATERRA",NATIONAL GEOGRAPHIC CHANNEL UK
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8109.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" tvg-id=" group-title="INGLATERRA",NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" tvg-id="" group-title="INGLATERRA",NATIONAL GEOGRAPHIC WILD
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8108.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cbs_action_uk.png" tvg-id=" group-title="INGLATERRA",CBS ACTION
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cbs_action_uk.png" tvg-id="" group-title="INGLATERRA",CBS ACTION
 http://185.62.86.6:8081/hls/cbsaction.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8087113.png" tvg-id=" group-title="INGLATERRA",CBS DRAMA
+#EXTINF:-1 tvg-logo="http://savepic.net/8087113.png" tvg-id="" group-title="INGLATERRA",CBS DRAMA
 http://185.62.86.6:8081/hls/cbsdrama.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/91/Sky1_logo_2011.svg/revision/latest?cb=20110205171207" tvg-id=" group-title="INGLATERRA",SKY ONE
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/91/Sky1_logo_2011.svg/revision/latest?cb=20110205171207" tvg-id="" group-title="INGLATERRA",SKY ONE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8134.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d3/Sky_Atlantic.svg/revision/latest/scale-to-width-down/300?cb=20111101112901" tvg-id=" group-title="INGLATERRA",SKY ATLANTIC
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d3/Sky_Atlantic.svg/revision/latest/scale-to-width-down/300?cb=20111101112901" tvg-id="" group-title="INGLATERRA",SKY ATLANTIC
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8120.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/62/SkyLiving16.png/revision/latest/scale-to-width-down/300?cb=20160419205650" tvg-id=" group-title="INGLATERRA",SKY LIVING
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/62/SkyLiving16.png/revision/latest/scale-to-width-down/300?cb=20160419205650" tvg-id="" group-title="INGLATERRA",SKY LIVING
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8122.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/07/Sky-Movies-ActionAdventure.png/revision/latest/scale-to-width-down/298?cb=20111118190047" tvg-id=" group-title="INGLATERRA",SKY MOVIES ACTION
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/07/Sky-Movies-ActionAdventure.png/revision/latest/scale-to-width-down/298?cb=20111118190047" tvg-id="" group-title="INGLATERRA",SKY MOVIES ACTION
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8124.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oByD3KB.png" tvg-id=" group-title="INGLATERRA",SKY MOVIES COMEDY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oByD3KB.png" tvg-id="" group-title="INGLATERRA",SKY MOVIES COMEDY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8125.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/96/Sky-Movies-CrimeThriller.png/revision/latest/scale-to-width-down/250?cb=20111118190758" tvg-id=" group-title="INGLATERRA",SKY MOVIES CRIME & THRILLER
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/96/Sky-Movies-CrimeThriller.png/revision/latest/scale-to-width-down/250?cb=20111118190758" tvg-id="" group-title="INGLATERRA",SKY MOVIES CRIME & THRILLER
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8132.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3dDwnfB.png" tvg-id=" group-title="INGLATERRA",SKY MOVIES FAMILY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3dDwnfB.png" tvg-id="" group-title="INGLATERRA",SKY MOVIES FAMILY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8127.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Sky-Movies-Sci-Fi.png/revision/latest/scale-to-width-down/250?cb=20111118191753" tvg-id=" group-title="INGLATERRA",SKY MOVIES SYFY & HORROR
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Sky-Movies-Sci-Fi.png/revision/latest/scale-to-width-down/250?cb=20111118191753" tvg-id="" group-title="INGLATERRA",SKY MOVIES SYFY & HORROR
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8123.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Kcj5M1Q.png" tvg-id=" group-title="INGLATERRA",SKY MOVIES SELECT
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kcj5M1Q.png" tvg-id="" group-title="INGLATERRA",SKY MOVIES SELECT
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8130.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TCM_Latin_America.png/revision/latest?cb=20151209165240" tvg-id=" group-title="INGLATERRA",TCM
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TCM_Latin_America.png/revision/latest?cb=20151209165240" tvg-id="" group-title="INGLATERRA",TCM
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8144.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" tvg-id=" group-title="INGLATERRA",FOX
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" tvg-id="" group-title="INGLATERRA",FOX
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8097.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id=" group-title="INGLATERRA",SYFY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="" group-title="INGLATERRA",SYFY
 http://185.22.78.72:9004/play/a039
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id=" group-title="INGLATERRA",BABY TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="" group-title="INGLATERRA",BABY TV
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8061.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/mixels/images/4/41/Boomerang_tv_logo.png/revision/latest?cb=20150307200807" tvg-id=" group-title="INGLATERRA",BOOMERANG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="" group-title="INGLATERRA",BABY TV
+http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8061.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="" group-title="INGLATERRA",BABY TV
+http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8061.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/mixels/images/4/41/Boomerang_tv_logo.png/revision/latest?cb=20150307200807" tvg-id="" group-title="INGLATERRA",BOOMERANG
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8067.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id=" group-title="INGLATERRA",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="" group-title="INGLATERRA",DISNEY JUNIOR
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8087.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" tvg-id=" group-title="INGLATERRA",DISNEY XD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" tvg-id="" group-title="INGLATERRA",DISNEY XD
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8088.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png" tvg-id=" group-title="INGLATERRA",NICK JR
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png" tvg-id="" group-title="INGLATERRA",NICK JR
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8110.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" tvg-id=" group-title="INGLATERRA",NICKTOONS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" tvg-id="" group-title="INGLATERRA",NICKTOONS
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/8111.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/2000px-VH1_logonew.svg.png" tvg-id=" group-title="INGLATERRA",VH1 EUROPE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" tvg-id="" group-title="INGLATERRA",MTV DANCE
+http://212.34.244.28:7003/play/a00a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MTV_Hits_2017_logo.svg/1024px-MTV_Hits_2017_logo.svg.png" tvg-id="" group-title="INGLATERRA",MTV HITS
+http://212.34.244.28:7003/play/a00b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" tvg-id="" group-title="INGLATERRA",MTV ROCKS
+http://212.34.244.28:7003/play/a00c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/2000px-VH1_logonew.svg.png" tvg-id="" group-title="INGLATERRA",VH1 EUROPE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/403.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/bb/box_nation_uk.png" tvg-id=" group-title="INGLATERRA",BOXNATION
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/bb/box_nation_uk.png" tvg-id="" group-title="INGLATERRA",BOXNATION
 http://185.22.78.72:9002/play/a032
-#EXTINF:-1 tvg-logo="http://i.imgur.com/F2R303x.png" tvg-id=" group-title="INGLATERRA",BT SPORT 1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F2R303x.png" tvg-id="" group-title="INGLATERRA",BT SPORT 1
 http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png" tvg-id=" group-title="INGLATERRA",BT SPORT 2
+#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png" tvg-id="" group-title="INGLATERRA",BT SPORT 2
 http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png" tvg-id=" group-title="INGLATERRA",BT SPORT ESPN
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160105050834" tvg-id="" group-title="INGLATERRA",BBC NEWS
+http://86.155.243.227:9981/stream/channelid/234237004
+#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png" tvg-id="" group-title="INGLATERRA",BT SPORT ESPN
 http://185.22.78.72:9002/play/a02x
-#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" tvg-id=" group-title="INGLATERRA",EUROSPORT UK
+#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" tvg-id="" group-title="INGLATERRA",EUROSPORT UK
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" tvg-id=" group-title="INGLATERRA",EUROSPORT 2 UK
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" tvg-id="" group-title="INGLATERRA",EUROSPORT 2 UK
 http://185.142.239.164:3135/Euro/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.motorstv.com/sites/default/files/motorsporttv_logo.png" tvg-id=" group-title="INGLATERRA",MOTORSPORT.TV
+#EXTINF:-1 tvg-logo="https://www.motorstv.com/sites/default/files/motorsporttv_logo.png" tvg-id="" group-title="INGLATERRA",MOTORSPORT.TV
 http://185.22.78.72:9002/play/a02v
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/premier_sports.png" tvg-id=" group-title="INGLATERRA",PREMIER SPORTS
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/premier_sports.png" tvg-id="" group-title="INGLATERRA",PREMIER SPORTS
 http://185.142.239.164:3135/Premiere/Sports/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0pwoujZ.png" tvg-id=" group-title="INGLATERRA",SETANTA SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0pwoujZ.png" tvg-id="" group-title="INGLATERRA",SETANTA SPORTS
 http://185.142.239.164:3135/Setanta/Sports/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" tvg-id=" group-title="INGLATERRA",SKY SPORTS 1
-http://185.53.163.212:2312
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id=" group-title="INGLATERRA",SKY SPORTS 2
-http://185.53.163.212:2313
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CfwpEyD.png" tvg-id=" group-title="INGLATERRA",SKY SPORTS 3
-http://185.53.163.212:2314
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3ha97Ea.png" tvg-id=" group-title="INGLATERRA",SKY SPORTS 4
-http://185.53.163.212:19702
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0xHzWmL.png" tvg-id=" group-title="INGLATERRA",SKY SPORTS 5
-http://185.53.163.212:19700
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png" tvg-id=" group-title="INGLATERRA",SKY SPORTS F1
-http://185.53.163.212:2310
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" tvg-id=" group-title="INGLATERRA",SKY SPORTS NEWS
-http://185.142.239.164:3135/News.Sports/index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058" tvg-id=" group-title="INGLATERRA",CHELSEA TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" tvg-id="" group-title="INGLATERRA",SKY SPORTS NEWS
+http://185.73.239.38:25461/live/thflix/Aa444444/92.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058" tvg-id="" group-title="INGLATERRA",CHELSEA TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" tvg-id=" group-title="INGLATERRA",MUTV
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" tvg-id="" group-title="INGLATERRA",MUTV
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/4158.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QMvi4QM.png",USA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/abc_2013_logo_detail.jpg" tvg-id=" group-title="USA",ABC TV
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/abc_2013_logo_detail.jpg" tvg-id="" group-title="USA",ABC TV
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9332.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/memoryalpha/images/9/97/NBC_logo.png/revision/latest?cb=20120109171307&path-prefix=en" tvg-id=" group-title="USA",NBC NEWS
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/memoryalpha/images/9/97/NBC_logo.png/revision/latest?cb=20120109171307&path-prefix=en" tvg-id="" group-title="USA",NBC NEWS
 http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png" tvg-id=" group-title="USA",ABC NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png" tvg-id="" group-title="USA",ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/fd/FOX23_WPFO_logo.png/revision/latest?cb=20101108192334" tvg-id=" group-title="USA",FOX 23
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/fd/FOX23_WPFO_logo.png/revision/latest?cb=20101108192334" tvg-id="" group-title="USA",FOX 23
 http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/WFOX-TV_logo.png" tvg-id=" group-title="USA",FOX 30
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/WFOX-TV_logo.png" tvg-id="" group-title="USA",FOX 30
 http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e8/WPMT_Fox_43_2013.png/revision/latest?cb=20160317234844" tvg-id=" group-title="USA",FOX 43
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e8/WPMT_Fox_43_2013.png/revision/latest?cb=20160317234844" tvg-id="" group-title="USA",FOX 43
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9384.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" tvg-id=" group-title="USA",BLOOMBERG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" tvg-id="" group-title="USA",BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" tvg-id=" group-title="USA",CNN
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" tvg-id="" group-title="USA",CNN
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9411.m3u8
-#EXTINF:-1 tvg-logo="http://www.reproductivelawyer.com/wp-content/uploads/2016/10/cbs-news.png" tvg-id=" group-title="USA",CBSN
+#EXTINF:-1 tvg-logo="http://www.reproductivelawyer.com/wp-content/uploads/2016/10/cbs-news.png" tvg-id="" group-title="USA",CBSN
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9406.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/2000px-Logo_of_C-SPAN.svg.png" tvg-id=" group-title="USA",C-SPAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/2000px-Logo_of_C-SPAN.svg.png" tvg-id="" group-title="USA",C-SPAN
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/58/C-SPAN2.png/revision/latest?cb=20110408015937" tvg-id=" group-title="USA",C-SPAN 2
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/58/C-SPAN2.png/revision/latest?cb=20110408015937" tvg-id="" group-title="USA",C-SPAN 2
 http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/d/db/C-SPAN3.png/revision/latest?cb=20110408020003" tvg-id=" group-title="USA",C-SPAN 3
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/d/db/C-SPAN3.png/revision/latest?cb=20110408020003" tvg-id="" group-title="USA",C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859" tvg-id=" group-title="USA",WGN 9 NEWS CHICAGO
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859" tvg-id="" group-title="USA",WGN 9 NEWS CHICAGO
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id=" group-title="USA",A&E
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="" group-title="USA",A&E
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9437.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id=" group-title="USA",E! ENTERTAINMENT
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="" group-title="USA",E! ENTERTAINMENT
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9404.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/2000px-Hallmark_Channel.svg.png" tvg-id=" group-title="USA",HALLMARK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/2000px-Hallmark_Channel.svg.png" tvg-id="" group-title="USA",HALLMARK
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9305.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" tvg-id=" group-title="USA",DW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" tvg-id="" group-title="USA",DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" tvg-id=" group-title="USA",RT AMERICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" tvg-id="" group-title="USA",RT AMERICA
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9378.m3u8
-#EXTINF:-1 tvg-logo="http://www.veteranstoday.com/wp-content/uploads/2016/03/RTV-Doc.png" tvg-id=" group-title="USA",RT DOCUMENTARY
+#EXTINF:-1 tvg-logo="http://www.veteranstoday.com/wp-content/uploads/2016/03/RTV-Doc.png" tvg-id="" group-title="USA",RT DOCUMENTARY
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8122892.png" tvg-id=" group-title="USA",TLC
+#EXTINF:-1 tvg-logo="http://savepic.net/8122892.png" tvg-id="" group-title="USA",TLC
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9381.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Travel_Channel_Logo.png" tvg-id=" group-title="USA",TRAVEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Travel_Channel_Logo.png" tvg-id="" group-title="USA",TRAVEL
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9347.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8171921.png" tvg-id=" group-title="USA",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="http://savepic.net/8171921.png" tvg-id="" group-title="USA",ANIMAL PLANET
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id=" group-title="USA",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" tvg-id="" group-title="USA",DISCOVERY CHANNEL
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9417.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" tvg-id=" group-title="USA",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" tvg-id="" group-title="USA",DISCOVERY SCIENCE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9421.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8106596.png" tvg-id=" group-title="USA",HISTORY
+#EXTINF:-1 tvg-logo="http://savepic.net/8106596.png" tvg-id="" group-title="USA",HISTORY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9388.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1c/Showtime_1997.svg/revision/latest/scale-to-width-down/300?cb=20161003141051" tvg-id=" group-title="USA",SHOWTIME
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/1c/Showtime_1997.svg/revision/latest/scale-to-width-down/300?cb=20161003141051" tvg-id="" group-title="USA",SHOWTIME
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9410.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2000px-Cinemax.svg.png" tvg-id=" group-title="USA",CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2000px-Cinemax.svg.png" tvg-id="" group-title="USA",CINEMAX
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9424.m3u8
-#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_649.png" tvg-id=" group-title="USA",FOX 1
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_649.png" tvg-id="" group-title="USA",FOX 1
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9418.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png" tvg-id=" group-title="USA",HBO COMEDY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png" tvg-id="" group-title="USA",HBO COMEDY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9394.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/77IFSqt.png" tvg-id=" group-title="USA",STAR MOVIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/77IFSqt.png" tvg-id="" group-title="USA",STAR MOVIES
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9389.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c8/Starz_Comedy_2016.svg/revision/latest/scale-to-width-down/250?cb=20160403221307" tvg-id=" group-title="USA",STARZ COMEDY
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c8/Starz_Comedy_2016.svg/revision/latest/scale-to-width-down/250?cb=20160403221307" tvg-id="" group-title="USA",STARZ COMEDY
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9350.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6d/Starz_Edge_2016.svg/revision/latest/scale-to-width-down/200?cb=20160403221446" tvg-id=" group-title="USA",STARZ EDGE
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6d/Starz_Edge_2016.svg/revision/latest/scale-to-width-down/200?cb=20160403221446" tvg-id="" group-title="USA",STARZ EDGE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9294.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" tvg-id=" group-title="USA",FOX USA
+#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" tvg-id="" group-title="USA",FOX USA
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9382.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8100386.png" tvg-id=" group-title="USA",FOX LIFE
+#EXTINF:-1 tvg-logo="http://savepic.net/8100386.png" tvg-id="" group-title="USA",FOX LIFE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9311.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png" tvg-id=" group-title="USA",NICK JR
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png" tvg-id="" group-title="USA",NICK JR
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9313.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id=" group-title="USA",MTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="" group-title="USA",MTV
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ye5S2CL.png" tvg-id=" group-title="USA",ESPN USA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ye5S2CL.png" tvg-id="" group-title="USA",ESPN USA
 http://dns1.theplayersklub.host:2095/live/steel1/steel1/352.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_2.png" tvg-id=" group-title="USA",ESPN 2 USA
-http://185.142.239.164:3135/Espn/1/index.m3u8
-#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" tvg-id=" group-title="USA",EUROSPORT 2
-http://185.142.239.164:3135/Espn/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" tvg-id=" group-title="USA",FOX SPORTS 2 USA
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_2.png" tvg-id="" group-title="USA",ESPN 2 USA
+http://185.73.239.38:25461/live/thflix/Aa444444/90.m3u8
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" tvg-id="" group-title="USA",EUROSPORT 2
+http://185.73.239.38:25461/live/thflix/Aa444444/89.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" tvg-id="" group-title="USA",FOX SPORTS 2 USA
 http://185.142.239.164:3135/1/FOX/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" tvg-id=" group-title="USA",NBA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" tvg-id="" group-title="USA",NBA
 http://185.142.239.164:3135/2/FOX/index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9a/Golf_Channel_New.png/revision/latest?cb=20140506212645" tvg-id=" group-title="USA",NBC GOLF
-http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/10428.m3u8
-#EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png" tvg-id=" group-title="USA",NFL NETWORK
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9a/Golf_Channel_New.png/revision/latest?cb=20140506212645" tvg-id="" group-title="USA",NBC GOLF
+http://185.73.239.38:25461/live/thflix/Aa444444/91.m3u8
+#EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png" tvg-id="" group-title="USA",NFL NETWORK
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9386.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/NHL_Logo_former.svg/996px-NHL_Logo_former.svg.png" tvg-id=" group-title="USA",NHL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/NHL_Logo_former.svg/996px-NHL_Logo_former.svg.png" tvg-id="" group-title="USA",NHL
 http://185.142.239.164:3135/NFL/Network/index.m3u8
-#EXTINF:-1 tvg-logo="https://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png" tvg-id=" group-title="USA",POKER CENTRAL
+#EXTINF:-1 tvg-logo="https://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png" tvg-id="" group-title="USA",POKER CENTRAL
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9380.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png" tvg-id=" group-title="USA",TSN2
-http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9342.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BsMyeWs.png" tvg-id=" group-title="USA",TSN3
-http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9341.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rMjGqgH.png" tvg-id=" group-title="USA",TSN4
-http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9340.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QldQfqY.png" tvg-id=" group-title="USA",TSN5
-http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9339.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/df/Wwenetworktransparent.png/revision/latest?cb=20140819192906" tvg-id=" group-title="USA",WWE NETWORK
-http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9337.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Arizona
+#EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png" tvg-id="" group-title="USA",TSN2
+http://185.73.239.38:25461/live/thflix/Aa444444/82.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BsMyeWs.png" tvg-id="" group-title="USA",TSN3
+http://185.73.239.38:25461/live/thflix/Aa444444/83.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rMjGqgH.png" tvg-id="" group-title="USA",TSN4
+http://185.73.239.38:25461/live/thflix/Aa444444/84.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QldQfqY.png" tvg-id="" group-title="USA",TSN5
+http://185.73.239.38:25461/live/thflix/Aa444444/127.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/df/Wwenetworktransparent.png/revision/latest?cb=20140819192906" tvg-id="" group-title="USA",WWE NETWORK
+http://185.73.239.38:25461/live/thflix/Aa444444/128.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id="" group-title="USA",PAC 12 Arizona
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9336.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Bay Area
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id="" group-title="USA",PAC 12 Bay Area
 http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Los Angeles
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id="" group-title="USA",PAC 12 Los Angeles
 http://xrxs.net/video/live-p12baya-1164.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Moutain
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id="" group-title="USA",PAC 12 Moutain
 http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Network (National)
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id="" group-title="USA",PAC 12 Network (National)
 http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Oregon
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id="" group-title="USA",PAC 12 Oregon
 http://xrxs.net/video/live-p12netw-1164.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Washington
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id="" group-title="USA",PAC 12 Washington
 http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/67/230px-SN_360_logo.svg.png/revision/latest/scale-to-width-down/200?cb=20140805003412" tvg-id=" group-title="USA",SPORTSNET 360
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/67/230px-SN_360_logo.svg.png/revision/latest/scale-to-width-down/200?cb=20140805003412" tvg-id="" group-title="USA",SPORTSNET 360
 http://xrxs.net/video/live-p12wash-1164.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/18/1000px-Sportsnetone2011_svg.png/revision/latest/scale-to-width-down/390?cb=20120424202314" tvg-id=" group-title="USA",SPORTSNET ONE
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/18/1000px-Sportsnetone2011_svg.png/revision/latest/scale-to-width-down/390?cb=20120424202314" tvg-id="" group-title="USA",SPORTSNET ONE
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9371.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fd/Sportsnet_ontario.png/revision/latest/scale-to-width-down/250?cb=20120212021015" tvg-id=" group-title="USA",SPORTSNET ONTARIO
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fd/Sportsnet_ontario.png/revision/latest/scale-to-width-down/250?cb=20120212021015" tvg-id="" group-title="USA",SPORTSNET ONTARIO
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9367.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043" tvg-id=" group-title="USA",SPORTSNET PACIFIC
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043" tvg-id="" group-title="USA",SPORTSNET PACIFIC
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9369.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/8f/250px-SportsnetWorld.svg.png/revision/latest?cb=20111112195204" tvg-id=" group-title="USA",SPORTSNET WORLD
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/8f/250px-SportsnetWorld.svg.png/revision/latest?cb=20111112195204" tvg-id="" group-title="USA",SPORTSNET WORLD
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9368.m3u8
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id=" group-title="USA",ASTRO SUPERSPORT 1
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id="" group-title="USA",ASTRO SUPERSPORT 1
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9366.m3u8
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id=" group-title="USA",ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id="" group-title="USA",ASTRO SUPERSPORT 2
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9423.m3u8
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id=" group-title="USA",ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id="" group-title="USA",ASTRO SUPERSPORT 3
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9398.m3u8
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id=" group-title="USA",ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" tvg-id="" group-title="USA",ASTRO SUPERSPORT 4
 http://laranjamecanica.dynu.com:8000/live/manueldomingues/A6pdBLOTck/9426.m3u8
 Copyright © 2017 - TeamBlue
