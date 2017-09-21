@@ -26,7 +26,7 @@ http://4.31.30.145:9040
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" group-title="PORTUGAL",RTP MEMORIA (Copyright © 2017 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",SPORT TV 1 (Copyright © 2017 by TeamBlue)
-rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
+http://147.135.253.187:8000/live/Ribeirao/Ribeirao/5652.m3u8
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",SPORT TV 1 HD (Copyright © 2017 by TeamBlue)
 http://147.135.253.187:8000/live/Ribeirao/Ribeirao/5649.m3u8
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="PORTUGAL",SPORT TV 2 (Copyright © 2017 by TeamBlue)
@@ -57,8 +57,6 @@ http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" group-title="PORTUGAL",NBA (Copyright © 2017 by TeamBlue)
 http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NDgJgRa.png" group-title="PORTUGAL",SUPER RTL (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbrMQi
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="PORTUGAL",M6 MUSIQUE (Copyright © 2017 by TeamBlue)
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3623.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" group-title="PORTUGAL",AFRO MUSIC (Copyright © 2017 by TeamBlue)
@@ -143,10 +141,10 @@ http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c
 http://67149o.ha.azioncdn.net/hlsverylow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/2000px-TV_Cultura.svg.png" group-title="BRASIL",TV CULTURA (Copyright © 2017 by TeamBlue)
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WDDYvsC.png" group-title="BRASIL",ALL SPORTS (Copyright © 2017 by TeamBlue)
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png" group-title="BRASIL",HBO PLUS*E (Copyright © 2017 by TeamBlue)
 http://179.228.9.19:9981/stream/channelid/1762833359
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WDDYvsC.png" group-title="BRASIL",ALL SPORTS (Copyright © 2017 by TeamBlue)
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="BRASIL",PREMIERE (Copyright © 2017 by TeamBlue)
 http://hls.fearfulale.xyz/s/fod4572/22a3687fa0f4048a2d8a671d5122b15c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="BRASIL",FOX SPORTS BR (Copyright © 2017 by TeamBlue)
@@ -178,13 +176,11 @@ http://80.65.168.166:8088/live?channelId=288&uid=99&deviceMac=00:1A:79:2A:14:47
 #EXTINF:-1 tvg-logo="http://savepic.ru/11644164.png" group-title="ALEMANHA",DAS ERST (Copyright © 2017 by TeamBlue)
 http://live-lh.daserste.de/i/daserste_de@91204/index_184_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" group-title="ALEMANHA",DISNEY CHANNEL (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8F9A0
+http://78.110.160.130:8000/play/a008
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/kk/kabel_eins_de.png" group-title="ALEMANHA",KABEL EINS (Copyright © 2017 by TeamBlue)
 http://stream4.tvit.ba:8088/live?channelId=304&uid=99&deviceMac=00:1A:79:2A:14:47
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/ntv_de.png" group-title="ALEMANHA",N-TV (Copyright © 2017 by TeamBlue)
 http://stream3.tvit.ba:8088/live?channelId=224&uid=99&deviceMac=00:1A:79:2A:14:47
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ProSieben_logo.svg/2000px-ProSieben_logo.svg.png" group-title="ALEMANHA",PROSIEBEN (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y949XW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RTL_Logo.svg/2000px-RTL_Logo.svg.png" group-title="ALEMANHA",RTL (Copyright © 2017 by TeamBlue)
 http://stream1.tvit.ba:8088/live?channelId=200&uid=99&deviceMac=00:1A:79:2A:14:47
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/1083px-RTL2_Logo.svg.png" group-title="ALEMANHA",RTL II (Copyright © 2017 by TeamBlue)
@@ -193,31 +189,21 @@ http://stream2.tvit.ba:80/live?channelId=226&uid=99&deviceMac=00:1A:79:2A:14:47
 http://stream1.tvit.ba:8088/live?channelId=198&uid=99&deviceMac=00:1A:79:2A:14:47
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756" group-title="ALEMANHA",VOX (Copyright © 2017 by TeamBlue)
 http://stream1.tvit.ba:8088/live?channelId=49&uid=99&deviceMac=00:1A:79:2A:14:47
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c5/ZDF_logo.png/revision/latest?cb=20101216124923" group-title="ALEMANHA",ZDF (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8Lj34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png" group-title="ALEMANHA",NDR (Copyright © 2017 by TeamBlue)
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9a/WDR_Fernsehen_HD.png/revision/latest/scale-to-width-down/639?cb=20141110201119" group-title="ALEMANHA",WDR (Copyright © 2017 by TeamBlue)
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" group-title="ALEMANHA",A&E (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xau6qF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="ALEMANHA",DISCOVERY CHANNEL (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xaTrRk
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/dmax_de.png" group-title="ALEMANHA",DMAX (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8L4F9
+http://78.110.160.130:8000/play/a012
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="ALEMANHA",DW (Copyright © 2017 by TeamBlue)
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.homelink.de/images/presse/20110217-einsplus.png" group-title="ALEMANHA",EINS PLUS (Copyright © 2017 by TeamBlue)
-#EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" group-title="ALEMANHA",EURONEWS DE (Copyright © 2017 by TeamBlue)
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
 #EXTINF:-1 tvg-logo="http://savepic.net/8106596.png" group-title="ALEMANHA",HISTORY (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xaBTVE
+http://78.110.160.130:8000/play/a00a
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/ntv_de.png" group-title="ALEMANHA",N-TV (Copyright © 2017 by TeamBlue)
 http://stream3.tvit.ba:8088/live?channelId=224&uid=99&deviceMac=00:1A:79:2A:14:47
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_24" group-title="ALEMANHA",N24 (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xaLhbL
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" group-title="ALEMANHA",NATIONAL GEOGRAPHIC (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbrHvY
+http://78.110.160.130:8000/play/a01a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" group-title="ALEMANHA",NATIONAL GEOGRAPHIC WILD (Copyright © 2017 by TeamBlue)
 http://ift.tt/2y94c64
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zNkBXhU.png" group-title="ALEMANHA",TAGESSCHAU24 (Copyright © 2017 by TeamBlue)
@@ -227,116 +213,70 @@ http://stream3.tvit.ba:8088/live?channelId=218&uid=99&deviceMac=00:1A:79:2A:14:4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ZDFneo.svg/2000px-ZDFneo.svg.png" group-title="ALEMANHA",ZDF NEO (Copyright © 2017 by TeamBlue)
 http://stream3.tvit.ba:8088/live?channelId=219&uid=99&deviceMac=00:1A:79:2A:14:47
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/13th_Street_2015_logo.png/200px-13th_Street_2015_logo.png" group-title="ALEMANHA",13TH STREET (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbrQzw
+http://78.110.160.130:8000/play/a01c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/85mrGhx.png" group-title="ALEMANHA",ANIXE (Copyright © 2017 by TeamBlue)
 http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" group-title="ALEMANHA",AXN (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8YVeP
-#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" group-title="ALEMANHA",FOX (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbn3hC
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hxj9cGy.jpg" group-title="ALEMANHA",FOX SERIE (Copyright © 2017 by TeamBlue)
 http://ift.tt/2xbrLMe
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/kk/kabel_eins_de.png" group-title="ALEMANHA",KABEL EINS (Copyright © 2017 by TeamBlue)
 http://stream4.tvit.ba:8088/live?channelId=304&uid=99&deviceMac=00:1A:79:2A:14:47
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aGubkZu.png" group-title="ALEMANHA",SIXX (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8EbUt
-#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" group-title="ALEMANHA",SYFY (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xb8vOM
-#EXTINF:-1 tvg-logo="http://www.tnt-tv.de/dynamic/channel/00000000/2/cc93f8aeb578f45c9d8eb62b0c9849fc596d407c_1464877563.png" group-title="ALEMANHA",TNT FILM (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xb8xpS
+http://78.110.160.130:8000/play/a007
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Serie.svg.png" group-title="ALEMANHA",TNT SERIE (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8EZbS
+http://78.110.160.130:8000/play/a00d
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" group-title="ALEMANHA",DISNEY JUNIOR (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xaXBsB
+http://78.110.160.130:8000/play/a00l
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" group-title="ALEMANHA",DISNEY XD (Copyright © 2017 by TeamBlue)
 http://ift.tt/2y94fPi
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_cinemagic_de.png" group-title="ALEMANHA",DISNEY CINEMAGIC (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8F2o4
+http://78.110.160.130:8000/play/a019
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/kk/kika_de.png" group-title="ALEMANHA",KIKA (Copyright © 2017 by TeamBlue)
-http://stream3.tvit.ba:8088/live?channelId=143&uid=99&deviceMac=00:1A:79:2A:14:47
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" group-title="ALEMANHA",NICKELODEON (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbs6P0
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NDgJgRa.png" group-title="ALEMANHA",SUPER RTL (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbrMQi
+http://ift.tt/2y86xOG
 #EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" group-title="ALEMANHA",EUROSPORT DE (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8F1R2
+http://78.110.160.130:8000/play/a00e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 1 (Copyright © 2017 by TeamBlue)
+http://78.110.160.130:8000/play/a00y
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" group-title="ALEMANHA",SKY SPORT 1 DE (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8OR5s
+http://78.110.160.130:8000/play/a00x
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" group-title="ALEMANHA",SKY SPORT 2 DE (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbrDMK
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" group-title="ALEMANHA",SKY SPORT NEWS (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8N807
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/orf_sport_plus.png" group-title="ALEMANHA",ORF SPORT + (Copyright © 2017 by TeamBlue)
-http://80.65.168.166:8088/live?channelId=267&uid=99&deviceMac=00:1A:79:2A:14:47
+http://78.110.160.130:8000/play/a01b
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jgu61cv.png" group-title="ALEMANHA",MOTORVISION (Copyright © 2017 by TeamBlue)
 http://ift.tt/2y94cD6
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pP5Thfg.png" group-title="ALEMANHA",SPORT1 (Copyright © 2017 by TeamBlue)
 http://80.65.168.166:8088/live?channelId=227&uid=99&deviceMac=00:1A:79:2A:14:47
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pP5Thfg.png" group-title="ALEMANHA",SPORT+1 (Copyright © 2017 by TeamBlue)
+http://78.110.160.130:8000/play/a00c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" group-title="ALEMANHA",E! ENTERTAINMENT DE (Copyright © 2017 by TeamBlue)
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jW67mvr.png" group-title="ALEMANHA",PROSIEBEN MAXX (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbrFUS
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d8/ProSieben_FUN.png/revision/latest?cb=20120418142811" group-title="ALEMANHA",PROSIEBEN FUN (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xaXCg9
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL_living_Logo_2015.png" group-title="ALEMANHA",RTL LIVING (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8RAf7
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png" group-title="ALEMANHA",RTL NITRO (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xb8Cda
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTLplus_Logo_2016.png" group-title="ALEMANHA",RTL PLUS (Copyright © 2017 by TeamBlue)
 http://ift.tt/2y947zi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/RTL_Crime_logo.png" group-title="ALEMANHA",RTL CRIME (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbS8ld
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d3/Sky_Atlantic.svg/revision/latest/scale-to-width-down/300?cb=20111101112901" group-title="ALEMANHA",SKY ATLANTIC (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xam2pS
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mgm_channel_us.png" group-title="ALEMANHA",MGM (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8F92Y
+http://78.110.160.130:8000/play/a013
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Sat1_Gold_HD.svg/2000px-Logo_Sat1_Gold_HD.svg.png" group-title="ALEMANHA",SAT.1 GOLD (Copyright © 2017 by TeamBlue)
+http://ift.tt/2y8Ebnr
+#EXTINF:-1 tvg-logo="http://savepic.net/8122892.png" group-title="ALEMANHA",TLC (Copyright © 2017 by TeamBlue)
+http://78.110.160.130:8000/play/a006
 #EXTINF:-1 tvg-logo="http://i.imgur.com/88bK5JR.png" group-title="ALEMANHA",SKY CINEMA ACTION (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8Eb6V
+http://78.110.160.130:8000/play/a00b
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d3/Sky_Atlantic.svg/revision/latest/scale-to-width-down/300?cb=20111101112901" group-title="ALEMANHA",SKY ATLANTIC (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xam2pS
+http://78.110.160.130:8000/play/a00v
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QQKlYDm.png" group-title="ALEMANHA",SKY CINEMA (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y941aU
+http://78.110.160.130:8000/play/a00s
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9voxbPV.png" group-title="ALEMANHA",SKY CINEMA +24 (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y942eY
+http://78.110.160.130:8000/play/a00k
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QQKlYDm.png" group-title="ALEMANHA",SKY CINEMA +1 (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbFt1C
-#EXTINF:-1 tvg-logo="http://i.imgur.com/grFgBdy.png" group-title="ALEMANHA",SKY CINEMA COMEDY (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbfG9P
+http://78.110.160.130:8000/play/a00j
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Ockq1Rx.png" group-title="ALEMANHA",SKY CINEMA EMOTION (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y941HW
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8Rwjq91.png" group-title="ALEMANHA",SKY CINEMA HITS (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xaBUsD
+http://78.110.160.130:8000/play/a00t
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5eoEc3O.png" group-title="ALEMANHA",SKY KRIMI (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xb8A52
+http://78.110.160.130:8000/play/a00w
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0DAevQo.png" group-title="ALEMANHA",SKY CINEMA NOSTALGIE (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y942M0
-#EXTINF:-1 tvg-logo="http://savepic.net/8171921.png" group-title="ALEMANHA",ANIMAL PLANET (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8FcvG
+http://78.110.160.130:8000/play/a00u
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="ALEMANHA",M6 MUSIQUE (Copyright © 2017 by TeamBlue)
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/3623.ts
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mgm_channel_us.png" group-title="ALEMANHA",MGM (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8F92Y
-#EXTINF:-1 tvg-logo="http://i.imgur.com/37HMpTD.png" group-title="ALEMANHA",ORF 1 (Copyright © 2017 by TeamBlue)
-http://stream3.tvit.ba:8088/live?channelId=263&uid=99&deviceMac=00:1A:79:2A:14:47
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/orf_2_at.png" group-title="ALEMANHA",ORF 2 (Copyright © 2017 by TeamBlue)
-http://stream3.tvit.ba:8088/live?channelId=264&uid=99&deviceMac=00:1A:79:2A:14:47
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/orf_3_at.png" group-title="ALEMANHA",ORF 3 (Copyright © 2017 by TeamBlue)
 http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 1 (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xb8wlO
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 2 (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8O04B
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 3 (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xau8Pj
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 4 (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8FeDO
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 5 (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xbsbCi
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 6 (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8FfaQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 7 (Copyright © 2017 by TeamBlue)
-http://ift.tt/2xau9ml
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 8 (Copyright © 2017 by TeamBlue)
-http://ift.tt/2y8FgeU
+http://78.110.160.130:8000/play/a00z
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aCjxWE8.png",ESPANHA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TBNYyb8.png" group-title="ESPANHA",ANDALUCIA TV (Copyright © 2017 by TeamBlue)
@@ -445,6 +385,8 @@ http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/535.m3u8
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/957.m3u8
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/a/ad/Los40.png/revision/latest?cb=20160514212746" group-title="ESPANHA",LOS40 (Copyright © 2017 by TeamBlue)
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/963.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" group-title="ESPANHA",MTV (Copyright © 2017 by TeamBlue)
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/568.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MTV_Hits_2017_logo.svg/1024px-MTV_Hits_2017_logo.svg.png" group-title="ESPANHA",MTV HITS (Copyright © 2017 by TeamBlue)
 http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/569.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1000px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="ESPANHA",beiN SPORTS N (Copyright © 2017 by TeamBlue)
@@ -703,8 +645,6 @@ http://144.2.100.111:8000/play/a007
 http://flash2.streaming.xdevel.com/rete8sport/rete8sport/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tgoApnl.png",INGLATERRA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160105050834" group-title="UK",BBC NEWS (Copyright © 2017 by TeamBlue)
-http://86.155.243.227:9981/stream/channelid/234237004
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" group-title="UK",BLOOMBERG (Copyright © 2017 by TeamBlue)
 http://mediaeuwest.akamaized.net/eu/EU700kb_live.m3u8
 #EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" group-title="UK",EURONEWS (Copyright © 2017 by TeamBlue)
@@ -717,6 +657,8 @@ http://185.53.163.205:2705
 http://185.53.163.205:2704
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F2R303x.png" group-title="UK",BT SPORT 1 (Copyright © 2017 by TeamBlue)
 http://185.53.163.205:2700
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F2R303x.png" group-title="UK",BT SPORT 1 HD (Copyright © 2017 by TeamBlue)
+http://185.53.163.205:2506
 #EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png" group-title="UK",BT SPORT 2 (Copyright © 2017 by TeamBlue)
 http://185.53.163.205:2506
 #EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK",BT SPORT 3 (Copyright © 2017 by TeamBlue)
