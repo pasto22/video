@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png" group-title="PORTUGAL",RTP 1 (Copyright © 2017 by TeamBlue)
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/RTP_1_HD_Logotipo_2016.png/revision/latest?cb=20160422150452" group-title="PORTUGAL",RTP 1 HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8448.m3u8
+http://213.146.212.33:8001/play/a01r
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" group-title="PORTUGAL",RTP 2 (Copyright © 2017 by TeamBlue)
-http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.ts
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/SIC_2016_logo.png/revision/latest?cb=20161102121725" group-title="PORTUGAL",SIC (Copyright © 2017 by TeamBlue)
 http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nYJsBleEw7I/T4SHETdUYqI/AAAAAAAACGE/WLmF8WU03Fs/s1600/SIC+HD+logo.png" group-title="PORTUGAL",SIC HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="PORTUGAL",TVI (Copyright © 2017 by TeamBlue)
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="PORTUGAL",TVI HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8451.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://biosurfit.com/wp-content/uploads/2014/11/sic_noticias.png" group-title="PORTUGAL",SIC NOTICIAS (Copyright © 2017 by TeamBlue)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP3" group-title="PORTUGAL",RTP 3 (Copyright © 2017 by TeamBlue)
@@ -20,21 +20,21 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/a/a2/TVI24_2017.png/revision/latest/scale-to-width-down/200?cb=20170221142522" group-title="PORTUGAL",TVI24 (Copyright © 2017 by TeamBlue)
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png" group-title="PORTUGAL",SIC MULHER (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/21.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/trtupx1481664790.png" group-title="PORTUGAL",SPORT TV+ (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/30.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/trtupx1481664790.png" group-title="PORTUGAL",SPORT TV+ HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/29.m3u8
+http://213.146.212.33:8001/play/a027
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="PORTUGAL",GLOBO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/141.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.azuloubranco.pt/img/logo.png" group-title="PORTUGAL",PORTO CANAL (Copyright © 2017 by TeamBlue)
 http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="PORTUGAL",CM TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8468.m3u8
+http://188.62.240.200:9000/play/a02o
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="PORTUGAL",CM TV HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/2370.m3u8
+http://213.146.212.33:8001/play/a00e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/SIC_Caras_logo.png" group-title="PORTUGAL",SIC CARAS (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a02f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="PORTUGAL",SIC RADICAL (Copyright © 2017 by TeamBlue)
@@ -45,72 +45,72 @@ http://4.31.30.145:9004
 http://4.31.30.145:9040/
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" group-title="PORTUGAL",RTP MEMORIA (Copyright © 2017 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" group-title="PORTUGAL",24 KITCHEN (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/26.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" group-title="PORTUGAL",CANAL Q (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/27.m3u8
+http://188.62.240.200:9000/play/a02b
 
 
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",SPORT TV 1 (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a021
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",SPORT TV 1 HD (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a00c
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",SPORT TV 1 FHD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8445.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="PORTUGAL",SPORT TV 2 (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a01f
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="PORTUGAL",SPORT TV 2 HD (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a00d
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="PORTUGAL",SPORT TV 2 FHD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/34.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" group-title="PORTUGAL",SPORT TV 3 (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a01h
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" group-title="PORTUGAL",SPORT TV 3 HD (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a00e
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" group-title="PORTUGAL",SPORT TV 3 FHD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/37.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png" group-title="PORTUGAL",SPORT TV 4 (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a00t
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png" group-title="PORTUGAL",SPORT TV 4 HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8456.m3u8
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png" group-title="PORTUGAL",SPORT TV 4 FHD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/2362.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" group-title="PORTUGAL",SPORT TV 5 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/43.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" group-title="PORTUGAL",SPORT TV 5 HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8455.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" group-title="PORTUGAL",SPORT TV 5 FHD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/2363.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="PORTUGAL",BENFICA TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/46.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="PORTUGAL",BENFICA TV HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/3725.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="PORTUGAL",BENFICA TV FHD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/3724.m3u8
+http://188.62.240.200:9000/play/a00i
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="PORTUGAL",A BOLA TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/48.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" group-title="PORTUGAL",SPORTING TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/47.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" group-title="PORTUGAL",SPORTING TV HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8453.m3u8
+http://188.62.240.200:9000/play/a01p
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" group-title="PORTUGAL",EUROSPORT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/50.m3u8
+http://188.62.240.200:9000/play/a00o
 #EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" group-title="PORTUGAL",EUROSPORT HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/49.m3u8
+http://188.62.240.200:9000/play/a02u
 #EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" group-title="PORTUGAL",EUROSPORT 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/51.m3u8
+http://188.62.240.200:9000/play/a02l
 
 
-#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_news.jpg" group-title="PORTUGAL",EUROSPORT NEWS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/18.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.motorstv.com/sites/default/files/motorsporttv_logo.png" group-title="PORTUGAL",MOTORSPORT.TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/59.m3u8
+http://188.62.240.200:9000/play/a01r
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="PORTUGAL",PFC (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/62.m3u8
+http://188.62.240.200:9000/play/a02i
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/udcCfFP.png" group-title="PORTUGAL",FUEL TV HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/60.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="PORTUGAL",BARCA TV (Copyright © 2017 by TeamBlue)
 http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058" group-title="PORTUGAL",CHELSEA TV (Copyright © 2017 by TeamBlue)
@@ -120,99 +120,99 @@ http://62.6.220.50:5000/play/a01l
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" group-title="PORTUGAL",REAL MADRID TV (Copyright © 2017 by TeamBlue)
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv1@154306/index1000av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" group-title="PORTUGAL",NBA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/3696.m3u8
+http://213.146.212.33:8001/play/a02s
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" group-title="PORTUGAL",DISNEY CHANNEL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/94.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" group-title="PORTUGAL",DISNEY JUNIOR (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/93.m3u8
+http://188.62.240.200:9000/play/a01k
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" group-title="PORTUGAL",CARTOON NETWORK (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/100.m3u8
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/b/bb/Canal_Panda_2015_Stacked.png/revision/latest?cb=20150708105237" group-title="PORTUGAL",PANDA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/96.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tMwl5FD7x8E/TeO_NY9w6mI/AAAAAAAAATg/anq2z80XqXc/s1600/Panda+Biggs+logo.png" group-title="PORTUGAL",PANDA BIGGS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/99.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" group-title="PORTUGAL",NICKELODEON (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/102.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CO31Je4.png" group-title="PORTUGAL",BABY FIRST (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/98.m3u8
+http://188.62.240.200:9000/play/a025
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" group-title="PORTUGAL",BABY TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/97.m3u8
+http://188.62.240.200:9000/play/a015
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HHHtUGzrKRo/UYd1-UL3trI/AAAAAAAAEHY/lBjicHajXS8/w1200-h630-p-k-no-nu/SIC+K+logo.png" group-title="PORTUGAL",SIC K (Copyright © 2017 by TeamBlue)
 http://live.impresa.pt/live/sick/sick540p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" group-title="PORTUGAL",JIMJAM (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/101.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NDgJgRa.png" group-title="PORTUGAL",SUPER RTL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7779.m3u8
+http://188.62.240.200:9000/play/a00u
+
+
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" group-title="PORTUGAL",TVCINE 1 (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a01j
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" group-title="PORTUGAL",TVCINE 1 HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/64.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png/revision/latest?cb=20140404133649" group-title="PORTUGAL",TVCINE 2 (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a00q
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png/revision/latest?cb=20140404133649" group-title="PORTUGAL",TVCINE 2 HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/66.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" group-title="PORTUGAL",TVCINE 3 (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a01u
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" group-title="PORTUGAL",TVCINE 3 HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/68.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" group-title="PORTUGAL",TVCINE 4 (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a00v
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" group-title="PORTUGAL",TVCINE 4 HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/70.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/4/4f/TVS%C3%A9ries.png/revision/latest?cb=20140404133444" group-title="PORTUGAL",TVSERIES (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a01v
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/4/4f/TVS%C3%A9ries.png/revision/latest?cb=20140404133444" group-title="PORTUGAL",TVSERIES HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/79.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-plaCHZpDDBk/V3WHl3nq9wI/AAAAAAAADMg/HG3bo7asrl4XugELDbh5Lhkj9RNuvk_DwCLcB/s1600/CANAL%2BHOLLYWOOD.png" group-title="PORTUGAL",HOLLYWOOD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/73.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-plaCHZpDDBk/V3WHl3nq9wI/AAAAAAAADMg/HG3bo7asrl4XugELDbh5Lhkj9RNuvk_DwCLcB/s1600/CANAL%2BHOLLYWOOD.png" group-title="PORTUGAL",HOLLYWOOD HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/72.m3u8
+http://188.62.240.200:9000/play/a00p
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" group-title="PORTUGAL",AMC (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/76.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156" group-title="PORTUGAL",AMC HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/1853.m3u8
+http://188.62.240.200:9000/play/a00r
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" group-title="PORTUGAL",CINEMUNDO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/77.m3u8
+http://188.62.240.200:9000/play/a013
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" group-title="PORTUGAL",FOX MOVIES (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/74.m3u8
+http://213.146.212.33:8001/play/a02b
 
 
 
 
 #EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" group-title="PORTUGAL",FOX HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/84.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" group-title="PORTUGAL",AXN (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8416.m3u8
+http://188.62.240.200:9000/play/a00h
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" group-title="PORTUGAL",AXN HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8462.m3u8
-
-
+http://188.62.240.200:9000/play/a00g
+#EXTINF:-1 tvg-logo="http://savepic.net/8100386.png" group-title="PORTUGAL",FOX LIFE (Copyright © 2017 by TeamBlue)
+http://213.146.212.33:8001/play/a02r
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" group-title="PORTUGAL",FOX CRIME HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/86.m3u8
-
-
+http://188.62.240.200:9000/play/a02v
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" group-title="PORTUGAL",FOX CRIME (Copyright © 2017 by TeamBlue)
+http://213.146.212.33:8001/play/a02d
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" group-title="PORTUGAL",FOX CRIME HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/86.m3u8
+http://188.62.240.200:9000/play/a02v
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" group-title="PORTUGAL",FOX COMEDY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/88.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" group-title="PORTUGAL",FOX COMEDY HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/2373.m3u8
+http://188.62.240.200:9000/play/a02e
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QDCk6tH.png" group-title="PORTUGAL",AXN WHITE (Copyright © 2017 by TeamBlue)
+http://213.146.212.33:8001/play/a011
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QDCk6tH.png" group-title="PORTUGAL",AXN WHITE HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/82.m3u8
-
-
+http://188.62.240.200:9000/play/a02t
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1200px-AXN_Black_logo_%282015%29.svg.png" group-title="PORTUGAL",AXN BLACK (Copyright © 2017 by TeamBlue)
+http://213.146.212.33:8001/play/a012
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.thelogodb.com/images/media/logo/tstsvx1445114284.png/medium" group-title="PORTUGAL",AXN BLACK HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/83.m3u8
-#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2017/05/syfy.jpg?w=1020&h=1077" group-title="PORTUGAL",SYFY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/90.m3u8
-#EXTINF:-1 tvg-logo="http://www.schau-hd.tv/attachments/58/2017_08_24_Syfy_HD.jpg" group-title="PORTUGAL",SYFY HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/2374.m3u8
+http://188.62.240.200:9000/play/a02r
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" group-title="PORTUGAL",MTV PORTUGAL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/4255.m3u8
+http://188.62.240.200:9000/play/a019
 
 
 
@@ -227,96 +227,96 @@ http://91.231.219.145:80/tv_mtv_dance/video.m3u8
 http://91.231.219.145:80/tv_vh1_european/video.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" group-title="PORTUGAL",VH1 CLASSIC (Copyright © 2017 by TeamBlue)
 http://91.231.219.145/tv_vh1_classic/video.m3u8
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/90/MCM_TOP_2008.png/revision/latest?cb=20150313180515" group-title="PORTUGAL",MCM TOP (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/132.m3u8
+
+
 
 
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" group-title="PORTUGAL",MCM POP (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/133.m3u8
+http://188.62.240.200:9000/play/a02m
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" group-title="PORTUGAL",C MUSIC (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/134.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8124090.png" group-title="PORTUGAL",MEZZO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/1854.m3u8
+http://188.62.240.200:9000/play/a00x
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" group-title="PORTUGAL",AFRO MUSIC (Copyright © 2017 by TeamBlue)
 http://4.31.30.145:9034
 #EXTINF:-1 tvg-logo="http://savepic.net/7868090.png" group-title="PORTUGAL",TRACE TV (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a01m
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756" group-title="PORTUGAL",VOX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7791.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" group-title="PORTUGAL",DJING HITS (Copyright © 2017 by TeamBlue)
 http://www.djing.com/tv/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg" group-title="PORTUGAL",DJING CLASSIC (Copyright © 2017 by TeamBlue)
 http://djing.com/tv/i-05.m3u8
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" group-title="PORTUGAL",DJING DANCE FLOOR MUSIC (Copyright © 2017 by TeamBlue)
-http://cdn.djing.com/tv/d-05.m3u8
+http://djing.com/tv/dancefloor.m3u8
 #EXTINF:-1 tvg-logo="https://teleonline.org/wp-content/uploads/2016/02/djing-ibiza-poster.png" group-title="PORTUGAL",DJING IBIZA (Copyright © 2017 by TeamBlue)
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="PORTUGAL",DISCOVERY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/106.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" group-title="PORTUGAL",DISCOVERY SHOWCASE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/105.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="PORTUGAL",CRIME & INVESTIGATION (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/3715.m3u8
+http://188.62.240.200:9000/play/a01s
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/110.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/111.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC (Copyright © 2017 by TeamBlue)
+http://213.146.212.33:8001/play/a01i
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD (Copyright © 2017 by TeamBlue)
+http://188.62.240.200:9000/play/a022
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" group-title="PORTUGAL",HISTORIA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/113.m3u8
+http://188.62.240.200:9000/play/a014
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" group-title="PORTUGAL",ODISSEIA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/112.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/2000px-Logo_AE_Germany.svg.png" group-title="PORTUGAL",A&E (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/154.m3u8
+http://188.62.240.200:9000/play/a01t
+
+
 #EXTINF:-1 tvg-logo="http://savepic.net/8122892.png" group-title="PORTUGAL",TLC (Copyright © 2017 by TeamBlue)
 http://4.31.30.145:9043
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" group-title="PORTUGAL",E! ENTERTAINMENT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/120.m3u8
+http://188.62.240.200:9000/play/a02g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MCS-Extreme.png" group-title="PORTUGAL",MCS EXTREME (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/108.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" group-title="PORTUGAL",MCS LIFESTYLE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/122.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8166801.png" group-title="PORTUGAL",OUTDOOR CHANNEL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/2381.m3u8
+http://188.62.240.200:9000/play/a01q
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Travel_Channel_Logo.png" group-title="PORTUGAL",TRAVEL CHANNEL (Copyright © 2017 by TeamBlue)
 http://31.13.223.104:1935/travel/community.stream/chunklistw511463959.m3u8
 #EXTINF:-1 tvg-logo="http://www.asiatvforum.com/__novaimages/1861289?v=636160865394130000" group-title="PORTUGAL",FTV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/2383.m3u8
+http://188.62.240.200:9000/play/a027
 
 
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qO4kj9RlQ2A/WPIT3mAjrXI/AAAAAAAAFGY/E8sbiyA0_DEb3IV6wDcHfIUbBtyA6hEPwCLcB/s1600/cbs_reality_za.png" group-title="PORTUGAL",CBS REALITY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/121.m3u8
+http://188.62.240.200:9000/play/a01w
 #EXTINF:-1 tvg-logo="http://www.reproductivelawyer.com/wp-content/uploads/2016/10/cbs-news.png" group-title="PORTUGAL",CBSN (Copyright © 2017 by TeamBlue)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/600x315/46/08/ec/4608ec8613bc216f5ccc608ca7c7a0d5.jpg" group-title="PORTUGAL",BBC ENTERTAINMENT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/119.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" group-title="PORTUGAL",GLOBO PREMIUM (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/139.m3u8
+http://188.62.240.200:9000/play/a02j
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" group-title="PORTUGAL",TV RECORD (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a011
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" group-title="PORTUGAL",CNN (Copyright © 2017 by TeamBlue)
 http://91.121.244.94:8081/61AEEZam0uYzfuOLZxY6ceuYTZxYy8euQVRINbVI2ND6dQr2/live/cnn_id6748/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" group-title="PORTUGAL",EURONEWS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/116.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" group-title="PORTUGAL",BLOOMBERG (Copyright © 2017 by TeamBlue)
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" group-title="PORTUGAL",SKY NEWS (Copyright © 2017 by TeamBlue)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="PORTUGAL",BBC WORLD NEWS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/117.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3CJSygl.png" group-title="PORTUGAL",CNBC (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/107.m3u8
+http://188.62.240.200:9000/play/a02a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" group-title="PORTUGAL",RAI NEWS 24 (Copyright © 2017 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" group-title="PORTUGAL",TVE 24H (Copyright © 2017 by TeamBlue)
@@ -327,48 +327,48 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" group-title="PORTUGAL",FRANCE 24 FR (Copyright © 2017 by TeamBlue)
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RTL_Logo.svg/2000px-RTL_Logo.svg.png" group-title="PORTUGAL",RTL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7746.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="PORTUGAL",RECORD NEWS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7973.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RAI1" group-title="PORTUGAL",RAI 1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8577.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" group-title="PORTUGAL",RTP MADEIRA (Copyright © 2017 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" group-title="PORTUGAL",RTP ACORES (Copyright © 2017 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VRnat0c.png" group-title="PORTUGAL",CANCAO NOVA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/124.m3u8
+http://188.62.240.200:9000/play/a02n
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/qypyvv1437950573.png" group-title="PORTUGAL",AR TV (Copyright © 2017 by TeamBlue)
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u
 #EXTINF:-1 tvg-logo="http://bit.ly/2kXKGGs" group-title="PORTUGAL",RTP AFRICA (Copyright © 2017 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tsNZEpc.png" group-title="PORTUGAL",TPA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/3410.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://www.rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" group-title="PORTUGAL",TCV (Copyright © 2017 by TeamBlue)
 http://213.13.26.11:1935/live/rtc_teste/TeamBlue.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" group-title="PORTUGAL",TV GALICIA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/152.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3SiROJO.png" group-title="PORTUGAL",TVEi (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/150.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" group-title="PORTUGAL",TV5 MONDE (Copyright © 2017 by TeamBlue)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls11.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg" group-title="PORTUGAL",CACA & PESCA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/54.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" group-title="PORTUGAL",CACAVISION (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/53.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cQ4UFEO.png" group-title="PORTUGAL",FIGHT NETWORK (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/61.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" group-title="PORTUGAL",KOMBAT SPORT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/777.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8100452.png" group-title="PORTUGAL",FINE LIVING NETWORK (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/6524.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" group-title="PORTUGAL",FOX NEWS (Copyright © 2017 by TeamBlue)
 http://188.62.240.200:9000/play/a01g
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png/revision/latest/scale-to-width-down/200?cb=20170221142745" group-title="PORTUGAL",TVI REALITY (Copyright © 2017 by TeamBlue)
@@ -379,10 +379,10 @@ http://4.31.30.145:9040/
 http://213.13.26.11:1935/live/luis/livestream.m3u
 #EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png" group-title="PORTUGAL",BAND (Copyright © 2017 by TeamBlue)
 http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="PORTUGAL",REDE TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7975.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png" group-title="PORTUGAL",SBT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7976.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k2Iy5Ig.png",BRASIL
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0d/Logo_300%2810%29.jpg/revision/latest?cb=20170219005832" group-title="BRASIL",APARECIDA (Copyright © 2017 by TeamBlue)
@@ -397,24 +397,24 @@ http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="BRASIL",GLOBO RJ (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7992.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="BRASIL",GLOBO SP (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7993.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="BRASIL",RECORD NEWS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7973.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/db/Rede_Brasil.png/revision/latest/scale-to-width-down/250?cb=20151004204643" group-title="BRASIL",REDE BRASIL (Copyright © 2017 by TeamBlue)
 http://173.236.10.10:1935/rbtv/rbtv/livestream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Rede_Record_logo_1992.svg/revision/latest/scale-to-width-down/200?cb=20161201084422" group-title="BRASIL",REDE RECORD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7974.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="BRASIL",REDE TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7975.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2b/Redevida-logo.png/revision/latest?cb=20160422192752" group-title="BRASIL",REDE VIDA (Copyright © 2017 by TeamBlue)
 http://hls.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png" group-title="BRASIL",SBT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7976.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cc/200px-TV_Brasil_logo.png/revision/latest?cb=20130129165234" group-title="BRASIL",TV BRASIL (Copyright © 2017 by TeamBlue)
 http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Tvescolalogo2014.jpg" group-title="BRASIL",TV ESCOLA (Copyright © 2017 by TeamBlue)
@@ -429,32 +429,6 @@ http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c
 http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/2000px-TV_Cultura.svg.png" group-title="BRASIL",TV CULTURA (Copyright © 2017 by TeamBlue)
 http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/gg/globo_news.png" group-title="BRASIL",GLOBO NEWS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7994.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="BRASIL",GNT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7956.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hbo_asia.png" group-title="BRASIL",HBO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7957.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="BRASIL",HBO FAMILY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7958.m3u8
-#EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png" group-title="BRASIL",HBO PLUS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7959.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png" group-title="BRASIL",HBO SIGNATURE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7960.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hbo2_ce.png" group-title="BRASIL",HBO2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7961.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="BRASIL",MAX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7963.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="BRASIL",MAX PRIME (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7964.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/maxup.png" group-title="BRASIL",MAX UP (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7966.m3u8
 
 
 
@@ -463,26 +437,40 @@ http://black.myvnc.com:8000/live/rave/rave/7966.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Frawzcq.png" group-title="BRASIL",SPORTV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7977.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4dV4aQ2.png" group-title="BRASIL",SPORTV2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7978.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2ECJlV7.png" group-title="BRASIL",SPORTV3 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7979.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WDDYvsC.png" group-title="BRASIL",ALL SPORTS (Copyright © 2017 by TeamBlue)
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="BRASIL",COMBATE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7944.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="BRASIL",PREMIERE 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7969.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" group-title="BRASIL",PREMIERE 5 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7970.m3u8
 
 
 
@@ -493,34 +481,38 @@ http://black.myvnc.com:8000/live/rave/rave/7970.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/band-sports.png" group-title="BRASIL",BAND SPORTS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7941.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/ESPNUK.png/revision/latest?cb=20130806171811" group-title="BRASIL",ESPN (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7948.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RDEG8LP.png" group-title="BRASIL",ESPN BRASIL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7949.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="BRASIL",FOX SPORTS BR (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7953.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="BRASIL",FOX SPORTS 2 BR (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7954.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b1/EI_Maxx.png/revision/20160125133423" group-title="BRASIL",ESPORTE INTERATIVO BR (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7946.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cc/EI_Maxx_2.png/revision/latest?cb=20160125133416" group-title="BRASIL",ESPORTE INTERATIVO 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7947.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d2/Telecine_Action_2005.png/revision/latest?cb=20151109191132" group-title="BRASIL",TELECINE ACTION (Copyright © 2017 by TeamBlue)
 http://live-s101.abweb.com/liveabs101/ngrp:action.stream bis/chunklist f1tv b1096000.m3u8
-#EXTINF:-1 tvg-logo="http://files.servidorcs1.webnode.com/200001032-9fdbaa0d3f/Telecine_Cult_Gato.png" group-title="BRASIL",TELECINE CULT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7985.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="BRASIL",TELECINE FUN (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7986.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="BRASIL",TELECINE PIPOCA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7987.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="BRASIL",TELECINE PREMIUM (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7988.m3u8
 
 
 
@@ -535,8 +527,16 @@ http://black.myvnc.com:8000/live/rave/rave/7988.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="BRASIL",DISCOVERY TURBO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8431.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/200px-Canal_Futura.png" group-title="BRASIL",FUTURA (Copyright © 2017 by TeamBlue)
 http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 
@@ -547,42 +547,42 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="BRASIL",INVESTIGATION DISCOVERY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7962.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" group-title="BRASIL",MTV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7968.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/BandNews_TV_logo_2010.svg" group-title="BRASIL",BAND NEWS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7940.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/63/Brasil.jpg/revision/latest?cb=20131114185714" group-title="BRASIL",CANAL BRASIL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7942.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2000px-Cinemax.svg.png" group-title="BRASIL",CINEMAX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7943.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest/scale-to-width-down/250?cb=20151120222118" group-title="BRASIL",MEGAPIX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7967.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png" group-title="BRASIL",STUDIO UNIVERSAL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7980.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TCM_Latin_America.png/revision/latest?cb=20151209165240" group-title="BRASIL",TCM (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7983.m3u8
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/t/55dc67d3e4b025d475d026d7/1440507859238/tnt-fpb-channel-lineup" group-title="BRASIL",TNT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7989.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Serie.svg.png" group-title="BRASIL",TNT SERIE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7990.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -595,8 +595,8 @@ http://black.myvnc.com:8000/live/rave/rave/7990.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" group-title="BRASIL",DISNEY XD (Copyright © 2017 by TeamBlue)
 http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/1/12/20120320050805!Logo_Gloob.png" group-title="BRASIL",GLOOB (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7995.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" group-title="BRASIL",NICK (Copyright © 2017 by TeamBlue)
 http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
 
@@ -611,8 +611,8 @@ http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/comedy_central_us.png" group-title="BRASIL",COMEDY CENTRAL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7945.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" group-title="BRASIL",FOX (Copyright © 2017 by TeamBlue)
 http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
 
@@ -621,14 +621,14 @@ http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PP4wOet.png" group-title="BRASIL",FX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7955.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2017/05/syfy.jpg?w=1020&h=1077" group-title="BRASIL",SYFY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7981.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e6/Universal_Int_2013.png/revision/latest/scale-to-width-down/250?cb=20130505201440" group-title="BRASIL",UNIVERSAL CHANNEL (Copyright © 2017 by TeamBlue)
 http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
 
@@ -639,8 +639,8 @@ http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://savepic.net/8100386.png" group-title="BRASIL",FOX LIFE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7952.m3u8
+
+
 
 
 
@@ -657,10 +657,6 @@ http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="http://savepic.ru/11644164.png" group-title="ALEMANHA",DAS ERST (Copyright © 2017 by TeamBlue)
 http://live-lh.daserste.de/i/daserstede@91204/index184av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" group-title="ALEMANHA",DISNEY CHANNEL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7703.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/kk/kabel_eins_de.png" group-title="ALEMANHA",KABEL EINS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7722.m3u8
 
 
 
@@ -669,134 +665,138 @@ http://black.myvnc.com:8000/live/rave/rave/7722.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ProSieben_logo.svg/2000px-ProSieben_logo.svg.png" group-title="ALEMANHA",PROSIEBEN (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7741.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RTL_Logo.svg/2000px-RTL_Logo.svg.png" group-title="ALEMANHA",RTL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7746.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/1083px-RTL2_Logo.svg.png" group-title="ALEMANHA",RTL II (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7743.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/2kXC6aq" group-title="ALEMANHA",SAT.1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7757.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756" group-title="ALEMANHA",VOX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7791.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c5/ZDF_logo.png/revision/latest?cb=20101216124923" group-title="ALEMANHA",ZDF (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7794.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png" group-title="ALEMANHA",NDR (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7730.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9a/WDR_Fernsehen_HD.png/revision/latest/scale-to-width-down/639?cb=20141110201119" group-title="ALEMANHA",WDR (Copyright © 2017 by TeamBlue)
 http://wdrfs-lh.akamaihd.net/i/wdrfsweltweit@112033/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="ALEMANHA",DISCOVERY CHANNEL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7701.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/dmax_de.png" group-title="ALEMANHA",DMAX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7707.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="ALEMANHA",DW (Copyright © 2017 by TeamBlue)
 http://dwstream6-lh.akamaihd.net/i/dwstream6live@123962/master.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="http://savepic.net/8106596.png" group-title="ALEMANHA",HISTORY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7719.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_24" group-title="ALEMANHA",N24 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7726.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/kk/kabel_eins_de.png" group-title="ALEMANHA",KABEL EINS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7722.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" group-title="ALEMANHA",NATIONAL GEOGRAPHIC WILD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7727.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/planet_de.png" group-title="ALEMANHA",PLANET (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7737.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zNkBXhU.png" group-title="ALEMANHA",TAGESSCHAU24 (Copyright © 2017 by TeamBlue)
 http://tagesschau-lh.akamaihd.net/i/tagesschau1@119231/index3776av-b.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-q-ReNnIoQmE/TjCci5xDRoI/AAAAAAAABzU/eWxqCoVomto/s1600/ZDFinfo+logo+2011.png" group-title="ALEMANHA",ZDF INFO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7795.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ZDFneo.svg/2000px-ZDFneo.svg.png" group-title="ALEMANHA",ZDF NEO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7796.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/13th_Street_Universal.svg/1200px-13th_Street_Universal.svg.png" group-title="ALEMANHA",13TH STREET (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7682.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/85mrGhx.png" group-title="ALEMANHA",ANIXE (Copyright © 2017 by TeamBlue)
 http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" group-title="ALEMANHA",AXN (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7695.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" group-title="ALEMANHA",FOX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7715.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hxj9cGy.jpg" group-title="ALEMANHA",FOX SERIE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7716.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/kk/kabel_eins_de.png" group-title="ALEMANHA",KABEL EINS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7722.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2017/05/syfy.jpg?w=1020&h=1077" group-title="ALEMANHA",SYFY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7781.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png" group-title="ALEMANHA",TELE 5 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7783.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TNT_Comedy_Logo_2016.png/200px-TNT_Comedy_Logo_2016.png" group-title="ALEMANHA",TNT COMEDY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7787.m3u8
-#EXTINF:-1 tvg-logo="http://www.tnt-tv.de/dynamic/channel/00000000/2/cc93f8aeb578f45c9d8eb62b0c9849fc596d407c_1464877563.png" group-title="ALEMANHA",TNT FILM (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7693.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Serie.svg.png" group-title="ALEMANHA",TNT SERIE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7788.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/mixels/images/4/41/Boomerang_tv_logo.png/revision/latest?cb=20150307200807" group-title="ALEMANHA",BOOMERANG (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7696.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" group-title="ALEMANHA",CARTOON NETWORK (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7697.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" group-title="ALEMANHA",DISNEY JUNIOR (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7684.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" group-title="ALEMANHA",DISNEY XD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7685.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_cinemagic_de.png" group-title="ALEMANHA",DISNEY CINEMAGIC (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7683.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/kk/kika_de.png" group-title="ALEMANHA",KIKA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7724.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" group-title="ALEMANHA",NICKELODEON (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7731.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NDgJgRa.png" group-title="ALEMANHA",SUPER RTL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7779.m3u8
-#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" group-title="ALEMANHA",EUROSPORT DE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7709.m3u8
-#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" group-title="ALEMANHA",EUROSPORT 2 DE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7711.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7773.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7774.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 3 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7775.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" group-title="ALEMANHA",SKY SPORT 2 DE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7769.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" group-title="ALEMANHA",SKY SPORT NEWS (Copyright © 2017 by TeamBlue)
@@ -807,10 +807,6 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jgu61cv.png" group-title="ALEMANHA",MOTORVISION (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7725.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_Sport1_2013.svg/1280px-Logo_Sport1_2013.svg.png" group-title="ALEMANHA",SPORT1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7692.m3u8
 
 
 
@@ -821,62 +817,6 @@ http://black.myvnc.com:8000/live/rave/rave/7692.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kZgo2Dd.png" group-title="ALEMANHA",SPORTDIGITAL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7777.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/jj/jukebox_de.png" group-title="ALEMANHA",JUKEBOX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7720.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" group-title="ALEMANHA",E! ENTERTAINMENT DE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7708.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jW67mvr.png" group-title="ALEMANHA",PROSIEBEN MAXX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7739.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d8/ProSieben_FUN.png/revision/latest?cb=20120418142811" group-title="ALEMANHA",PROSIEBEN FUN (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7738.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL_living_Logo_2015.png" group-title="ALEMANHA",RTL LIVING (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7747.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png" group-title="ALEMANHA",RTL NITRO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7751.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTLplus_Logo_2016.png" group-title="ALEMANHA",RTL PLUS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7753.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/RTL_Crime_logo.png" group-title="ALEMANHA",RTL CRIME (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7744.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/35/Sat.1_Emotions_2012.png/revision/latest?cb=20131110001913" group-title="ALEMANHA",SAT.1 EMOTIONS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7755.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Sat1_Gold_HD.svg/2000px-Logo_Sat1_Gold_HD.svg.png" group-title="ALEMANHA",SAT.1 GOLD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7756.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8122892.png" group-title="ALEMANHA",TLC (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7786.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/2b/Sky_de_cinema_action.png/revision/latest?cb=20170105095524" group-title="ALEMANHA",SKY CINEMA ACTION (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7690.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d3/Sky_Atlantic.svg/revision/latest/scale-to-width-down/300?cb=20111101112901" group-title="ALEMANHA",SKY ATLANTIC (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7687.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QQKlYDm.png" group-title="ALEMANHA",SKY CINEMA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7764.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9voxbPV.png" group-title="ALEMANHA",SKY CINEMA +24 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7688.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wutpqv1482144124.png" group-title="ALEMANHA",SKY CINEMA +1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7689.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/grFgBdy.png" group-title="ALEMANHA",SKY CINEMA COMEDY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7761.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ockq1Rx.png" group-title="ALEMANHA",SKY CINEMA EMOTION (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7762.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Sky_Cinema_Hits_DE_Logo_2016.png" group-title="ALEMANHA",SKY CINEMA HITS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7765.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0DAevQo.png" group-title="ALEMANHA",SKY CINEMA NOSTALGIE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7767.m3u8
 
 
 
@@ -887,30 +827,90 @@ http://black.myvnc.com:8000/live/rave/rave/7767.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/37HMpTD.png" group-title="ALEMANHA",ORF 1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7735.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/orf_2_at.png" group-title="ALEMANHA",ORF 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7736.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j7A7N1F.png" group-title="ALEMANHA",SRF 1 (Copyright © 2017 by TeamBlue)
 http://41.224.63.105:8000/play/a002
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vkpJbTK.png" group-title="ALEMANHA",SRF ZWEI (Copyright © 2017 by TeamBlue)
 http://41.224.63.105:8000/play/a003
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7674.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7675.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 3 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7676.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 4 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7677.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 5 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7678.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 6 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7679.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="ALEMANHA",SKY SELECT 7 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7680.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aCjxWE8.png",ESPANHA
@@ -927,20 +927,20 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 http://93.158.220.155:8001/play/a063
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/3f/TVE2_bug.png/revision/latest?cb=20100228173645" group-title="ESPANHA",LA 2 (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a065
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/nova-en-directo-online.png" group-title="ESPANHA",NOVA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8062.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png" group-title="ESPANHA",TELECINCO (Copyright © 2017 by TeamBlue)
 http://flus0.sanpedrowifi.com/live/telecinco.SD.IRD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" group-title="ESPANHA",TV GALICIA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/152.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Mega-en-directo-Online.png" group-title="ESPANHA",MEGA (Copyright © 2017 by TeamBlue)
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="ESPANHA",ENERGY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8024.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="ESPANHA",FDF (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a060
 #EXTINF:-1 tvg-logo="https://www.phiclinic.com/wp-content/uploads/press-logo-cosmopolitan.png" group-title="ESPANHA",COSMO (Copyright © 2017 by TeamBlue)
@@ -993,8 +993,8 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 http://93.158.220.155:8001/play/a06n
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QDCk6tH.png" group-title="ESPANHA",AXN WHITE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8002.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="ESPANHA",CALLE 13 (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a05u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Canal_de_las_Estrellas_2006_logo.PNG" group-title="ESPANHA",CANAL DE LAS ESTRELLAS (Copyright © 2017 by TeamBlue)
@@ -1005,26 +1005,26 @@ http://93.158.220.155:8001/play/a06i
 http://178.156.79.1:9090/play/a01m
 
 
-#EXTINF:-1 tvg-logo="http://savepic.net/8100386.png" group-title="ESPANHA",FOX LIFE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8029.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-plaCHZpDDBk/V3WHl3nq9wI/AAAAAAAADMg/HG3bo7asrl4XugELDbh5Lhkj9RNuvk_DwCLcB/s1600/CANAL%2BHOLLYWOOD.png" group-title="ESPANHA",HOLLYWOOD (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a064
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/800px-Movistar_Xtra.svg.png" group-title="ESPANHA",MOVISTAR XTRA (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a067
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPANHA",MOVISTAR ACCION (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8042.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637" group-title="ESPANHA",MOVISTAR COMEDIA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8044.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://movistar.i.lithium.com/t5/image/serverpage/image-id/111652i5C6AECD1888E0BFE/image-size/original?v=v2&px=-1" group-title="ESPANHA",MOVISTAR DCINE N (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a07q
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104" group-title="ESPANHA",MOVISTAR DCINE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8046.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png/revision/latest?cb=20160707185129" group-title="ESPANHA",MOVISTAR ESTRENOS (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a06c
 
@@ -1041,10 +1041,10 @@ http://93.158.220.155:8001/play/a05x
 http://93.158.220.155:8001/play/a06h
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/509ac5d5e4b011ec8327ecea/t/55dc67d3e4b025d475d026d7/1440507859238/tnt-fpb-channel-lineup" group-title="ESPANHA",TNT ES (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a069
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" group-title="ESPANHA",BABY TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8003.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_BOING" group-title="ESPANHA",BOING (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8007.m3u8
+
+
+
+
 
 
 
@@ -1055,8 +1055,8 @@ http://black.myvnc.com:8000/live/rave/rave/8007.m3u8
 http://93.158.220.155:8001/play/a06e
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" group-title="ESPANHA",DISNEY JUNIOR ES (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8021.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" group-title="ESPANHA",DISNEY XD (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a07i
 
@@ -1065,8 +1065,8 @@ http://93.158.220.155:8001/play/a07i
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" group-title="ESPANHA",MTV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8058.m3u8
+
+
 
 
 
@@ -1085,12 +1085,12 @@ http://178.156.79.1:9090/play/a013
 
 #EXTINF:-1 tvg-logo="http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg" group-title="ESPANHA",CAZA & PESCA (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a07j
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="ESPANHA",TOROS TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/2365.m3u8
-#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" group-title="ESPANHA",EUROSPORT ES (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8025.m3u8
-#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" group-title="ESPANHA",EUROSPORT 2 ES (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8594.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png" group-title="ESPANHA",LALIGA TV (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a05v
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" group-title="ESPANHA",MOVISTAR DEPORTES 1 (Copyright © 2017 by TeamBlue)
@@ -1117,130 +1117,130 @@ http://178.156.79.1:9090/play/a01j
 http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" group-title="ESPANHA",REAL MADRID TV (Copyright © 2017 by TeamBlue)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/GOLTV_Two.png/200px-GOLTV_Two.png" group-title="ESPANHA",GOL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8031.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/unT3Jrz.png" group-title="ESPANHA",TELEDEPORTE (Copyright © 2017 by TeamBlue)
 http://93.158.220.155:8001/play/a06l
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5xWUqQt.png",FRANCA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TF1_logo_1990.png" group-title="FRANCA",TF1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8374.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b4/France_2_logo_2008.svg/revision/latest?cb=20100804204126" group-title="FRANCA",FRANCE 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8318.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/France_3_logo_2008.svg/revision/latest/scale-to-width-down/140?cb=20100804082512" group-title="FRANCA",FRANCE 3 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8320.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4bHO5AX.png" group-title="FRANCA",CANAL+ (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8285.m3u8
+http://live2.artv.watch/canalplus/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/2000px-Arte-Logo.svg.png" group-title="FRANCA",ARTE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8264.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/create-logopedia/images/a/a8/M6-tv-logo.png/revision/latest?cb=20150611172753" group-title="FRANCA",M6 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8336.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE5" group-title="FRANCA",FRANCE 5 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8324.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="FRANCA",RTL9 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8356.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RTS_un.svg/310px-RTS_un.svg.png" group-title="FRANCA",RTS UN (Copyright © 2017 by TeamBlue)
 http://41.224.63.105:8000/play/a004
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RTS_deux.svg/2000px-RTS_deux.svg.png" group-title="FRANCA",RTS DEUX (Copyright © 2017 by TeamBlue)
 http://41.224.63.105:8000/play/a005
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/W9_2010.png/revision/latest?cb=20110904184902" group-title="FRANCA",W9 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8381.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/71/TMC_logo_2009.png/revision/latest?cb=20100205080730" group-title="FRANCA",TMC (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8376.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nt1_fr.png" group-title="FRANCA",NT1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8344.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="FRANCA",NRJ12 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8342.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE4" group-title="FRANCA",FRANCE 4 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8322.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/bb/bfm_fr_tv.png" group-title="FRANCA",BFM TV (Copyright © 2017 by TeamBlue)
 http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="FRANCA",RTL9 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8356.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://img.over-blog-kiwi.com/1/49/54/19/20160818/ob_dad82f_nouveau-logo-chaine-tnt-c8-logo.png" group-title="FRANCA",C8 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8280.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/gg/gulli_fr.png" group-title="FRANCA",GULLI (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8330.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCEO" group-title="FRANCA",FRANCE O (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8326.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hd1_fr.png" group-title="FRANCA",HD1  (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8331.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/EQUIPE_21_2014.png/revision/latest?cb=20150310171929" group-title="FRANCA",L'EQUIPE 21 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8334.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/num/6ter_fr.png" group-title="FRANCA",6TER (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8259.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/numero_23_fr.png" group-title="FRANCA",NUMERO 23 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8345.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" group-title="FRANCA",RMC DECOUVERTE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8355.m3u8
+http://live2.artv.watch/c8/tracks-v1a1/index.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" group-title="FRANCA",EURONEWS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8314.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Science_et_Vie_TV_logo_2015.png" group-title="FRANCA",SCIENCES & VIE TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8359.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" group-title="FRANCA",PARAMOUNT CHANNEL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8349.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal_j_fr.png" group-title="FRANCA",CANAL J (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8286.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/Tiji_logo.png" group-title="FRANCA",TIJI (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8375.m3u8
+http://live2.artv.watch/canalj/tracks-v1a1/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" group-title="FRANCA",TV5 MONDE (Copyright © 2017 by TeamBlue)
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" group-title="FRANCA",FRANCE 24 FR (Copyright © 2017 by TeamBlue)
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/13%C3%A8me_Rue_Universal.svg/1200px-13%C3%A8me_Rue_Universal.svg.png" group-title="FRANCA",13E RUE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8257.m3u8
-#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2017/05/syfy.jpg?w=1020&h=1077" group-title="FRANCA",SYFY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8368.m3u8
-#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" group-title="FRANCA",EUROSPORT FR (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8316.m3u8
-#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" group-title="FRANCA",EUROSPORT 2 FR (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8315.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cine_fx.png" group-title="FRANCA",CINE FX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8301.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/48/Animaux_logo_2011.png/revision/latest/scale-to-width-down/250?cb=20111120001830" group-title="FRANCA",ANIMAUX (Copyright © 2017 by TeamBlue)
 http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream bis/chunklist b1096000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" group-title="FRANCA",CHASSE & PECHE (Copyright © 2017 by TeamBlue)
 http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.streambis/chunklistb1096000.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/equidia_live.png" group-title="FRANCA",EQUIDIA LIVE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8313.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UNGRg6Q.png" group-title="FRANCA",beiN SPORTS 1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8265.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AZSqeFo.png" group-title="FRANCA",beiN SPORTS 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8267.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/AZSqeFo.png" group-title="FRANCA",beiN SPORTS 2 HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8268.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png" group-title="FRANCA",beiN SPORTS 3 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8269.m3u8
+http://live2.artv.watch/bein2/tracks-v1a1/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png" group-title="FRANCA",beiN SPORTS 3 HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8270.m3u8
+http://live2.artv.watch/bein3/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.sfr.com/sites/default/files/sfr_sfr_sport.jpg" group-title="FRANCA",SFR SPORT 1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8363.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/SFR_Sport_2_logo_2016.png" group-title="FRANCA",SFR SPORT 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8365.m3u8
-#EXTINF:-1 tvg-logo="http://img.static.myt.mu/assets/img/pl/logo_SFR_SPORT3.jpg" group-title="FRANCA",SFR SPORT 3 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8367.m3u8
+
+
+
+
+
+
 
 
 
@@ -1249,118 +1249,118 @@ http://black.myvnc.com:8000/live/rave/rave/8367.m3u8
 http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream bis/chunklistb1096000.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c2/Action_2014.png/revision/latest/scale-to-width-down/255?cb=20141101162929" group-title="FRANCA",Action (Copyright © 2017 by TeamBlue)
 http://live-s101.abweb.com/liveabs101/ngrp:action.streambis/chunklistb1096000.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cinema.png" group-title="FRANCA",Canal+ Cinema (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8282.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_family.png" group-title="FRANCA",Canal+ Family (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8284.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/f9/Canal_D%C3%A9cal%C3%A9_2013.svg.png/revision/latest?cb=20130731190733" group-title="FRANCA",Canal+ Decale (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8283.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png" group-title="FRANCA",GONG (Copyright © 2017 by TeamBlue)
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_geants.png" group-title="FRANCA",OCS Geants (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8347.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_choc.png" group-title="FRANCA",OCS Choc (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8346.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_max.png" group-title="FRANCA",OCS Max (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8348.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_premier.png" group-title="FRANCA",Cine+ Premier (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8303.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_famiz.png" group-title="FRANCA",Cine+ Famiz (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8299.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_classic.png" group-title="FRANCA",Cine+ Classic (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8297.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_emotion.png" group-title="FRANCA",Cine+ Emotion (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8298.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_frisson.png" group-title="FRANCA",Cine+ Frisson (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8300.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aMWD5vz.png" group-title="FRANCA",TCM Cinema (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8369.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_comedie_plus.png" group-title="FRANCA",Comedie+ (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8304.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" group-title="FRANCA",AB 1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8261.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="FRANCA",CANAL+ SPORT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8292.m3u8
+http://live2.artv.watch/canalplussport/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/AB_MOTEURS_HD_2015.jpg/revision/latest?cb=20140706174957" group-title="FRANCA",AB Moteurs (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8260.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" group-title="FRANCA",Nat Geo Wild (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8340.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" group-title="FRANCA",National Geographic (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8339.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="FRANCA",Discovery Channel FR (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8306.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" group-title="FRANCA",Discovery Science (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8307.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/planete_plus.png" group-title="FRANCA",Planete+ (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8352.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/planete_plus_action_experience.png" group-title="FRANCA",Planete+ A&E (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8353.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_PLANETECI" group-title="FRANCA",Planete+ CI (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8354.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/histoire_fr.png" group-title="FRANCA",Histoire (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8332.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/Voyage_2016.png/revision/latest?cb=20161016194601" group-title="FRANCA",Voyage (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8380.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Science_et_Vie_TV_logo_2015.png" group-title="FRANCA",SCIENCES & VIE TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8359.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" group-title="FRANCA",Chasse & Peche (Copyright © 2017 by TeamBlue)
 http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.streambis/chunklistb1096000.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" group-title="FRANCA",E! ENTERTAINMENT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8312.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/disney_cinema_fr.png" group-title="FRANCA",Disney Cinema (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8309.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png/revision/latest?cb=20150813203959" group-title="FRANCA",Disney Channel (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8308.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" group-title="FRANCA",Cartoon Network (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8293.m3u8
+http://live2.artv.watch/cartoonnetwork/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/mixels/images/4/41/Boomerang_tv_logo.png/revision/latest?cb=20150307200807" group-title="FRANCA",BOOMERANG (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8279.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" group-title="FRANCA",Disney XD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8311.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_piwi_plus.png" group-title="FRANCA",Piwi+ (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8351.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/atomicbetty/images/7/7d/Teletoon_Logo.png/revision/latest?cb=20110730053415" group-title="FRANCA",TeleToon+ (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8371.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" group-title="FRANCA",Disney Junior (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8310.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" group-title="FRANCA",Nickelodeon (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8341.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-E3-InnOxiBQ/VRolXQDpTNI/AAAAAAAAAVQ/kan59AVfeDY/s1600/Weo-Tv-Direct.png" group-title="FRANCA",WEO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8382.m3u8
+http://live2.artv.watch/boomerang/tracks-v1a1/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="FRANCA",MTV Rocks (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8490.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="FRANCA",M6 MUSIQUE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8337.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333" group-title="FRANCA",NRJ Hits (Copyright © 2017 by TeamBlue)
 http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://savepic.net/8124090.png" group-title="FRANCA",Mezzo (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/1854.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p4uCFIG.png",ITALIA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_canale5.png" group-title="ITALIA",CANALE 5 (Copyright © 2017 by TeamBlue)
@@ -1369,30 +1369,30 @@ http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8?type=live-cupertino
 http://93.158.220.139:3001/play/a00b
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/canal_7_ar.png" group-title="ITALIA",CANALE 7 (Copyright © 2017 by TeamBlue)
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_la_5.png" group-title="ITALIA",LA 5 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8565.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/la_7_it.png" group-title="ITALIA",LA 7 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8567.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RAI1" group-title="ITALIA",RAI 1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8577.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/2kXK6sh" group-title="ITALIA",RAI 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8576.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/2lvlcOs" group-title="ITALIA",RAI 3 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8575.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2lvsX6U" group-title="ITALIA",RAI 4 (Copyright © 2017 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/2000px-Rai_5_logo.svg.png" group-title="ITALIA",RAI 5 (Copyright © 2017 by TeamBlue)
 http://stream12.rai.it/live/rai5.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zjcI6EQ.png" group-title="ITALIA",RETE 4 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8571.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.meteoweb.eu/wp-content/uploads/2017/05/Rai_Storia_2010.svg_.png" group-title="ITALIA",RAI STORIA (Copyright © 2017 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo1@191405/index1200av-b.m3u8
 #EXTINF:-1 tvg-logo="http://www.meteoweb.eu/wp-content/uploads/2017/05/Rai_Storia_2010.svg_.png" group-title="ITALIA",RAI STORIA HD (Copyright © 2017 by TeamBlue)
 http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4xM3oJ4.png" group-title="ITALIA",RSI LA1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8564.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HYRbu3N.png" group-title="ITALIA",RSI LA2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8563.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" group-title="ITALIA",RAI NEWS 24 (Copyright © 2017 by TeamBlue)
@@ -1403,8 +1403,8 @@ http://senato.spectar.tv:1935/senato-live/ngrp:webtv1all/chunklistb1155072DVR.m3
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cc/Italia_1_logo.svg/revision/latest?cb=20100308164118" group-title="ITALIA",ITALIA1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8572.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/RAI_Premium_2010_neu_Logo.svg/2000px-RAI_Premium_2010_neu_Logo.svg.png" group-title="ITALIA",RAI PREMIUM (Copyright © 2017 by TeamBlue)
@@ -1425,16 +1425,14 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/dd/dmax_de.png" group-title="ITALIA",DMAX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8495.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" group-title="ITALIA",HISTORY LAB (Copyright © 2017 by TeamBlue)
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" group-title="ITALIA",NATIONAL GEOGRAPHIC CHANNEL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8498.m3u8
 
 
 
@@ -1445,76 +1443,62 @@ http://black.myvnc.com:8000/live/rave/rave/8498.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" group-title="ITALIA",FOX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8525.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" group-title="ITALIA",FOX COMEDY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8524.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" group-title="ITALIA",FOX CRIME (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8522.m3u8
-#EXTINF:-1 tvg-logo="http://savepic.net/8100386.png" group-title="ITALIA",FOX LIFE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8523.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" group-title="ITALIA",PARAMOUNT CHANNEL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8544.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vP0vLFh.png" group-title="ITALIA",PREMIUM ACTION HD (Copyright © 2017 by TeamBlue)
 http://93.158.220.139:3001/play/a00e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/vP0vLFh.png" group-title="ITALIA",PREMIUM ACTION +24 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8551.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/63ViXvw.png" group-title="ITALIA",PREMIUM CINEMA (Copyright © 2017 by TeamBlue)
 http://93.158.220.139:3001/play/a002
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W5rqigb.png" group-title="ITALIA",PREMIUM CINEMA 2 (Copyright © 2017 by TeamBlue)
 http://93.158.220.139:3001/play/a003
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W5rqigb.png" group-title="ITALIA",PREMIUM CINEMA 2 +24 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8556.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/63ViXvw.png" group-title="ITALIA",PREMIUM CINEMA +24 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8557.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LQUpJYB.png" group-title="ITALIA",PREMIUM CINEMA COMEDY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8548.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/czn3088.png" group-title="ITALIA",PREMIUM CINEMA EMOTION (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8545.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hvhMPUA.png" group-title="ITALIA",PREMIUM CINEMA CRIME (Copyright © 2017 by TeamBlue)
 http://93.158.220.139:3001/play/a00g
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8LdlWXR.png" group-title="ITALIA",PREMIUM CINEMA ENERGY (Copyright © 2017 by TeamBlue)
 http://93.158.220.139:3001/play/a004
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hvhMPUA.png" group-title="ITALIA",PREMIUM CINEMA CRIME +24 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8554.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139" group-title="ITALIA",PREMIUM JOI (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8550.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MyZGKeG.png" group-title="ITALIA",PREMIUM STORIES (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8547.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" group-title="ITALIA",RAI MOVIE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8561.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" group-title="ITALIA",RAI MOVIE HD (Copyright © 2017 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9voxbPV.png" group-title="ITALIA",SKY CINEMA +24 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8531.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/grFgBdy.png" group-title="ITALIA",SKY CINEMA COMEDY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8526.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/Sky_Cinema_Family.png/revision/latest?cb=20160709122725" group-title="ITALIA",SKY CINEMA FAMILY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8529.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WyavUpz.png" group-title="ITALIA",SKY UNO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8494.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cartoonito_us.png" group-title="ITALIA",CARTONITO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8493.m3u8
 
 
 
@@ -1523,10 +1507,26 @@ http://black.myvnc.com:8000/live/rave/rave/8493.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" group-title="ITALIA",DISNEY XD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8492.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/92/20th_Century_FOX_Animation_2009_Final0637.png/revision/latest?cb=20130912155311" group-title="ITALIA",FOX ANIMATION (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8521.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1539,36 +1539,36 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.roadcycling.cz/shared/clanky/ikony/19657.jpg" group-title="ITALIA",EUROSPORT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8542.m3u8
-#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" group-title="ITALIA",EUROSPORT 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8541.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xXisgHi.png" group-title="ITALIA",FOX SPORT 1 IT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8513.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png" group-title="ITALIA",PREMIUM SPORT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8540.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LYnoEog.png" group-title="ITALIA",PREMIUM SPORT 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8539.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/RAI_Sport_1_2010_neu_Logo.svg/2000px-RAI_Sport_1_2010_neu_Logo.svg.png" group-title="ITALIA",RAI SPORT 1 (Copyright © 2017 by TeamBlue)
 http://4.31.30.145:9265 
 
 
 #EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8sport.jpg" group-title="ITALIA",RETE 8 SPORT (Copyright © 2017 by TeamBlue)
 http://flash2.streaming.xdevel.com/rete8sport/rete8sport/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" group-title="ITALIA",SKY SPORT 1 IT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8518.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" group-title="ITALIA",SKY SPORT 2 IT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8517.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CfwpEyD.png" group-title="ITALIA",SKY SPORT 3 IT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8516.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AeLroKj.png" group-title="ITALIA",SKY SPORT 24 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8515.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png" group-title="ITALIA",SKY SPORT F1 IT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8520.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CmFj0p2.png" group-title="ITALIA",SKY SPORT MOTOGP IT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8519.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Sky_Supercalcio_2010.png/revision/latest?cb=20150524203909" group-title="ITALIA",SKY SUPERCALCIO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8509.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/4a/Logo_si.JPG/revision/latest?cb=20161118191326" group-title="ITALIA",SPORTITALIA (Copyright © 2017 by TeamBlue)
 http://93.158.220.139:3001/play/a005
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tgoApnl.png",INGLATERRA
@@ -1667,36 +1667,36 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/91/Sky1_logo_2011.svg/revision/latest?cb=20110205171207" group-title="UK",SKY ONE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7814.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5d/Sky_2_logo_2016.png/revision/latest?cb=20160626181053" group-title="UK",SKY TWO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7815.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d3/Sky_Atlantic.svg/revision/latest/scale-to-width-down/300?cb=20111101112901" group-title="UK",SKY ATLANTIC (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7817.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Arts_logo.svg/1280px-Sky_Arts_logo.svg.png" group-title="UK",SKY ARTS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7832.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/Sky_Cinema_Premiere.png/revision/latest?cb=20160708223437" group-title="UK",SKY CINEMA PREMIERE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7818.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oByD3KB.png" group-title="UK",SKY MOVIES COMEDY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7819.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sky-Movies-CrimeThriller.png/revision/latest?cb=20111118190758" group-title="UK",SKY MOVIES CRIME & THRILLER (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7835.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sky-Movies-DramaRomance.png/revision/latest?cb=20111118190215" group-title="UK",SKY MOVIES DRAMA & ROMANCE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7820.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3dDwnfB.png" group-title="UK",SKY MOVIES FAMILY (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7821.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Sky-Movies-Sci-Fi.png/revision/latest/scale-to-width-down/250?cb=20111118191753" group-title="UK",SKY MOVIES SYFY & HORROR (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7826.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Kcj5M1Q.png" group-title="UK",SKY MOVIES SELECT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7823.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1739,44 +1739,6 @@ http://black.myvnc.com:8000/live/rave/rave/7823.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="UK",MTV DANCE (Copyright © 2017 by TeamBlue)
 http://91.231.219.145:80/tv_mtv_dance/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MTV_Hits_2017_logo.svg/1024px-MTV_Hits_2017_logo.svg.png" group-title="UK",MTV HITS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8489.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="UK",MTV ROCKS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/8490.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/bb/box_nation_uk.png" group-title="UK",BOXNATION (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7797.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/F2R303x.png" group-title="UK",BT SPORT 1 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7800.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png" group-title="UK",BT SPORT 2 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7801.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK",BT SPORT 3 HD (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7802.m3u8
-#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png" group-title="UK",BT SPORT ESPN (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7799.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" group-title="UK",EUROSPORT 2 UK (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7798.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/premier_sports.png" group-title="UK",PREMIER SPORTS (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7811.m3u8
 
 
 
@@ -1795,16 +1757,54 @@ http://black.myvnc.com:8000/live/rave/rave/7811.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3169977/logo_sky%20sports%20mix.png" group-title="UK",SKY SPORTS MIX (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7831.m3u8
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="UK",SKY SPORTS MAIN EVENT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7829.m3u8
-#N/D
-http://black.myvnc.com:8000/live/rave/rave/7830.m3u8
-#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/sky_sports_genre_logo_premierleague.jpg" group-title="UK",SKY SPORTS PREMIER LEAGUE (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7833.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6b/Chelsea_TV.svg/revision/latest/scale-to-width-down/250?cb=20100620212058" group-title="UK",CHELSEA TV (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7808.m3u8
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 
 
 #REF!
@@ -1829,8 +1829,8 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" group-title="USA",CNN (Copyright © 2017 by TeamBlue)
 http://4.31.30.145:9001
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3CJSygl.png" group-title="USA",CNBC (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7893.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://www.reproductivelawyer.com/wp-content/uploads/2016/10/cbs-news.png" group-title="USA",CBSN (Copyright © 2017 by TeamBlue)
@@ -1847,12 +1847,12 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/2000px-Logo_AE_Germany.svg.png" group-title="USA",A&E (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7887.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" group-title="USA",E! ENTERTAINMENT (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7897.m3u8
+
+
+
+
 
 
 
@@ -1875,8 +1875,6 @@ http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
 http://btv-net.mediacdn.ru/TVB8/wfhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/4/4a/Animal-planet-logo.png/revision/latest?cb=20140703195542" group-title="USA",ANIMAL PLANET (Copyright © 2017 by TeamBlue)
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="USA",DISCOVERY CHANNEL (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7895.m3u8
 
 
 
@@ -1891,12 +1889,8 @@ http://black.myvnc.com:8000/live/rave/rave/7895.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/bb/bravo_us.png" group-title="USA",BRAVO (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7890.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" group-title="USA",AMC (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7888.m3u8
 
 
 
@@ -1929,8 +1923,6 @@ http://black.myvnc.com:8000/live/rave/rave/7888.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2014/10/FOX-TV-logo.png" group-title="USA",FOX USA (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7900.m3u8
 
 
 
@@ -1953,8 +1945,16 @@ http://black.myvnc.com:8000/live/rave/rave/7900.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/bb/be_in_sports_us.png" group-title="USA",beiN SPORTS US (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7889.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ye5S2CL.png" group-title="USA",ESPN USA (Copyright © 2017 by TeamBlue)
 http://iptvsports.net:8080/skype4xchnge/jibrankhuhro/390.ch
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_2.png" group-title="USA",ESPN 2 USA (Copyright © 2017 by TeamBlue)
@@ -1985,12 +1985,12 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-
 http://iptvsports.net:8080/skype4xchnge/jibrankhuhro/286.ch
 #EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png" group-title="USA",TSN2 (Copyright © 2017 by TeamBlue)
 http://iptvsports.net:8080/skype4xchnge/jibrankhuhro/287.ch
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BsMyeWs.png" group-title="USA",TSN3 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7916.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rMjGqgH.png" group-title="USA",TSN4 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7917.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QldQfqY.png" group-title="USA",TSN5 (Copyright © 2017 by TeamBlue)
-http://black.myvnc.com:8000/live/rave/rave/7918.m3u8
+
+
+
+
+
+
 
 
 
