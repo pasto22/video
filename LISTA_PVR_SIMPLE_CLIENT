@@ -55,6 +55,8 @@ http://globiptv.com:8000/live/workfine/skype/2829.m3u8
 http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/vvvqxp1470408443.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
 http://globiptv.com:8000/live/workfine/skype/2830.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" tvg-id="BenficaTV.PT" group-title="PORTUGAL",BENFICA TV
+http://185.26.174.67:12345/play/a002
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" tvg-id="BenficaTV.PT" group-title="PORTUGAL",BENFICA TV HD
 http://globiptv.com:8000/live/workfine/skype/1090.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV HD
@@ -650,9 +652,9 @@ http://globiptv.com:8000/live/workfine/skype/741.m3u8
 http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/gg/gulli_fr.png" tvg-id=" group-title="FRANCA",GULLI
 http://globiptv.com:8000/live/workfine/skype/837.m3u8
-#N/D
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCEO" tvg-id=" group-title="FRANCA",FRANCE Ô
 http://globiptv.com:8000/live/workfine/skype/745.m3u8
-#N/D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Logo_HD1_2012.svg/2000px-Logo_HD1_2012.svg.png" tvg-id=" group-title="FRANCA",HD1
 http://globiptv.com:8000/live/workfine/skype/2352.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/EQUIPE_21_2014.png/revision/latest?cb=20150310171929" tvg-id=" group-title="FRANCA",L'EQUIPE 21
 http://globiptv.com:8000/live/workfine/skype/1995.m3u8
@@ -726,9 +728,9 @@ http://globiptv.com:8000/live/workfine/skype/2331.m3u8
 http://globiptv.com:8000/live/workfine/skype/721.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/planete_plus.png" tvg-id=" group-title="FRANCA",PLANETE+
 http://globiptv.com:8000/live/workfine/skype/1169.m3u8
-#N/D
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id=" group-title="FRANCA",NAT GEO CH
 http://globiptv.com:8000/live/workfine/skype/751.m3u8
-#N/D
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id=" group-title="FRANCA",NAT GEO CH HD
 http://globiptv.com:8000/live/workfine/skype/751.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" tvg-id=" group-title="FRANCA",NAT GEO WILD
 http://globiptv.com:8000/live/workfine/skype/756.m3u8
