@@ -6,9 +6,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5QBqXI.png" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/SIC_2016_logo.png/revision/latest?cb=20161102121725" tvg-id="sic.pt" group-title="PORTUGAL",SIC
-http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.ts
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/SIC_2016_logo.png/revision/latest?cb=20161102121725" tvg-id="sic.pt" group-title="PORTUGAL",SIC HD
-http://asdp.ddns.net:8000/live/adriano/adriano/345.m3u8
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bCIkdfX.png" tvg-id="TVI.pt" group-title="PORTUGAL",TVI
 http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" tvg-id="TVI.pt" group-title="PORTUGAL",TVI HD
@@ -286,7 +284,7 @@ http://3-120heat.pulsedmedia.com/public-llave1/kr/m4x_up/Stream(03).m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WDDYvsC.png" tvg-id="" group-title="BRASIL",ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/SIC_2016_logo.png/revision/latest?cb=20161102121725" tvg-id="" group-title="BRASIL",SIC
-http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.ts
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" tvg-id="" group-title="BRASIL",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G5Qyvcr.png",ALEMANHA
