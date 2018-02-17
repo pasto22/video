@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gvIgYwd.png",PORTUGAL
 http://fui.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zToRaEC.png" tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36|Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5QBqXI.png" tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36|Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WalttQ0.png" tvg-id="sic.pt" group-title="PORTUGAL",SIC
 http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bCIkdfX.png" tvg-id="TVI.pt" group-title="PORTUGAL",TVI
@@ -14,7 +14,7 @@ http://asdp.ddns.net:8000/live/adriano/adriano/346.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/SICNWhite.png" tvg-id="sicnoticias.pt" group-title="PORTUGAL",SIC NOTICIAS
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsyL00R.png" tvg-id="rtpn.pt" group-title="PORTUGAL",RTP 3
-https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36|Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/63/Tvi24logo.png/revision/latest?cb=20130328095627" tvg-id="TVI24.pt" group-title="PORTUGAL",TVI24
 https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/aa/Sic_mulher.png/revision/latest?cb=20110817042417" tvg-id="sicmulher.pt" group-title="PORTUGAL",SIC MULHER
@@ -30,7 +30,7 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" tvg-id="CMTV.pt" group-title="PORTUGAL",CM TV
 http://188.165.13.95:8080/76/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nWQpvxW" tvg-id="rtpmemoria.pt" group-title="PORTUGAL",RTP MEMORIA
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36|Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN
 http://188.165.13.95:8080/95/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="Canal Q" group-title="PORTUGAL",CANAL Q
