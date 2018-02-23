@@ -296,7 +296,7 @@ http://europa-crtvg.flumotion.com/crtvg/europa/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3SiROJO.png" group-title="PORTUGAL",TVEi (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2641.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/create-logopedia/images/a/a8/M6-tv-logo.png/revision/latest?cb=20150611172753" group-title="PORTUGAL",M6 (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4185.m3u8
+http://144.217.253.140/M6/mpegts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" group-title="PORTUGAL",TV5 MONDE (Copyright © 2018 by TeamBlue)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RAI1" group-title="PORTUGAL",RAI 1 (Copyright © 2018 by TeamBlue)
@@ -1067,10 +1067,16 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5xWUqQt.png",FRANCA
 http://fui.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TF1_logo_1990.png" group-title="FRANCA",TF1 (Copyright © 2018 by TeamBlue)
+http://144.217.253.140/TF1/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TF1_logo_1990.png" group-title="FRANCA",TF1 HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4742.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b4/France_2_logo_2008.svg/revision/latest?cb=20100804204126" group-title="FRANCA",FRANCE 2 (Copyright © 2018 by TeamBlue)
+http://144.217.253.140/France2/mpegts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b4/France_2_logo_2008.svg/revision/latest?cb=20100804204126" group-title="FRANCA",FRANCE 2 HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4793.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/France_3_logo_2008.svg/revision/latest/scale-to-width-down/140?cb=20100804082512" group-title="FRANCA",FRANCE 3 (Copyright © 2018 by TeamBlue)
+http://144.217.253.140/France3/mpegts
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/France_3_logo_2008.svg/revision/latest/scale-to-width-down/140?cb=20100804082512" group-title="FRANCA",FRANCE 3 HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4791.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4bHO5AX.png" group-title="FRANCA",CANAL+ HD (Copyright © 2018 by TeamBlue)
@@ -1078,25 +1084,35 @@ http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4821.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE5" group-title="FRANCA",FRANCE 5 HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4789.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/create-logopedia/images/a/a8/M6-tv-logo.png/revision/latest?cb=20150611172753" group-title="FRANCA",M6 (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4185.m3u8
+http://144.217.253.140/M6/mpegts
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/gqt5so1500907266.png" group-title="FRANCA",ARTE HD (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/804/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.over-blog-kiwi.com/1/49/54/19/20160818/ob_dad82f_nouveau-logo-chaine-tnt-c8-logo.png" group-title="FRANCA",C8 (Copyright © 2018 by TeamBlue)
+http://144.217.253.140/C8/mpegts
 #EXTINF:-1 tvg-logo="http://img.over-blog-kiwi.com/1/49/54/19/20160818/ob_dad82f_nouveau-logo-chaine-tnt-c8-logo.png" group-title="FRANCA",C8 HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4825.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/W9_2010.png/revision/latest?cb=20110904184902" group-title="FRANCA",W9 (Copyright © 2018 by TeamBlue)
+http://144.217.253.140/W9/mpegts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/W9_2010.png/revision/latest?cb=20110904184902" group-title="FRANCA",W9 HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4731.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/71/TMC_logo_2009.png/revision/latest?cb=20100205080730" group-title="FRANCA",TMC HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4740.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nt1_fr.png" group-title="FRANCA",NT1 (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4766.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="FRANCA",NRJ12 (Copyright © 2018 by TeamBlue)
+http://144.217.253.140/NRJ12/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="FRANCA",NRJ12 HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4768.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/lcp_an_fr.png" group-title="FRANCA",LA CHAINE PARLAMENTAIRE (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/828/index.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE4" group-title="FRANCA",FRANCE 4 (Copyright © 2018 by TeamBlue)
+http://144.217.253.140/France4/mpegts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE4" group-title="FRANCA",FRANCE 4 HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4790.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png" group-title="FRANCA",BFM TV (Copyright © 2018 by TeamBlue)
 http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/gg/gulli_fr.png" group-title="FRANCA",GULLI (Copyright © 2018 by TeamBlue)
+http://144.217.253.140/Gulli/mpegts
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/gg/gulli_fr.png" group-title="FRANCA",GULLI HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4786.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCEO" group-title="FRANCA",FRANCE Ô (Copyright © 2018 by TeamBlue)
@@ -1109,6 +1125,8 @@ http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/417/inde
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4765.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" group-title="FRANCA",RMC DECOUVERTE HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4754.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1f/Ch%C3%A9rie_25_logo.svg/240px-Ch%C3%A9rie_25_logo.svg.png" group-title="FRANCA",CHERIE 25 (Copyright © 2018 by TeamBlue)
+http://144.217.253.140/Cherie25/mpegts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Ch%C3%A9rie_HD.png/revision/latest/scale-to-width-down/200?cb=20121211235057" group-title="FRANCA",CHERIE 25 HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4815.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="FRANCA",RTL9 (Copyright © 2018 by TeamBlue)
@@ -1236,13 +1254,15 @@ http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4800.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png" group-title="FRANCA",NICKELODEON JUNIOR (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4772.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/Tiji_logo.png" group-title="FRANCA",TIJI (Copyright © 2018 by TeamBlue)
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/143/index.m3u8
+http://144.217.253.140/tiji/mpegts
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_piwi_plus.png" group-title="FRANCA",PIWI+ (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4758.m3u8
+http://144.217.253.140/Piwi/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="FRANCA",BOOMERANG (Copyright © 2018 by TeamBlue)
-http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4826.m3u8
+http://144.217.253.140/Boomerang/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="FRANCA",CARTOON NETWORK (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4817.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" group-title="FRANCA",NICKELODEON (Copyright © 2018 by TeamBlue)
+http://144.217.253.140/Nickelodeon/mpegts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" group-title="FRANCA",NICKELODEON HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4770.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/900px-Disney_XD_-_2015.svg.png" group-title="FRANCA",DISNEY XD HD (Copyright © 2018 by TeamBlue)
@@ -1251,6 +1271,8 @@ http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4799.m3u8
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4818.m3u8
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/a9/Nickelodeon_4Teen.png/revision/latest?cb=20141227195118" group-title="FRANCA",NICKELODEON 4TEEN HD (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4771.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" group-title="FRANCA",BOING (Copyright © 2018 by TeamBlue)
+http://144.217.253.140/Boing/mpegts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" group-title="FRANCA",BABY TV (Copyright © 2018 by TeamBlue)
 http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4838.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-_bAyCgweAJs/WUxEs-UJe3I/AAAAAAAAHEE/LyMpsR8MX4EZQzZCTw8tZEpdX-k8JndfwCLcBGAs/s1600/canalplus_fr_infosport_plus.png" group-title="FRANCA",INFO SPORT+ HD (Copyright © 2018 by TeamBlue)
