@@ -25,10 +25,10 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt
 http://asdp.ddns.net:8000/live/andre/andre/347.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SICM.png" tvg-id="sicmulher.pt" group-title="PORTUGAL",SIC MULHER
 http://asdp.ddns.net:8000/live/andre/andre/360.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV+.png" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV+
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4148.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV+HD.png" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV+ HD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5770.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/RedeGlobo2005.png/revision/latest?cb=20130829104710" tvg-id="TV GloboPortugal" group-title="PORTUGAL",GLOBO
@@ -59,48 +59,48 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_sl
 http://asdp.ddns.net:8000/live/andre/andre/482.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TVIREALITY.png" tvg-id="TVIREAL" group-title="PORTUGAL",TVI REALITY
 http://asdp.ddns.net:8000/live/andre/andre/183.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/53u9oJ" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
-http://asdp.ddns.net:8000/live/andre/andre/177.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/opxFCY" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
-http://asdp.ddns.net:8000/live/andre/andre/202.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/RQNfJm" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
-http://asdp.ddns.net:8000/live/andre/andre/184.m3u8
-
-
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV4K.png" tvg-id="0" group-title="PORTUGAL",SPORT TV 4K
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12288.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV1.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1896.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV1HD.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/143.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV1HD.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 FHD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/101.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV2.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/103.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV2HD.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5386.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV2HD.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 FHD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/415.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV3.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/104.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV3HD.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5387.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV3HD.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 FHD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/974.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV4.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/106.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV4HD.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5388.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV4HD.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 FHD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/107.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV5.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/418.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV5HD.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5389.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV5HD.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 FHD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/108.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BENFICATV.png" tvg-id="BenficaTV.pt" group-title="PORTUGAL",BENFICA TV
-http://asdp.ddns.net:8000/live/andre/andre/475.m3u8
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2239.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BENFICATV.png" tvg-id="BenficaTV.pt" group-title="PORTUGAL",BENFICA TV HD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2241.m3u8
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://teamblue65.fhio.pw/IMAGENS/CANAIS/SPORTING.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/109.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue65.fhio.pw/IMAGENS/CANAIS/SPORTING.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV HD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2298.m3u8
 #EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/01/Eurosport1_monogram.jpg" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
 http://asdp.ddns.net:8000/live/andre/andre/499.m3u8
 
@@ -143,26 +143,26 @@ http://asdp.ddns.net:8000/live/andre/andre/497.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NDgJgRa.png" tvg-id="0" group-title="PORTUGAL",SUPER RTL
 http://37.201.161.45:9981/stream/channelid/1265272685
-
-
+#EXTINF:-1 tvg-logo="https://goo.gl/45iXdg" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/89.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/45iXdg" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1 HD
-http://asdp.ddns.net:8000/live/andre/andre/405.m3u8
-
-
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1256.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/a1cPSr" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/90.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/a1cPSr" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2 HD
-http://asdp.ddns.net:8000/live/andre/andre/301.m3u8
-
-
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1255.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/esNHqY" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/91.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/esNHqY" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3 HD
-http://asdp.ddns.net:8000/live/andre/andre/476.m3u8
-
-
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1254.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Ayw9Pt" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/92.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Ayw9Pt" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4 HD
-http://asdp.ddns.net:8000/live/adriano/adriano/302.m3u8
-
-
-
-
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1253.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/xUTxhf" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSERIES
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1096.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/xUTxhf" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSERIES HD
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1257.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1280px-HWD_logo.svg.png" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD
 http://asdp.ddns.net:8000/live/andre/andre/205.m3u8
 
