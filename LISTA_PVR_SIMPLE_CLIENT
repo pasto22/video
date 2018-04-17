@@ -33,8 +33,6 @@ http://87.118.138.144:8030/play/a02w
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" tvg-id="CMTV.pt" group-title="PORTUGAL",CM TV
 http://87.118.138.144:8030/play/a049
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" tvg-id="CMTV.pt" group-title="PORTUGAL",CM TV HD
-http://62.210.102.124:8000/live/eng/eng/3632.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RTPMEMORIA.png" tvg-id="rtpmemoria.pt" group-title="PORTUGAL",RTP MEMORIA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/24KITCHENHD.png" tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 KITCHEN HD
@@ -49,34 +47,22 @@ http://87.118.138.144:8031/play/a045
 http://asdp.ddns.net:8000/live/andre/andre/177.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV1HD.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
 http://87.118.138.144:8031/play/a03e
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV2.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2
-http://62.210.102.124:8000/live/eng/eng/17.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV2HD.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
 http://87.118.138.144:8031/play/a03f
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV3.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
-http://62.210.102.124:8000/live/eng/eng/18.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV3HD.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
 http://87.118.138.144:8031/play/a03g
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV4.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
 http://87.118.138.144:8030/play/a00m
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV4HD.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
-http://62.210.102.124:8000/live/eng/eng/801.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV5.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
 http://87.118.138.144:8031/play/a04c
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPTV5HD.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
-http://62.210.102.124:8000/live/eng/eng/802.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BENFICATV.png" tvg-id="BenficaTV.pt" group-title="PORTUGAL",BENFICA TV
 http://asdp.ddns.net:8000/live/andre/andre/475.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BENFICATVHD.png" tvg-id="BenficaTV.pt" group-title="PORTUGAL",BENFICA TV HD
 http://87.118.138.144:8031/play/a03k
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPORTINGTV.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV
 http://87.118.138.144:8031/play/a04f
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPORTINGTVHD.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV HD
-http://62.210.102.124:8000/live/eng/eng/3593.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/EUROSPORT.png" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
 http://87.118.138.144:8030/play/a00a
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/EUROSPORTHD.png" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT HD
-http://62.210.102.124:8000/live/eng/eng/193.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/EUROSPORT2.png" tvg-id="eurosport2.pt" group-title="PORTUGAL",EUROSPORT 2
 http://87.118.138.144:8030/play/a036
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/EUROSPORTNEWS.png" tvg-id="0" group-title="PORTUGAL",EUROSPORT NEWS
@@ -110,13 +96,9 @@ http://87.118.138.144:8030/play/a00k
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM
 http://87.118.138.144:8030/play/a00n
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SUPERRTL.png" tvg-id="0" group-title="PORTUGAL",SUPER RTL
-http://37.201.161.45:9981/stream/channelid/1265272685
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TVC1.png" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1
-http://62.210.102.124:8000/live/eng/eng/28.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/660/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TVC1HD.png" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1 HD
 http://87.118.138.144:8031/play/a03u
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TVC2.png" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2
-http://62.210.102.124:8000/live/eng/eng/164.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TVC2HD.png" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2 HD
 http://87.118.138.144:8031/play/a03o
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TVC3.png" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
@@ -127,8 +109,6 @@ http://asdp.ddns.net:8000/live/andre/andre/476.m3u8
 http://87.118.138.144:8030/play/a044
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TVC4HD.png" tvg-id="TVCine4.pt" group-title="PORTUGAL",TVCINE 4 HD
 http://asdp.ddns.net:8000/live/adriano/adriano/302.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TVSERIES.png" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSERIES
-http://62.210.102.124:8000/live/eng/eng/54.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TVSERIESHD.png" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSERIES HD
 http://87.118.138.144:8030/play/a012
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CANALHOLLYWOOD.png" tvg-id="hollywood.pt" group-title="PORTUGAL",HOLLYWOOD
@@ -139,8 +119,6 @@ http://87.118.138.144:8031/play/a03c
 http://87.118.138.144:8030/play/a00b
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FOXMOVIES.png" tvg-id="FOXM" group-title="PORTUGAL",FOX MOVIES
 http://87.118.138.144:8031/play/a048
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FOXMOVIESHD.png" tvg-id="FOXM" group-title="PORTUGAL",FOX MOVIES HD
-http://62.210.102.124:8000/live/eng/eng/3635.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FOXHD.png" tvg-id="fox.pt" group-title="PORTUGAL",FOX HD
 http://87.118.138.144:8031/play/a03j
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AXNHD.png" tvg-id="axn.pt" group-title="PORTUGAL",AXN HD
@@ -151,20 +129,14 @@ http://87.118.138.144:8031/play/a041
 http://87.118.138.144:8031/play/a042
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FOXCOMEDY.png" tvg-id="0" group-title="PORTUGAL",FOX COMEDY
 http://87.118.138.144:8030/play/a02v
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FOXCOMEDYHD.png" tvg-id="0" group-title="PORTUGAL",FOX COMEDY HD
-http://62.210.102.124:8000/live/eng/eng/3636.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AXNWHITEHD.png" tvg-id="AXNWhite.pt" group-title="PORTUGAL",AXN WHITE HD
 http://87.118.138.144:8031/play/a040
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AXNBLACKHD.png" tvg-id="AXNBlack.pt" group-title="PORTUGAL",AXN BLACK HD
 http://87.118.138.144:8031/play/a03z
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SYFY.png" tvg-id="SyFy.pt" group-title="PORTUGAL",SYFY
 http://87.118.138.144:8030/play/a00v
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AMC.png" tvg-id="AMC" group-title="PORTUGAL",AMC
-http://62.210.102.124:8000/live/eng/eng/35.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AMC.png" tvg-id="0" group-title="PORTUGAL",AMC HD
 http://87.118.138.144:8031/play/a03v
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="0" group-title="PORTUGAL",MTV PORTUGAL
-http://62.210.102.124:8000/live/eng/eng/173.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" tvg-id="0" group-title="PORTUGAL",MTV DANCE
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MTV_Hits_2017_logo.svg/1024px-MTV_Hits_2017_logo.svg.png" tvg-id="0" group-title="PORTUGAL",MTV HITS
@@ -181,8 +153,6 @@ http://87.118.138.144:8030/play/a00r
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/67/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AFROMUSIC.png" tvg-id="AFRO" group-title="PORTUGAL",AFRO MUSIC
 http://87.118.138.144:8030/play/a047
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TRACEURBAN.png" tvg-id="TRACE TV" group-title="PORTUGAL",TRACE TV
-http://62.210.102.124:8000/live/eng/eng/3581.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DISCOVERYCHANNEL.png" tvg-id="discoverychannel.pt" group-title="PORTUGAL",DISCOVERY
 http://87.118.138.144:8030/play/a00y
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NATGEO.png" tvg-id="nationalgeographic.pt" group-title="PORTUGAL",NATIONAL GEOGRAPHIC
@@ -201,20 +171,10 @@ http://87.118.138.144:8031/play/a049
 http://87.118.138.144:8031/play/a047
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/E!.png" tvg-id="E" group-title="PORTUGAL",E! ENTERTAINMENT
 http://87.118.138.144:8030/play/a02x
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TRAVELCHANNEL.png" tvg-id="TRV.pt" group-title="PORTUGAL",TRAVEL CHANNEL
-http://62.210.102.124:8000/live/eng/eng/36.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FTV.png" tvg-id="0" group-title="PORTUGAL",FTV
-http://62.210.102.124:8000/live/eng/eng/3590.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/2000px-Food_Network_Logo.svg.png" tvg-id="FOOD" group-title="PORTUGAL",FOOD NETWORK
-http://62.210.102.124:8000/live/eng/eng/3382.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CBSREALITY.png" tvg-id="CBSReality" group-title="PORTUGAL",CBS REALITY
 http://87.118.138.144:8030/play/a013
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BBCENTERT.png" tvg-id="0" group-title="PORTUGAL",BBC ENTERTAINMENT
-http://62.210.102.124:8000/live/eng/eng/695.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" tvg-id="0" group-title="PORTUGAL",GLOBO PREMIUM
 http://87.118.138.144:8030/play/a035
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" tvg-id="0" group-title="PORTUGAL",GLOBO PREMIUM HD
-http://62.210.102.124:8000/live/eng/eng/3633.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRecord" group-title="PORTUGAL",TV RECORD
 http://asdp.ddns.net:8000/live/andre/andre/420.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRecord" group-title="PORTUGAL",TV RECORD HD
@@ -231,8 +191,6 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BBCWORLDNEWS.png" tvg-id="0" group-title="PORTUGAL",BBC WORLD NEWS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" tvg-id="0" group-title="PORTUGAL",CNBC
-http://62.210.102.124:8000/live/eng/eng/3582.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CBSNEWS.png" tvg-id="0" group-title="PORTUGAL",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RAINEWS24.png" tvg-id="0" group-title="PORTUGAL",RAI NEWS 24
@@ -254,25 +212,21 @@ http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u
 #EXTINF:-1 tvg-logo="http://www.rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" tvg-id="TCV" group-title="PORTUGAL",TCV
 http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/VOX.png" tvg-id="0" group-title="PORTUGAL",VOX
-http://37.201.161.45:9981/stream/channelid/39756137
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/661/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RTL.png" tvg-id="0" group-title="PORTUGAL",RTL
-http://37.201.161.45:9981/stream/channelid/1042625094
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/658/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" tvg-id="0" group-title="PORTUGAL",TV GALICIA
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/M6.png" tvg-id="0" group-title="PORTUGAL",M6
 http://144.217.253.140/M6/mpegts
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TV5MONDE.png" tvg-id="0" group-title="PORTUGAL",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CANALTOROS.png" tvg-id="TOROTV.pt" group-title="PORTUGAL",TOROS TV
-http://62.210.102.124:8000/live/eng/eng/337.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CACAEPESCA.png" tvg-id="CacaePesca" group-title="PORTUGAL",CACA & PESCA
 http://87.118.138.144:8031/play/a04i
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CACAVISION.png" tvg-id="Cacaavision" group-title="PORTUGAL",CACAVISION
 http://87.118.138.144:8031/play/a03b
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cQ4UFEO.png" tvg-id="FightNetwork" group-title="PORTUGAL",FIGHT NETWORK
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cQ4UFEO.png" tvg-id="FightNetwork" group-title="PORTUGAL",FIGHT NETWORK HD
-http://62.210.102.124:8000/live/eng/eng/3380.m3u8
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg" tvg-id="0" group-title="PORTUGAL",DJING CLASSIC
 http://www.djing.com/tv/i-05.m3u8
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" tvg-id="0" group-title="PORTUGAL",DJING DANCE FLOOR MUSIC
@@ -287,20 +241,14 @@ http://87.118.138.144:8030/play/a00w
 http://87.118.138.144:8031/play/a04k
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BARCATV.png" tvg-id="BarcaTV" group-title="PORTUGAL",BARCA TV
 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="RMTV.pt" group-title="PORTUGAL",REAL MADRID TV
-http://62.210.102.124:8000/live/eng/eng/151.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="RMTV.pt" group-title="PORTUGAL",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NBATV.png" tvg-id="0" group-title="PORTUGAL",NBA
 http://87.118.138.144:8030/play/a02o
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="0" group-title="PORTUGAL",KOMBAT SPORT
 http://87.118.138.144:8031/play/a03d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/1280px-C%26I_logo.svg.png" tvg-id="0" group-title="PORTUGAL",CRIME & INVESTIGATION
-http://62.210.102.124:8000/live/eng/eng/3381.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" tvg-id="0" group-title="PORTUGAL",DISCOVERY SHOWCASE
 http://87.118.138.144:8031/play/a04h
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FINELIVING.png" tvg-id="FLIVINGHD" group-title="PORTUGAL",FINE LIVING NETWORK
-http://62.210.102.124:8000/live/eng/eng/3379.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" tvg-id="0" group-title="PORTUGAL",REDE TV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BAND.png" tvg-id="0" group-title="PORTUGAL",BAND
@@ -384,57 +332,49 @@ http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/ZDF.png" tvg-id="" group-title="ALEMANHA",ZDF
 http://213.215.84.17:8000/play/zdf/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/ZDFHD.png" tvg-id="" group-title="ALEMANHA",ZDF HD
-http://37.201.161.45:9981/stream/channelid/363582711
+http://217.252.97.181:9981/stream/channelid/1038964480
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RTL.png" tvg-id="" group-title="ALEMANHA",RTL
-http://37.201.161.45:9981/stream/channelid/1042625094
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/658/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RTLHD.png" tvg-id="" group-title="ALEMANHA",RTL HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/454/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SAT1.png" tvg-id="" group-title="ALEMANHA",Sat.1
-http://37.201.161.45:9981/stream/channelid/1295223717
+http://213.215.84.17:8000/play/sat1/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SAT1HD.png" tvg-id="" group-title="ALEMANHA",Sat.1 HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/483/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/PROSIEBEN.png" tvg-id="" group-title="ALEMANHA",ProSieben
-http://37.201.161.45:9981/stream/channelid/98508998
+http://213.215.84.17:8000/play/prosieben/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/PROSIEBENHD.png" tvg-id="" group-title="ALEMANHA",ProSieben HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/641/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/KABELEINS.png" tvg-id="" group-title="ALEMANHA",kabel eins
-http://37.201.161.45:9981/stream/channelid/129499741
+http://213.215.84.17:8000/play/kabel1/index.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/KABELEINSHD.png" tvg-id="" group-title="ALEMANHA",kabel eins HD
+http://90.75.191.32:8000/play/a0my/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RTL2.png" tvg-id="" group-title="ALEMANHA",RTL II
-http://37.201.161.45:9981/stream/channelid/738967736
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/659/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RTL2HD.png" tvg-id="" group-title="ALEMANHA",RTL II HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/457/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/VOX.png" tvg-id="" group-title="ALEMANHA",VOX
-http://37.201.161.45:9981/stream/channelid/39756137
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/661/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/VOXHD.png" tvg-id="" group-title="ALEMANHA",VOX HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/455/index.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/3SAT.png" tvg-id="" group-title="ALEMANHA",3SAT
-http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/3SATHD.png" tvg-id="" group-title="ALEMANHA",3SAT HD
-http://37.201.161.45:9981/stream/channelid/899994976
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/ARTE.png" tvg-id="" group-title="ALEMANHA",arte
 http://213.215.84.17:8000/play/arte/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/ARTEHD.png" tvg-id="" group-title="ALEMANHA",arte HD
-http://37.201.161.45:9981/stream/channelid/1634536492
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/777/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/ZDFNEO.png" tvg-id="" group-title="ALEMANHA",zdf_neo
 http://213.215.84.17:8000/play/zdfneo/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/ZDFNEOHD.png" tvg-id="" group-title="ALEMANHA",zdf_neo HD
 http://217.252.97.181:9981/stream/channelid/903602001
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/2000px-One_TV_Logo.svg.png" tvg-id="" group-title="ALEMANHA",ONE
 http://213.215.84.17:8000/play/orf1/index.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SIXX.png" tvg-id="" group-title="ALEMANHA",sixx
-http://37.201.161.45:9981/stream/channelid/2089820410
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SIXXHD.png" tvg-id="" group-title="ALEMANHA",sixx HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/643/index.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DMAXX.png" tvg-id="" group-title="ALEMANHA",DMAX
-http://37.201.161.45:9981/stream/channelid/1086741668
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png" tvg-id="" group-title="ALEMANHA",TELE 5
-http://37.201.161.45:9981/stream/channelid/1488829744
+http://217.252.97.181:9981/stream/channelid/707671468
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SERVUS.png" tvg-id="" group-title="ALEMANHA",Servus TV Deutschland
-http://213.215.84.17:8000/play/servustv/index.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SERVUSHD.png" tvg-id="" group-title="ALEMANHA",Servus TV Deutschland HD
-http://217.252.97.181:9981/stream/channelid/339563446
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/438/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/PROSIEBENMAXX.png" tvg-id="" group-title="ALEMANHA",ProSieben MAXX
-http://37.201.161.45:9981/stream/channelid/1967529567
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/761/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/PROSIEBENMAXXHD.png" tvg-id="" group-title="ALEMANHA",ProSieben MAXX HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/644/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RTLNITRO.png" tvg-id="" group-title="ALEMANHA",NITRO
@@ -452,7 +392,7 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/HRFERNSEHEN.png" tvg-id="" group-title="ALEMANHA",hr
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/HRFERNSEHEN.png" tvg-id="" group-title="ALEMANHA",hr HD
-http://37.201.161.45:9981/stream/channelid/1983640886
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/787/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/MDRFERNSEHEN.png" tvg-id="" group-title="ALEMANHA",MDR
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/785/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RBB.png" tvg-id="" group-title="ALEMANHA",rbb
@@ -469,10 +409,6 @@ http://orf2.orf.cdn.ors.at/orf2/q4a.sdp/chunklist.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/697/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TAGESSCHAU24.png" tvg-id="" group-title="ALEMANHA",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/PHOENIXHD.png" tvg-id="" group-title="ALEMANHA",Phoenix HD
-http://37.201.161.45:9981/stream/channelid/1106318374
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/N24Doku.png" tvg-id="" group-title="ALEMANHA",N24 Doku
-http://37.201.161.45:9981/stream/channelid/447842967
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NTV.png" tvg-id="" group-title="ALEMANHA",n-tv
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/664/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NTVHD.png" tvg-id="" group-title="ALEMANHA",n-tv HD
@@ -485,8 +421,6 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BLOOMBERGTV.png" tvg-id="" group-title="ALEMANHA",Bloomberg
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" tvg-id="" group-title="ALEMANHA",CNBC
-http://62.210.102.124:8000/live/eng/eng/3582.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CNN.png" tvg-id="" group-title="ALEMANHA",CNN
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FRANCE24.png" tvg-id="" group-title="ALEMANHA",France 24 EN
@@ -494,57 +428,33 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FRANCE24.png" tvg-id="" group-title="ALEMANHA",France 24 FR
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPORT1.png" tvg-id="" group-title="ALEMANHA",Sport1
-http://37.201.161.45:9981/stream/channelid/1743657768
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/774/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPORT1HD.png" tvg-id="" group-title="ALEMANHA",Sport1 HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/453/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SPORT1HD.png" tvg-id="" group-title="ALEMANHA",Sport1+ HD
 http://188.62.183.163:9981/stream/channelid/754132398
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/EUROSPORT.png" tvg-id="" group-title="ALEMANHA",Eurosport
-http://37.201.161.45:9981/stream/channelid/685253795
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/682/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/EUROSPORT2.png" tvg-id="" group-title="ALEMANHA",Eurosport 2
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/471/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" tvg-id="" group-title="ALEMANHA",Sky Sport News
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/460/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" tvg-id="" group-title="ALEMANHA",Sky Sport News HD
-https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" tvg-id="" group-title="ALEMANHA",Sky Sport 1 DE
-http://37.201.161.45:9981/stream/channelid/1759394216
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/737/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 2 DE
-http://37.201.161.45:9981/stream/channelid/1830320488
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 3 DE
-http://37.201.161.45:9981/stream/channelid/294122836
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 4 DE
-http://37.201.161.45:9981/stream/channelid/401583500
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 5 DE
-http://37.201.161.45:9981/stream/channelid/1157180009
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 6 DE
-http://37.201.161.45:9981/stream/channelid/1367590657
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 7 DE
-http://37.201.161.45:9981/stream/channelid/1222813001
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/733/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/760417308514942976/cnZZiUoa.jpg" tvg-id="" group-title="ALEMANHA",Sky Sport Austria
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/746/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 1
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/725/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 1 HD
-http://37.201.161.45:9981/stream/channelid/877874654
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 2
-http://37.201.161.45:9981/stream/channelid/2134236476
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 3
-http://37.201.161.45:9981/stream/channelid/1794929871
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 4
-http://37.201.161.45:9981/stream/channelid/16439713
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 5
-http://37.201.161.45:9981/stream/channelid/1188326283
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 6
-http://37.201.161.45:9981/stream/channelid/1842562206
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AUTOMOTO.png" tvg-id="" group-title="ALEMANHA",auto motor und sport channel
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/635/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SUPERRTL.png" tvg-id="" group-title="ALEMANHA",Super RTL
-http://37.201.161.45:9981/stream/channelid/1265272685
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/660/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SUPERRTLHD.png" tvg-id="" group-title="ALEMANHA",Super RTL Hd
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/468/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DISNEYCHANNEL.png" tvg-id="" group-title="ALEMANHA",Disney Channel
-http://37.201.161.45:9981/stream/channelid/234070065
+http://90.75.191.32:8000/play/a0mk/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/35/Toggo2013.png/revision/latest/scale-to-width-down/220?cb=20140116181412" tvg-id="" group-title="ALEMANHA",Toggo Plus
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/665/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/.png" tvg-id="" group-title="ALEMANHA",Disney Jr. HD
@@ -573,16 +483,14 @@ http://87.118.138.144:8030/play/a00r
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/431/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DELUXEMUSIC.png" tvg-id="" group-title="ALEMANHA",Deluxe Music
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/439/index.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DELUXEMUSICHD.png" tvg-id="" group-title="ALEMANHA",Deluxe Music HD
+http://90.75.191.32:8000/play/a0mn/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BIBEL.png" tvg-id="" group-title="ALEMANHA",Bibel TV
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/806/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BLIZZ.png" tvg-id="" group-title="ALEMANHA",bliz
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DISCOVERYCHANNEL.png" tvg-id="" group-title="ALEMANHA",Discovery
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/715/index.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FINELIVING.png" tvg-id="" group-title="ALEMANHA",Fine Living Network
-http://62.210.102.124:8000/live/eng/eng/3379.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/2000px-Food_Network_Logo.svg.png" tvg-id="" group-title="ALEMANHA",Food Network
-http://62.210.102.124:8000/live/eng/eng/3382.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NATGEOHD.png" tvg-id="" group-title="ALEMANHA",NatGeo HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/731/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NATGEOHD.png" tvg-id="" group-title="ALEMANHA",Nat Geo Wild HD
@@ -596,41 +504,31 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QQKlYDm.png" tvg-id="" group-title="ALEMANHA",Sky Cinema
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/712/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QQKlYDm.png" tvg-id="" group-title="ALEMANHA",Sky Cinema HD
-http://37.201.161.45:9981/stream/channelid/810975848
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/739/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.schau-hd.tv/attachments/82/Sky_CINEMA__1_HD_On_White_DE_RGB.png" tvg-id="" group-title="ALEMANHA",Sky Cinema +1
-http://37.201.161.45:9981/stream/channelid/631257266
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/705/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.schau-hd.tv/attachments/82/Sky_CINEMA__1_HD_On_White_DE_RGB.png" tvg-id="" group-title="ALEMANHA",Sky Cinema +1 HD
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/705/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9voxbPV.png" tvg-id="" group-title="ALEMANHA",Sky Cinema +24
-http://37.201.161.45:9981/stream/channelid/1440324048
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9voxbPV.png" tvg-id="" group-title="ALEMANHA",Sky Cinema +24 HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/706/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/2b/Sky_de_cinema_action.png/revision/latest?cb=20170105095524" tvg-id="" group-title="ALEMANHA",Sky Cinema Action
-http://37.201.161.45:9981/stream/channelid/1739056223
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lostpedia/images/9/93/800px-SKYONE.png/revision/latest?cb=20110602135059" tvg-id="" group-title="ALEMANHA",Sky 1 HD
-http://37.201.161.45:9981/stream/channelid/1132487006
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/700/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Arts_logo.svg/1280px-Sky_Arts_logo.svg.png" tvg-id="" group-title="ALEMANHA",Sky Arts HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/476/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d3/Sky_Atlantic.svg/revision/latest/scale-to-width-down/300?cb=20111101112901" tvg-id="" group-title="ALEMANHA",Sky Atlantic
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/723/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d3/Sky_Atlantic.svg/revision/latest/scale-to-width-down/300?cb=20111101112901" tvg-id="" group-title="ALEMANHA",Sky Atlantic HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/729/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/grFgBdy.png" tvg-id="" group-title="ALEMANHA",Sky Cinema Comedy
-http://37.201.161.45:9981/stream/channelid/1028386635
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Ockq1Rx.png" tvg-id="" group-title="ALEMANHA",Sky Cinema Emotion
-http://37.201.161.45:9981/stream/channelid/360690403
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/717/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0DAevQo.png" tvg-id="" group-title="ALEMANHA",Sky Cinema Nostalgie
-http://37.201.161.45:9981/stream/channelid/908231854
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/728/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Sky_cinema_family_hd_2016.png" tvg-id="" group-title="ALEMANHA",Sky Cinema Family
-http://37.201.161.45:9981/stream/channelid/1950343586
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Sky_Cinema_Hits_DE_Logo_2016.png" tvg-id="" group-title="ALEMANHA",Sky Cinema Hits
-http://37.201.161.45:9981/stream/channelid/1111995828
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/727/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" tvg-id="" group-title="ALEMANHA",Sky Select
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/716/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5eoEc3O.png" tvg-id="" group-title="ALEMANHA",Sky Krimi
-http://37.201.161.45:9981/stream/channelid/1943302895
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/E!.png" tvg-id="" group-title="ALEMANHA",E! Entertainment
-http://85.10.115.107:9981/play/a00o
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/718/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wxDZUM" tvg-id="" group-title="ALEMANHA",History
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/698/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/13THSTREET.png" tvg-id="" group-title="ALEMANHA",13th Street HD
@@ -644,21 +542,15 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/719/inde
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TNTFILM.png" tvg-id="" group-title="ALEMANHA",TNT Film
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/740/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TNTSERIE.png" tvg-id="" group-title="ALEMANHA",TNT Serie
-http://37.201.161.45:9981/stream/channelid/1198123805
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/751/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Romance_TV_Logo_2015.png" tvg-id="" group-title="ALEMANHA",Romance TV
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/461/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RTLLIVING.png" tvg-id="" group-title="ALEMANHA",RTL Living
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/470/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/UNIVERSALCHANNELHD.png" tvg-id="" group-title="ALEMANHA",Universal Channel HD
 http://85.10.115.107:9981/play/a00n
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BBCENTERT.png" tvg-id="" group-title="ALEMANHA",BBC Entertainment
-http://62.210.102.124:8000/live/eng/eng/695.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FTV.png" tvg-id="" group-title="ALEMANHA",FTV
-http://62.210.102.124:8000/live/eng/eng/3590.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/MEZZO.png" tvg-id="" group-title="ALEMANHA",Mezzo
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/67/index.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TRACEURBAN.png" tvg-id="" group-title="ALEMANHA",Trace TV
-http://62.210.102.124:8000/live/eng/eng/3581.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/ICO/ESPANHA.png",ESPANHA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" tvg-id="" group-title="ESPANHA",LA 1
@@ -671,8 +563,6 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" tvg-id="" group-title="ESPANHA",CUATRO HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/616/index.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TELECINCO.png" tvg-id="" group-title="ESPANHA",TELECINCO
-http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TELECINCO.png" tvg-id="" group-title="ESPANHA",TELECINCO HD
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/LASEXTA.png" tvg-id="" group-title="ESPANHA",LA SEXTA
@@ -733,8 +623,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/inde
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/577/index.m3u8
 #EXTINF:-1 tvg-logo="http://cinestrenostv.tv/img/13tv.png" tvg-id="" group-title="ESPANHA",TRECE
 http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" tvg-id="" group-title="ESPANHA",PARAMOUNT CHANNEL
-http://paramount.live.flumotion.com/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" tvg-id="" group-title="ESPANHA",MOVISTAR FUTBOL
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" tvg-id="" group-title="ESPANHA",MOVISTAR FUTBOL HD
@@ -757,20 +645,16 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/inde
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/569/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png" tvg-id="" group-title="ESPANHA",LALIGA TV
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="" group-title="ESPANHA",REAL MADRID TV
-http://62.210.102.124:8000/live/eng/eng/151.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="" group-title="ESPANHA",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BARCATV.png" tvg-id="" group-title="ESPANHA",BARCA TV
 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TELEDEPORTE.png" tvg-id="" group-title="ESPANHA",TELEDEPORTE HD
-http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/EUROSPORTHD.png" tvg-id="" group-title="ESPANHA",EUROSPORT 1 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a" tvg-id="" group-title="ESPANHA",IBERALIA
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/603/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a" tvg-id="" group-title="ESPANHA",IBERALIA HD
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/803/index.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CANALTOROS.png" tvg-id="" group-title="ESPANHA",TOROS TV
-http://62.210.102.124:8000/live/eng/eng/337.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" tvg-id="" group-title="ESPANHA",DIVINITY
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RADIONOVA.png" tvg-id="" group-title="ESPANHA",NOVA
@@ -781,8 +665,6 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DISNEYJUNIOR.png" tvg-id="" group-title="ESPANHA",DISNEY JUNIOR
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/604/index.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BOING.png" tvg-id="" group-title="ESPANHA",BOING
-https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="" group-title="ESPANHA",MTV
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/2000px-VH1_logonew.svg.png" tvg-id="" group-title="ESPANHA",VH1 EUROPE
@@ -805,8 +687,6 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" tvg-id="" group-title="ESPANHA",RUSSIA TODAY ESPAÑOL HD
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/482/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" tvg-id="" group-title="ESPANHA",CNBC
-http://62.210.102.124:8000/live/eng/eng/3582.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TV5MONDE.png" tvg-id="" group-title="ESPANHA",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BLOOMBERGTV.png" tvg-id="" group-title="ESPANHA",BLOOMBERG
@@ -816,11 +696,7 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Canal_de_las_Estrellas_2006_logo.PNG" tvg-id="" group-title="ESPANHA",LAS ESTRELLAS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" tvg-id="" group-title="ESPANHA",TELESUR
-http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CANALSURANDALUCIA.png" tvg-id="" group-title="ESPANHA",CANAL SUR ANDALUCIA
-http://195.55.74.208/rtva/andaluciatelevision-iphone/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Movistar%2B.svg/1200px-Movistar%2B.svg.png" tvg-id="" group-title="ESPANHA",MOVISTAR+
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/ICO/FRANCA.png",FRANCA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TF1.png" tvg-id="" group-title="FRANÇA",TF1
@@ -895,8 +771,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/496/inde
 http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CHASSE&PESCE.png" tvg-id="" group-title="FRANÇA",CHASSE & PECHE
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/490/index.m3u8
-#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FTV.png" tvg-id="" group-title="FRANÇA",FTV
-http://62.210.102.124:8000/live/eng/eng/3590.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333" tvg-id="" group-title="FRANÇA",NRJ HITS
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333" tvg-id="" group-title="FRANÇA",NRJ HITS HD
@@ -923,8 +797,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/inde
 http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BLOOMBERGTV.png" tvg-id="" group-title="FRANÇA",BLOOMBERG
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" tvg-id="" group-title="FRANÇA",CNBC
-http://62.210.102.124:8000/live/eng/eng/3582.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BFMSPORT.png" tvg-id="" group-title="FRANÇA",BFM SPORT
 http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-E3-InnOxiBQ/VRolXQDpTNI/AAAAAAAAAVQ/kan59AVfeDY/s1600/Weo-Tv-Direct.png" tvg-id="" group-title="FRANÇA",WEO
@@ -933,6 +805,8 @@ http://str81.creacast.com/weo/high/live.m3u8
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RAIHD.png" tvg-id="" group-title="ITALIA",RAI 1 HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/965/index.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RAI3.png" tvg-id="" group-title="ITALIA",RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RAI3HD.png" tvg-id="" group-title="ITALIA",RAI 3 HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/963/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zjcI6EQ.png" tvg-id="" group-title="ITALIA",RETE 4
@@ -1087,8 +961,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BLOOMBERGTV.png" tvg-id="" group-title="UK",BLOOMBERG
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" tvg-id="" group-title="UK",CNBC
-http://62.210.102.124:8000/live/eng/eng/3582.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1280px-RT%C3%89_One_2014.svg.png" tvg-id="" group-title="UK",RTE ONE
 http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png" tvg-id="" group-title="UK",RTE TWO
