@@ -309,8 +309,8 @@ http://87.118.138.144:8030/play/a013
 http://87.118.138.144:8030/play/a035
 
 
-
-
+#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRecord" group-title="PORTUGAL",TV RECORD
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRecord" group-title="PORTUGAL",TV RECORD HD
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CNN.png" tvg-id="0" group-title="PORTUGAL",CNN
@@ -399,8 +399,8 @@ http://87.118.138.144:8031/play/a04k
 
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BARCATV.png" tvg-id="BarcaTV" group-title="PORTUGAL",BARCA TV
 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="RMTV.pt" group-title="PORTUGAL",REAL MADRID TV
+http://digiveo.ml:88/digiveo/digiveo.com/11
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="RMTV.pt" group-title="PORTUGAL",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
@@ -459,12 +459,12 @@ http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasi
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/db/Rede_Brasil.png/revision/latest/scale-to-width-down/250?cb=20151004204643" tvg-id="" group-title="BRASIL",REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="" group-title="BRASIL",RECORD
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="" group-title="BRASIL",RECORD HD
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eo6n0fp.png" tvg-id="" group-title="BRASIL",RECORD SP
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
 
@@ -481,8 +481,8 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" tvg-id="" group-title="BRASIL",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/GLOBO.png" tvg-id="" group-title="BRASIL",GLOBO
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJGCw0EAVdWWQQFAwIEVwlVAwMOUVNSBAFRXAlQBwhQCAURFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUgBcHkZAWwEaXxpQAwxWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcMAwlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAQEACxMf
 
 
 
@@ -521,8 +521,8 @@ http://54.39.52.133/SPORTV3-SD/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1200px-Multishow_logo_red_2012.svg.png" tvg-id="" group-title="BRASIL",MULTISHOW
+http://185.152.66.81:25461/live/ezequiel/12345/1785.m3u8?token=SUZYUxZQRwJGClkFBVMGDQFWVFgFVVRXBgIBAgdXBFJXUwcHUQEHDQcRFERGFhddV1loCFdHC1cDDQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdQBFMJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVZCl0TShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVVBVMIREk=
 
 
 
@@ -565,6 +565,8 @@ http://177.21.92.234:8000/play/a00k/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FOXLIFE.png" tvg-id="" group-title="BRASIL",FOX LIFE
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1817.ts?token=SUZYUxZQRwJGBFxVDVVQCQVQUwUFUQQFB1MPAwFTBgAFBwcBUAkGCwERFERGFhddV1loCFdHC1cMBA4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGVgVSHkZAWwEaXxpVAQlTDUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIBQRVF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQLAgNbFxk=
 
 
 
@@ -579,10 +581,8 @@ http://177.21.92.234:8000/play/a00k/index.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" tvg-id="" group-title="BRASIL",FOX SPORTS 2 BR HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2158.ts?token=SUZYUxZQRwJGAwBfBFdSD1MCAwIHXQEEAARfVwVaV1EGXQgHBAwDCAIRFERGFhddV1loCFdHC1QFAAEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGVQZRHkZAWwEaXxpVCgFRBkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwhXF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQACgRSFxk=
 
 
 
@@ -597,6 +597,12 @@ http://177.21.92.234:8000/play/a00q/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/ANIMALPLANET.png" tvg-id="" group-title="BRASIL",ANIMAL PLANET
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1864.ts?token=SUZYUxZQRwJGBFlTA1tTCVMDAgQBXANRBQcPA1UGB1EGVAZUXQwGCgcRFERGFhddV1loCFdHC1cMAw0fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFVgNTHkZAWwEaXxpWAghRB0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAAJTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYIAQRQFxk=
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/ANIMALPLANETHD.png" tvg-id="" group-title="BRASIL",ANIMAL PLANET HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1863.ts?token=SUZYUxZQRwJGClxSBVZWWwUFDgVWUQgEV1QMVVNaBlZRVQUCBAtWC1wRFERGFhddV1loCFdHC1cMAwofExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFVwdTHkZAWwEaXxpWAwFVAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwdUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgILAgVASA==
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/HISTORIA.png" tvg-id="" group-title="BRASIL",HISTORIA
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1797.ts?token=SUZYUxZQRwJGA10AAQZcXA4GDlJWAwcDUVEMUQBVVwIHXFFQVQxTC1QRFERGFhddV1loCFdHC1cDDA4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIIUgdSHkZAWwEaXxpVCwlfBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwRQF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQABwZaFxk=
 
 
 
@@ -625,16 +631,10 @@ http://177.21.92.234:8000/play/a00q/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" tvg-id="" group-title="BRASIL",DISCOVERY KIDS
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1836.ts?token=SUZYUxZQRwJGVg0ABQAHDFRQDlEHBghfBwcBUFUDDFwCBgICUABdXFIRFERGFhddV1loCFdHC1cMBg8fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHUwVUHkZAWwEaXxpVCgpUA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAQhSF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQIAQlASA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" tvg-id="" group-title="BRASIL",DISCOVERY KIDS HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/3367.ts?token=SUZYUxZQRwJGAA4AAFBdWwAMAVJSBgBSAlQLBlQGU1YCVwRQBA8DAVQRFERGFhddV1loCFdHC1UHAw4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHUAdTHkZAWwEaXxpRAwtEGUAAQEJRRQ9SCW4CUUNQUFRADwpHCFweR1cLZwBWVQdbBkcCFAUVTREMQhYWDxtyUgcVJ10JVUAGUQoYARNrA0cUDFtZRxcFVkV4CFJaS15QFlwHU0R8RgFZRRVEfn1EGUAHUUJGVhVWRwtEBw0BABNOFwddEV5GF0FHAkZxakQZQABAQlFZEloKX0QOF01AE04XDUE7QlcWTBddBV5dFBdYRwgUGBUMUh1uBVtbV1ZSFlwLXBcSCEcJRxRGXlcIXBYKSmlEXgURXxNeBAIbTg==
 
 
 
@@ -647,12 +647,24 @@ http://177.21.92.234:8000/play/a00q/index.m3u8
 http://177.21.92.234:8000/play/a00n/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CARTOONNETWORK.png" tvg-id="" group-title="BRASIL",CARTOON NETWORK
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1847.ts?token=SUZYUxZQRwJGBFpVU1NUWlMAVAIHVAlSAAcNBwlWDAEHVlIGUAFUAQURFERGFhddV1loCFdHC1cMAQ4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEVwdUHkZAWwEaXxpXAgtWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgwOBBNOFwddEV5GF0FHAkZxakQZQABAQlFZEloKX0QOF01AE04XDUE7QlcWTBddBV5dFBdYRwgUGBUMUh1uBVtbV1ZSFlwLXBcSCEcJRxRGXlcIXBYKSmlEXgURXxNfAQEAEUw=
 
 
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DISNEYXD.png" tvg-id="" group-title="BRASIL",DISNEY XD
 http://177.21.92.234:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DISNEYJUNIOR.png" tvg-id="" group-title="BRASIL",DISNEY JUNIOR
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1831.ts?token=SUZYUxZQRwJGBQ0HVANUDg5XUVcHVAgCUlQAUlBWUwADXAVWBgFdD1MRFERGFhddV1loCFdHC1cMBggfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHUQJcHkZAWwEaXxpWBQlWAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAgVUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcMCgFTFxk=
+
+
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BOOMERANG.png" tvg-id="" group-title="BRASIL",BOOMERANG
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1852.ts?token=SUZYUxZQRwJGUA9eB1FWWQ5SU1RXAQVRAAYNUFJSBV0EXQdTUgwHW1YRFERGFhddV1loCFdHC1cMAAsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEUARRHkZAWwEaXxpWCgBXBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcBCwBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUNCwRASA==
+
+
+
+
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NATGEOKIDS.png" tvg-id="" group-title="BRASIL",NAT GEO KIDS
+http://painel.soaresiptv.com:8080/live/wagner/pDLSSS99vL/944.ts
 
 
 
@@ -677,46 +689,34 @@ http://177.21.92.234:8000/play/a00v/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WGIgRb.png" tvg-id="" group-title="BRASIL",FOX
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1820.ts?token=SUZYUxZQRwJGBl4DDQZWWQANU1cDAwVeUANfVgVSAgFRV1UEVQoGXFURFERGFhddV1loCFdHC1cMBwkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGUwZRHkZAWwEaXxpVBwFXDUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAwNUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcAAQZRFxk=
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FOXHD.png" tvg-id="" group-title="BRASIL",FOX HD
+http://painel.soaresiptv.com:8080/live/wagner/pDLSSS99vL/1001.ts
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/WARNERCHANNEL.png" tvg-id="" group-title="BRASIL",WARNER CHANNEL
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1704.ts?token=SUZYUxZQRwJGAQpWAFdRDQRWAAUEVAEFV1ZcVQYGU1xQVwEKUwBXAVQRFERGFhddV1loCFdHC1cDBQ0fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEAUgxTHkZAWwEaXxpWAg5TAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAgBTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQJAQFVFxk=
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/WARNERCHANNEL.png" tvg-id="" group-title="BRASIL",WARNER CHANNEL HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2146.ts?token=SUZYUxZQRwJGVVpUB1RXCQIEAQBSBwlSAg1cCgFSDF0LXVNWXQBdXFwRFERGFhddV1loCFdHC1QFAQ8fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEAUw1RHkZAWwEaXxpWCgtUA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLCgFaF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcAAwZRFxk=
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png/revision/latest?cb=20140413032426" tvg-id="" group-title="BRASIL",SONY
 http://177.21.92.234:8000/play/a00c/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FX.png" tvg-id="" group-title="BRASIL",FX
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1812.ts?token=SUZYUxZQRwJGAlwCDFcEAAQMVANRUQhVBFEBBwgBUFMFUVQKUVtXCAIRFERGFhddV1loCFdHC1cMBAsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGWgNRHkZAWwEaXxpXAglfAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcICgZWF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYIAglbFxk=
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FXHD.png" tvg-id="" group-title="BRASIL",FX HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2157.ts?token=SUZYUxZQRwJGUFxUA1YDWg9WBVEGBFAFBgRcBwVUDFwEXVRUBFsEAAURFERGFhddV1loCFdHC1QFAA4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGWwJUHkZAWwEaXxpVCg5fAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLAAlUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFg0KAwBASA==
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AXN.png" tvg-id="" group-title="BRASIL",AXN
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1860.ts?token=SUZYUxZQRwJGA1kEDVRUCAdRAlECVlUEAwQKAgEHVFFUBVYKUw0DDVMRFERGFhddV1loCFdHC1cMAwkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFVQNRHkZAWwEaXxpVCwtSAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAwVXF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQKBghSFxk=
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AXNHD.png" tvg-id="" group-title="BRASIL",AXN HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2165.ts?token=SUZYUxZQRwJGVlkFBFNWDQcBVldWB1UDUAwIAgdVAgBRUgVTU10ECwERFERGFhddV1loCFdHC1QFAwwfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFWg1RHkZAWwEaXxpWAw1XA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwVTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQBAgNASA==
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/A&E.png" tvg-id="" group-title="BRASIL",A&E HD
+http://185.152.66.81:25461/live/finais2_jbnehu/xvolgz/3371.ts?token=SUZYUxZQRwJGClxSBgdUCVJRUQABUAdQUA1bVwZWUAFRVFFTUggGXQIRFERGFhddV1loCFdHC1UHAggfExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYEUQFRHkZAWwEaXxpVBghSDUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLCgNUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYJBAFTFxk=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" tvg-id="" group-title="BRASIL",INVESTIGATION DISCOVERY
 http://177.21.92.234:8000/play/a00o/index.m3u8
 
@@ -743,10 +743,10 @@ https://minhalista.live/channel/121798/laura/redirect
 http://177.21.92.234:8000/play/a00t/index.m3u8
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest/scale-to-width-down/250?cb=20151120222118" tvg-id="" group-title="BRASIL",MEGAPIX
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1787.ts?token=SUZYUxZQRwJGAwhTDVNUDQQNU1UHUFBTDAELA1RbDVxQVFIFUV5QWlYRFERGFhddV1loCFdHC1cDDQ4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBUwZUHkZAWwEaXxpVCgBXAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAQlbF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFg0JBARASA==
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest/scale-to-width-down/250?cb=20151120222118" tvg-id="" group-title="BRASIL",MEGAPIX HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2111.ts?token=SUZYUxZQRwJGAQ1fUVpSDg8BU1UKXVADVlZfCgZRBlNXAQACAV4HCFARFERGFhddV1loCFdHC1QFBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBUw1RHkZAWwEaXxpWAw9SAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwBbF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgwPAwdASA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/1024px-Space_logo_2013.svg.png" tvg-id="" group-title="BRASIL",SPACE
 http://177.21.92.234:8000/play/a00d/index.m3u8
 
@@ -761,42 +761,42 @@ http://177.21.92.234:8000/play/a00d/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" tvg-id="" group-title="BRASIL",PARAMOUNT CHANNEL
+http://185.152.66.81:25461/live/ezequiel/12345/2117.m3u8?token=SUZYUxZQRwJGV1lWV1NcAFBSBlRWVlcFUlMIA1IHBVBXBlMAUQFVDFwRFERGFhddV1loCFdHC1QFBA4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXAFYEAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEHVxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBXgQHG04=
 
 
 
 
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" tvg-id="" group-title="BRASIL",TELECINE PREMIUM
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1721.ts?token=SUZYUxZQRwJGBl4EAgdXXQ5VBQcCUlJWUgJfBwFVBVEFBgAKVQAEWlwRFERGFhddV1loCFdHC1cDBwgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBWgBVHkZAWwEaXxpVAgleA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLAQBbF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcPAwRASA==
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" tvg-id="" group-title="BRASIL",TELECINE PREMIUM HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1727.ts?token=SUZYUxZQRwJGBAxSAgYDAFcEUgcHVFRfVVQOUFdUVgEGUQJWXQtWCAIRFERGFhddV1loCFdHC1cDBw4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBWwRVHkZAWwEaXxpVCw9TAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBgFaF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYICgJaFxk=
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d2/Telecine_Action_2005.png/revision/latest?cb=20151109191132" tvg-id="" group-title="BRASIL",TELECINE ACTION
+http://185.152.66.81:25461/live/ezequiel/12345/1725.m3u8?token=SUZYUxZQRwJGAlpWAwdUXAVWBgBXBlVRBwcKAAUHDQJWU1MLUQ4GCAcRFERGFhddV1loCFdHC1cDBwwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVC1UGBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlAJVBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQIVwIEG04
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d2/Telecine_Action_2005.png/revision/latest?cb=20151109191132" tvg-id="" group-title="BRASIL",TELECINE ACTION HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1730.ts?token=SUZYUxZQRwJGUAlWDVZVDFRRBVQFUAdfVlAPBQNRDVwAB1EAUABQDl0RFERGFhddV1loCFdHC1cDBgkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVwJWHkZAWwEaXxpWAg9SAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLAAhUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcIBQdQFxk=
+
+
+#EXTINF:-1 tvg-logo="https://edhyghellen.files.wordpress.com/2010/10/tctouch.gif" tvg-id="" group-title="BRASIL",TELECINE TOUCH HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2148.ts?token=SUZYUxZQRwJGUFlXDVdXXgICAFYHU1BWBAYNVghQA1RQBwBRUg1VClwRFERGFhddV1loCFdHC1QFAQEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEAUgFVHkZAWwEaXxpTBAtUF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcKAQJAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAwMOBxMf
+
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" tvg-id="" group-title="BRASIL",TELECINE FUN HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1729.ts?token=SUZYUxZQRwJGUlwAUVdSC1dRUVVWUgADBVBdCwBRBlRWUAgBBwpUWQcRFERGFhddV1loCFdHC1cDBwAfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVQRWHkZAWwEaXxpWAghSBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcICwlSF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcJCwhTFxk=
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" tvg-id="" group-title="BRASIL",TELECINE PIPOCA
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1722.ts?token=SUZYUxZQRwJGVllTU1VWDwMEAVEFAQIFBQAMVlNXAVcFVlQCAAwEDQIRFERGFhddV1loCFdHC1cDBwsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVQNXHkZAWwEaXxpWBwteBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcABAlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBg0MBAFASA==
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" tvg-id="" group-title="BRASIL",TELECINE PIPOCA HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1728.ts?token=SUZYUxZQRwJGUQgAAgNUAA4EDgALVQMEA1APC1dXUVIKUAYBAFsAXVcRFERGFhddV1loCFdHC1cDBwEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBWgVQHkZAWwEaXxpWAw1XDEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBgFUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYPBwhASA==
 
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-id="" group-title="BRASIL",HBO
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1805.ts?token=SUZYUxZQRwJGBAtRUFpdDgQGBVgEU1NTUlMJAAJVAgZTUQIEXAEEClIRFERGFhddV1loCFdHC1cMBQwfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJVgVQHkZAWwEaXxpVCw9QBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcICglWF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFg0KBQNASA==
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" tvg-id="" group-title="BRASIL",HBO2
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1798.ts?token=SUZYUxZQRwJGB1pXAlNVXQZVBFUDUAQEUA0ABlVaAgULXFYFUA5RDFURFERGFhddV1loCFdHC1cDDAEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJWwZXHkZAWwEaXxpWAA1UBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcACgFAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBgUBAwRASA==
 
 
 
@@ -947,12 +947,12 @@ http://217.252.97.181:9981/stream/channelid/903602001
 http://213.215.84.17:8000/play/orf1/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SIXX.png" tvg-id="" group-title="ALEMANHA",sixx
+http://91.13.43.49:9981/stream/channelid/901786949
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SIXXHD.png" tvg-id="" group-title="ALEMANHA",sixx HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/643/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DMAXX.png" tvg-id="" group-title="ALEMANHA",DMAX
+http://91.13.43.49:9981/stream/channelid/182342669
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png" tvg-id="" group-title="ALEMANHA",TELE 5
 http://217.252.97.181:9981/stream/channelid/707671468
 
@@ -1043,8 +1043,8 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/N24Doku.png" tvg-id="" group-title="ALEMANHA",N24 Doku
+http://91.13.43.49:9981/stream/channelid/1660787192
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NTV.png" tvg-id="" group-title="ALEMANHA",n-tv
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/664/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NTVHD.png" tvg-id="" group-title="ALEMANHA",n-tv HD
@@ -1097,36 +1097,36 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/737/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/733/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 3 DE
+http://91.13.43.49:9981/stream/channelid/1598365351
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 4 DE
+http://91.13.43.49:9981/stream/channelid/718440065
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 5 DE
+http://91.13.43.49:9981/stream/channelid/1457515188
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 6 DE
+http://91.13.43.49:9981/stream/channelid/1091709748
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 7 DE
+http://91.13.43.49:9981/stream/channelid/1020108979
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 8 DE
+http://91.13.43.49:9981/stream/channelid/595311436
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 9 DE
+http://91.13.43.49:9981/stream/channelid/1827598546
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id="" group-title="ALEMANHA",Sky Sport 10 DE
+http://91.13.43.49:9981/stream/channelid/1890838053
 
 
 
@@ -1141,40 +1141,40 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/746/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/725/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 2
+http://91.13.43.49:9981/stream/channelid/328819864
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 3
+http://91.13.43.49:9981/stream/channelid/1048526335
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 4
+http://91.13.43.49:9981/stream/channelid/1142599487
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 5
+http://91.13.43.49:9981/stream/channelid/1271340595
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 6
+http://91.13.43.49:9981/stream/channelid/1815748143
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 7
+http://91.13.43.49:9981/stream/channelid/2126117593
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 8
+http://91.13.43.49:9981/stream/channelid/1577924213
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 9
+http://91.13.43.49:9981/stream/channelid/465919840
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id="" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 10
+http://91.13.43.49:9981/stream/channelid/684181801
 
 
 
@@ -1189,8 +1189,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/635/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/660/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SUPERRTLHD.png" tvg-id="" group-title="ALEMANHA",Super RTL Hd
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/468/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/KIKA.png" tvg-id="" group-title="ALEMANHA",KiKa
+http://91.13.43.49:9981/stream/channelid/443081736
 
 
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DISNEYCHANNEL.png" tvg-id="" group-title="ALEMANHA",Disney Channel
@@ -1205,14 +1205,16 @@ http://90.75.191.32:8000/play/a0mk/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/35/Toggo2013.png/revision/latest/scale-to-width-down/220?cb=20140116181412" tvg-id="" group-title="ALEMANHA",Toggo Plus
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/665/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nick-Jr-old-logo.png/1280px-Nick-Jr-old-logo.png" tvg-id="" group-title="ALEMANHA",Nick Jr.
+http://91.13.43.49:9981/stream/channelid/897720798
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/.png" tvg-id="" group-title="ALEMANHA",Disney Jr.
+http://91.13.43.49:9981/stream/channelid/1713122351
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/.png" tvg-id="" group-title="ALEMANHA",Disney Jr. HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/708/index.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DISNEYXD.png" tvg-id="" group-title="ALEMANHA",Disney XD
+http://91.13.43.49:9981/stream/channelid/921365242
 
 
 
@@ -1221,14 +1223,12 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/708/inde
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FIX&FOXI.png" tvg-id="" group-title="ALEMANHA",Fix & Foxi
+http://91.13.43.49:9981/stream/channelid/1172964336
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NICKELODEON.png" tvg-id="" group-title="ALEMANHA",Nickelodeon
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/429/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DISNEYCINEMAGIC.png" tvg-id="" group-title="ALEMANHA",Disney Cinemagic
+http://91.13.43.49:9981/stream/channelid/1029714950
 
 
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/ANIXE.png" tvg-id="" group-title="ALEMANHA",Anixe
@@ -1297,12 +1297,12 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/715/inde
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NATGEO.png" tvg-id="" group-title="ALEMANHA",NatGeo
+http://91.13.43.49:9981/stream/channelid/363250469
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NATGEOHD.png" tvg-id="" group-title="ALEMANHA",NatGeo HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/731/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NATGEOWILD.png" tvg-id="" group-title="ALEMANHA",Nat Geo Wild
+http://91.13.43.49:9981/stream/channelid/1646438635
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/NATGEOHD.png" tvg-id="" group-title="ALEMANHA",Nat Geo Wild HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/735/index.m3u8
 
@@ -1325,14 +1325,14 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/739/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/705/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.schau-hd.tv/attachments/82/Sky_CINEMA__1_HD_On_White_DE_RGB.png" tvg-id="" group-title="ALEMANHA",Sky Cinema +1 HD
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/705/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9voxbPV.png" tvg-id="" group-title="ALEMANHA",Sky Cinema +24
+http://91.13.43.49:9981/stream/channelid/1765905991
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9voxbPV.png" tvg-id="" group-title="ALEMANHA",Sky Cinema +24 HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/706/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/2b/Sky_de_cinema_action.png/revision/latest?cb=20170105095524" tvg-id="" group-title="ALEMANHA",Sky Cinema Action
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/700/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lostpedia/images/9/93/800px-SKYONE.png/revision/latest?cb=20110602135059" tvg-id="" group-title="ALEMANHA",Sky 1
+http://91.13.43.49:9981/stream/channelid/2060434066
 
 
 
@@ -1347,8 +1347,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/729/inde
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/grFgBdy.png" tvg-id="" group-title="ALEMANHA",Sky Cinema Comedy
+http://91.13.43.49:9981/stream/channelid/871008329
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Ockq1Rx.png" tvg-id="" group-title="ALEMANHA",Sky Cinema Emotion
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/717/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0DAevQo.png" tvg-id="" group-title="ALEMANHA",Sky Cinema Nostalgie
@@ -1357,8 +1357,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/728/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/727/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Sky_Cinema_Hits_DE_Logo_2016.png" tvg-id="" group-title="ALEMANHA",Sky Cinema Hits
+http://91.13.43.49:9981/stream/channelid/779066540
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" tvg-id="" group-title="ALEMANHA",Sky Select
@@ -1393,10 +1393,10 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/718/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/698/index.m3u8
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/HEIMATKANAL.png" tvg-id="" group-title="ALEMANHA",Heimatkanal
+http://91.13.43.49:9981/stream/channelid/65593662
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/13THSTREET.png" tvg-id="" group-title="ALEMANHA",13th Street
+http://91.13.43.49:9981/stream/channelid/334191730
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/13THSTREET.png" tvg-id="" group-title="ALEMANHA",13th Street HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/734/index.m3u8
 
@@ -1405,24 +1405,24 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/734/inde
 
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FOXHD.png" tvg-id="" group-title="ALEMANHA",FOX HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/478/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hxj9cGy.jpg" tvg-id="" group-title="ALEMANHA",Fox Serie
+http://91.13.43.49:9981/stream/channelid/66747676
 
 
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RTLPASSION.png" tvg-id="" group-title="ALEMANHA",RTL Passion
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/721/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/PROSIEBENFUNHD.png" tvg-id="" group-title="ALEMANHA",ProSieben FUN HD
+http://91.13.43.49:9981/stream/channelid/837714305
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RTLCRIME.png" tvg-id="" group-title="ALEMANHA",RTL Crime
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/719/index.m3u8
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SYFY.png" tvg-id="" group-title="ALEMANHA",SyFy
+http://91.13.43.49:9981/stream/channelid/1539666108
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/KINOWELTTV.png" tvg-id="" group-title="ALEMANHA",Kinowelt TV
+http://91.13.43.49:9981/stream/channelid/1589520732
 
 
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TNTFILM.png" tvg-id="" group-title="ALEMANHA",TNT Film
@@ -1487,8 +1487,8 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" tvg-id="" group-title="ESPANHA",CUATRO HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/616/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TELECINCO.png" tvg-id="" group-title="ESPANHA",TELECINCO
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TELECINCO.png" tvg-id="" group-title="ESPANHA",TELECINCO HD
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/LASEXTA.png" tvg-id="" group-title="ESPANHA",LA SEXTA
@@ -1523,8 +1523,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/inde
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/COMEDYCENTRAL.png" tvg-id="" group-title="ESPANHA",COMEDY CENTRAL
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/572/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/COMEDYCENTRALHD.png" tvg-id="" group-title="ESPANHA",COMEDY CENTRAL HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 
@@ -1535,8 +1535,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/inde
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/COSMO.png" tvg-id="" group-title="ESPANHA",COSMO HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/570/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AMC.png" tvg-id="" group-title="ESPANHA",AMC
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AMC.png" tvg-id="" group-title="ESPANHA",AMC HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/485/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/FOXLIFE.png" tvg-id="" group-title="ESPANHA",FOX LIFE
@@ -1547,8 +1547,8 @@ http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/567/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SYFY.png" tvg-id="" group-title="ESPANHA",SYFY
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/index.m3u8
 
 
 
@@ -1589,8 +1589,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/inde
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CANALHOLLYWOOD.png" tvg-id="" group-title="ESPANHA",HOLLYWOOD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CANALHOLLYWOODHD.png" tvg-id="" group-title="ESPANHA",HOLLYWOOD HD
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/577/index.m3u8
 
@@ -1631,18 +1631,18 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/inde
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/566/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BEINSPORTS1MAX.png" tvg-id="" group-title="ESPANHA",BEIN SPORTS MAX 1 HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 
 
 
 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" tvg-id="" group-title="ESPANHA",MOVISTAR DEPORTES 1
+http://digiveo.ml:88/digiveo/digiveo.com/2
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png/revision/latest?cb=20160818140550" tvg-id="" group-title="ESPANHA",MOVISTAR DEPORTES 2
+http://digiveo.ml:88/digiveo/digiveo.com/3
 
 
 #EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg" tvg-id="" group-title="ESPANHA",MOVISTAR FORMULA 1
@@ -1655,28 +1655,28 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" tvg-id="" group-title="ESPANHA",MOVISTAR GOLF HD
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/569/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/GOLTV_Two.png/200px-GOLTV_Two.png" tvg-id="" group-title="ESPANHA",GOL
+http://digiveo.ml:88/digiveo/digiveo.com/13
 
 
 #EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png" tvg-id="" group-title="ESPANHA",LALIGA TV
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="" group-title="ESPANHA",REAL MADRID TV
+http://digiveo.ml:88/digiveo/digiveo.com/11
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="" group-title="ESPANHA",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BARCATV.png" tvg-id="" group-title="ESPANHA",BARCA TV
 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/EUROSPORT.png" tvg-id="" group-title="ESPANHA",EUROSPORT 1
+http://digiveo.ml:88/digiveo/digiveo.com/9
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/EUROSPORTHD.png" tvg-id="" group-title="ESPANHA",EUROSPORT 1 HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
 
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TELEDEPORTE.png" tvg-id="" group-title="ESPANHA",TELEDEPORTE
+http://digiveo.ml:88/digiveo/digiveo.com/8
 
 
 
@@ -1785,8 +1785,8 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/BEMAD.png" tvg-id="" group-title="ESPANHA",BE MAD
 https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
-
-
+#N/D
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
 
 
@@ -1997,6 +1997,12 @@ http://163.172.18.54:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/35.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SFRSPORT1.png" tvg-id="" group-title="FRANÇA",SFR SPORT 1
+http://digiveo.ml:88/digiveo/digiveo.com/30
+
+
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/SFRSPORT2.png" tvg-id="" group-title="FRANÇA",SFR SPORT 2
+http://digiveo.ml:88/digiveo/digiveo.com/31
 
 
 
@@ -2021,14 +2027,8 @@ http://163.172.18.54:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/35.m3u8
 
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/AB1.png" tvg-id="" group-title="FRANÇA",AB 1
+http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/playlist.m3u8
 
 
 
@@ -2383,7 +2383,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/965/inde
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RAI3HD.png" tvg-id="" group-title="ITALIA",RAI 3 HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/963/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zjcI6EQ.png" tvg-id="" group-title="ITALIA",RETE 4
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RETE4.png" tvg-id="" group-title="ITALIA",RETE 4
 https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
 
 
@@ -2393,17 +2393,17 @@ http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/CANALE7.png" tvg-id="" group-title="ITALIA",CANALE 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_1_1770_110_820000_0_0_0.png" tvg-id="" group-title="ITALIA",ITALIA1
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/ITALIA1.png" tvg-id="" group-title="ITALIA",ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/360px-Logo_Italia2.svg.png/revision/latest?cb=20130907143033" tvg-id="" group-title="ITALIA",ITALIA2
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/ITALIA2.png" tvg-id="" group-title="ITALIA",ITALIA2
 https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9b/La7_logo-trasparente.gif" tvg-id="" group-title="ITALIA",LA 7
 http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_FAD_3AC_110_EEEE0000_0_0_0.png" tvg-id="" group-title="ITALIA",LA 5
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/LA5.png" tvg-id="" group-title="ITALIA",LA 5
 https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
 
 
@@ -2411,7 +2411,7 @@ https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/in
 
 
 
-#EXTINF:-1 tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_FAD_3AC_110_EEEE0000_0_0_0.png" tvg-id="" group-title="ITALIA",LA 5
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/LA5.png" tvg-id="" group-title="ITALIA",LA 5
 https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
 
 
@@ -2419,9 +2419,9 @@ https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/in
 
 
 
-#EXTINF:-1 tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_FAF_3AC_110_EEEE0000_0_0_0.png" tvg-id="" group-title="ITALIA",IRIS
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/IRIS.png" tvg-id="" group-title="ITALIA",IRIS
 https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_C_1770_110_820000_0_0_0.png" tvg-id="" group-title="ITALIA",TOPCRIME
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/TOPCRIME.png" tvg-id="" group-title="ITALIA",TOPCRIME
 https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/index.m3u8
 #EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/RAI4.png" tvg-id="" group-title="ITALIA",RAI 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
@@ -2451,7 +2451,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/976/inde
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.dinamobasket.com/sites/default/files/styles/news_740_440/public/news/videolina.jpg" tvg-id="" group-title="ITALIA",VIDEOLINA
 http://178.33.229.111:1935/live/Videolina/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/c/c1/Mediaset_Extra_logo.PNG" tvg-id="" group-title="ITALIA",MEDIASET EXTRA
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/MEDIASETEXTRA.png" tvg-id="" group-title="ITALIA",MEDIASET EXTRA
 https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/index.m3u8
 
 
@@ -2773,8 +2773,8 @@ http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://teamblue.rudigualter.pt/teamblue/LOGO/DMAXX.png" tvg-id="" group-title="ITALIA",DMAX
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/Marcopolo_logo_old.png/revision/latest?cb=20100602083202" tvg-id="" group-title="ITALIA",MARCO POLO
