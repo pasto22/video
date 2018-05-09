@@ -51,6 +51,8 @@ http://86.127.200.243:40000/play/a006
 http://p4.giffy.be:8080/live/shorty123/shorty123/51313.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL",SPORT TV 3 HD (Copyright © 2018 by TeamBlue)
 http://86.127.200.243:40000/play/a007
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 (Copyright © 2018 by TeamBlue)
+http://p4.giffy.be:8080/live/shorty123/shorty123/51311.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5 (Copyright © 2018 by TeamBlue)
 http://86.127.200.243:40000/play/a01m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV (Copyright © 2018 by TeamBlue)
@@ -463,6 +465,8 @@ http://fui.me
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDF.png" group-title="ALEMANHA",ZDF (Copyright © 2018 by TeamBlue)
 http://213.215.84.17:8000/play/zdf/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDFHD.png" group-title="ALEMANHA",ZDF HD (Copyright © 2018 by TeamBlue)
+http://p4.giffy.be:8080/live/shorty123/shorty123/30073.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" group-title="ALEMANHA",RTL (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/658/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" group-title="ALEMANHA",RTL HD (Copyright © 2018 by TeamBlue)
@@ -475,6 +479,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/483/inde
 http://213.215.84.17:8000/play/prosieben/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBENHD.png" group-title="ALEMANHA",ProSieben HD (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/641/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KABELEINS.png" group-title="ALEMANHA",kabel eins (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a01c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KABELEINS.png" group-title="ALEMANHA",kabel eins HD (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a00g
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL2.png" group-title="ALEMANHA",RTL II (Copyright © 2018 by TeamBlue)
@@ -491,10 +497,14 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/777/inde
 http://213.215.84.17:8000/play/zdfneo/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ONE.png" group-title="ALEMANHA",ONE (Copyright © 2018 by TeamBlue)
 http://213.215.84.17:8000/play/orf1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIXX.png" group-title="ALEMANHA",sixx (Copyright © 2018 by TeamBlue)
+http://85.144.43.35:3002/play/a01c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIXXHD.png" group-title="ALEMANHA",sixx HD (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/643/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" group-title="ALEMANHA",DMAX (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a016
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png" group-title="ALEMANHA",TELE 5 (Copyright © 2018 by TeamBlue)
+http://85.144.43.35:3002/play/a015
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SERVUS.png" group-title="ALEMANHA",Servus TV Deutschland (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/438/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBENMAXX.png" group-title="ALEMANHA",ProSieben MAXX (Copyright © 2018 by TeamBlue)
@@ -515,8 +525,12 @@ http://85.144.43.35:3002/play/a01h
 http://85.144.43.35:3002/play/a00p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WDR.png" group-title="ALEMANHA",WDR (Copyright © 2018 by TeamBlue)
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WDR.png" group-title="ALEMANHA",WDR HD (Copyright © 2018 by TeamBlue)
+http://p4.giffy.be:8080/live/shorty123/shorty123/30072.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BR.png" group-title="ALEMANHA",BR HD (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a00o
+#EXTINF:-1 tvg-logo="https://www.swr.de/-/id=8122392/property=full/25s6pw/SWR%20Unternehmensmarke,%20Logo.jpg" group-title="ALEMANHA",SWR HD (Copyright © 2018 by TeamBlue)
+http://85.144.43.35:3002/play/a00m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HRFERNSEHEN.png" group-title="ALEMANHA",hr (Copyright © 2018 by TeamBlue)
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HRFERNSEHEN.png" group-title="ALEMANHA",hr HD (Copyright © 2018 by TeamBlue)
@@ -537,6 +551,8 @@ http://orf2.orf.cdn.ors.at/orf2/q4a.sdp/chunklist.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/697/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TAGESSCHAU24.png" group-title="ALEMANHA",tagesschau24 (Copyright © 2018 by TeamBlue)
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PHOENIXHD.png" group-title="ALEMANHA",Phoenix HD (Copyright © 2018 by TeamBlue)
+http://85.144.43.35:3002/play/a00q
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/N24DOKU.png" group-title="ALEMANHA",N24 Doku (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a01e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NTV.png" group-title="ALEMANHA",n-tv (Copyright © 2018 by TeamBlue)
@@ -561,6 +577,8 @@ http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/774/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1HD.png" group-title="ALEMANHA",Sport1 HD (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/453/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1HD.png" group-title="ALEMANHA",Sport1+ HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a01j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="ALEMANHA",Eurosport (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/682/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" group-title="ALEMANHA",Eurosport 2 (Copyright © 2018 by TeamBlue)
@@ -575,6 +593,10 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/733/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/746/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 1 (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/725/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 1 HD (Copyright © 2018 by TeamBlue)
+http://109.201.133.83:8000/play/10095/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTDIGITALHD.png" group-title="ALEMANHA",sportdigital HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a01f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AUTOMOTO.png" group-title="ALEMANHA",auto motor und sport channel (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/635/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" group-title="ALEMANHA",Super RTL (Copyright © 2018 by TeamBlue)
@@ -675,6 +697,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/478/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/721/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTLCRIME.png" group-title="ALEMANHA",RTL Crime (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/719/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNTCOMEDY.png" group-title="ALEMANHA",TNT Comedy (Copyright © 2018 by TeamBlue)
+http://85.144.43.35:3002/play/a00v
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNTFILM.png" group-title="ALEMANHA",TNT Film (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/740/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNTSERIE.png" group-title="ALEMANHA",TNT Serie (Copyright © 2018 by TeamBlue)
@@ -685,6 +709,8 @@ http://85.144.43.35:3002/play/a00w
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/461/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTLLIVING.png" group-title="ALEMANHA",RTL Living (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/470/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/UNIVERSALCHANNELHD.png" group-title="ALEMANHA",Universal Channel HD (Copyright © 2018 by TeamBlue)
+http://85.144.43.35:3002/play/a011
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCENTERT.png" group-title="ALEMANHA",BBC Entertainment (Copyright © 2018 by TeamBlue)
 http://86.127.200.243:40000/play/a013
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FTV.png" group-title="ALEMANHA",FTV (Copyright © 2018 by TeamBlue)
@@ -857,10 +883,18 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 http://fui.me
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" group-title="FRANCA",TF1 (Copyright © 2018 by TeamBlue)
 http://144.217.253.140/TF1/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" group-title="FRANCA",TF1 HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" group-title="FRANCA",FRANCE 2 (Copyright © 2018 by TeamBlue)
 http://144.217.253.140/France2/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" group-title="FRANCA",FRANCE 2 HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE3.png" group-title="FRANCA",FRANCE 3 (Copyright © 2018 by TeamBlue)
 http://144.217.253.140/France3/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+.png" group-title="FRANCA",CANAL+ HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a008
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" group-title="FRANCA",M6 HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00l
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" group-title="FRANCA",ARTE HD (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/804/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/C8.png" group-title="FRANCA",C8 (Copyright © 2018 by TeamBlue)
@@ -877,20 +911,44 @@ http://144.217.253.140/France4/mpegts
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/806/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GULLI.png" group-title="FRANCA",GULLI (Copyright © 2018 by TeamBlue)
 http://144.217.253.140/Gulli/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GULLI.png" group-title="FRANCA",GULLI HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHERIE25.png" group-title="FRANCA",CHERIE 25 (Copyright © 2018 by TeamBlue)
 http://144.217.253.140/Cherie25/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL9.png" group-title="FRANCA",RTL9 (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/486/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="FRANCA",EUROSPORT FR HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a002
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" group-title="FRANCA",EUROSPORT 2 FR HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a003
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+SERIES.png" group-title="FRANCA",CANAL+ SERIES HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ACTION.png" group-title="FRANCA",ACTION HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00y
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aMWD5vz.png" group-title="FRANCA",TCM CINEMA HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00v
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOHD.png" group-title="FRANCA",NAT GEO CH HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a009
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOHD.png" group-title="FRANCA",NAT GEO WILD HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00q
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png" group-title="FRANCA",E! ENTERTAINMENT (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a005
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6MUSIC.png" group-title="FRANCA",M6 MUSIQUE (Copyright © 2018 by TeamBlue)
 http://p4.giffy.be:8080/live/shorty123/shorty123/31759.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MTV_Hits_2017_logo.svg/1024px-MTV_Hits_2017_logo.svg.png" group-title="FRANCA",MTV HITS (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" group-title="FRANCA",TV5 MONDE (Copyright © 2018 by TeamBlue)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/13EMERUE.png" group-title="FRANCA",13E RUE HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCM.png" group-title="FRANCA",MCM (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00z
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_%28TV%29_logo_2015.png" group-title="FRANCA",MANGAS (Copyright © 2018 by TeamBlue)
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png" group-title="FRANCA",GONG (Copyright © 2018 by TeamBlue)
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINE+CLUB.png" group-title="FRANCA",CINE+ CLUB (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/Tiji_logo.png" group-title="FRANCA",TIJI (Copyright © 2018 by TeamBlue)
 http://144.217.253.140/tiji/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PIWI+.png" group-title="FRANCA",PIWI+ (Copyright © 2018 by TeamBlue)
@@ -901,6 +959,10 @@ http://144.217.253.140/Boomerang/mpegts
 http://144.217.253.140/Nickelodeon/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png" group-title="FRANCA",BOING (Copyright © 2018 by TeamBlue)
 http://144.217.253.140/Boing/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" group-title="FRANCA",DISCOVERY CHANNEL HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00p
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/USHUAIA.png" group-title="FRANCA",USHUAIA TV HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a00r
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOUTELHISTOIRE.png" group-title="FRANCA",TOUTE L'HISTOIRE (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/496/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMAUX.png" group-title="FRANCA",ANIMAUX (Copyright © 2018 by TeamBlue)
@@ -953,10 +1015,14 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/963/inde
 https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALE5.png" group-title="ITALIA",CANALE 5 (Copyright © 2018 by TeamBlue)
 http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALE5.png" group-title="ITALIA",CANALE 5 HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a015
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALE7.png" group-title="ITALIA",CANALE 7 (Copyright © 2018 by TeamBlue)
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA1.png" group-title="ITALIA",ITALIA1 (Copyright © 2018 by TeamBlue)
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA1.png" group-title="ITALIA",ITALIA1 HD (Copyright © 2018 by TeamBlue)
+http://109.164.249.60:25000/play/a017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA2.png" group-title="ITALIA",ITALIA2 (Copyright © 2018 by TeamBlue)
 https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA7.png" group-title="ITALIA",LA 7 (Copyright © 2018 by TeamBlue)
@@ -1021,6 +1087,8 @@ http://p4.giffy.be:8080/live/shorty123/shorty123/31364.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/976/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png" group-title="ITALIA",RAI MOVIE HD (Copyright © 2018 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/db/Supertennis_logo.png" group-title="ITALIA",SUPER TENNIS (Copyright © 2018 by TeamBlue)
+http://109.201.133.83:8000/play/10086/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png" group-title="ITALIA",RAI SPORT 1 (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/528/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png" group-title="ITALIA",RAI SPORT 1 HD (Copyright © 2018 by TeamBlue)
@@ -1333,6 +1401,8 @@ http://p4.giffy.be:8080/live/shorty123/shorty123/26545.m3u8
 http://btv-net.mediacdn.ru/TVB8/wfhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMALPLANET.png" group-title="USA",ANIMAL PLANET (Copyright © 2018 by TeamBlue)
 http://p4.giffy.be:8080/live/shorty123/shorty123/20989.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" group-title="USA",DISCOVERY CHANNEL (Copyright © 2018 by TeamBlue)
+http://109.201.133.83:8000/play/10150/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png" group-title="USA",DISCOVERY SCIENCE (Copyright © 2018 by TeamBlue)
 http://p4.giffy.be:8080/live/shorty123/shorty123/20935.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/H2.png" group-title="USA",H2 (Copyright © 2018 by TeamBlue)
@@ -1347,6 +1417,10 @@ http://p4.giffy.be:8080/live/shorty123/shorty123/20981.m3u8
 http://p4.giffy.be:8080/live/shorty123/shorty123/20902.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2000px-Cinemax.svg.png" group-title="USA",CINEMAX (Copyright © 2018 by TeamBlue)
 http://p4.giffy.be:8080/live/shorty123/shorty123/20976.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/Cinemax.svg/revision/latest/scale-to-width-down/200?cb=20170109014350" group-title="USA",CINEMAX 5 StarMax (Copyright © 2018 by TeamBlue)
+http://109.201.133.83:8000/play/10133/index.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/Cinemax.svg/revision/latest/scale-to-width-down/200?cb=20170109014350" group-title="USA",CINEMAX ActionMax East (Copyright © 2018 by TeamBlue)
+http://109.201.133.83:8000/play/10134/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d1/Cinemax.svg/revision/latest/scale-to-width-down/200?cb=20170109014350" group-title="USA",CINEMAX Moremax (Copyright © 2018 by TeamBlue)
 http://p4.giffy.be:8080/live/shorty123/shorty123/20975.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png" group-title="USA",COMEDY CENTRAL (Copyright © 2018 by TeamBlue)
