@@ -119,6 +119,8 @@ http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" group-title="PORTUGAL",SKY NEWS (Copyright © 2018 by TeamBlue)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" group-title="PORTUGAL",CNBC (Copyright © 2018 by TeamBlue)
+http://109.201.133.83:8000/play/10135/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" group-title="PORTUGAL",CBSN (Copyright © 2018 by TeamBlue)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png" group-title="PORTUGAL",RAI NEWS 24 (Copyright © 2018 by TeamBlue)
@@ -131,12 +133,16 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="PORTUGAL",FRANCE 24 FR (Copyright © 2018 by TeamBlue)
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDNEWS.png" group-title="PORTUGAL",RECORD NEWS (Copyright © 2018 by TeamBlue)
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w849814207.m3u8|User-Agent: Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMADEIRA.png" group-title="PORTUGAL",RTP MADEIRA (Copyright © 2018 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.pt.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png" group-title="PORTUGAL",RTP ACORES (Copyright © 2018 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="PORTUGAL",RTP INTERNACIONAL (Copyright © 2018 by TeamBlue)
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" group-title="PORTUGAL",CANCAO NOVA (Copyright © 2018 by TeamBlue)
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVFATIMA.png" group-title="PORTUGAL",FATIMA TV (Copyright © 2018 by TeamBlue)
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTV.png" group-title="PORTUGAL",AR TV (Copyright © 2018 by TeamBlue)
@@ -463,12 +469,10 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/762/inde
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" group-title="ALEMANHA",Bloomberg (Copyright © 2018 by TeamBlue)
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" group-title="ALEMANHA",CNBC (Copyright © 2018 by TeamBlue)
+http://109.201.133.83:8000/play/10135/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" group-title="ALEMANHA",CNN (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="ALEMANHA",France 24 EN (Copyright © 2018 by TeamBlue)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="ALEMANHA",France 24 FR (Copyright © 2018 by TeamBlue)
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1.png" group-title="ALEMANHA",Sport1 (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/774/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1HD.png" group-title="ALEMANHA",Sport1 HD (Copyright © 2018 by TeamBlue)
@@ -757,6 +761,8 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" group-title="ESPANHA",RUSSIA TODAY ESPAÑOL HD (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/482/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" group-title="ESPANHA",CNBC (Copyright © 2018 by TeamBlue)
+http://109.201.133.83:8000/play/10135/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" group-title="ESPANHA",TV5 MONDE (Copyright © 2018 by TeamBlue)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" group-title="ESPANHA",BLOOMBERG (Copyright © 2018 by TeamBlue)
@@ -865,10 +871,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/67/index
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/238/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png" group-title="FRANCA",VH1 CLASSIC (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/237/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="FRANCA",FRANCE 24 FR (Copyright © 2018 by TeamBlue)
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="FRANCA",FRANCE 24 EN (Copyright © 2018 by TeamBlue)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png" group-title="FRANCA",EURONEWS (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/684/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BFMBUSINESS.png" group-title="FRANCA",BFM BUSINESS (Copyright © 2018 by TeamBlue)
@@ -881,6 +883,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/inde
 http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" group-title="FRANCA",BLOOMBERG (Copyright © 2018 by TeamBlue)
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" group-title="FRANCA",CNBC (Copyright © 2018 by TeamBlue)
+http://109.201.133.83:8000/play/10135/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/ITALIA.png",ITALIA
 http://fui.me
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png" group-title="ITALIA",RAI 1 HD (Copyright © 2018 by TeamBlue)
@@ -939,10 +943,6 @@ https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/in
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png" group-title="ITALIA",RAI NEWS 24 (Copyright © 2018 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="ITALIA",FRANCE 24 EN (Copyright © 2018 by TeamBlue)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="ITALIA",FRANCE 24 FR (Copyright © 2018 by TeamBlue)
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png" group-title="ITALIA",EURONEWS (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/937/index.m3u8
 #EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/webtv/logo_senatoTV.jpg" group-title="ITALIA",SENATO TV (Copyright © 2018 by TeamBlue)
@@ -1017,14 +1017,12 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" group-title="INGLATERRA",BLOOMBERG (Copyright © 2018 by TeamBlue)
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" group-title="INGLATERRA",CNBC (Copyright © 2018 by TeamBlue)
+http://109.201.133.83:8000/play/10135/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1280px-RT%C3%89_One_2014.svg.png" group-title="INGLATERRA",RTE ONE (Copyright © 2018 by TeamBlue)
 http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png" group-title="INGLATERRA",RTE TWO (Copyright © 2018 by TeamBlue)
 http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="INGLATERRA",FRANCE 24 EN (Copyright © 2018 by TeamBlue)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="INGLATERRA",FRANCE 24 FR (Copyright © 2018 by TeamBlue)
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/USA.png",USA
 http://fui.me
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABC.png" group-title="USA",ABC TV (Copyright © 2018 by TeamBlue)
@@ -1035,6 +1033,8 @@ http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" group-title="USA",CNN (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" group-title="USA",CNBC (Copyright © 2018 by TeamBlue)
+http://109.201.133.83:8000/play/10135/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" group-title="USA",CBSN (Copyright © 2018 by TeamBlue)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN.png" group-title="USA",C-SPAN (Copyright © 2018 by TeamBlue)
