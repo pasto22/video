@@ -159,8 +159,13 @@ http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
 http://144.217.11.219:25461/live/5RUTvfRf3/mD2fb0Y3z1/3383.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png" tvg-id="TOROTV.pt" group-title="PORTUGAL",TOROS TV HD
 http://144.217.11.219:25461/live/5RUTvfRf3/mD2fb0Y3z1/3238.m3u8
+<<<<<<< HEAD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAVISION.png" tvg-id="Cacaavision" group-title="PORTUGAL",CACAVISION
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+=======
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="RMTV.pt" group-title="PORTUGAL",REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+>>>>>>> origin/master
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FIGHTNET.png" tvg-id="FightNetwork" group-title="PORTUGAL",FIGHT NETWORK
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png" tvg-id="BarcaTV" group-title="PORTUGAL",BARCA TV
