@@ -121,6 +121,8 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id="0" group-title="PORTUGAL",FRANCE 24 FR
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/I24NEWS.png" tvg-id="0" group-title="PORTUGAL",I 24 NEWS FR
+https://stream-06.ix7.dailymotion.com/54/dm/3/x10358o/live-2.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDNEWS.png" tvg-id="0" group-title="PORTUGAL",RECORD NEWS
 http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w849814207.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMADEIRA.png" tvg-id="RTPMadeira.pt" group-title="PORTUGAL",RTP MADEIRA
@@ -597,6 +599,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/67/index
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" tvg-id=" group-title="ESPANHA",LA 1
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png" tvg-id=" group-title="ESPANHA",ANTENA 3
+https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png" tvg-id=" group-title="ESPANHA",ANTENA 3 HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/615/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" tvg-id=" group-title="ESPANHA",CUATRO
@@ -611,6 +615,10 @@ https://atresplayerp-i.akamaized.net/lasextampp/bitrate_1.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/618/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png" tvg-id=" group-title="ESPANHA",#0
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/611/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Telemadrid.gif" tvg-id=" group-title="ESPANHA",TELEMADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LaOtra.svg/1200px-LaOtra.svg.png" tvg-id=" group-title="ESPANHA",LA OTRA
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIESXTRA.png" tvg-id=" group-title="ESPANHA",MOVISTAR SERIES XTRA
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/568/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIESXTRA.png" tvg-id=" group-title="ESPANHA",MOVISTAR SERIES XTRA HD
@@ -641,6 +649,10 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/inde
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" tvg-id=" group-title="ESPANHA",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png" tvg-id=" group-title="ESPANHA",NEOX
+https://atresplayerp-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/A3SERIES.png" tvg-id=" group-title="ESPANHA",ATRESERIES HD
+https://atresplayerp-i.akamaized.net/a3seriesmpp/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ENERGY.png" tvg-id=" group-title="ESPANHA",ENERGY
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png" tvg-id=" group-title="ESPANHA",MOVISTAR ACCION
@@ -693,6 +705,10 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/603/inde
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/803/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVINITY.png" tvg-id=" group-title="ESPANHA",DIVINITY
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVA.png" tvg-id=" group-title="ESPANHA",NOVA
+https://atresplayerp-i.akamaized.net/geonovampp/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Mega-en-directo-Online.png" tvg-id=" group-title="ESPANHA",MEGA
+https://atresplayerp-i.akamaized.net/geomegampp/bitrate_3.m3u8
 #N/D
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" tvg-id=" group-title="ESPANHA",DISNEY JUNIOR
@@ -721,6 +737,8 @@ http://94.130.34.125:81/Bloomberg/mpegts
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" tvg-id=" group-title="ESPANHA",TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALSURANDALUCIA.png" tvg-id=" group-title="ESPANHA",CANAL SUR ANDALUCIA
+http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/FRANCA.png",FRANCA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" tvg-id=" group-title="FRANÇA",TF1
