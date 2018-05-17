@@ -11,6 +11,8 @@ http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liver
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC HD (Copyright © 2018 by TeamBlue)
 http://asdp.ddns.net:8000/live/adriano/adriano/345.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI (Copyright © 2018 by TeamBlue)
+http://asdp.ddns.net:8000/live/Nuno/Nuno/554.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI HD (Copyright © 2018 by TeamBlue)
 http://62.28.213.14:9981/stream/channelid/1402355728
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL",SIC NOTICIAS (Copyright © 2018 by TeamBlue)
@@ -839,9 +841,9 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/67/index
 http://fui.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" group-title="ESPANHA",LA 1 (Copyright © 2018 by TeamBlue)
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png" group-title="ESPANHA",ANTENA 3 (Copyright © 2018 by TeamBlue)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png" group-title="ALEMANHA",ANTENA 3 (Copyright © 2018 by TeamBlue)
 https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png" group-title="ESPANHA",ANTENA 3 HD (Copyright © 2018 by TeamBlue)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png" group-title="0",ANTENA 3 HD (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/615/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="ESPANHA",CUATRO (Copyright © 2018 by TeamBlue)
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
@@ -889,7 +891,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/inde
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="ESPANHA",FDF (Copyright © 2018 by TeamBlue)
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png" group-title="ESPANHA",NEOX (Copyright © 2018 by TeamBlue)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png" group-title="ESPANHA",NEOX HD (Copyright © 2018 by TeamBlue)
 https://atresplayerp-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/A3SERIES.png" group-title="ESPANHA",ATRESERIES HD (Copyright © 2018 by TeamBlue)
 https://atresplayerp-i.akamaized.net/a3seriesmpp/bitrate_3.m3u8
@@ -945,11 +947,11 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/603/inde
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/803/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVINITY.png" group-title="ESPANHA",DIVINITY (Copyright © 2018 by TeamBlue)
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVA.png" group-title="ESPANHA",NOVA (Copyright © 2018 by TeamBlue)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NOVA.png" group-title="ESPANHA",NOVA HD (Copyright © 2018 by TeamBlue)
 https://atresplayerp-i.akamaized.net/geonovampp/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Mega-en-directo-Online.png" group-title="ESPANHA",MEGA (Copyright © 2018 by TeamBlue)
 https://atresplayerp-i.akamaized.net/geomegampp/bitrate_3.m3u8
-#N/D
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png" group-title="ESPANHA",EL GARAGE TV (Copyright © 2018 by TeamBlue)
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" group-title="ESPANHA",DISNEY JUNIOR (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/604/index.m3u8
@@ -981,40 +983,22 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/FRANCA.png",FRANCA
 http://fui.me
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" group-title="FRANCA",TF1 (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/TF1/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" group-title="FRANCA",TF1 HD (Copyright © 2018 by TeamBlue)
 http://109.164.249.60:25000/play/a00j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" group-title="FRANCA",FRANCE 2 (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/France2/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" group-title="FRANCA",FRANCE 2 HD (Copyright © 2018 by TeamBlue)
 http://109.164.249.60:25000/play/a00k
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE3.png" group-title="FRANCA",FRANCE 3 (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/France3/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+.png" group-title="FRANCA",CANAL+ HD (Copyright © 2018 by TeamBlue)
 http://109.164.249.60:25000/play/a008
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" group-title="FRANCA",M6 HD (Copyright © 2018 by TeamBlue)
 http://109.164.249.60:25000/play/a00l
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" group-title="FRANCA",ARTE HD (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/804/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/C8.png" group-title="FRANCA",C8 (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/C8/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/W9.png" group-title="FRANCA",W9 (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/W9/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NRJ12.png" group-title="FRANCA",NRJ12 (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/NRJ12/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LCP.png" group-title="FRANCA",LA CHAINE PARLAMENTAIRE (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/828/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE4.png" group-title="FRANCA",FRANCE 4 (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/France4/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BFMTV.png" group-title="FRANCA",BFM TV (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/806/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GULLI.png" group-title="FRANCA",GULLI (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/Gulli/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GULLI.png" group-title="FRANCA",GULLI HD (Copyright © 2018 by TeamBlue)
 http://109.164.249.60:25000/play/a00n
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHERIE25.png" group-title="FRANCA",CHERIE 25 (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/Cherie25/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL9.png" group-title="FRANCA",RTL9 (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/486/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="FRANCA",EUROSPORT FR HD (Copyright © 2018 by TeamBlue)
@@ -1041,30 +1025,22 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 http://109.164.249.60:25000/play/a00b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCM.png" group-title="FRANCA",MCM (Copyright © 2018 by TeamBlue)
 http://109.164.249.60:25000/play/a00z
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_%28TV%29_logo_2015.png" group-title="FRANCA",MANGAS (Copyright © 2018 by TeamBlue)
-http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png" group-title="FRANCA",GONG (Copyright © 2018 by TeamBlue)
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINE+CLUB.png" group-title="FRANCA",CINE+ CLUB (Copyright © 2018 by TeamBlue)
 http://109.164.249.60:25000/play/a00s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/Tiji_logo.png" group-title="FRANCA",TIJI (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/tiji/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PIWI+.png" group-title="FRANCA",PIWI+ (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/Piwi/mpegts
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/143/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOOMERANG.png" group-title="FRANCA",BOOMERANG (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/Boomerang/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" group-title="FRANCA",NICKELODEON (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/Nickelodeon/mpegts
+http://109.164.249.60:25000/play/a00x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png" group-title="FRANCA",BOING (Copyright © 2018 by TeamBlue)
-http://144.217.253.140/Boing/mpegts
+http://109.164.249.60:25000/play/a00w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" group-title="FRANCA",DISCOVERY CHANNEL HD (Copyright © 2018 by TeamBlue)
 http://109.164.249.60:25000/play/a00p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/USHUAIA.png" group-title="FRANCA",USHUAIA TV HD (Copyright © 2018 by TeamBlue)
 http://109.164.249.60:25000/play/a00r
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOUTELHISTOIRE.png" group-title="FRANCA",TOUTE L'HISTOIRE (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/496/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMAUX.png" group-title="FRANCA",ANIMAUX (Copyright © 2018 by TeamBlue)
-http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHASSE&PECHE.png" group-title="FRANCA",CHASSE & PECHE (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/490/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333" group-title="FRANCA",NRJ HITS (Copyright © 2018 by TeamBlue)
@@ -1089,6 +1065,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/inde
 http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" group-title="FRANCA",BLOOMBERG (Copyright © 2018 by TeamBlue)
 http://94.130.34.125:81/Bloomberg/mpegts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-E3-InnOxiBQ/VRolXQDpTNI/AAAAAAAAAVQ/kan59AVfeDY/s1600/Weo-Tv-Direct.png" group-title="FRANCA",WEO (Copyright © 2018 by TeamBlue)
+https://stream-13.dc3.dailymotion.com/31/dm/3/x62islg/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/ITALIA.png",ITALIA
 http://fui.me
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png" group-title="ITALIA",RAI 1 HD (Copyright © 2018 by TeamBlue)
