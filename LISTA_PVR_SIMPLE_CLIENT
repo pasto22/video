@@ -153,6 +153,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/661/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/658/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" tvg-id="0" group-title="PORTUGAL",TV GALICIA
 http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" tvg-id="0" group-title="PORTUGAL",M6
+https://s2.tntendirect.com/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id="0" group-title="PORTUGAL",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png" tvg-id="0" group-title="PORTUGAL",RAI 1
@@ -173,6 +175,8 @@ http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png" tvg-id="DISCOVERYHDSC" group-title="PORTUGAL",DISCOVERY SHOWCASE
 http://asdp.ddns.net:8000/live/adriano/adriano/478.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" tvg-id="0" group-title="PORTUGAL",ARTE
+https://s2.tntendirect.com/arte/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" tvg-id="0" group-title="PORTUGAL",ARTE HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/804/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV.png" tvg-id="0" group-title="PORTUGAL",REDE TV!
@@ -993,22 +997,52 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/FRANCA.png",FRANCA
 http://0.0.0.1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" tvg-id=" group-title="FRANÇA",TF1
+https://s2.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" tvg-id=" group-title="FRANÇA",TF1 HD
 http://109.164.249.60:25000/play/a00j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" tvg-id=" group-title="FRANÇA",FRANCE 2
+https://s2.tntendirect.com/france2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" tvg-id=" group-title="FRANÇA",FRANCE 2 HD
 http://109.164.249.60:25000/play/a00k
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE3.png" tvg-id=" group-title="FRANÇA",FRANCE 3
+https://s2.tntendirect.com/france3/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+.png" tvg-id=" group-title="FRANÇA",CANAL+ HD
 http://109.164.249.60:25000/play/a008
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE5.png" tvg-id=" group-title="FRANÇA",FRANCE 5
+https://s2.tntendirect.com/france5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" tvg-id=" group-title="FRANÇA",M6
+https://s2.tntendirect.com/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" tvg-id=" group-title="FRANÇA",M6 HD
 http://109.164.249.60:25000/play/a00l
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" tvg-id=" group-title="FRANÇA",ARTE
+https://s2.tntendirect.com/arte/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" tvg-id=" group-title="FRANÇA",ARTE HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/804/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/W9.png" tvg-id=" group-title="FRANÇA",W9
+https://s2.tntendirect.com/w9/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TMC.png" tvg-id=" group-title="FRANÇA",TMC
+https://s2.tntendirect.com/tmc/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nt1_fr.png" tvg-id=" group-title="FRANÇA",NT1
+https://s2.tntendirect.com/nt1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NRJ12.png" tvg-id=" group-title="FRANÇA",NRJ12
+https://s2.tntendirect.com/nrj12/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LCP.png" tvg-id=" group-title="FRANÇA",LA CHAINE PARLAMENTAIRE
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/828/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE4.png" tvg-id=" group-title="FRANÇA",FRANCE 4
+https://s2.tntendirect.com/france4/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BFMTV.png" tvg-id=" group-title="FRANÇA",BFM TV
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/806/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GULLI.png" tvg-id=" group-title="FRANÇA",GULLI
+https://s2.tntendirect.com/gulli/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GULLI.png" tvg-id=" group-title="FRANÇA",GULLI HD
 http://109.164.249.60:25000/play/a00n
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCEO.png" tvg-id=" group-title="FRANÇA",FRANCE Ô
+https://s2.tntendirect.com/franceo/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HD1.png" tvg-id=" group-title="FRANÇA",HD1
+https://s2.tntendirect.com/hd1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/6TER.png" tvg-id=" group-title="FRANÇA",6TER
+https://s2.tntendirect.com/6ter/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL9.png" tvg-id=" group-title="FRANÇA",RTL9
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/486/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="FRANÇA",EUROSPORT 1 HD FR
@@ -1069,6 +1103,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png" tvg-id=" group-title="FRANÇA",FOX NEWS
 http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/258/C649BC70C796FB7E5D59A58A533F983F/d8_logo.png" tvg-id=" group-title="FRANÇA",D8
+https://s2.tntendirect.com/d8/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-E3-InnOxiBQ/VRolXQDpTNI/AAAAAAAAAVQ/kan59AVfeDY/s1600/Weo-Tv-Direct.png" tvg-id=" group-title="FRANÇA",WEO
 https://stream-13.dc3.dailymotion.com/31/dm/3/x62islg/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/ITALIA.png",ITALIA
