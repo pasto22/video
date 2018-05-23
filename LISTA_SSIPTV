@@ -10,9 +10,7 @@ http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liver
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC (Copyright © 2018 by TeamBlue)
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI (Copyright © 2018 by TeamBlue)
-https://video-auth1.iol.pt/live_tvi/live_tvi/live_tvi/live_tvi-3/chunks.m3u8?nimblesessionid=33749881&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDE4IDg6NDk6MTYgQU0maGFzaF92YWx1ZT1pNjZ4K280MzdxNzZSeU5wcVE2MUJBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjUwN2FhYTAtNTc4Mi00OWQyLTgzOTgtMGQ5ZDA4NzNiZjAx
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI HD (Copyright © 2018 by TeamBlue)
-http://195.181.160.131:8080/live/marcelo/m2ezHeAh0j/4.m3u8
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDE4IDExOjE6NDEgQU0maGFzaF92YWx1ZT15UWg1ajlUSVpDUklFWW01RTlIMmxBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ0YmZlMTItN2U5My00NjM4LWFlNDAtNzRiODdmM2QzZDZh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL",SIC NOTICIAS (Copyright © 2018 by TeamBlue)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL",RTP 3 (Copyright © 2018 by TeamBlue)
@@ -52,7 +50,7 @@ http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2303.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" group-title="PORTUGAL",MOTORSPORT.TV (Copyright © 2018 by TeamBlue)
 http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2307.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTV.png" group-title="PORTUGAL",FUEL TV (Copyright © 2018 by TeamBlue)
-http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2328.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" group-title="PORTUGAL",A BOLA TV (Copyright © 2018 by TeamBlue)
 http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2327.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" group-title="PORTUGAL",DISNEY CHANNEL (Copyright © 2018 by TeamBlue)
@@ -136,7 +134,7 @@ http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png" group-title="PORTUGAL",TVE 24H (Copyright © 2018 by TeamBlue)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="PORTUGAL",DW (ENGLISH) (Copyright © 2018 by TeamBlue)
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="PORTUGAL",FRANCE 24 EN (Copyright © 2018 by TeamBlue)
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="PORTUGAL",FRANCE 24 FR (Copyright © 2018 by TeamBlue)
@@ -159,14 +157,8 @@ http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" group-title="PORTUGAL",TCV (Copyright © 2018 by TeamBlue)
 http://213.13.26.11:1935/live/rtc_teste/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VOX.png" group-title="PORTUGAL",VOX (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1879004925
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" group-title="PORTUGAL",RTL (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1937860650
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="PORTUGAL",TV GALICIA (Copyright © 2018 by TeamBlue)
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" group-title="PORTUGAL",M6 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/m6/live/playlist.m3u8
+http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" group-title="PORTUGAL",TV5 MONDE (Copyright © 2018 by TeamBlue)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSTV.png" group-title="PORTUGAL",KURIAKOS TV (Copyright © 2018 by TeamBlue)
@@ -177,16 +169,18 @@ http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
 http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSCINE.png" group-title="PORTUGAL",KURIAKOS CINE (Copyright © 2018 by TeamBlue)
 http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png" group-title="PORTUGAL",TOROS TV HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/28.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAVISION.png" group-title="PORTUGAL",CACAVISION (Copyright © 2018 by TeamBlue)
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FIGHTNET.png" group-title="PORTUGAL",FIGHT NETWORK (Copyright © 2018 by TeamBlue)
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png" group-title="PORTUGAL",BARCA TV (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/26.ts
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" group-title="PORTUGAL",REAL MADRID TV HD (Copyright © 2018 by TeamBlue)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png" group-title="PORTUGAL",DISCOVERY SHOWCASE (Copyright © 2018 by TeamBlue)
 http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2309.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" group-title="PORTUGAL",ARTE (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/arte/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV.png" group-title="PORTUGAL",REDE TV! (Copyright © 2018 by TeamBlue)
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="PORTUGAL",SBT (Copyright © 2018 by TeamBlue)
@@ -200,7 +194,7 @@ http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBR.png" group-title="BRASIL",NBR (Copyright © 2018 by TeamBlue)
 http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDEBRASIL.png" group-title="BRASIL",REDE BRASIL (Copyright © 2018 by TeamBlue)
-http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVAPARECIDA.png" group-title="BRASIL",APARECIDA (Copyright © 2018 by TeamBlue)
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" group-title="BRASIL",CANCAO NOVA (Copyright © 2018 by TeamBlue)
@@ -212,7 +206,7 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1129490283.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png" group-title="BRASIL",GLOBO (Copyright © 2018 by TeamBlue)
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.m3u8?token=SUZYUxZQRwJGCw0EAVdWWQQFAwIEVwlVAwMOUVNSBAFRXAlQBwhQCAURFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUgBcHkZAWwEaXxpQAwxWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcMAwlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAQEACxMf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVCULTURA.png" group-title="BRASIL",TV CULTURA (Copyright © 2018 by TeamBlue)
-http://177.73.84.49/hls/live/live.m3u8
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV.png" group-title="BRASIL",SPORTV (Copyright © 2018 by TeamBlue)
 http://apk.goo.ac:8081/live/20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNBR.png" group-title="BRASIL",ESPN BRASIL (Copyright © 2018 by TeamBlue)
@@ -223,6 +217,8 @@ http://apk.goo.ac:8081/live/15/playlist.m3u8
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1817.m3u8?token=SUZYUxZQRwJGBFxVDVVQCQVQUwUFUQQFB1MPAwFTBgAFBwcBUAkGCwERFERGFhddV1loCFdHC1cMBA4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGVgVSHkZAWwEaXxpVAQlTDUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIBQRVF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQLAgNbFxk=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS.png" group-title="BRASIL",FOX SPORTS BR (Copyright © 2018 by TeamBlue)
 http://apk.goo.ac:8081/live/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS.png" group-title="BRASIL",FOX SPORTS BR HD (Copyright © 2018 by TeamBlue)
+http://185.152.66.81:25461/live/finais2_jbnehu/xvolgz/1816.ts?token=SUZYUxZQRwJGAgxWBVpSXgECVQcGVlADAVcBAAkHBVEEXFRQVVxRDlARFERGFhddV1loCFdHC1cMBA8fExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYFWgdTHkZAWwEaXxpWBQ1TDEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBgFXF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYABgdASA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS2.png" group-title="BRASIL",FOX SPORTS 2 BR (Copyright © 2018 by TeamBlue)
 http://apk.goo.ac:8081/live/13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS2.png" group-title="BRASIL",FOX SPORTS 2 BR HD (Copyright © 2018 by TeamBlue)
@@ -245,8 +241,6 @@ http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1831.m3u8?token=SUZYUxZQRw
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1852.m3u8?token=SUZYUxZQRwJGUA9eB1FWWQ5SU1RXAQVRAAYNUFJSBV0EXQdTUgwHW1YRFERGFhddV1loCFdHC1cMAAsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEUARRHkZAWwEaXxpWCgBXBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcBCwBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUNCwRASA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" group-title="BRASIL",FOX (Copyright © 2018 by TeamBlue)
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1820.m3u8?token=SUZYUxZQRwJGBl4DDQZWWQANU1cDAwVeUANfVgVSAgFRV1UEVQoGXFURFERGFhddV1loCFdHC1cMBwkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGUwZRHkZAWwEaXxpVBwFXDUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAwNUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcAAQZRFxk=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WARNERCHANNEL.png" group-title="BRASIL",WARNER CHANNEL (Copyright © 2018 by TeamBlue)
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1704.m3u8?token=SUZYUxZQRwJGAQpWAFdRDQRWAAUEVAEFV1ZcVQYGU1xQVwEKUwBXAVQRFERGFhddV1loCFdHC1cDBQ0fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEAUgxTHkZAWwEaXxpWAg5TAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAgBTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQJAQFVFxk=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WARNERCHANNEL.png" group-title="BRASIL",WARNER CHANNEL HD (Copyright © 2018 by TeamBlue)
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2146.m3u8?token=SUZYUxZQRwJGVVpUB1RXCQIEAQBSBwlSAg1cCgFSDF0LXVNWXQBdXFwRFERGFhddV1loCFdHC1QFAQ8fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEAUw1RHkZAWwEaXxpWCgtUA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLCgFaF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcAAwZRFxk=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FX.png" group-title="BRASIL",FX (Copyright © 2018 by TeamBlue)
@@ -269,7 +263,7 @@ http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1727.m3u8?token=SUZYUxZQRw
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1730.m3u8?token=SUZYUxZQRwJGUAlWDVZVDFRRBVQFUAdfVlAPBQNRDVwAB1EAUABQDl0RFERGFhddV1loCFdHC1cDBgkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVwJWHkZAWwEaXxpWAg9SAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLAAhUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcIBQdQFxk=
 #EXTINF:-1 tvg-logo="https://edhyghellen.files.wordpress.com/2010/10/tctouch.gif" group-title="BRASIL",TELECINE TOUCH HD (Copyright © 2018 by TeamBlue)
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2148.m3u8?token=SUZYUxZQRwJGUFlXDVdXXgICAFYHU1BWBAYNVghQA1RQBwBRUg1VClwRFERGFhddV1loCFdHC1QFAQEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEAUgFVHkZAWwEaXxpTBAtUF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcKAQJAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAwMOBxMf
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="BRASIL",TELECINE FUN HD (Copyright © 2018 by TeamBlue)
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="BRASIL",TELECINE FUN (Copyright © 2018 by TeamBlue)
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1729.m3u8?token=SUZYUxZQRwJGUlwAUVdSC1dRUVVWUgADBVBdCwBRBlRWUAgBBwpUWQcRFERGFhddV1loCFdHC1cDBwAfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVQRWHkZAWwEaXxpWAghSBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcICwlSF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcJCwhTFxk=
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="BRASIL",TELECINE PIPOCA (Copyright © 2018 by TeamBlue)
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1722.m3u8?token=SUZYUxZQRwJGVllTU1VWDwMEAVEFAQIFBQAMVlNXAVcFVlQCAAwEDQIRFERGFhddV1loCFdHC1cDBwsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVQNXHkZAWwEaXxpWBwteBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcABAlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBg0MBAFASA==
@@ -287,114 +281,48 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 http://fui.me
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DASERST.png" group-title="ALEMANHA",Das Erste (Copyright © 2018 by TeamBlue)
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDF.png" group-title="ALEMANHA",ZDF (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/275810217
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDFHD.png" group-title="ALEMANHA",ZDF HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/420562954
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" group-title="ALEMANHA",RTL (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1937860650
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SAT1.png" group-title="ALEMANHA",Sat.1 (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/988009202
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SAT1.png" group-title="ALEMANHA",Sat.1 HD (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a00e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBEN.png" group-title="ALEMANHA",ProSieben (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1008451646
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBENHD.png" group-title="ALEMANHA",ProSieben HD (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a00f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KABELEINS.png" group-title="ALEMANHA",kabel eins (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/80668789
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KABELEINS.png" group-title="ALEMANHA",kabel eins HD (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a00g
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL2.png" group-title="ALEMANHA",RTL II (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/97360317
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VOX.png" group-title="ALEMANHA",VOX (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1879004925
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/3SAT.png" group-title="ALEMANHA",3SAT (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/690075753
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/3SAT.png" group-title="ALEMANHA",3SAT HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1473583957
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" group-title="ALEMANHA",arte (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/920680205
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" group-title="ALEMANHA",arte HD (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a00l
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDFNEO.png" group-title="ALEMANHA",zdf_neo (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1672951393
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDFNEOHD.png" group-title="ALEMANHA",zdf_neo HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/356284521
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ONE.png" group-title="ALEMANHA",ONE (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/2119331540
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ONE.png" group-title="ALEMANHA",ONE HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/961451009
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIXX.png" group-title="ALEMANHA",sixx (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a01c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" group-title="ALEMANHA",DMAX (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a016
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png" group-title="ALEMANHA",TELE 5 (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a015
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBENMAXX.png" group-title="ALEMANHA",ProSieben MAXX (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/734553432
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTLNITRO.png" group-title="ALEMANHA",NITRO (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1053255190
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SAT1GOLD.png" group-title="ALEMANHA",Sat.1 Gold (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1790001772
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png" group-title="ALEMANHA",Comedy Central (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a01h
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png" group-title="ALEMANHA",NDR (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/81155693
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png" group-title="ALEMANHA",NDR HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1072597927
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WDR.png" group-title="ALEMANHA",WDR (Copyright © 2018 by TeamBlue)
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+http://85.144.43.35:3002/play/a00p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WDR.png" group-title="ALEMANHA",WDR HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1434770327
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BR.png" group-title="ALEMANHA",BR HD (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a00o
-#EXTINF:-1 tvg-logo="https://www.swr.de/-/id=8122392/property=full/25s6pw/SWR%20Unternehmensmarke,%20Logo.jpg" group-title="ALEMANHA",SWR (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/865973510
 #EXTINF:-1 tvg-logo="https://www.swr.de/-/id=8122392/property=full/25s6pw/SWR%20Unternehmensmarke,%20Logo.jpg" group-title="ALEMANHA",SWR HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1448452895
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HRFERNSEHEN.png" group-title="ALEMANHA",hr (Copyright © 2018 by TeamBlue)
-http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HRFERNSEHEN.png" group-title="ALEMANHA",hr HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/639947293
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MDRFERNSEHEN.png" group-title="ALEMANHA",MDR (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1001548285
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RBB.png" group-title="ALEMANHA",rbb (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/2006770447
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RBBHD.png" group-title="ALEMANHA",rbb HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/947251293
+http://85.144.43.35:3002/play/a00m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/123.png" group-title="ALEMANHA",1-2-3 TV (Copyright © 2018 by TeamBlue)
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ORF-2-Logo.svg/2000px-ORF-2-Logo.svg.png" group-title="ALEMANHA",ORF 2 (Copyright © 2018 by TeamBlue)
 http://orf2.orf.cdn.ors.at/orf2/q4a.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARDALPHA.png" group-title="ALEMANHA",ARD-alpha (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/469206894
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TAGESSCHAU24.png" group-title="ALEMANHA",tagesschau24 (Copyright © 2018 by TeamBlue)
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TAGESSCHAU24HD.png" group-title="ALEMANHA",tagesschau24 HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/88108884
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PHOENIX.png" group-title="ALEMANHA",Phoenix (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/523951255
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PHOENIXHD.png" group-title="ALEMANHA",Phoenix HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/942825977
+http://85.144.43.35:3002/play/a00q
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/N24DOKU.png" group-title="ALEMANHA",N24 Doku (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a01e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NTV.png" group-title="ALEMANHA",n-tv (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/61269894
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NTV.png" group-title="ALEMANHA",n-tv HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a01g
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KABELEINSDOKU.png" group-title="ALEMANHA",kabel eins Doku (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/1975973134
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="ALEMANHA",DW (Copyright © 2018 by TeamBlue)
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="ALEMANHA",France 24 EN (Copyright © 2018 by TeamBlue)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="ALEMANHA",France 24 FR (Copyright © 2018 by TeamBlue)
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1.png" group-title="ALEMANHA",Sport1 (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a018
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" group-title="ALEMANHA",Super RTL (Copyright © 2018 by TeamBlue)
-http://213.215.84.17:8000/play/superrtl/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KIKA.png" group-title="ALEMANHA",KiKa (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/231341820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KIKA.png" group-title="ALEMANHA",KiKa HD (Copyright © 2018 by TeamBlue)
-http://84.164.34.135:9981/stream/channelid/815502831
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" group-title="ALEMANHA",Disney Channel (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a01a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOOMERANG.png" group-title="ALEMANHA",Boomerang (Copyright © 2018 by TeamBlue)
@@ -404,7 +332,7 @@ http://85.144.43.35:3002/play/a00z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" group-title="ALEMANHA",Nickelodeon (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a01j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIXE.png" group-title="ALEMANHA",Anixe (Copyright © 2018 by TeamBlue)
-http://85.144.43.35:3002/play/a01d
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" group-title="ALEMANHA",MTV (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a01i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="ALEMANHA",VH1 Europe (Copyright © 2018 by TeamBlue)
@@ -433,16 +361,42 @@ http://85.144.43.35:3002/play/a011
 http://fui.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" group-title="ESPANHA",LA 1 (Copyright © 2018 by TeamBlue)
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" group-title="ALEMANHA",LA 1 HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/41.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png" group-title="ALEMANHA",ANTENA 3 (Copyright © 2018 by TeamBlue)
 https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="ESPANHA",CUATRO (Copyright © 2018 by TeamBlue)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="ESPANHA",CUATRO HD (Copyright © 2018 by TeamBlue)
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELECINCO.png" group-title="ESPANHA",TELECINCO HD (Copyright © 2018 by TeamBlue)
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LASEXTA.png" group-title="ESPANHA",LA SEXTA (Copyright © 2018 by TeamBlue)
 https://atresplayerp-i.akamaized.net/lasextampp/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png" group-title="ESPANHA",#0 (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/49.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Telemadrid.gif" group-title="ESPANHA",TELEMADRID (Copyright © 2018 by TeamBlue)
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LaOtra.svg/1200px-LaOtra.svg.png" group-title="ESPANHA",LA OTRA (Copyright © 2018 by TeamBlue)
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIES.png" group-title="ESPANHA",MOVISTAR SERIES HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/19.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIESXTRA.png" group-title="ESPANHA",MOVISTAR SERIES XTRA (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/18.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" group-title="ESPANHA",FOX HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/17.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" group-title="ESPANHA",AXN HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/15.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNT.png" group-title="ESPANHA",TNT (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/12.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CALLE13.png" group-title="ESPANHA",CALLE 13 HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/42.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COSMO.png" group-title="ESPANHA",COSMO HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/13.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" group-title="ESPANHA",FOX LIFE HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/16.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png" group-title="ESPANHA",AXN WHITE (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/14.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="ESPANHA",SYFY HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/43.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="ESPANHA",FDF (Copyright © 2018 by TeamBlue)
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png" group-title="ESPANHA",NEOX HD (Copyright © 2018 by TeamBlue)
@@ -451,12 +405,58 @@ https://atresplayerp-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8
 https://atresplayerp-i.akamaized.net/a3seriesmpp/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ENERGY.png" group-title="ESPANHA",ENERGY (Copyright © 2018 by TeamBlue)
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESTRENOS.png" group-title="ESPANHA",MOVISTAR ESTRENOS HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/48.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARXTRA.png" group-title="ESPANHA",MOVISTAR XTRA HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/45.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png" group-title="ESPANHA",MOVISTAR ACCION HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/47.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" group-title="ESPANHA",MOVISTAR COMEDIA HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/46.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDCINE.png" group-title="ESPANHA",MOVISTAR DCINE HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/51.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png" group-title="ESPANHA",HOLLYWOOD HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/44.ts
 #EXTINF:-1 tvg-logo="http://cinestrenostv.tv/img/13tv.png" group-title="ESPANHA",TRECE (Copyright © 2018 by TeamBlue)
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/chunklist_w1988837454_b998000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png" group-title="ESPANHA",MOVISTAR FUTBOL HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/32.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png" group-title="ESPANHA",BEIN SPORTS LALIGA (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/36.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSESPANHA.png" group-title="ESPANHA",BEIN SPORTS HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/31.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png" group-title="ESPANHA",MOVISTAR DEPORTES 1 HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/34.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP2.png" group-title="ESPANHA",MOVISTAR DEPORTES 2 HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/33.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png" group-title="ESPANHA",MOVISTAR FORMULA 1 HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/29.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png" group-title="ESPANHA",MOVISTAR GOLF HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/27.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GOL.png" group-title="ESPANHA",GOL (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/35.ts
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png" group-title="ESPANHA",LALIGA TV (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/37.ts
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" group-title="ESPANHA",REAL MADRID TV HD (Copyright © 2018 by TeamBlue)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png" group-title="ESPANHA",BARCA TV (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/26.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="ESPANHA",EUROSPORT 1 HD ES (Copyright © 2018 by TeamBlue)
-http://65.254.55.10:4000/live/197/197.m3u8
+https://tinyurl.com/yb4resuh/25.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CAZAYPESCA.png" group-title="ESPANHA",CAZA Y PESCA (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/20.ts
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a" group-title="ESPANHA",IBERALIA (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/21.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png" group-title="ESPANHA",TOROS TV HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/28.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOHD.png" group-title="ESPANHA",NATIONAL GEOGRAPHIC HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/24.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILDHD.png" group-title="ESPANHA",NATGEO WILD HD (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/23.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png" group-title="ESPANHA",HISTORIA (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/52.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" group-title="ESPANHA",DMAX (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/22.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVINITY.png" group-title="ESPANHA",DIVINITY (Copyright © 2018 by TeamBlue)
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NOVA.png" group-title="ESPANHA",NOVA HD (Copyright © 2018 by TeamBlue)
@@ -465,12 +465,18 @@ https://atresplayerp-i.akamaized.net/geonovampp/bitrate_3.m3u8
 https://atresplayerp-i.akamaized.net/geomegampp/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png" group-title="ESPANHA",EL GARAGE TV (Copyright © 2018 by TeamBlue)
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" group-title="ESPANHA",DISNEY JUNIOR (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/9.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" group-title="ESPANHA",NICKELODEON (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/7.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" group-title="ESPANHA",MTV (Copyright © 2018 by TeamBlue)
+https://tinyurl.com/yb4resuh/11.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="ESPANHA",VH1 EUROPE (Copyright © 2018 by TeamBlue)
 http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2329.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png" group-title="ESPANHA",TVE 24H (Copyright © 2018 by TeamBlue)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="ESPANHA",TV GALICIA (Copyright © 2018 by TeamBlue)
-http://europa-crtvg.flumotion.com/playlist.m3u8
+http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png" group-title="ESPANHA",FOX NEWS (Copyright © 2018 by TeamBlue)
 http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="ESPANHA",FRANCE 24 EN (Copyright © 2018 by TeamBlue)
@@ -479,100 +485,34 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" group-title="ESPANHA",TV5 MONDE (Copyright © 2018 by TeamBlue)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="ESPANHA",DW LATINO (Copyright © 2018 by TeamBlue)
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="ESPANHA",TELESUR (Copyright © 2018 by TeamBlue)
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALSURANDALUCIA.png" group-title="ESPANHA",CANAL SUR ANDALUCIA (Copyright © 2018 by TeamBlue)
 http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/FRANCA.png",FRANCA
 http://fui.me
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" group-title="FRANCA",TF1 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/tf1/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" group-title="FRANCA",TF1 HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" group-title="FRANCA",FRANCE 2 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" group-title="FRANCA",FRANCE 2 HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00k
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE3.png" group-title="FRANCA",FRANCE 3 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/france3/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+.png" group-title="FRANCA",CANAL+ HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a008
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE5.png" group-title="FRANCA",FRANCE 5 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" group-title="FRANCA",M6 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/m6/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" group-title="FRANCA",M6 HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00l
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" group-title="FRANCA",ARTE (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/arte/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/W9.png" group-title="FRANCA",W9 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/w9/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TMC.png" group-title="FRANCA",TMC (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/tmc/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nt1_fr.png" group-title="FRANCA",NT1 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/nt1/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NRJ12.png" group-title="FRANCA",NRJ12 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/nrj12/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE4.png" group-title="FRANCA",FRANCE 4 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/france4/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GULLI.png" group-title="FRANCA",GULLI (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/gulli/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GULLI.png" group-title="FRANCA",GULLI HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00n
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCEO.png" group-title="FRANCA",FRANCE Ô (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/franceo/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HD1.png" group-title="FRANCA",HD1 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/hd1/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/6TER.png" group-title="FRANCA",6TER (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/6ter/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="FRANCA",EUROSPORT 1 HD FR (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a002
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" group-title="FRANCA",EUROSPORT 2 HD FR (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a003
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+SERIES.png" group-title="FRANCA",CANAL+ SERIES HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ACTION.png" group-title="FRANCA",ACTION HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00y
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aMWD5vz.png" group-title="FRANCA",TCM CINEMA HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00v
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOHD.png" group-title="FRANCA",NAT GEO CH HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a009
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOHD.png" group-title="FRANCA",NAT GEO WILD HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00q
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png" group-title="FRANCA",E! ENTERTAINMENT (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a005
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" group-title="FRANCA",TV5 MONDE (Copyright © 2018 by TeamBlue)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/13EMERUE.png" group-title="FRANCA",13E RUE HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCM.png" group-title="FRANCA",MCM (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00z
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png" group-title="FRANCA",GONG (Copyright © 2018 by TeamBlue)
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINE+CLUB.png" group-title="FRANCA",CINE+ CLUB (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00s
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOOMERANG.png" group-title="FRANCA",BOOMERANG (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00x
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png" group-title="FRANCA",BOING (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00w
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" group-title="FRANCA",DISCOVERY CHANNEL HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00p
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/USHUAIA.png" group-title="FRANCA",USHUAIA TV HD (Copyright © 2018 by TeamBlue)
-http://109.164.249.60:25000/play/a00r
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333" group-title="FRANCA",NRJ HITS (Copyright © 2018 by TeamBlue)
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333" group-title="FRANCA",NRJ HITS HD (Copyright © 2018 by TeamBlue)
 http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="FRANCA",VH1 EUROPE (Copyright © 2018 by TeamBlue)
 http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2329.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="FRANCA",FRANCE 24 FR (Copyright © 2018 by TeamBlue)
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="FRANCA",FRANCE 24 EN (Copyright © 2018 by TeamBlue)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BFMBUSINESS.png" group-title="FRANCA",BFM BUSINESS (Copyright © 2018 by TeamBlue)
 http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" group-title="FRANCA",SKY NEWS (Copyright © 2018 by TeamBlue)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png" group-title="FRANCA",FOX NEWS (Copyright © 2018 by TeamBlue)
 http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/258/C649BC70C796FB7E5D59A58A533F983F/d8_logo.png" group-title="FRANCA",D8 (Copyright © 2018 by TeamBlue)
-https://s2.tntendirect.com/d8/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-E3-InnOxiBQ/VRolXQDpTNI/AAAAAAAAAVQ/kan59AVfeDY/s1600/Weo-Tv-Direct.png" group-title="FRANCA",WEO (Copyright © 2018 by TeamBlue)
 https://stream-13.dc3.dailymotion.com/31/dm/3/x62islg/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/ITALIA.png",ITALIA
@@ -619,6 +559,10 @@ https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/in
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png" group-title="ITALIA",RAI NEWS 24 (Copyright © 2018 by TeamBlue)
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="ITALIA",FRANCE 24 EN (Copyright © 2018 by TeamBlue)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="ITALIA",FRANCE 24 FR (Copyright © 2018 by TeamBlue)
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="ITALIA",VH1 EUROPE (Copyright © 2018 by TeamBlue)
 http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2329.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png" group-title="ITALIA",RAI MOVIE (Copyright © 2018 by TeamBlue)
@@ -699,6 +643,10 @@ https://ovh.easyview.eu/hls/bbc_parliament.m3u8
 http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png" group-title="INGLATERRA",RTE TWO (Copyright © 2018 by TeamBlue)
 http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="INGLATERRA",FRANCE 24 EN (Copyright © 2018 by TeamBlue)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" group-title="INGLATERRA",FRANCE 24 FR (Copyright © 2018 by TeamBlue)
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBBC.png" group-title="INGLATERRA",CBBC (Copyright © 2018 by TeamBlue)
 https://ovh.easyview.eu/hls/cbbc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBEEBIES.png" group-title="INGLATERRA",Cbeebies (Copyright © 2018 by TeamBlue)
