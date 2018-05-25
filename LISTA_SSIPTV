@@ -10,7 +10,7 @@ http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liver
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC (Copyright © 2018 by TeamBlue)
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI (Copyright © 2018 by TeamBlue)
-https://video-auth2.iol.pt/live_tvi/live_tvi/live_tvi/live_tvi-3/chunks.m3u8?nimblesessionid=6054098&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDE4IDc6Mzo0MyBBTSZoYXNoX3ZhbHVlPXo0SjA0M3d5K1Jwck0zSjMwY1NPcnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zYTNiNWYzYS05NTkxLTRhNWMtYTRiOS04YzliNzkyOGJlMmI=
+https://video-auth2.iol.pt/live_tvi/live_tvi/live_tvi/live_tvi-3/chunks.m3u8?nimblesessionid=6203553&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDE4IDExOjEzOjU0IFBNJmhhc2hfdmFsdWU9ekEyTFR0WS96bk5RMmNtUysxL1ZaUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWIzMGMxYTA2LTljMDEtNDU1NC1hNTRhLTNjM2ZlMmQ1ODdiMA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL",SIC NOTICIAS (Copyright © 2018 by TeamBlue)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL",RTP 3 (Copyright © 2018 by TeamBlue)
@@ -25,6 +25,8 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" group-title="PORTUGAL",SPORT TV 1 HD (Copyright © 2018 by TeamBlue)
 http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g1/SportTV1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL",SPORT TV 2 HD (Copyright © 2018 by TeamBlue)
+http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g7/Sport2PT.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL",SPORT TV 3 HD (Copyright © 2018 by TeamBlue)
 http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5HD.png" group-title="PORTUGAL",SPORT TV 5 HD (Copyright © 2018 by TeamBlue)
@@ -343,7 +345,7 @@ http://85.144.43.35:3002/play/a00v
 http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/741/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNTSERIE.png" group-title="ALEMANHA",TNT Serie (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/752/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISION.png" group-title="ALEMANHA",Motorvision (Copyright © 2018 by TeamBlue)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISION.png" group-title="ALEMANHA",Motorvision DE (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a00w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/UNIVERSALCHANNELHD.png" group-title="ALEMANHA",Universal Channel HD (Copyright © 2018 by TeamBlue)
 http://85.144.43.35:3002/play/a011
@@ -727,6 +729,8 @@ https://ovh.easyview.eu/hls/betblackenttv.m3u8
 https://ovh.easyview.eu/hls/yesterday.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/1200px-Yesterday_logo_2012.svg.png" group-title="INGLATERRA",YESTERDAY +1 (Copyright © 2018 by TeamBlue)
 https://ovh.easyview.eu/hls/yesterdayplus1.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/mp44981502554837.png" group-title="INGLATERRA",SKY SPORTS MAIN EVENT (Copyright © 2018 by TeamBlue)
+http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g8/SkyMainEvent.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/lnd1p01502554851.png" group-title="INGLATERRA",SKY SPORTS FOOTBALL HD (Copyright © 2018 by TeamBlue)
 http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g10/SkyFootball.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/kf0oba1502554875.png" group-title="INGLATERRA",SKY SPORTS ACTION (Copyright © 2018 by TeamBlue)
